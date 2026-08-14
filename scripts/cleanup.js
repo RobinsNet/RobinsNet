@@ -24,11 +24,44 @@ function dedupeIssues(list) {
     return true;
   });
 }
+// 3) 阶段内按封面日期稳定排序（同月保持原相对顺序，无日期排最后）；
+//    阶段按各自最早日期排序。保证事件内阅读顺序 = 发行时间从早到晚。
+function minDate(list) {
+  let m = null;
+  for (const i of list) if (i.d && (!m || i.d < m)) m = i.d;
+  return m;
+}
+function sortByDate(list) {
+  return list.map((i, idx) => ({ i, idx }))
+    .sort((a, b) => {
+      const da = a.i.d || '\uffff', db = b.i.d || '\uffff';
+      if (da !== db) return da < db ? -1 : 1;
+      return a.idx - b.idx; // 稳定：同月保持原顺序
+    })
+    .map(x => x.i);
+}
+function sortItemChronologically(it) {
+  if (it.phases) {
+    it.phases.sort((a, b) => {
+      const ma = minDate(a.issues) || '\uffff', mb = minDate(b.issues) || '\uffff';
+      return ma < mb ? -1 : (ma > mb ? 1 : 0);
+    });
+    it.phases.forEach(p => { p.issues = sortByDate(p.issues); });
+  } else if (it.issues) {
+    it.issues = sortByDate(it.issues);
+  }
+}
 for (const e of events) {
   if (e.phases) e.phases.forEach(p => { p.issues = dedupeIssues(p.issues); });
   else e.issues = dedupeIssues(e.issues || []);
+  sortItemChronologically(e);
 }
-arcsData.arcs.forEach(a => { if (a.issues) a.issues = dedupeIssues(a.issues); else if (a.phases) a.phases.forEach(p => { p.issues = dedupeIssues(p.issues); }); });
+arcsData.arcs.forEach(a => {
+  if (a.issues) a.issues = dedupeIssues(a.issues);
+  else if (a.phases) a.phases.forEach(p => { p.issues = dedupeIssues(p.issues); });
+  sortItemChronologically(a);
+});
+arcsData.standalone = sortByDate(arcsData.standalone);
 
 fs.writeFileSync(eventsPath, JSON.stringify(events, null, 1) + '\n');
 fs.writeFileSync(arcsPath, JSON.stringify(arcsData, null, 1) + '\n');

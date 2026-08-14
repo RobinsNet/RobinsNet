@@ -31,6 +31,16 @@ function eraFromDate(d) {
   return 'Absolute';
 }
 function numVal(n) { return /^\d+$/.test(n) ? parseInt(n, 10) : (/^\d+\.\d+$/.test(n) ? parseFloat(n) : 0); }
+/* 按封面日期稳定排序（同月保持原顺序，无日期排最后）——事件内阅读顺序 = 发行时间 */
+function sortByDateStable(list) {
+  return list.map((i, idx) => ({ i, idx }))
+    .sort((a, b) => {
+      const da = a.i.d || '\uffff', db = b.i.d || '\uffff';
+      if (da !== db) return da < db ? -1 : 1;
+      return a.idx - b.idx;
+    })
+    .map(x => x.i);
+}
 function seriesName(id) {
   const s = state.idx.series.get(id);
   if (!s) return id;
@@ -566,13 +576,13 @@ function viewEvent() {
   const serPool = [...seriesSetOf(it)].sort();
   const pct = progressOf(it);
 
-  const visible = allIss.filter(iss => {
+  const visible = sortByDateStable(allIss.filter(iss => {
     if (state.evPerson && !personasOf(state.evPerson).some(p => (iss.c || []).includes(p))) return false;
     if (state.evChar && !(iss.c || []).includes(state.evChar)) return false;
     if (state.evSeries && seriesName(iss.s) !== state.evSeries) return false;
     if (state.evUnreadOnly && state.read.has(issueKey(iss))) return false;
     return true;
-  });
+  }));
 
   const rel = (it.related || []).map(itemById).filter(Boolean);
 

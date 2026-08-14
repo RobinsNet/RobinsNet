@@ -102,7 +102,8 @@ const eventsPath = path.join(ROOT, 'data', 'events.json');
 const arcsPath = path.join(ROOT, 'data', 'arcs.json');
 const events = JSON.parse(fs.readFileSync(eventsPath, 'utf8'));
 const arcsData = JSON.parse(fs.readFileSync(arcsPath, 'utf8'));
-const { arcs, standalone } = arcsData;
+const { arcs } = arcsData;
+let standalone = arcsData.standalone;
 
 function eachIssue(items, fn) {
   for (const it of items) {
@@ -164,6 +165,22 @@ for (const rec of crawlerAll) {
 console.log(`新增散刊 ${added} 期：`);
 for (const [k, v] of Object.entries(bySeries)) console.log(`  ${k}: +${v}`);
 console.log(`散刊总数：${standalone.length}`);
+
+/* ---------- 3) 补全后重排：阶段内按封面日期稳定排序（enrich 可能刚填了日期） ---------- */
+function sortByDate(list) {
+  return list.map((i, idx) => ({ i, idx }))
+    .sort((a, b) => {
+      const da = a.i.d || '\uffff', db = b.i.d || '\uffff';
+      if (da !== db) return da < db ? -1 : 1;
+      return a.idx - b.idx;
+    })
+    .map(x => x.i);
+}
+for (const it of [...events, ...arcs]) {
+  if (it.phases) it.phases.forEach(p => { p.issues = sortByDate(p.issues); });
+  else if (it.issues) it.issues = sortByDate(it.issues);
+}
+standalone = sortByDate(standalone);
 
 fs.writeFileSync(eventsPath, JSON.stringify(events, null, 1) + '\n');
 fs.writeFileSync(arcsPath, JSON.stringify({ arcs, standalone }, null, 1) + '\n');

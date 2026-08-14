@@ -219,19 +219,6 @@
     "nameZh": "孤独的死亡之地",
     "issues": [
      {
-      "s": "new-titans",
-      "n": "60",
-      "t": "A Lonely Place of Dying: Part One",
-      "d": "1989-11",
-      "p": 1,
-      "c": [
-       "nightwing",
-       "robin-tim",
-       "titans"
-      ],
-      "x": "序幕：迪克·格雷森获知杰森死讯，蒂姆·德雷克登场"
-     },
-     {
       "s": "batman",
       "n": "440",
       "t": "A Lonely Place of Dying: Part Two",
@@ -248,15 +235,16 @@
      },
      {
       "s": "new-titans",
-      "n": "61",
-      "t": "A Lonely Place of Dying: Part Three",
-      "d": "1989-12",
-      "p": 3,
+      "n": "60",
+      "t": "A Lonely Place of Dying: Part One",
+      "d": "1989-11",
+      "p": 1,
       "c": [
        "nightwing",
        "robin-tim",
        "titans"
-      ]
+      ],
+      "x": "序幕：迪克·格雷森获知杰森死讯，蒂姆·德雷克登场"
      },
      {
       "s": "batman",
@@ -270,6 +258,18 @@
        "nightwing",
        "alfred",
        "gordon"
+      ]
+     },
+     {
+      "s": "new-titans",
+      "n": "61",
+      "t": "A Lonely Place of Dying: Part Three",
+      "d": "1989-12",
+      "p": 3,
+      "c": [
+       "nightwing",
+       "robin-tim",
+       "titans"
       ]
      },
      {
@@ -329,6 +329,18 @@
       ]
      },
      {
+      "s": "detective",
+      "n": "654",
+      "t": "God of Battle",
+      "d": "1992-04",
+      "p": null,
+      "c": [
+       "batman",
+       "alfred",
+       "gordon"
+      ]
+     },
+     {
       "s": "batman",
       "n": "485",
       "t": "Faces of Death",
@@ -343,6 +355,17 @@
       "s": "batman",
       "n": "486",
       "t": "Heavy Metalhead",
+      "d": "1992-06",
+      "p": null,
+      "c": [
+       "batman",
+       "alfred"
+      ]
+     },
+     {
+      "s": "detective",
+      "n": "655",
+      "t": "The Anvil of War",
       "d": "1992-06",
       "p": null,
       "c": [
@@ -374,55 +397,21 @@
       ]
      },
      {
-      "s": "batman",
-      "n": "489",
-      "t": "Killer's Bane",
-      "d": "1992-09",
-      "p": null,
-      "c": [
-       "batman",
-       "alfred"
-      ]
-     },
-     {
-      "s": "batman",
-      "n": "490",
-      "t": "Who Riddled the Riddler?",
-      "d": "1992-10",
-      "p": null,
-      "c": [
-       "batman",
-       "gordon"
-      ]
-     },
-     {
-      "s": "detective",
-      "n": "654",
-      "t": "God of Battle",
-      "d": "1992-04",
-      "p": null,
-      "c": [
-       "batman",
-       "alfred",
-       "gordon"
-      ]
-     },
-     {
-      "s": "detective",
-      "n": "655",
-      "t": "The Anvil of War",
-      "d": "1992-06",
-      "p": null,
-      "c": [
-       "batman",
-       "alfred"
-      ]
-     },
-     {
       "s": "detective",
       "n": "656",
       "t": "Besieged",
       "d": "1992-08",
+      "p": null,
+      "c": [
+       "batman",
+       "alfred"
+      ]
+     },
+     {
+      "s": "batman",
+      "n": "489",
+      "t": "Killer's Bane",
+      "d": "1992-09",
       "p": null,
       "c": [
        "batman",
@@ -439,6 +428,17 @@
        "batman",
        "alfred",
        "azrael"
+      ]
+     },
+     {
+      "s": "batman",
+      "n": "490",
+      "t": "Who Riddled the Riddler?",
+      "d": "1992-10",
+      "p": null,
+      "c": [
+       "batman",
+       "gordon"
       ]
      },
      {
@@ -482,6 +482,38 @@
       ]
      },
      {
+      "s": "shadow-of-bat",
+      "n": "16",
+      "t": "Knightfall, Part Twelve",
+      "d": "1993-01",
+      "p": 12,
+      "c": [
+       "batman",
+       "bane"
+      ]
+     },
+     {
+      "s": "robin-v2",
+      "n": "1",
+      "t": "Knightfall, Part Fifteen",
+      "d": "1993-01",
+      "p": 15,
+      "c": [
+       "robin-tim",
+       "batman"
+      ]
+     },
+     {
+      "s": "catwoman-v2",
+      "n": "6",
+      "t": "Knightfall, Part Seventeen",
+      "d": "1993-01",
+      "p": 17,
+      "c": [
+       "catwoman"
+      ]
+     },
+     {
       "s": "batman",
       "n": "492",
       "t": "Knightfall, Part One",
@@ -505,6 +537,39 @@
       ]
      },
      {
+      "s": "shadow-of-bat",
+      "n": "17",
+      "t": "Knightfall, Part Thirteen",
+      "d": "1993-02",
+      "p": 13,
+      "c": [
+       "batman",
+       "bane"
+      ]
+     },
+     {
+      "s": "robin-v2",
+      "n": "2",
+      "t": "Knightfall, Part Sixteen",
+      "d": "1993-02",
+      "p": 16,
+      "c": [
+       "robin-tim",
+       "batman",
+       "alfred"
+      ]
+     },
+     {
+      "s": "catwoman-v2",
+      "n": "7",
+      "t": "Knightfall, Part Eighteen",
+      "d": "1993-02",
+      "p": 18,
+      "c": [
+       "catwoman"
+      ]
+     },
+     {
       "s": "batman",
       "n": "493",
       "t": "Knightfall, Part Three",
@@ -521,6 +586,17 @@
       "t": "Knightfall, Part Four",
       "d": "1993-03",
       "p": 4,
+      "c": [
+       "batman",
+       "bane"
+      ]
+     },
+     {
+      "s": "shadow-of-bat",
+      "n": "18",
+      "t": "Knightfall, Part Fourteen",
+      "d": "1993-03",
+      "p": 14,
       "c": [
        "batman",
        "bane"
@@ -612,82 +688,6 @@
        "bane",
        "alfred"
       ]
-     },
-     {
-      "s": "shadow-of-bat",
-      "n": "16",
-      "t": "Knightfall, Part Twelve",
-      "d": "1993-01",
-      "p": 12,
-      "c": [
-       "batman",
-       "bane"
-      ]
-     },
-     {
-      "s": "shadow-of-bat",
-      "n": "17",
-      "t": "Knightfall, Part Thirteen",
-      "d": "1993-02",
-      "p": 13,
-      "c": [
-       "batman",
-       "bane"
-      ]
-     },
-     {
-      "s": "shadow-of-bat",
-      "n": "18",
-      "t": "Knightfall, Part Fourteen",
-      "d": "1993-03",
-      "p": 14,
-      "c": [
-       "batman",
-       "bane"
-      ]
-     },
-     {
-      "s": "robin-v2",
-      "n": "1",
-      "t": "Knightfall, Part Fifteen",
-      "d": "1993-01",
-      "p": 15,
-      "c": [
-       "robin-tim",
-       "batman"
-      ]
-     },
-     {
-      "s": "robin-v2",
-      "n": "2",
-      "t": "Knightfall, Part Sixteen",
-      "d": "1993-02",
-      "p": 16,
-      "c": [
-       "robin-tim",
-       "batman",
-       "alfred"
-      ]
-     },
-     {
-      "s": "catwoman-v2",
-      "n": "6",
-      "t": "Knightfall, Part Seventeen",
-      "d": "1993-01",
-      "p": 17,
-      "c": [
-       "catwoman"
-      ]
-     },
-     {
-      "s": "catwoman-v2",
-      "n": "7",
-      "t": "Knightfall, Part Eighteen",
-      "d": "1993-02",
-      "p": 18,
-      "c": [
-       "catwoman"
-      ]
      }
     ]
    },
@@ -696,43 +696,59 @@
     "nameZh": "骑士探索·圣战",
     "issues": [
      {
-      "s": "batman",
-      "n": "498",
-      "t": "Knights in Darkness",
-      "d": "1993-08",
+      "s": "robin-v2",
+      "n": "3",
+      "t": "Clueless",
+      "d": "1993-03",
+      "p": null,
+      "c": [
+       "robin-tim",
+       "spoiler"
+      ]
+     },
+     {
+      "s": "shadow-of-bat",
+      "n": "19",
+      "t": "The Tally Man: Part One of Two",
+      "d": "1993-04",
       "p": null,
       "c": [
        "azrael",
        "gordon",
-       "alfred",
        "batman"
       ]
      },
      {
-      "s": "batman",
-      "n": "499",
-      "t": "The Venom Connection",
-      "d": "1993-09",
+      "s": "robin-v2",
+      "n": "4",
+      "t": "Breathless",
+      "d": "1993-04",
       "p": null,
       "c": [
-       "azrael",
-       "batman",
-       "alfred",
-       "oracle"
+       "robin-tim",
+       "spoiler"
       ]
      },
      {
-      "s": "batman",
-      "n": "500",
-      "t": "Dark Angel I: The Fall",
-      "d": "1993-10",
+      "s": "shadow-of-bat",
+      "n": "20",
+      "t": "The Tally Man: Part Two of Two",
+      "d": "1993-05",
       "p": null,
       "c": [
        "azrael",
-       "batman",
+       "batman"
+      ]
+     },
+     {
+      "s": "robin-v2",
+      "n": "5",
+      "t": "Last Gasps",
+      "d": "1993-05",
+      "p": null,
+      "c": [
        "robin-tim",
-       "nightwing",
-       "gordon"
+       "spoiler"
       ]
      },
      {
@@ -749,6 +765,19 @@
       ]
      },
      {
+      "s": "batman",
+      "n": "498",
+      "t": "Knights in Darkness",
+      "d": "1993-08",
+      "p": null,
+      "c": [
+       "azrael",
+       "gordon",
+       "alfred",
+       "batman"
+      ]
+     },
+     {
       "s": "detective",
       "n": "665",
       "t": "Lightning Changes",
@@ -761,6 +790,19 @@
       ]
      },
      {
+      "s": "batman",
+      "n": "499",
+      "t": "The Venom Connection",
+      "d": "1993-09",
+      "p": null,
+      "c": [
+       "azrael",
+       "batman",
+       "alfred",
+       "oracle"
+      ]
+     },
+     {
       "s": "detective",
       "n": "666",
       "t": "The Devil You Know",
@@ -769,6 +811,20 @@
       "c": [
        "azrael",
        "batman",
+       "gordon"
+      ]
+     },
+     {
+      "s": "batman",
+      "n": "500",
+      "t": "Dark Angel I: The Fall",
+      "d": "1993-10",
+      "p": null,
+      "c": [
+       "azrael",
+       "batman",
+       "robin-tim",
+       "nightwing",
        "gordon"
       ]
      },
@@ -806,6 +862,18 @@
       ]
      },
      {
+      "s": "shadow-of-bat",
+      "n": "21",
+      "t": "Bruce Wayne - One: The Hood",
+      "d": "1993-12",
+      "p": null,
+      "c": [
+       "azrael",
+       "batman",
+       "alfred"
+      ]
+     },
+     {
       "s": "detective",
       "n": "670",
       "t": "Cold Cases",
@@ -817,6 +885,17 @@
       ]
      },
      {
+      "s": "shadow-of-bat",
+      "n": "22",
+      "t": "Bruce Wayne - Two: A Day in the Death of an English Village",
+      "d": "1994-01",
+      "p": null,
+      "c": [
+       "azrael",
+       "alfred"
+      ]
+     },
+     {
       "s": "detective",
       "n": "671",
       "t": "The Cutting Room Floor",
@@ -825,6 +904,17 @@
       "c": [
        "azrael",
        "batman"
+      ]
+     },
+     {
+      "s": "shadow-of-bat",
+      "n": "23",
+      "t": "Bruce Wayne - Three: Curse of the Bat",
+      "d": "1994-02",
+      "p": null,
+      "c": [
+       "azrael",
+       "alfred"
       ]
      },
      {
@@ -840,10 +930,10 @@
       ]
      },
      {
-      "s": "detective",
-      "n": "673",
-      "t": "Losing the Light",
-      "d": "1994-04",
+      "s": "shadow-of-bat",
+      "n": "24",
+      "t": "The Immigrant: Rosemary's Baby",
+      "d": "1994-03",
       "p": null,
       "c": [
        "azrael",
@@ -852,89 +942,20 @@
       ]
      },
      {
-      "s": "detective",
-      "n": "674",
-      "t": "Outgunned",
-      "d": "1994-05",
-      "p": null,
-      "c": [
-       "azrael",
-       "batman"
-      ]
-     },
-     {
-      "s": "detective",
-      "n": "675",
-      "t": "Midnight Duel",
-      "d": "1994-06",
-      "p": null,
-      "c": [
-       "azrael",
-       "batman"
-      ]
-     },
-     {
-      "s": "shadow-of-bat",
-      "n": "19",
-      "t": "The Tally Man: Part One of Two",
-      "d": "1993-04",
-      "p": null,
-      "c": [
-       "azrael",
-       "gordon",
-       "batman"
-      ]
-     },
-     {
-      "s": "shadow-of-bat",
-      "n": "20",
-      "t": "The Tally Man: Part Two of Two",
-      "d": "1993-05",
-      "p": null,
-      "c": [
-       "azrael",
-       "batman"
-      ]
-     },
-     {
-      "s": "shadow-of-bat",
-      "n": "21",
-      "t": "Bruce Wayne - One: The Hood",
-      "d": "1993-12",
-      "p": null,
-      "c": [
-       "azrael",
-       "batman",
-       "alfred"
-      ]
-     },
-     {
-      "s": "shadow-of-bat",
-      "n": "22",
-      "t": "Bruce Wayne - Two: A Day in the Death of an English Village",
-      "d": "1994-01",
-      "p": null,
-      "c": [
-       "azrael",
-       "alfred"
-      ]
-     },
-     {
-      "s": "shadow-of-bat",
-      "n": "23",
-      "t": "Bruce Wayne - Three: Curse of the Bat",
-      "d": "1994-02",
-      "p": null,
-      "c": [
-       "azrael",
-       "alfred"
-      ]
-     },
-     {
-      "s": "shadow-of-bat",
-      "n": "24",
-      "t": "The Immigrant: Rosemary's Baby",
+      "s": "catwoman-v2",
+      "n": "8",
+      "t": "",
       "d": "1994-03",
+      "p": null,
+      "c": [
+       "catwoman"
+      ]
+     },
+     {
+      "s": "detective",
+      "n": "673",
+      "t": "Losing the Light",
+      "d": "1994-04",
       "p": null,
       "c": [
        "azrael",
@@ -954,6 +975,27 @@
       ]
      },
      {
+      "s": "catwoman-v2",
+      "n": "9",
+      "t": "",
+      "d": "1994-04",
+      "p": null,
+      "c": [
+       "catwoman"
+      ]
+     },
+     {
+      "s": "detective",
+      "n": "674",
+      "t": "Outgunned",
+      "d": "1994-05",
+      "p": null,
+      "c": [
+       "azrael",
+       "batman"
+      ]
+     },
+     {
       "s": "shadow-of-bat",
       "n": "26",
       "t": "Creatures of Clay: Diary of a Lover",
@@ -963,6 +1005,37 @@
        "azrael",
        "batman",
        "gordon"
+      ]
+     },
+     {
+      "s": "catwoman-v2",
+      "n": "10",
+      "t": "",
+      "d": "1994-05",
+      "p": null,
+      "c": [
+       "catwoman"
+      ]
+     },
+     {
+      "s": "robin-v2",
+      "n": "6",
+      "t": "Benedictions, Part Two: Deathangel",
+      "d": "1994-05",
+      "p": null,
+      "c": [
+       "robin-tim"
+      ]
+     },
+     {
+      "s": "detective",
+      "n": "675",
+      "t": "Midnight Duel",
+      "d": "1994-06",
+      "p": null,
+      "c": [
+       "azrael",
+       "batman"
       ]
      },
      {
@@ -978,61 +1051,6 @@
       ]
      },
      {
-      "s": "shadow-of-bat",
-      "n": "28",
-      "t": "Commissioner Gordon: The Long Dark Night",
-      "d": "1994-07",
-      "p": null,
-      "c": [
-       "azrael",
-       "batman",
-       "gordon"
-      ]
-     },
-     {
-      "s": "robin-v2",
-      "n": "3",
-      "t": "Clueless",
-      "d": "1993-03",
-      "p": null,
-      "c": [
-       "robin-tim",
-       "spoiler"
-      ]
-     },
-     {
-      "s": "robin-v2",
-      "n": "4",
-      "t": "Breathless",
-      "d": "1993-04",
-      "p": null,
-      "c": [
-       "robin-tim",
-       "spoiler"
-      ]
-     },
-     {
-      "s": "robin-v2",
-      "n": "5",
-      "t": "Last Gasps",
-      "d": "1993-05",
-      "p": null,
-      "c": [
-       "robin-tim",
-       "spoiler"
-      ]
-     },
-     {
-      "s": "robin-v2",
-      "n": "6",
-      "t": "Benedictions, Part Two: Deathangel",
-      "d": "1994-05",
-      "p": null,
-      "c": [
-       "robin-tim"
-      ]
-     },
-     {
       "s": "robin-v2",
       "n": "7",
       "t": "Turning Point",
@@ -1044,42 +1062,24 @@
      },
      {
       "s": "catwoman-v2",
-      "n": "8",
-      "t": "",
-      "d": "1994-03",
-      "p": null,
-      "c": [
-       "catwoman"
-      ]
-     },
-     {
-      "s": "catwoman-v2",
-      "n": "9",
-      "t": "",
-      "d": "1994-04",
-      "p": null,
-      "c": [
-       "catwoman"
-      ]
-     },
-     {
-      "s": "catwoman-v2",
-      "n": "10",
-      "t": "",
-      "d": "1994-05",
-      "p": null,
-      "c": [
-       "catwoman"
-      ]
-     },
-     {
-      "s": "catwoman-v2",
       "n": "11",
       "t": "",
       "d": "1994-06",
       "p": null,
       "c": [
        "catwoman"
+      ]
+     },
+     {
+      "s": "shadow-of-bat",
+      "n": "28",
+      "t": "Commissioner Gordon: The Long Dark Night",
+      "d": "1994-07",
+      "p": null,
+      "c": [
+       "azrael",
+       "batman",
+       "gordon"
       ]
      }
     ]
@@ -1088,6 +1088,28 @@
     "name": "Knightquest: The Search",
     "nameZh": "骑士探索·搜寻",
     "issues": [
+     {
+      "s": "legends-dk",
+      "n": "59",
+      "t": "",
+      "d": "1993-09",
+      "p": null,
+      "c": [
+       "batman",
+       "alfred"
+      ]
+     },
+     {
+      "s": "legends-dk",
+      "n": "60",
+      "t": "",
+      "d": "1993-10",
+      "p": null,
+      "c": [
+       "batman",
+       "alfred"
+      ]
+     },
      {
       "s": "batman",
       "n": "501",
@@ -1098,6 +1120,17 @@
        "batman",
        "alfred",
        "gordon"
+      ]
+     },
+     {
+      "s": "legends-dk",
+      "n": "61",
+      "t": "",
+      "d": "1993-11",
+      "p": null,
+      "c": [
+       "batman",
+       "alfred"
       ]
      },
      {
@@ -1180,39 +1213,6 @@
        "batman",
        "alfred"
       ]
-     },
-     {
-      "s": "legends-dk",
-      "n": "59",
-      "t": "",
-      "d": "1993-09",
-      "p": null,
-      "c": [
-       "batman",
-       "alfred"
-      ]
-     },
-     {
-      "s": "legends-dk",
-      "n": "60",
-      "t": "",
-      "d": "1993-10",
-      "p": null,
-      "c": [
-       "batman",
-       "alfred"
-      ]
-     },
-     {
-      "s": "legends-dk",
-      "n": "61",
-      "t": "",
-      "d": "1993-11",
-      "p": null,
-      "c": [
-       "batman",
-       "alfred"
-      ]
      }
     ]
    },
@@ -1241,6 +1241,29 @@
        "azrael",
        "batman",
        "nightwing"
+      ]
+     },
+     {
+      "s": "robin-v2",
+      "n": "8",
+      "t": "KnightsEnd, Part Nine",
+      "d": "1994-07",
+      "p": 9,
+      "c": [
+       "robin-tim",
+       "batman",
+       "nightwing",
+       "gordon"
+      ]
+     },
+     {
+      "s": "catwoman-v2",
+      "n": "12",
+      "t": "",
+      "d": "1994-07",
+      "p": null,
+      "c": [
+       "catwoman"
       ]
      },
      {
@@ -1281,6 +1304,27 @@
       ]
      },
      {
+      "s": "robin-v2",
+      "n": "9",
+      "t": "KnightsEnd, Part Ten",
+      "d": "1994-08",
+      "p": 10,
+      "c": [
+       "robin-tim",
+       "batman"
+      ]
+     },
+     {
+      "s": "catwoman-v2",
+      "n": "13",
+      "t": "",
+      "d": "1994-08",
+      "p": null,
+      "c": [
+       "catwoman"
+      ]
+     },
+     {
       "s": "shadow-of-bat",
       "n": "30",
       "t": "KnightsEnd, Part Six",
@@ -1316,50 +1360,6 @@
        "batman",
        "alfred"
       ]
-     },
-     {
-      "s": "robin-v2",
-      "n": "8",
-      "t": "KnightsEnd, Part Nine",
-      "d": "1994-07",
-      "p": 9,
-      "c": [
-       "robin-tim",
-       "batman",
-       "nightwing",
-       "gordon"
-      ]
-     },
-     {
-      "s": "robin-v2",
-      "n": "9",
-      "t": "KnightsEnd, Part Ten",
-      "d": "1994-08",
-      "p": 10,
-      "c": [
-       "robin-tim",
-       "batman"
-      ]
-     },
-     {
-      "s": "catwoman-v2",
-      "n": "12",
-      "t": "",
-      "d": "1994-07",
-      "p": null,
-      "c": [
-       "catwoman"
-      ]
-     },
-     {
-      "s": "catwoman-v2",
-      "n": "13",
-      "t": "",
-      "d": "1994-08",
-      "p": null,
-      "c": [
-       "catwoman"
-      ]
      }
     ]
    },
@@ -1380,6 +1380,17 @@
       ]
      },
      {
+      "s": "robin-v2",
+      "n": "10",
+      "t": "Two Birds One Stone",
+      "d": "1994-10",
+      "p": null,
+      "c": [
+       "robin-tim",
+       "nightwing"
+      ]
+     },
+     {
       "s": "batman",
       "n": "512",
       "t": "Prodigal : Part I - Robin and Batman",
@@ -1393,10 +1404,10 @@
       ]
      },
      {
-      "s": "batman",
-      "n": "513",
-      "t": "Double Deuce",
-      "d": "1994-12",
+      "s": "detective",
+      "n": "679",
+      "t": "The Vermin Factor",
+      "d": "1994-11",
       "p": null,
       "c": [
        "nightwing",
@@ -1405,21 +1416,34 @@
       ]
      },
      {
-      "s": "batman",
-      "n": "514",
-      "t": "One Night in the War Zone",
-      "d": "1995-01",
+      "s": "shadow-of-bat",
+      "n": "32",
+      "t": "Prodigal : Two",
+      "d": "1994-11",
       "p": null,
       "c": [
+       "nightwing",
+       "batman",
+       "gordon"
+      ]
+     },
+     {
+      "s": "robin-v2",
+      "n": "11",
+      "t": "Two in Every Crowd",
+      "d": "1994-11",
+      "p": null,
+      "c": [
+       "robin-tim",
        "nightwing",
        "batman"
       ]
      },
      {
-      "s": "detective",
-      "n": "679",
-      "t": "The Vermin Factor",
-      "d": "1994-11",
+      "s": "batman",
+      "n": "513",
+      "t": "Double Deuce",
+      "d": "1994-12",
       "p": null,
       "c": [
        "nightwing",
@@ -1441,29 +1465,6 @@
       ]
      },
      {
-      "s": "detective",
-      "n": "681",
-      "t": "Knight Without Armor",
-      "d": "1995-01",
-      "p": null,
-      "c": [
-       "nightwing",
-       "batman"
-      ]
-     },
-     {
-      "s": "shadow-of-bat",
-      "n": "32",
-      "t": "Prodigal : Two",
-      "d": "1994-11",
-      "p": null,
-      "c": [
-       "nightwing",
-       "batman",
-       "gordon"
-      ]
-     },
-     {
       "s": "shadow-of-bat",
       "n": "33",
       "t": "Prodigal : Six",
@@ -1473,40 +1474,6 @@
        "nightwing",
        "batman",
        "gordon"
-      ]
-     },
-     {
-      "s": "shadow-of-bat",
-      "n": "34",
-      "t": "Prodigal : Ten",
-      "d": "1995-01",
-      "p": null,
-      "c": [
-       "nightwing",
-       "batman"
-      ]
-     },
-     {
-      "s": "robin-v2",
-      "n": "10",
-      "t": "Two Birds One Stone",
-      "d": "1994-10",
-      "p": null,
-      "c": [
-       "robin-tim",
-       "nightwing"
-      ]
-     },
-     {
-      "s": "robin-v2",
-      "n": "11",
-      "t": "Two in Every Crowd",
-      "d": "1994-11",
-      "p": null,
-      "c": [
-       "robin-tim",
-       "nightwing",
-       "batman"
       ]
      },
      {
@@ -1520,6 +1487,39 @@
        "nightwing",
        "batman"
       ]
+     },
+     {
+      "s": "batman",
+      "n": "514",
+      "t": "One Night in the War Zone",
+      "d": "1995-01",
+      "p": null,
+      "c": [
+       "nightwing",
+       "batman"
+      ]
+     },
+     {
+      "s": "detective",
+      "n": "681",
+      "t": "Knight Without Armor",
+      "d": "1995-01",
+      "p": null,
+      "c": [
+       "nightwing",
+       "batman"
+      ]
+     },
+     {
+      "s": "shadow-of-bat",
+      "n": "34",
+      "t": "Prodigal : Ten",
+      "d": "1995-01",
+      "p": null,
+      "c": [
+       "nightwing",
+       "batman"
+      ]
      }
     ]
    },
@@ -1527,6 +1527,18 @@
     "name": "Troika",
     "nameZh": "三驾马车",
     "issues": [
+     {
+      "s": "robin-v2",
+      "n": "13",
+      "t": "Wings Over Gotham",
+      "d": "1995-01",
+      "p": null,
+      "c": [
+       "robin-tim",
+       "batman",
+       "nightwing"
+      ]
+     },
      {
       "s": "batman",
       "n": "515",
@@ -1556,33 +1568,6 @@
       ]
      },
      {
-      "s": "detective",
-      "n": "683",
-      "t": "Odds Against",
-      "d": "1995-03",
-      "p": null,
-      "c": [
-       "batman",
-       "bane",
-       "ras",
-       "talia",
-       "gordon"
-      ]
-     },
-     {
-      "s": "detective",
-      "n": "684",
-      "t": "Darkest Day",
-      "d": "1995-04",
-      "p": null,
-      "c": [
-       "batman",
-       "bane",
-       "ras",
-       "talia"
-      ]
-     },
-     {
       "s": "shadow-of-bat",
       "n": "35",
       "t": "Troika: Two of Four",
@@ -1597,10 +1582,49 @@
       ]
      },
      {
+      "s": "robin-v2",
+      "n": "14",
+      "t": "Big City Bomber",
+      "d": "1995-02",
+      "p": null,
+      "c": [
+       "robin-tim",
+       "batman",
+       "gordon"
+      ]
+     },
+     {
+      "s": "detective",
+      "n": "683",
+      "t": "Odds Against",
+      "d": "1995-03",
+      "p": null,
+      "c": [
+       "batman",
+       "bane",
+       "ras",
+       "talia",
+       "gordon"
+      ]
+     },
+     {
       "s": "shadow-of-bat",
       "n": "36",
       "t": "Black Canary: In the Name of the Father",
       "d": "1995-03",
+      "p": null,
+      "c": [
+       "batman",
+       "bane",
+       "ras",
+       "talia"
+      ]
+     },
+     {
+      "s": "detective",
+      "n": "684",
+      "t": "Darkest Day",
+      "d": "1995-04",
       "p": null,
       "c": [
        "batman",
@@ -1634,30 +1658,6 @@
        "bane",
        "ras",
        "talia",
-       "gordon"
-      ]
-     },
-     {
-      "s": "robin-v2",
-      "n": "13",
-      "t": "Wings Over Gotham",
-      "d": "1995-01",
-      "p": null,
-      "c": [
-       "robin-tim",
-       "batman",
-       "nightwing"
-      ]
-     },
-     {
-      "s": "robin-v2",
-      "n": "14",
-      "t": "Big City Bomber",
-      "d": "1995-02",
-      "p": null,
-      "c": [
-       "robin-tim",
-       "batman",
        "gordon"
       ]
      },
@@ -2267,18 +2267,14 @@
     "nameZh": "大灾变",
     "issues": [
      {
-      "s": "detective",
-      "n": "723",
-      "t": "Fight Back to Gotham",
-      "d": "1998-07",
-      "p": 1,
+      "s": "nightwing-v2",
+      "n": "19",
+      "t": "Cataclysm, Part Two: Shudder",
+      "d": "1998-04",
+      "p": 5,
       "c": [
-       "batman",
-       "gordon",
-       "nightwing",
-       "oracle"
-      ],
-      "x": "Part 1（推断）"
+       "nightwing"
+      ]
      },
      {
       "s": "shadow-of-bat",
@@ -2314,16 +2310,6 @@
       "p": 4,
       "c": [
        "robin-tim"
-      ]
-     },
-     {
-      "s": "nightwing-v2",
-      "n": "19",
-      "t": "Cataclysm, Part Two: Shudder",
-      "d": "1998-04",
-      "p": 5,
-      "c": [
-       "nightwing"
       ]
      },
      {
@@ -2395,6 +2381,31 @@
       "x": "one-shot"
      },
      {
+      "s": "Batman: Huntress/Spoiler: Blunt Trauma",
+      "n": "1",
+      "t": "Cataclysm, Part Thirteen: Blunt Trauma",
+      "d": "1998-05",
+      "p": 13,
+      "c": [
+       "batman"
+      ],
+      "x": "one-shot"
+     },
+     {
+      "s": "nightwing-v2",
+      "n": "20",
+      "t": "Cataclysm, Part Eleven: The Day After Judgment",
+      "d": "1998-05",
+      "p": 16,
+      "c": [
+       "nightwing",
+       "alfred",
+       "batman",
+       "gordon",
+       "oracle"
+      ]
+     },
+     {
       "s": "batman",
       "n": "554",
       "t": "Master of Destruction",
@@ -2409,30 +2420,6 @@
       ]
      },
      {
-      "s": "Batman: Huntress/Spoiler: Blunt Trauma",
-      "n": "1",
-      "t": "Cataclysm, Part Thirteen: Blunt Trauma",
-      "d": "1998-05",
-      "p": 13,
-      "c": [
-       "batman"
-      ],
-      "x": "one-shot"
-     },
-     {
-      "s": "detective",
-      "n": "724",
-      "t": "The Grieving City",
-      "d": "1998-08",
-      "p": 14,
-      "c": [
-       "batman",
-       "gordon",
-       "nightwing",
-       "alfred"
-      ]
-     },
-     {
       "s": "shadow-of-bat",
       "n": "74",
       "t": "Cataclysm, Part Nine: The Naked City",
@@ -2441,20 +2428,6 @@
       "c": [
        "batman",
        "gordon"
-      ]
-     },
-     {
-      "s": "nightwing-v2",
-      "n": "20",
-      "t": "Cataclysm, Part Eleven: The Day After Judgment",
-      "d": "1998-05",
-      "p": 16,
-      "c": [
-       "nightwing",
-       "alfred",
-       "batman",
-       "gordon",
-       "oracle"
       ]
      },
      {
@@ -2482,6 +2455,20 @@
       ]
      },
      {
+      "s": "detective",
+      "n": "723",
+      "t": "Fight Back to Gotham",
+      "d": "1998-07",
+      "p": 1,
+      "c": [
+       "batman",
+       "gordon",
+       "nightwing",
+       "oracle"
+      ],
+      "x": "Part 1（推断）"
+     },
+     {
       "s": "batman",
       "n": "555",
       "t": "Trapped Like Rats",
@@ -2491,6 +2478,30 @@
        "batman"
       ],
       "x": "Aftershock 余震"
+     },
+     {
+      "s": "shadow-of-bat",
+      "n": "75",
+      "t": "By Fire... or by Ice?",
+      "d": "1998-07",
+      "p": null,
+      "c": [
+       "batman"
+      ],
+      "x": "Aftershock 余震"
+     },
+     {
+      "s": "detective",
+      "n": "724",
+      "t": "The Grieving City",
+      "d": "1998-08",
+      "p": 14,
+      "c": [
+       "batman",
+       "gordon",
+       "nightwing",
+       "alfred"
+      ]
      },
      {
       "s": "batman",
@@ -2516,6 +2527,18 @@
       "x": "Aftershock 余震"
      },
      {
+      "s": "detective",
+      "n": "725",
+      "t": "At the End of the Day",
+      "d": "1998-09",
+      "p": null,
+      "c": [
+       "batman",
+       "gordon"
+      ],
+      "x": "Aftershock 余震"
+     },
+     {
       "s": "batman",
       "n": "558",
       "t": "Dying City",
@@ -2525,18 +2548,6 @@
        "batman",
        "gordon",
        "alfred"
-      ],
-      "x": "Aftershock 余震"
-     },
-     {
-      "s": "detective",
-      "n": "725",
-      "t": "At the End of the Day",
-      "d": "1998-09",
-      "p": null,
-      "c": [
-       "batman",
-       "gordon"
       ],
       "x": "Aftershock 余震"
      },
@@ -2562,17 +2573,6 @@
        "nightwing",
        "oracle",
        "gordon"
-      ],
-      "x": "Aftershock 余震"
-     },
-     {
-      "s": "shadow-of-bat",
-      "n": "75",
-      "t": "By Fire... or by Ice?",
-      "d": "1998-07",
-      "p": null,
-      "c": [
-       "batman"
       ],
       "x": "Aftershock 余震"
      }
@@ -4424,29 +4424,17 @@
     "nameZh": "第一幕：爆发",
     "issues": [
      {
-      "s": "detective",
-      "n": "797",
-      "t": "War Games: Act One - Outbreak - Part 1: Flashpoint",
-      "d": "2004-10",
-      "p": 1,
-      "c": [
-       "batman",
-       "oracle"
-      ],
-      "x": "Act One 第一章"
-     },
-     {
-      "s": "Batman: War Games Act One",
-      "n": "1",
-      "t": "Batman: War Games Act One",
-      "d": "2005-02",
+      "s": "robin-v2",
+      "n": "126",
+      "t": "A Life More Ordinary",
+      "d": "2004-07",
       "p": null,
       "c": [
+       "robin-stephanie",
        "batman",
-       "oracle",
-       "blackmask"
+       "alfred"
       ],
-      "x": "单刊（one-shot），未编号幕章"
+      "x": "同时是 War Drums 尾声（桥接刊）；封面日期为按月推算"
      },
      {
       "s": "nightwing-v2",
@@ -4462,28 +4450,16 @@
       "x": "标题注明 Part 3 of 8"
      },
      {
-      "s": "robin-v2",
-      "n": "126",
-      "t": "A Life More Ordinary",
-      "d": "2004-07",
-      "p": null,
+      "s": "detective",
+      "n": "797",
+      "t": "War Games: Act One - Outbreak - Part 1: Flashpoint",
+      "d": "2004-10",
+      "p": 1,
       "c": [
-       "robin-stephanie",
        "batman",
-       "alfred"
-      ],
-      "x": "同时是 War Drums 尾声（桥接刊）；封面日期为按月推算"
-     },
-     {
-      "s": "batgirl-v1",
-      "n": "57",
-      "t": null,
-      "d": "2004-12",
-      "p": null,
-      "c": [
-       "batgirl-cassandra",
        "oracle"
-      ]
+      ],
+      "x": "Act One 第一章"
      },
      {
       "s": "catwoman-v3",
@@ -4514,6 +4490,30 @@
       "c": [
        "batman"
       ]
+     },
+     {
+      "s": "batgirl-v1",
+      "n": "57",
+      "t": null,
+      "d": "2004-12",
+      "p": null,
+      "c": [
+       "batgirl-cassandra",
+       "oracle"
+      ]
+     },
+     {
+      "s": "Batman: War Games Act One",
+      "n": "1",
+      "t": "Batman: War Games Act One",
+      "d": "2005-02",
+      "p": null,
+      "c": [
+       "batman",
+       "oracle",
+       "blackmask"
+      ],
+      "x": "单刊（one-shot），未编号幕章"
      }
     ]
    },
@@ -4521,31 +4521,6 @@
     "name": "Act Two: Tides",
     "nameZh": "第二幕：潮汐",
     "issues": [
-     {
-      "s": "Batman: War Games Act Two",
-      "n": "1",
-      "t": "Batman: War Games Act Two",
-      "d": "2005-08",
-      "p": null,
-      "c": [
-       "batman",
-       "oracle",
-       "blackmask"
-      ],
-      "x": "单刊（one-shot），未编号幕章；封面日期 2005-08（GCD）"
-     },
-     {
-      "s": "detective",
-      "n": "798",
-      "t": "War Games : Act 2, Part 1 of 8: Undertow",
-      "d": "2004-11",
-      "p": null,
-      "c": [
-       "batman",
-       "oracle",
-       "alfred"
-      ]
-     },
      {
       "s": "robin-v2",
       "n": "127",
@@ -4560,27 +4535,6 @@
       "x": "封面日期为按月推算"
      },
      {
-      "s": "batgirl-v1",
-      "n": "58",
-      "t": null,
-      "d": "2005-01",
-      "p": null,
-      "c": [
-       "batgirl-cassandra",
-       "oracle"
-      ]
-     },
-     {
-      "s": "catwoman-v3",
-      "n": "35",
-      "t": null,
-      "d": "2004-11",
-      "p": null,
-      "c": [
-       "catwoman"
-      ]
-     },
-     {
       "s": "nightwing-v2",
       "n": "97",
       "t": "War Games : Act 2, Part 3 of 8: Clarification",
@@ -4591,6 +4545,28 @@
        "batman",
        "oracle",
        "spoiler"
+      ]
+     },
+     {
+      "s": "detective",
+      "n": "798",
+      "t": "War Games : Act 2, Part 1 of 8: Undertow",
+      "d": "2004-11",
+      "p": null,
+      "c": [
+       "batman",
+       "oracle",
+       "alfred"
+      ]
+     },
+     {
+      "s": "catwoman-v3",
+      "n": "35",
+      "t": null,
+      "d": "2004-11",
+      "p": null,
+      "c": [
+       "catwoman"
       ]
      },
      {
@@ -4612,6 +4588,30 @@
       "c": [
        "batman"
       ]
+     },
+     {
+      "s": "batgirl-v1",
+      "n": "58",
+      "t": null,
+      "d": "2005-01",
+      "p": null,
+      "c": [
+       "batgirl-cassandra",
+       "oracle"
+      ]
+     },
+     {
+      "s": "Batman: War Games Act Two",
+      "n": "1",
+      "t": "Batman: War Games Act Two",
+      "d": "2005-08",
+      "p": null,
+      "c": [
+       "batman",
+       "oracle",
+       "blackmask"
+      ],
+      "x": "单刊（one-shot），未编号幕章；封面日期 2005-08（GCD）"
      }
     ]
    },
@@ -4620,17 +4620,29 @@
     "nameZh": "第三幕：终局",
     "issues": [
      {
-      "s": "Batman: War Games Act Three",
-      "n": "1",
-      "t": "Batman: War Games Act Three",
-      "d": "2005-11",
+      "s": "robin-v2",
+      "n": "128",
+      "t": "Fired!",
+      "d": "2004-09",
       "p": null,
       "c": [
-       "batman",
-       "oracle",
-       "blackmask"
+       "robin-stephanie",
+       "alfred",
+       "batman"
       ],
-      "x": "单刊（one-shot），未编号幕章；封面日期 2005-11（GCD）"
+      "x": "封面日期为按月推算"
+     },
+     {
+      "s": "robin-v2",
+      "n": "129",
+      "t": "War Games : Act 1, Part 5 of 8: Alamo High",
+      "d": "2004-10",
+      "p": null,
+      "c": [
+       "robin-stephanie",
+       "batman"
+      ],
+      "x": "封面日期为按月推算"
      },
      {
       "s": "detective",
@@ -4645,17 +4657,21 @@
       ]
      },
      {
-      "s": "robin-v2",
-      "n": "128",
-      "t": "Fired!",
-      "d": "2004-09",
-      "p": null,
+      "s": "batman",
+      "n": "633",
+      "t": "War Games, Act 3, Part 8: No Going Back",
+      "d": "2004-12",
+      "p": 8,
       "c": [
-       "robin-stephanie",
+       "batman",
+       "blackmask",
        "alfred",
-       "batman"
+       "catwoman",
+       "nightwing",
+       "oracle",
+       "spoiler"
       ],
-      "x": "封面日期为按月推算"
+      "x": "War Games 终章"
      },
      {
       "s": "gotham-knights",
@@ -4693,33 +4709,17 @@
       "x": "800 期纪念号；同时是 'Batman: City of Crime' 故事线开篇（续于 #801-808、#811-814）"
      },
      {
-      "s": "robin-v2",
-      "n": "129",
-      "t": "War Games : Act 1, Part 5 of 8: Alamo High",
-      "d": "2004-10",
+      "s": "Batman: War Games Act Three",
+      "n": "1",
+      "t": "Batman: War Games Act Three",
+      "d": "2005-11",
       "p": null,
       "c": [
-       "robin-stephanie",
-       "batman"
-      ],
-      "x": "封面日期为按月推算"
-     },
-     {
-      "s": "batman",
-      "n": "633",
-      "t": "War Games, Act 3, Part 8: No Going Back",
-      "d": "2004-12",
-      "p": 8,
-      "c": [
        "batman",
-       "blackmask",
-       "alfred",
-       "catwoman",
-       "nightwing",
        "oracle",
-       "spoiler"
+       "blackmask"
       ],
-      "x": "War Games 终章"
+      "x": "单刊（one-shot），未编号幕章；封面日期 2005-11（GCD）"
      }
     ]
    },
@@ -5054,11 +5054,11 @@
       "x": "封面日期为推算（与 #644 双月发行）"
      },
      {
-      "s": "detective",
-      "n": "810",
-      "t": "Batman: \" War Crimes, Part 3: A Consequence of Truth",
-      "d": "2005-11",
-      "p": 3,
+      "s": "batman",
+      "n": "644",
+      "t": "War Crimes, Part 4 of 4: Judgement at Gotham",
+      "d": "2005-10",
+      "p": 4,
       "c": [
        "batman",
        "blackmask",
@@ -5066,11 +5066,11 @@
       ]
      },
      {
-      "s": "batman",
-      "n": "644",
-      "t": "War Crimes, Part 4 of 4: Judgement at Gotham",
-      "d": "2005-10",
-      "p": 4,
+      "s": "detective",
+      "n": "810",
+      "t": "Batman: \" War Crimes, Part 3: A Consequence of Truth",
+      "d": "2005-11",
+      "p": 3,
       "c": [
        "batman",
        "blackmask",
@@ -5980,6 +5980,27 @@
     ]
    },
    {
+    "name": "Requiem",
+    "nameZh": "安魂曲",
+    "issues": [
+     {
+      "s": "Final Crisis: Requiem",
+      "n": "1",
+      "t": "Final Crisis: Requiem - Caretakers of Mars",
+      "d": "2008-09",
+      "p": null,
+      "c": [
+       "justiceleague",
+       "superman",
+       "wonderwoman",
+       "batman",
+       "flash"
+      ],
+      "x": "单刊；正义联盟为火星猎人举行的葬礼（蝙蝠侠出席）；2008-07-09 上市，封面 2008-09"
+     }
+    ]
+   },
+   {
     "name": "Last Rites",
     "nameZh": "最后仪式",
     "issues": [
@@ -6014,27 +6035,6 @@
        "robin-damian"
       ],
       "x": "同时是「蝙蝠侠安息」的收尾（见事件 batman-rip）；《最终危机》联动；GCD 封面 'Late January 2009'"
-     }
-    ]
-   },
-   {
-    "name": "Requiem",
-    "nameZh": "安魂曲",
-    "issues": [
-     {
-      "s": "Final Crisis: Requiem",
-      "n": "1",
-      "t": "Final Crisis: Requiem - Caretakers of Mars",
-      "d": "2008-09",
-      "p": null,
-      "c": [
-       "justiceleague",
-       "superman",
-       "wonderwoman",
-       "batman",
-       "flash"
-      ],
-      "x": "单刊；正义联盟为火星猎人举行的葬礼（蝙蝠侠出席）；2008-07-09 上市，封面 2008-09"
      }
     ]
    }
@@ -6379,118 +6379,6 @@
       "c": []
      },
      {
-      "s": "batman-and-robin-v1",
-      "n": "3",
-      "t": null,
-      "d": "2009-08",
-      "p": null,
-      "c": []
-     },
-     {
-      "s": "batman-and-robin-v1",
-      "n": "4",
-      "t": null,
-      "d": "2009-09",
-      "p": null,
-      "c": []
-     },
-     {
-      "s": "batman-and-robin-v1",
-      "n": "5",
-      "t": null,
-      "d": "2009-10",
-      "p": null,
-      "c": []
-     },
-     {
-      "s": "batman-and-robin-v1",
-      "n": "6",
-      "t": null,
-      "d": "2009-11",
-      "p": null,
-      "c": []
-     },
-     {
-      "s": "batman-and-robin-v1",
-      "n": "7",
-      "t": null,
-      "d": "2009-12",
-      "p": null,
-      "c": []
-     },
-     {
-      "s": "batman-and-robin-v1",
-      "n": "8",
-      "t": null,
-      "d": "2010-01",
-      "p": null,
-      "c": []
-     },
-     {
-      "s": "batman-and-robin-v1",
-      "n": "9",
-      "t": null,
-      "d": "2010-02",
-      "p": null,
-      "c": []
-     },
-     {
-      "s": "batman-and-robin-v1",
-      "n": "10",
-      "t": null,
-      "d": "2010-03",
-      "p": null,
-      "c": []
-     },
-     {
-      "s": "batman-and-robin-v1",
-      "n": "11",
-      "t": null,
-      "d": "2010-04",
-      "p": null,
-      "c": []
-     },
-     {
-      "s": "batman-and-robin-v1",
-      "n": "12",
-      "t": null,
-      "d": "2010-05",
-      "p": null,
-      "c": []
-     },
-     {
-      "s": "batman-and-robin-v1",
-      "n": "13",
-      "t": null,
-      "d": "2010-06",
-      "p": null,
-      "c": []
-     },
-     {
-      "s": "batman-and-robin-v1",
-      "n": "14",
-      "t": null,
-      "d": "2010-07",
-      "p": null,
-      "c": []
-     },
-     {
-      "s": "batman-and-robin-v1",
-      "n": "15",
-      "t": null,
-      "d": "2010-08",
-      "p": null,
-      "c": []
-     },
-     {
-      "s": "batman-and-robin-v1",
-      "n": "16",
-      "t": null,
-      "d": "2010-09",
-      "p": null,
-      "c": []
-     },
-     {
       "s": "batman",
       "n": "687",
       "t": "A Battle Within",
@@ -6506,6 +6394,25 @@
       ]
      },
      {
+      "s": "detective",
+      "n": "854",
+      "t": "Elegy, Part One: Agitato",
+      "d": "2009-07",
+      "p": null,
+      "c": [
+       "batwoman",
+       "batman"
+      ]
+     },
+     {
+      "s": "batman-and-robin-v1",
+      "n": "3",
+      "t": null,
+      "d": "2009-08",
+      "p": null,
+      "c": []
+     },
+     {
       "s": "batman",
       "n": "688",
       "t": "Long Shadows, Part One: Old Sins Cast Long Shadows",
@@ -6516,6 +6423,24 @@
        "alfred",
        "gordon"
       ]
+     },
+     {
+      "s": "detective",
+      "n": "855",
+      "t": "Elegy, Part Two: Misterioso",
+      "d": "2009-08",
+      "p": null,
+      "c": [
+       "batwoman"
+      ]
+     },
+     {
+      "s": "batman-and-robin-v1",
+      "n": "4",
+      "t": null,
+      "d": "2009-09",
+      "p": null,
+      "c": []
      },
      {
       "s": "batman",
@@ -6529,6 +6454,24 @@
       ]
      },
      {
+      "s": "detective",
+      "n": "856",
+      "t": "Elegy, Part Three: Affettuoso",
+      "d": "2009-09",
+      "p": null,
+      "c": [
+       "batwoman"
+      ]
+     },
+     {
+      "s": "batman-and-robin-v1",
+      "n": "5",
+      "t": null,
+      "d": "2009-10",
+      "p": null,
+      "c": []
+     },
+     {
       "s": "batman",
       "n": "690",
       "t": "Long Shadows, Part Three: Tripwires",
@@ -6538,6 +6481,24 @@
        "batman",
        "alfred"
       ]
+     },
+     {
+      "s": "detective",
+      "n": "857",
+      "t": "Elegy, Part Four: Rubato!",
+      "d": "2009-10",
+      "p": null,
+      "c": [
+       "batwoman"
+      ]
+     },
+     {
+      "s": "batman-and-robin-v1",
+      "n": "6",
+      "t": null,
+      "d": "2009-11",
+      "p": null,
+      "c": []
      },
      {
       "s": "batman",
@@ -6551,6 +6512,24 @@
       ]
      },
      {
+      "s": "detective",
+      "n": "858",
+      "t": "GO, Part One",
+      "d": "2009-11",
+      "p": null,
+      "c": [
+       "batwoman"
+      ]
+     },
+     {
+      "s": "batman-and-robin-v1",
+      "n": "7",
+      "t": null,
+      "d": "2009-12",
+      "p": null,
+      "c": []
+     },
+     {
       "s": "batman",
       "n": "692",
       "t": "Life After Death, Part 1: The Awakening",
@@ -6561,6 +6540,24 @@
        "catwoman",
        "gordon"
       ]
+     },
+     {
+      "s": "detective",
+      "n": "859",
+      "t": "GO, Part Two",
+      "d": "2009-12",
+      "p": null,
+      "c": [
+       "batwoman"
+      ]
+     },
+     {
+      "s": "batman-and-robin-v1",
+      "n": "8",
+      "t": null,
+      "d": "2010-01",
+      "p": null,
+      "c": []
      },
      {
       "s": "batman",
@@ -6576,6 +6573,44 @@
       ]
      },
      {
+      "s": "detective",
+      "n": "860",
+      "t": "GO, Part Three",
+      "d": "2010-01",
+      "p": null,
+      "c": [
+       "batwoman"
+      ]
+     },
+     {
+      "s": "batman-and-robin-v1",
+      "n": "9",
+      "t": null,
+      "d": "2010-02",
+      "p": null,
+      "c": []
+     },
+     {
+      "s": "detective",
+      "n": "861",
+      "t": "Batwoman: \"Cutter, Part One",
+      "d": "2010-02",
+      "p": null,
+      "c": [
+       "batwoman",
+       "batman",
+       "gordon"
+      ]
+     },
+     {
+      "s": "batman-and-robin-v1",
+      "n": "10",
+      "t": null,
+      "d": "2010-03",
+      "p": null,
+      "c": []
+     },
+     {
       "s": "batman",
       "n": "694",
       "t": "Life after Death, Part 3: Fractured Pieces",
@@ -6587,6 +6622,25 @@
        "gordon",
        "oracle"
       ]
+     },
+     {
+      "s": "detective",
+      "n": "862",
+      "t": "Batwoman: \"Cutter, Part Two",
+      "d": "2010-03",
+      "p": null,
+      "c": [
+       "batwoman",
+       "batman"
+      ]
+     },
+     {
+      "s": "batman-and-robin-v1",
+      "n": "11",
+      "t": null,
+      "d": "2010-04",
+      "p": null,
+      "c": []
      },
      {
       "s": "batman",
@@ -6601,6 +6655,25 @@
       ]
      },
      {
+      "s": "detective",
+      "n": "863",
+      "t": "Batwoman: \"Cutter, Part Three",
+      "d": "2010-04",
+      "p": null,
+      "c": [
+       "batwoman",
+       "batman"
+      ]
+     },
+     {
+      "s": "batman-and-robin-v1",
+      "n": "12",
+      "t": null,
+      "d": "2010-05",
+      "p": null,
+      "c": []
+     },
+     {
       "s": "batman",
       "n": "696",
       "t": "Life After Death, Part 5: Mind Games",
@@ -6613,6 +6686,14 @@
        "gordon",
        "oracle"
       ]
+     },
+     {
+      "s": "batman-and-robin-v1",
+      "n": "13",
+      "t": null,
+      "d": "2010-06",
+      "p": null,
+      "c": []
      },
      {
       "s": "batman",
@@ -6630,6 +6711,14 @@
       ]
      },
      {
+      "s": "batman-and-robin-v1",
+      "n": "14",
+      "t": null,
+      "d": "2010-07",
+      "p": null,
+      "c": []
+     },
+     {
       "s": "batman",
       "n": "698",
       "t": "Riddle Me This, Part One: Black Magic Tricks",
@@ -6640,6 +6729,14 @@
        "alfred",
        "gordon"
       ]
+     },
+     {
+      "s": "batman-and-robin-v1",
+      "n": "15",
+      "t": null,
+      "d": "2010-08",
+      "p": null,
+      "c": []
      },
      {
       "s": "batman",
@@ -6653,6 +6750,14 @@
       ]
      },
      {
+      "s": "batman-and-robin-v1",
+      "n": "16",
+      "t": null,
+      "d": "2010-09",
+      "p": null,
+      "c": []
+     },
+     {
       "s": "batman",
       "n": "700",
       "t": "Time and the Batman",
@@ -6661,111 +6766,6 @@
       "c": [
        "batman",
        "gordon"
-      ]
-     },
-     {
-      "s": "detective",
-      "n": "854",
-      "t": "Elegy, Part One: Agitato",
-      "d": "2009-07",
-      "p": null,
-      "c": [
-       "batwoman",
-       "batman"
-      ]
-     },
-     {
-      "s": "detective",
-      "n": "855",
-      "t": "Elegy, Part Two: Misterioso",
-      "d": "2009-08",
-      "p": null,
-      "c": [
-       "batwoman"
-      ]
-     },
-     {
-      "s": "detective",
-      "n": "856",
-      "t": "Elegy, Part Three: Affettuoso",
-      "d": "2009-09",
-      "p": null,
-      "c": [
-       "batwoman"
-      ]
-     },
-     {
-      "s": "detective",
-      "n": "857",
-      "t": "Elegy, Part Four: Rubato!",
-      "d": "2009-10",
-      "p": null,
-      "c": [
-       "batwoman"
-      ]
-     },
-     {
-      "s": "detective",
-      "n": "858",
-      "t": "GO, Part One",
-      "d": "2009-11",
-      "p": null,
-      "c": [
-       "batwoman"
-      ]
-     },
-     {
-      "s": "detective",
-      "n": "859",
-      "t": "GO, Part Two",
-      "d": "2009-12",
-      "p": null,
-      "c": [
-       "batwoman"
-      ]
-     },
-     {
-      "s": "detective",
-      "n": "860",
-      "t": "GO, Part Three",
-      "d": "2010-01",
-      "p": null,
-      "c": [
-       "batwoman"
-      ]
-     },
-     {
-      "s": "detective",
-      "n": "861",
-      "t": "Batwoman: \"Cutter, Part One",
-      "d": "2010-02",
-      "p": null,
-      "c": [
-       "batwoman",
-       "batman",
-       "gordon"
-      ]
-     },
-     {
-      "s": "detective",
-      "n": "862",
-      "t": "Batwoman: \"Cutter, Part Two",
-      "d": "2010-03",
-      "p": null,
-      "c": [
-       "batwoman",
-       "batman"
-      ]
-     },
-     {
-      "s": "detective",
-      "n": "863",
-      "t": "Batwoman: \"Cutter, Part Three",
-      "d": "2010-04",
-      "p": null,
-      "c": [
-       "batwoman",
-       "batman"
       ]
      }
     ]
@@ -13487,6 +13487,52 @@
     ]
    },
    {
+    "name": "Bat-Family Tie-Ins",
+    "nameZh": "蝙蝠家族联动",
+    "issues": [
+     {
+      "s": "nightwing-v4",
+      "n": "29",
+      "t": "Gotham Resistance Part Two",
+      "d": "2017-11",
+      "p": 2,
+      "c": [
+       "nightwing",
+       "batman",
+       "harley",
+       "teentitans"
+      ],
+      "x": "Gotham Resistance 联动（Teen Titans #12 为 Part One）"
+     },
+     {
+      "s": "teentitans-v3",
+      "n": "12",
+      "t": "Gotham Resistance Part One",
+      "d": "2017-11",
+      "p": 1,
+      "c": [
+       "robin-damian",
+       "batman"
+      ],
+      "x": "Gotham Resistance 联动"
+     },
+     {
+      "s": "Batman: Lost",
+      "n": "1",
+      "t": null,
+      "d": "2018-02",
+      "p": null,
+      "c": [
+       "batman",
+       "nightwing",
+       "robin-damian",
+       "batgirl-barbara"
+      ],
+      "x": "2017-12 上市"
+     }
+    ]
+   },
+   {
     "name": "Dark Knights Rising",
     "nameZh": "黑暗骑士崛起",
     "issues": [
@@ -13573,52 +13619,6 @@
        "joker"
       ],
       "x": "2018-01 上市"
-     }
-    ]
-   },
-   {
-    "name": "Bat-Family Tie-Ins",
-    "nameZh": "蝙蝠家族联动",
-    "issues": [
-     {
-      "s": "Batman: Lost",
-      "n": "1",
-      "t": null,
-      "d": "2018-02",
-      "p": null,
-      "c": [
-       "batman",
-       "nightwing",
-       "robin-damian",
-       "batgirl-barbara"
-      ],
-      "x": "2017-12 上市"
-     },
-     {
-      "s": "nightwing-v4",
-      "n": "29",
-      "t": "Gotham Resistance Part Two",
-      "d": "2017-11",
-      "p": 2,
-      "c": [
-       "nightwing",
-       "batman",
-       "harley",
-       "teentitans"
-      ],
-      "x": "Gotham Resistance 联动（Teen Titans #12 为 Part One）"
-     },
-     {
-      "s": "teentitans-v3",
-      "n": "12",
-      "t": "Gotham Resistance Part One",
-      "d": "2017-11",
-      "p": 1,
-      "c": [
-       "robin-damian",
-       "batman"
-      ],
-      "x": "Gotham Resistance 联动"
      }
     ]
    }
@@ -14165,6 +14165,33 @@
     "nameZh": "小丑战争联动",
     "issues": [
      {
+      "s": "batgirl-v4",
+      "n": "47",
+      "t": null,
+      "d": "2020-10",
+      "p": null,
+      "c": [
+       "batgirl-barbara",
+       "joker",
+       "gordon"
+      ],
+      "x": "Joker War 联动（芭芭拉对决小丑）"
+     },
+     {
+      "s": "detective-v3",
+      "n": "1025",
+      "t": "Tales From The Joker War: Attack On Wayne Enterprises",
+      "d": "2020-10",
+      "p": null,
+      "c": [
+       "batman",
+       "joker",
+       "gordon",
+       "batwoman"
+      ],
+      "x": "Joker War 联动（封面日期为推算）"
+     },
+     {
       "s": "joker-war-zone",
       "n": "1",
       "t": null,
@@ -14180,19 +14207,6 @@
        "gordon"
       ],
       "x": "2020-09 上市（Key Collector 核实）；红头罩系列未直接联动（Red Hood: Outlaw #50 于 2020-10 收官，杰森在 Joker War Zone 登场）"
-     },
-     {
-      "s": "batgirl-v4",
-      "n": "47",
-      "t": null,
-      "d": "2020-10",
-      "p": null,
-      "c": [
-       "batgirl-barbara",
-       "joker",
-       "gordon"
-      ],
-      "x": "Joker War 联动（芭芭拉对决小丑）"
      },
      {
       "s": "nightwing-v4",
@@ -14219,20 +14233,6 @@
        "joker"
       ],
       "x": "Joker War 联动（猫女卷五 #25）"
-     },
-     {
-      "s": "detective-v3",
-      "n": "1025",
-      "t": "Tales From The Joker War: Attack On Wayne Enterprises",
-      "d": "2020-10",
-      "p": null,
-      "c": [
-       "batman",
-       "joker",
-       "gordon",
-       "batwoman"
-      ],
-      "x": "Joker War 联动（封面日期为推算）"
      },
      {
       "s": "detective-v3",
@@ -15506,6 +15506,98 @@
     ]
    },
    {
+    "name": "Catwoman Tie-In",
+    "nameZh": "猫女联动",
+    "issues": [
+     {
+      "s": "catwoman-v4",
+      "n": "34",
+      "t": null,
+      "d": "2021-10",
+      "p": null,
+      "c": [
+       "catwoman"
+      ]
+     },
+     {
+      "s": "catwoman-v4",
+      "n": "35",
+      "t": null,
+      "d": "2021-11",
+      "p": null,
+      "c": [
+       "catwoman"
+      ],
+      "x": "Overstreet 封面日期 2021-11（Fear State 联动）"
+     },
+     {
+      "s": "catwoman-v4",
+      "n": "36",
+      "t": null,
+      "d": "2021-12",
+      "p": null,
+      "c": [
+       "catwoman"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Detective Comics Tie-In",
+    "nameZh": "侦探漫画联动",
+    "issues": [
+     {
+      "s": "detective-v3",
+      "n": "1042",
+      "t": "The Jury, Conclusion",
+      "d": "2021-10",
+      "p": null,
+      "c": [
+       "batman",
+       "gordon",
+       "oracle"
+      ]
+     },
+     {
+      "s": "detective-v3",
+      "n": "1043",
+      "t": "Fear State: Nakano's Nightmare, Part 1",
+      "d": "2021-11",
+      "p": null,
+      "c": [
+       "batman"
+      ],
+      "x": "刊商标注 Fear State 联动（玛利子·塔马基主笔）"
+     },
+     {
+      "s": "detective-v3",
+      "n": "1044",
+      "t": "Fear State: Nakano's Nightmare, Part 2",
+      "d": "2021-12",
+      "p": null,
+      "c": [
+       "batman",
+       "batwoman",
+       "oracle"
+      ]
+     },
+     {
+      "s": "detective-v3",
+      "n": "1045",
+      "t": "Fear State: Nakano's Nightmare, Finale",
+      "d": "2022-01",
+      "p": null,
+      "c": [
+       "batman",
+       "batwoman",
+       "nightwing",
+       "oracle",
+       "orphan"
+      ]
+     }
+    ]
+   },
+   {
     "name": "The Fear State",
     "nameZh": "恐惧状态正篇",
     "issues": [
@@ -15620,98 +15712,6 @@
       "c": [
        "nightwing",
        "oracle"
-      ]
-     }
-    ]
-   },
-   {
-    "name": "Catwoman Tie-In",
-    "nameZh": "猫女联动",
-    "issues": [
-     {
-      "s": "catwoman-v4",
-      "n": "34",
-      "t": null,
-      "d": "2021-10",
-      "p": null,
-      "c": [
-       "catwoman"
-      ]
-     },
-     {
-      "s": "catwoman-v4",
-      "n": "35",
-      "t": null,
-      "d": "2021-11",
-      "p": null,
-      "c": [
-       "catwoman"
-      ],
-      "x": "Overstreet 封面日期 2021-11（Fear State 联动）"
-     },
-     {
-      "s": "catwoman-v4",
-      "n": "36",
-      "t": null,
-      "d": "2021-12",
-      "p": null,
-      "c": [
-       "catwoman"
-      ]
-     }
-    ]
-   },
-   {
-    "name": "Detective Comics Tie-In",
-    "nameZh": "侦探漫画联动",
-    "issues": [
-     {
-      "s": "detective-v3",
-      "n": "1042",
-      "t": "The Jury, Conclusion",
-      "d": "2021-10",
-      "p": null,
-      "c": [
-       "batman",
-       "gordon",
-       "oracle"
-      ]
-     },
-     {
-      "s": "detective-v3",
-      "n": "1043",
-      "t": "Fear State: Nakano's Nightmare, Part 1",
-      "d": "2021-11",
-      "p": null,
-      "c": [
-       "batman"
-      ],
-      "x": "刊商标注 Fear State 联动（玛利子·塔马基主笔）"
-     },
-     {
-      "s": "detective-v3",
-      "n": "1044",
-      "t": "Fear State: Nakano's Nightmare, Part 2",
-      "d": "2021-12",
-      "p": null,
-      "c": [
-       "batman",
-       "batwoman",
-       "oracle"
-      ]
-     },
-     {
-      "s": "detective-v3",
-      "n": "1045",
-      "t": "Fear State: Nakano's Nightmare, Finale",
-      "d": "2022-01",
-      "p": null,
-      "c": [
-       "batman",
-       "batwoman",
-       "nightwing",
-       "oracle",
-       "orphan"
       ]
      }
     ]
@@ -16534,6 +16534,25 @@
     ]
    },
    {
+    "name": "Lazarus Planet Omega",
+    "nameZh": "拉撒路星球·终章",
+    "issues": [
+     {
+      "s": "Lazarus Planet: Omega",
+      "n": "1",
+      "t": null,
+      "d": "2023-04",
+      "p": null,
+      "c": [
+       "batman",
+       "superman",
+       "wonderwoman"
+      ],
+      "x": "封面日期 2023-04（eBay 核实；2023-02 上市）"
+     }
+    ]
+   },
+   {
     "name": "Lazarus Planet: Revenge of the Gods",
     "nameZh": "拉撒路星球：诸神复仇",
     "issues": [
@@ -16585,25 +16604,6 @@
        "superman",
        "batman"
       ]
-     }
-    ]
-   },
-   {
-    "name": "Lazarus Planet Omega",
-    "nameZh": "拉撒路星球·终章",
-    "issues": [
-     {
-      "s": "Lazarus Planet: Omega",
-      "n": "1",
-      "t": null,
-      "d": "2023-04",
-      "p": null,
-      "c": [
-       "batman",
-       "superman",
-       "wonderwoman"
-      ],
-      "x": "封面日期 2023-04（eBay 核实；2023-02 上市）"
      }
     ]
    }
@@ -16722,30 +16722,10 @@
       ]
      },
      {
-      "s": "Knight Terrors: Batman",
-      "n": "2",
-      "t": null,
-      "d": "2023-10",
-      "p": null,
-      "c": [
-       "batman"
-      ]
-     },
-     {
       "s": "Knight Terrors: Nightwing",
       "n": "1",
       "t": null,
       "d": "2023-09",
-      "p": null,
-      "c": [
-       "nightwing"
-      ]
-     },
-     {
-      "s": "Knight Terrors: Nightwing",
-      "n": "2",
-      "t": null,
-      "d": "2023-10",
       "p": null,
       "c": [
        "nightwing"
@@ -16762,30 +16742,10 @@
       ]
      },
      {
-      "s": "Knight Terrors: Robin",
-      "n": "2",
-      "t": null,
-      "d": "2023-10",
-      "p": null,
-      "c": [
-       "robin-damian"
-      ]
-     },
-     {
       "s": "Knight Terrors: Catwoman",
       "n": "1",
       "t": null,
       "d": "2023-09",
-      "p": null,
-      "c": [
-       "catwoman"
-      ]
-     },
-     {
-      "s": "Knight Terrors: Catwoman",
-      "n": "2",
-      "t": null,
-      "d": "2023-10",
       "p": null,
       "c": [
        "catwoman"
@@ -16799,6 +16759,46 @@
       "p": null,
       "c": [
        "batman"
+      ]
+     },
+     {
+      "s": "Knight Terrors: Batman",
+      "n": "2",
+      "t": null,
+      "d": "2023-10",
+      "p": null,
+      "c": [
+       "batman"
+      ]
+     },
+     {
+      "s": "Knight Terrors: Nightwing",
+      "n": "2",
+      "t": null,
+      "d": "2023-10",
+      "p": null,
+      "c": [
+       "nightwing"
+      ]
+     },
+     {
+      "s": "Knight Terrors: Robin",
+      "n": "2",
+      "t": null,
+      "d": "2023-10",
+      "p": null,
+      "c": [
+       "robin-damian"
+      ]
+     },
+     {
+      "s": "Knight Terrors: Catwoman",
+      "n": "2",
+      "t": null,
+      "d": "2023-10",
+      "p": null,
+      "c": [
+       "catwoman"
       ]
      },
      {
