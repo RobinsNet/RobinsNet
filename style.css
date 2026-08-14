@@ -70,6 +70,8 @@ input, select { font-family: inherit; }
   border-radius: 999px; padding: 4px 11px; font-size: 12.5px; transition: all .15s;
 }
 .chip:hover { color: var(--text); border-color: var(--text3); }
+.chip.pchip { font-size: 11px; padding: 3px 9px; opacity: .8; }
+.chip.pchip.on { opacity: 1; }
 .chip.on { color: #0e1013; background: var(--accent); border-color: var(--accent); font-weight: 700; }
 .chip.era-P52.on { background: #e6b800; border-color: #e6b800; }
 .chip.era-New52.on { background: #1971c2; border-color: #1971c2; }

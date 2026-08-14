@@ -3361,7 +3361,7 @@
    "robin-tim",
    "oracle",
    "gordon",
-   "batgirl",
+   "batgirl-cassandra",
    "catwoman",
    "azrael"
   ],
@@ -3624,7 +3624,7 @@
    "oracle",
    "nightwing",
    "robin-tim",
-   "batgirl",
+   "batgirl-cassandra",
    "catwoman",
    "azrael"
   ],
@@ -3894,7 +3894,7 @@
    "oracle",
    "nightwing",
    "robin-tim",
-   "batgirl",
+   "batgirl-cassandra",
    "catwoman"
   ],
   "related": [
@@ -4139,7 +4139,7 @@
       "d": "2004-07",
       "p": null,
       "c": [
-       "robin-tim",
+       "robin-stephanie",
        "batman"
       ],
       "x": "同时是 War Drums 尾声（桥接刊）；封面日期为按月推算"
@@ -4151,7 +4151,7 @@
       "d": "2004-12",
       "p": null,
       "c": [
-       "batgirl",
+       "batgirl-cassandra",
        "oracle"
       ]
      },
@@ -4222,7 +4222,7 @@
       "d": "2004-08",
       "p": null,
       "c": [
-       "robin-tim"
+       "robin-stephanie"
       ],
       "x": "封面日期为按月推算"
      },
@@ -4233,7 +4233,7 @@
       "d": "2005-01",
       "p": null,
       "c": [
-       "batgirl",
+       "batgirl-cassandra",
        "oracle"
       ]
      },
@@ -4314,7 +4314,7 @@
       "d": "2004-09",
       "p": null,
       "c": [
-       "robin-tim"
+       "robin-stephanie"
       ],
       "x": "封面日期为按月推算"
      },
@@ -4358,7 +4358,7 @@
       "d": "2004-10",
       "p": null,
       "c": [
-       "robin-tim",
+       "robin-stephanie",
        "batman"
       ],
       "x": "封面日期为按月推算"
@@ -4418,7 +4418,7 @@
    "oracle",
    "robin-tim",
    "nightwing",
-   "batgirl",
+   "batgirl-cassandra",
    "blackmask",
    "catwoman",
    "gordon"
@@ -4729,7 +4729,7 @@
    "blackmask",
    "oracle",
    "gordon",
-   "batgirl"
+   "batgirl-cassandra"
   ],
   "related": [
    "war-games"
@@ -5892,7 +5892,7 @@
       "p": null,
       "c": [
        "oracle",
-       "batgirl"
+       "oracle"
       ],
       "x": "联动迷你系列（并不存在 'Battle for the Cowl: Oracle' 单刊，Oracle 关联作实为这期三期迷你）；常见于披风争夺战阅读顺序"
      },
@@ -5904,7 +5904,7 @@
       "p": null,
       "c": [
        "oracle",
-       "batgirl"
+       "oracle"
       ]
      },
      {
@@ -5915,7 +5915,7 @@
       "p": null,
       "c": [
        "oracle",
-       "batgirl"
+       "oracle"
       ]
      }
     ]
@@ -6949,7 +6949,7 @@
       "p": 2,
       "c": [
        "redrobin",
-       "batgirl"
+       "batgirl-stephanie"
       ],
       "x": "蝙蝠少女/红罗宾交叉开始（与 Batgirl #10 同期，封面均为 2010-05）"
      },
@@ -6961,7 +6961,7 @@
       "p": 3,
       "c": [
        "redrobin",
-       "batgirl"
+       "batgirl-stephanie"
       ],
       "x": "交叉在此收尾（DC.com 博客，与 Batgirl #11 同期）"
      },
@@ -7159,7 +7159,7 @@
    "batman",
    "ras",
    "robin-damian",
-   "batgirl",
+   "batgirl-stephanie",
    "teentitans",
    "azrael"
   ],
@@ -7496,7 +7496,7 @@
       "p": null,
       "c": [
        "batman",
-       "batgirl"
+       "batgirl-stephanie"
       ],
       "x": "单刊；GCD 标注故事无题"
      },
@@ -7534,7 +7534,7 @@
       "c": [
        "batman",
        "oracle",
-       "batgirl"
+       "oracle"
       ],
       "x": "单刊；GCD 标注故事无题"
      },
@@ -7563,7 +7563,7 @@
    "nightwing",
    "robin-damian",
    "redrobin",
-   "batgirl",
+   "batgirl-stephanie",
    "catwoman",
    "oracle",
    "gordon",
@@ -7936,7 +7936,7 @@
        "nightwing",
        "redrobin",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "talia"
       ],
       "x": "单刊；取代被征订又取消的第9、10期；故事分两章（'Chapter 1: The School of Night' 与无题 'Chapter 2'）；2011-12-21 上市"
@@ -7956,7 +7956,7 @@
    "catwoman",
    "nightwing",
    "redrobin",
-   "batgirl",
+   "batgirl-stephanie",
    "batwoman",
    "alfred"
   ],
@@ -8017,7 +8017,7 @@
       "p": 4,
       "c": [
        "batman",
-       "batgirl"
+       "batgirl-barbara"
       ],
       "x": "GCD: Early October 2011"
      },
@@ -8032,7 +8032,7 @@
        "robin-damian",
        "nightwing",
        "redrobin",
-       "batgirl"
+       "batgirl-barbara"
       ],
       "x": "GCD Newsstand: Late October 2011; finale"
      }
@@ -8047,7 +8047,7 @@
   "characters": [
    "batman",
    "robin-damian",
-   "batgirl",
+   "batgirl-stephanie",
    "nightwing",
    "redrobin"
   ],
@@ -8928,7 +8928,7 @@
       "d": "2012-07",
       "p": null,
       "c": [
-       "batgirl",
+       "batgirl-barbara",
        "talon"
       ]
      },
@@ -8984,7 +8984,7 @@
       "d": "2012-07",
       "p": null,
       "c": [
-       "batgirl",
+       "batgirl-barbara",
        "talon"
       ]
      },
@@ -9046,7 +9046,7 @@
    "nightwing",
    "robin-damian",
    "redhood",
-   "batgirl",
+   "batgirl-barbara",
    "catwoman"
   ],
   "family": "bat-family",
@@ -9353,7 +9353,7 @@
       "d": "2012-12",
       "p": null,
       "c": [
-       "batgirl",
+       "batgirl-barbara",
        "joker"
       ]
      },
@@ -9375,7 +9375,7 @@
       "d": "2013-01",
       "p": null,
       "c": [
-       "batgirl",
+       "batgirl-barbara",
        "joker"
       ]
      },
@@ -9408,7 +9408,7 @@
       "d": "2013-02",
       "p": null,
       "c": [
-       "batgirl",
+       "batgirl-barbara",
        "joker"
       ]
      },
@@ -9486,7 +9486,7 @@
       "d": "2013-03",
       "p": null,
       "c": [
-       "batgirl",
+       "batgirl-barbara",
        "joker"
       ]
      },
@@ -9596,7 +9596,7 @@
    "nightwing",
    "robin-damian",
    "redhood",
-   "batgirl",
+   "batgirl-barbara",
    "catwoman"
   ],
   "family": "bat-family",
@@ -9830,7 +9830,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -9845,7 +9845,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -9860,7 +9860,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -9875,7 +9875,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -9890,7 +9890,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -9905,7 +9905,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -9920,7 +9920,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -9935,7 +9935,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -9950,7 +9950,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -9965,7 +9965,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -9980,7 +9980,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -9995,7 +9995,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10010,7 +10010,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10025,7 +10025,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10040,7 +10040,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10055,7 +10055,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10070,7 +10070,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10085,7 +10085,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10100,7 +10100,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10115,7 +10115,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10130,7 +10130,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10145,7 +10145,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10160,7 +10160,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10175,7 +10175,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10190,7 +10190,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10205,7 +10205,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10220,7 +10220,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10235,7 +10235,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10250,7 +10250,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10265,7 +10265,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10280,7 +10280,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10295,7 +10295,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10310,7 +10310,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10325,7 +10325,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10340,7 +10340,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10355,7 +10355,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10370,7 +10370,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10385,7 +10385,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10400,7 +10400,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10415,7 +10415,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10430,7 +10430,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10445,7 +10445,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10460,7 +10460,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10475,7 +10475,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10490,7 +10490,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10505,7 +10505,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10520,7 +10520,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10535,7 +10535,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10550,7 +10550,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10565,7 +10565,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10580,7 +10580,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -10595,7 +10595,7 @@
        "nightwing",
        "robin-tim",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      }
@@ -10612,7 +10612,7 @@
    "nightwing",
    "robin-tim",
    "redhood",
-   "batgirl",
+   "batgirl-barbara",
    "gordon"
   ],
   "family": "bat-family",
@@ -10958,7 +10958,7 @@
       "d": "2015-05",
       "p": null,
       "c": [
-       "batgirl",
+       "batgirl-barbara",
        "joker"
       ]
      },
@@ -11550,7 +11550,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11566,7 +11566,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11582,7 +11582,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11598,7 +11598,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11614,7 +11614,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11630,7 +11630,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11646,7 +11646,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11662,7 +11662,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11678,7 +11678,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11694,7 +11694,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11710,7 +11710,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11726,7 +11726,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11742,7 +11742,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11758,7 +11758,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11774,7 +11774,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11790,7 +11790,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11806,7 +11806,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11822,7 +11822,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11838,7 +11838,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11854,7 +11854,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11870,7 +11870,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11886,7 +11886,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11902,7 +11902,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11918,7 +11918,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11934,7 +11934,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      },
@@ -11950,7 +11950,7 @@
        "redhood",
        "robin-tim",
        "robin-damian",
-       "batgirl",
+       "batgirl-barbara",
        "gordon"
       ]
      }
@@ -11968,7 +11968,7 @@
    "redhood",
    "robin-tim",
    "robin-damian",
-   "batgirl",
+   "batgirl-barbara",
    "gordon"
   ],
   "family": "bat-family",
@@ -12150,7 +12150,7 @@
    "nightwing",
    "redhood",
    "redrobin",
-   "batgirl"
+   "batgirl-barbara"
   ],
   "family": "bat-family",
   "related": [
@@ -13719,7 +13719,7 @@
        "batman",
        "nightwing",
        "robin-damian",
-       "batgirl"
+       "batgirl-barbara"
       ],
       "x": "2017-12 上市"
      },
@@ -14269,7 +14269,7 @@
       "c": [
        "batman",
        "joker",
-       "batgirl"
+       "batgirl-barbara"
       ]
      },
      {
@@ -14301,7 +14301,7 @@
        "batman",
        "joker",
        "redhood",
-       "batgirl",
+       "batgirl-barbara",
        "nightwing",
        "catwoman",
        "gordon"
@@ -14315,7 +14315,7 @@
       "d": "2020-10",
       "p": null,
       "c": [
-       "batgirl",
+       "batgirl-barbara",
        "joker",
        "gordon"
       ],
@@ -14396,7 +14396,7 @@
    "joker",
    "redhood",
    "nightwing",
-   "batgirl",
+   "batgirl-barbara",
    "catwoman",
    "alfred",
    "gordon",

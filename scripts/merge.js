@@ -11,6 +11,8 @@ const seriesTable = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'series.j
 const charTable = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'characters.json'), 'utf8'));
 const eraTable = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'continuities.json'), 'utf8'));
 const earthTable = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'earths.json'), 'utf8'));
+let personTable = [];
+try { personTable = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'persons.json'), 'utf8')); } catch (e) { /* 可选 */ }
 
 const seriesById = new Map(seriesTable.map(s => [s.id, s]));
 const seriesByName = new Map();
@@ -32,6 +34,32 @@ function eraFromDate(d) {
   if (v < 2021 * 12 + 1) return 'Rebirth';
   if (v < 2024 * 12 + 11) return 'Frontier';
   return 'Absolute';
+}
+/* 通用标签 batgirl → 具体人物·称号（按刊物/封面日期拆分） */
+const BATGIRL_SERIES = {
+  'batgirl-v1': ['batgirl-cassandra'],   // 2000-2006 卡珊德拉
+  'batgirl-v2': ['batgirl-stephanie'],   // 2009-2011 斯蒂芬妮
+  'batgirl-v3': ['batgirl-barbara'],     // 2011-2016 芭芭拉
+  'batgirl-v4': ['batgirl-barbara']      // 2016-2020 芭芭拉
+};
+function expandBatgirl(d, series) {
+  if (typeof series === 'string' && BATGIRL_SERIES[series]) return BATGIRL_SERIES[series];
+  if (typeof series === 'string' && /oracle/i.test(series)) return ['oracle']; // Oracle 相关单刊 → 芭芭拉(神谕)
+  if (!d) return ['batgirl'];
+  if (d < '1999-03') return ['batgirl'];            // 空缺期，保留通用
+  if (d < '2006-03') return ['batgirl-cassandra'];  // NML 起卡珊德拉
+  if (d < '2009-08') return ['batgirl'];            // 空缺期
+  if (d < '2011-09') return ['batgirl-stephanie'];  // 斯蒂芬妮
+  if (d < '2021-01') return ['batgirl-barbara'];    // 新52/重生 芭芭拉
+  return ['batgirl'];                               // Batgirls 时期（卡珊德拉+斯蒂芬妮），保留通用
+}
+function expandPersonas(tags, d, series) {
+  const out = [];
+  for (const c of tags) {
+    if (c === 'batgirl') out.push(...expandBatgirl(d, series));
+    else out.push(c);
+  }
+  return out;
 }
 function resolveSeries(s) {
   if (typeof s !== 'string') return String(s);
@@ -75,6 +103,7 @@ function normalizeIssue(iss, src, context, idx) {
       else warn(`[${src}] ${context} ${out.s} #${out.n}: 未知人物 id "${c}"`);
     }
   } else out.c = [];
+  out.c = expandPersonas(out.c, out.d, out.s);
   if (iss.x != null) out.x = String(iss.x);
   return out;
 }
@@ -134,6 +163,7 @@ function normalizeItem(item, isEvent, src) {
   out.earth = earthIds.has(item.earth) ? item.earth : (out.era === 'P52' ? 'new-earth' : 'earth-0');
   out.summaryZh = item.summaryZh || '';
   out.characters = Array.isArray(item.characters) ? item.characters.filter(c => charIds.has(c)) : [];
+  out.characters = expandPersonas(out.characters, out.start, null);
   if (item.family) out.family = item.family;
   if (Array.isArray(item.related)) out.related = item.related;
   addItem(out, src);

@@ -1,8 +1,17 @@
 {
-  "title": "蝙蝠家族阅读指南",
-  "titleEn": "Batman Family Reading Guide",
-  "subtitle": "后危机时代 (1986– ) 蝙蝠家族跨刊事件阅读顺序",
-  "version": "0.1.0",
-  "notes": "日期均为封面日期(cover date，刊物标注的发行月份)。阅读顺序按各刊实际连载月份交错排列。数据为社区整理，个别期号/日期可能有误，欢迎修正。",
-  "coreCharacters": ["batman", "nightwing", "redhood", "robin-tim", "redrobin", "robin-damian"]
+ "title": "蝙蝠家族阅读指南",
+ "titleEn": "Batman Family Reading Guide",
+ "subtitle": "后危机时代 (1986– ) 蝙蝠家族跨刊事件阅读顺序",
+ "version": "0.1.0",
+ "notes": "日期均为封面日期(cover date，刊物标注的发行月份)。阅读顺序按各刊实际连载月份交错排列。数据为社区整理，个别期号/日期可能有误，欢迎修正。",
+ "coreCharacters": [
+  "bruce-wayne",
+  "dick-grayson",
+  "jason-todd",
+  "tim-drake",
+  "damian-wayne",
+  "stephanie-brown",
+  "barbara-gordon",
+  "cassandra-cain"
+ ]
 }

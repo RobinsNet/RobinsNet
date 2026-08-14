@@ -1,0 +1,15 @@
+[
+  { "id": "bruce-wayne", "nameZh": "布鲁斯·韦恩", "nameEn": "Bruce Wayne", "note": "蝙蝠侠本体", "color": "#3b3b3b" },
+  { "id": "dick-grayson", "nameZh": "迪克·格雷森", "nameEn": "Dick Grayson", "note": "罗宾一世 → 夜翼；2009–2011 曾代任蝙蝠侠", "color": "#2e6ff2" },
+  { "id": "jason-todd", "nameZh": "杰森·托德", "nameEn": "Jason Todd", "note": "罗宾二世 → 红头罩", "color": "#e03131" },
+  { "id": "tim-drake", "nameZh": "蒂姆·德雷克", "nameEn": "Tim Drake", "note": "罗宾三世 → 红罗宾", "color": "#12b886" },
+  { "id": "damian-wayne", "nameZh": "达米安·韦恩", "nameEn": "Damian Wayne", "note": "罗宾（五世）", "color": "#1098ad" },
+  { "id": "stephanie-brown", "nameZh": "斯蒂芬妮·布朗", "nameEn": "Stephanie Brown", "note": "搅局者 → 短暂任罗宾 → 蝙蝠女", "color": "#f783ac" },
+  { "id": "barbara-gordon", "nameZh": "芭芭拉·戈登", "nameEn": "Barbara Gordon", "note": "蝙蝠女 → 神谕 → 重回蝙蝠女", "color": "#f59f00" },
+  { "id": "cassandra-cain", "nameZh": "卡珊德拉·该隐", "nameEn": "Cassandra Cain", "note": "蝙蝠女 → 孤儿 → Batgirls 时期蝙蝠女", "color": "#e8590c" },
+  { "id": "kate-kane", "nameZh": "凯特·凯恩", "nameEn": "Kate Kane", "note": "蝙蝠女侠", "color": "#cc5de8" },
+  { "id": "selina-kyle", "nameZh": "赛琳娜·凯尔", "nameEn": "Selina Kyle", "note": "猫女", "color": "#495057" },
+  { "id": "jean-paul-valley", "nameZh": "让-保罗·瓦利", "nameEn": "Jean-Paul Valley", "note": "阿兹瑞尔；Knightfall 期间短暂任蝙蝠侠", "color": "#9c36b5" },
+  { "id": "alfred-pennyworth", "nameZh": "阿尔弗雷德·潘尼沃斯", "nameEn": "Alfred Pennyworth", "note": "韦恩家族管家", "color": "#868e96" },
+  { "id": "james-gordon", "nameZh": "詹姆斯·戈登", "nameEn": "James Gordon", "note": "戈登局长", "color": "#adb5bd" }
+]

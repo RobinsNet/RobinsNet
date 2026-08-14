@@ -811,6 +811,828 @@
      "x": "Cover date inferred (monthly); title per HipComic"
     }
    ]
+  },
+  {
+   "id": "batgirl-v1-cassandra",
+   "name": "Batgirl (Vol. 1): Cassandra Cain",
+   "nameZh": "蝙蝠女·卡珊德拉·该隐（2000–2006）",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "series",
+   "start": "2000-01",
+   "end": "2006-01",
+   "summaryZh": "卡珊德拉·该隐任蝙蝠女时期的主刊连载（Batgirl v1 #1-73）。封面日期为按月推算，仅作参考。",
+   "characters": [
+    "batgirl-cassandra",
+    "batman",
+    "oracle",
+    "gordon"
+   ],
+   "issues": [
+    {
+     "s": "batgirl-v1",
+     "n": "1",
+     "t": "",
+     "d": "2000-01",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "2",
+     "t": "",
+     "d": "2000-02",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "3",
+     "t": "",
+     "d": "2000-03",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "4",
+     "t": "",
+     "d": "2000-04",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "5",
+     "t": "",
+     "d": "2000-05",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "6",
+     "t": "",
+     "d": "2000-06",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "7",
+     "t": "",
+     "d": "2000-07",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "8",
+     "t": "",
+     "d": "2000-08",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "9",
+     "t": "",
+     "d": "2000-09",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "10",
+     "t": "",
+     "d": "2000-10",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "11",
+     "t": "",
+     "d": "2000-11",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "12",
+     "t": "",
+     "d": "2000-12",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "13",
+     "t": "",
+     "d": "2001-01",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "14",
+     "t": "",
+     "d": "2001-02",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "15",
+     "t": "",
+     "d": "2001-03",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "16",
+     "t": "",
+     "d": "2001-04",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "17",
+     "t": "",
+     "d": "2001-05",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "18",
+     "t": "",
+     "d": "2001-06",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "19",
+     "t": "",
+     "d": "2001-07",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "20",
+     "t": "",
+     "d": "2001-08",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "21",
+     "t": "",
+     "d": "2001-09",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "22",
+     "t": "",
+     "d": "2001-10",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "23",
+     "t": "",
+     "d": "2001-11",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "24",
+     "t": "",
+     "d": "2001-12",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "25",
+     "t": "",
+     "d": "2002-01",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "26",
+     "t": "",
+     "d": "2002-02",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "27",
+     "t": "",
+     "d": "2002-03",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "28",
+     "t": "",
+     "d": "2002-04",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "29",
+     "t": "",
+     "d": "2002-05",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "30",
+     "t": "",
+     "d": "2002-06",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "31",
+     "t": "",
+     "d": "2002-07",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "32",
+     "t": "",
+     "d": "2002-08",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "33",
+     "t": "",
+     "d": "2002-09",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "34",
+     "t": "",
+     "d": "2002-10",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "35",
+     "t": "",
+     "d": "2002-11",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "36",
+     "t": "",
+     "d": "2002-12",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "37",
+     "t": "",
+     "d": "2003-01",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "38",
+     "t": "",
+     "d": "2003-02",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "39",
+     "t": "",
+     "d": "2003-03",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "40",
+     "t": "",
+     "d": "2003-04",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "41",
+     "t": "",
+     "d": "2003-05",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "42",
+     "t": "",
+     "d": "2003-06",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "43",
+     "t": "",
+     "d": "2003-07",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "44",
+     "t": "",
+     "d": "2003-08",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "45",
+     "t": "",
+     "d": "2003-09",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "46",
+     "t": "",
+     "d": "2003-10",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "47",
+     "t": "",
+     "d": "2003-11",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "48",
+     "t": "",
+     "d": "2003-12",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "49",
+     "t": "",
+     "d": "2004-01",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "50",
+     "t": "",
+     "d": "2004-02",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "51",
+     "t": "",
+     "d": "2004-03",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "52",
+     "t": "",
+     "d": "2004-04",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "53",
+     "t": "",
+     "d": "2004-05",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "54",
+     "t": "",
+     "d": "2004-06",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "55",
+     "t": "",
+     "d": "2004-07",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "56",
+     "t": "",
+     "d": "2004-08",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "57",
+     "t": "",
+     "d": "2004-09",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "58",
+     "t": "",
+     "d": "2004-10",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "59",
+     "t": "",
+     "d": "2004-11",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "60",
+     "t": "",
+     "d": "2004-12",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "61",
+     "t": "",
+     "d": "2005-01",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "62",
+     "t": "",
+     "d": "2005-02",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "63",
+     "t": "",
+     "d": "2005-03",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "64",
+     "t": "",
+     "d": "2005-04",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "65",
+     "t": "",
+     "d": "2005-05",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "66",
+     "t": "",
+     "d": "2005-06",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "67",
+     "t": "",
+     "d": "2005-07",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "68",
+     "t": "",
+     "d": "2005-08",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "69",
+     "t": "",
+     "d": "2005-09",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "70",
+     "t": "",
+     "d": "2005-10",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "71",
+     "t": "",
+     "d": "2005-11",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "72",
+     "t": "",
+     "d": "2005-12",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "73",
+     "t": "",
+     "d": "2006-01",
+     "p": null,
+     "c": [
+      "batgirl-cassandra"
+     ],
+     "x": "封面日期按月推算"
+    }
+   ]
   }
  ],
  "standalone": [

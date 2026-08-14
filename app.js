@@ -6,7 +6,7 @@ const TYPE_ZH = {
   arc: '单元弧线', series: '连载系列', 'one-shot': '单刊特刊', gn: '图像小说'
 };
 const LS = { read: 'bfrl.read', favs: 'bfrl.favs', build: 'bfrl.build' };
-const CORE_CHARS = ['batman', 'nightwing', 'redhood', 'robin-tim', 'redrobin', 'robin-damian'];
+const CORE_PERSONS = ['bruce-wayne', 'dick-grayson', 'jason-todd', 'tim-drake', 'damian-wayne', 'stephanie-brown', 'barbara-gordon', 'cassandra-cain'];
 const MEGA_TYPES = ['mega-event', 'saga', 'crossover'];
 
 const state = {
@@ -14,7 +14,7 @@ const state = {
   view: 'home', current: null, arcTab: 'curated',
   filters: { q: '', eras: [], types: [], chars: [], earths: [], series: [], onlyMega: false, from: '', to: '' },
   read: new Set(), favs: new Set(), build: new Set(),
-  evChar: null, evSeries: '', evUnreadOnly: false, evBySeries: false,
+  evPerson: null, evChar: null, evSeries: '', evUnreadOnly: false, evBySeries: false,
   showAllChars: false
 };
 
@@ -48,27 +48,47 @@ function toast(msg) {
 }
 function scrollTop() { window.scrollTo({ top: 0 }); }
 
+/* ---------- 人物 / 称号时期 ---------- */
+function personOf(personaId) {
+  const c = charInfo(personaId);
+  if (c.person && state.idx.persons.has(c.person)) return state.idx.persons.get(c.person);
+  return c; // 无 person 记录的（反派/团队等）以自身为 person
+}
+function personasOf(personId) {
+  return state.data.characters.filter(c => (c.person || c.id) === personId && !c.aggregate).map(c => c.id);
+}
+function personaPeriodText(pid) {
+  const c = charInfo(pid);
+  if (c.aggregate) return '';
+  const per = c.periods || [];
+  if (per.length) return per.map(x => `${x.start}–${x.end || '至今'}`).join(' / ');
+  if (c.start || c.end) return `${c.start || '?'}–${c.end || '至今'}`;
+  return '';
+}
+
 /* ---------- 数据装载 ---------- */
 async function boot() {
   try {
-    const [meta, characters, series, earths, continuities, events, arcsData] = await Promise.all([
+    const [meta, characters, series, earths, continuities, persons, events, arcsData] = await Promise.all([
       fetch('data/meta.json').then(r => r.json()),
       fetch('data/characters.json').then(r => r.json()),
       fetch('data/series.json').then(r => r.json()),
       fetch('data/earths.json').then(r => r.json()),
       fetch('data/continuities.json').then(r => r.json()),
+      fetch('data/persons.json').then(r => r.json()),
       fetch('data/events.json').then(r => r.json()),
       fetch('data/arcs.json').then(r => r.json())
     ]);
     state.data = {
-      meta, characters, series, earths, continuities, events,
+      meta, characters, series, earths, continuities, persons, events,
       arcs: arcsData.arcs || [], standalone: arcsData.standalone || []
     };
     state.idx = {
       series: new Map(series.map(s => [s.id, s])),
       chars: new Map(characters.map(c => [c.id, c])),
       eras: new Map(continuities.map(c => [c.id, c])),
-      earths: new Map(earths.map(e => [e.id, e]))
+      earths: new Map(earths.map(e => [e.id, e])),
+      persons: new Map(persons.map(p => [p.id, p]))
     };
     state.groups = buildGroups();
     state.items = [
@@ -135,7 +155,7 @@ function normPrefix(s) { return s.replace(/[\s,:.\-\u2013\u2014]+$/g, '').trim()
 
 function buildGroups() {
   const st = state.data.standalone || [];
-  const byPrefix = new Map(); // prefix -> [{iss, series}]
+  const byPrefix = new Map(); // prefix -> [issues]
   for (const iss of st) {
     if (!iss.t) continue;
     const m = PART_RE.exec(iss.t);
@@ -194,7 +214,11 @@ function matchesFilters(item) {
   if (f.earths.length && !f.earths.includes(item.earth)) return false;
   if (f.chars.length) {
     const cs = charSetOf(item);
-    if (!f.chars.some(c => cs.has(c))) return false;
+    const hit = f.chars.some(v => {
+      if (state.idx.persons.has(v)) return personasOf(v).some(p => cs.has(p)); // 人物级：其任一称号命中
+      return cs.has(v); // 称号级：精确命中
+    });
+    if (!hit) return false;
   }
   if (f.series.length) {
     const ss = seriesSetOf(item);
@@ -206,7 +230,7 @@ function matchesFilters(item) {
     const q = f.q.toLowerCase();
     const hay = [item.name, item.nameZh, item.summaryZh,
       [...seriesSetOf(item)].join(' '),
-      [...charSetOf(item)].map(c => charInfo(c).nameZh + ' ' + charInfo(c).nameEn).join(' ')
+      [...charSetOf(item)].map(c => charInfo(c).nameZh + ' ' + charInfo(c).nameEn + ' ' + personOf(c).nameZh + ' ' + personOf(c).nameEn).join(' ')
     ].join(' ').toLowerCase();
     if (!hay.includes(q)) return false;
   }
@@ -242,7 +266,13 @@ function bindUI() {
 
 function onMainClick(e) {
   const t = e.target;
-  // 事件详情内的"只看人物"chips
+  // 事件详情内"只看人物/称号"chips
+  if (t.dataset && t.dataset.kind === 'evperson') {
+    state.evPerson = state.evPerson === t.dataset.val ? null : t.dataset.val;
+    state.evChar = null;
+    render();
+    return;
+  }
   if (t.dataset && t.dataset.kind === 'evchar') {
     state.evChar = state.evChar === t.dataset.val ? null : t.dataset.val;
     render();
@@ -378,21 +408,40 @@ function renderFilterbar() {
   fb.style.display = 'flex';
   const f = state.filters;
   const eras = state.data.continuities;
-  const chars = state.showAllChars ? state.data.characters : state.data.characters.filter(c => CORE_CHARS.includes(c.id));
   const types = Object.keys(TYPE_ZH);
   const earths = state.data.earths;
   const seriesSet = new Set();
   state.items.forEach(i => seriesSetOf(i).forEach(s => seriesSet.add(s)));
   (state.data.standalone || []).forEach(i => seriesSet.add(seriesName(i.s)));
   const seriesList = [...seriesSet].sort();
-  const chip = (kind, val, label, cls) =>
-    `<button class="chip ${f[kind].includes(val) ? 'on' : ''} ${cls || ''}" data-kind="${kind}" data-val="${val}">${esc(label)}</button>`;
+  const chip = (kind, val, label, cls, title) =>
+    `<button class="chip ${f[kind].includes(val) ? 'on' : ''} ${cls || ''}" data-kind="${kind}" data-val="${val}" ${title ? `title="${esc(title)}"` : ''}>${esc(label)}</button>`;
+
+  // 人物：按 person 分组（person chip + 称号 sub-chips）
+  const personas = state.data.characters.filter(c => !c.aggregate);
+  const grouped = new Map();
+  personas.forEach(c => { const k = c.person || c.id; if (!grouped.has(k)) grouped.set(k, []); grouped.get(k).push(c); });
+  const coreKeys = new Set(CORE_PERSONS);
+  let charHtml = '';
+  for (const [key, list] of grouped) {
+    if (!state.showAllChars && !coreKeys.has(key)) continue;
+    const per = state.idx.persons.get(key);
+    const personLabel = per ? per.nameZh : list[0].nameZh;
+    const personTitle = per
+      ? `${per.nameEn}${per.note ? ' — ' + per.note : ''} · 称号时期：${list.map(c => `${c.nameZh}${personaPeriodText(c.id) ? '(' + personaPeriodText(c.id) + ')' : ''}`).join(' / ')}`
+      : (list[0].nameEn || '');
+    charHtml += chip('chars', key, personLabel, '', personTitle);
+    if (list.length > 1) {
+      charHtml += list.map(c => chip('chars', c.id, c.nameZh, 'pchip',
+        `${c.nameEn}${personaPeriodText(c.id) ? ' · ' + personaPeriodText(c.id) : ''}`)).join('');
+    }
+  }
   fb.innerHTML = `
     <div class="fgroup"><span class="flabel">时代</span>
       ${eras.map(e => chip('eras', e.id, e.nameZh, `era-${e.id}`)).join('')}
     </div>
-    <div class="fgroup"><span class="flabel">人物</span>
-      ${chars.map(c => chip('chars', c.id, c.nameZh)).join('')}
+    <div class="fgroup"><span class="flabel">人物/称号</span>
+      ${charHtml}
       <button class="fbtn" data-action="more-chars">${state.showAllChars ? '收起' : '更多'}</button>
     </div>
     <div class="fgroup"><span class="flabel">类型</span>
@@ -430,7 +479,7 @@ function itemCard(it) {
       <span class="badge">${earthInfo(it.earth).nameZh}</span>
       <span class="dates">${esc(it.start || '?')} ~ ${esc(it.end || '?')}</span>
     </div>
-    <div class="chips">${chars.map(c => { const ci = charInfo(c); return `<span class="minichip" style="border-color:${ci.color}88;color:${ci.color}">${esc(ci.nameZh)}</span>`; }).join('')}${more ? '<span class="minichip">…</span>' : ''}</div>
+    <div class="chips">${chars.map(c => { const ci = charInfo(c); return `<span class="minichip" style="border-color:${ci.color}88;color:${ci.color}" title="${esc(ci.nameZh + (personaPeriodText(c) ? ' · ' + personaPeriodText(c) : ''))}">${esc(ci.nameZh)}</span>`; }).join('')}${more ? '<span class="minichip">…</span>' : ''}</div>
     <div class="foot">
       <span class="issues-n">${issueCount(it)} 期</span>
       <button class="favbtn ${state.favs.has(it.id) ? 'on' : ''}" data-action="fav" data-id="${esc(it.id)}" title="收藏">${state.favs.has(it.id) ? '★' : '☆'}</button>
@@ -480,7 +529,8 @@ function viewHome() {
         <li><b>事件库</b>：选择大事件（如 No Man's Land、Knightfall）→ 得到跨刊交错排列的完整阅读顺序与当期标题。</li>
         <li><b>时间线</b>：所有事件/弧线按封面日期排序，按时代分区。</li>
         <li><b>单元弧线</b>：标题带 Part One/Two 的散刊会被自动合并成连续篇。</li>
-        <li><b>筛选</b>：顶部可按 时代 / 人物 / 类型 / 地球 / 刊物 / 月份 组合筛选；勾选期刊可记录进度（保存在本机）。</li>
+        <li><b>人物/称号</b>：筛选条按"人物"分组（如斯蒂芬妮·布朗），可进一步选具体称号时期（搅局者 / 罗宾 / 蝙蝠女）。</li>
+        <li><b>筛选</b>：顶部可按 时代 / 人物·称号 / 类型 / 地球 / 刊物 / 月份 组合筛选；勾选期刊可记录进度（保存在本机）。</li>
       </ul>
     </div>
   </div>`;
@@ -512,11 +562,12 @@ function viewEvent() {
   const prev = idx > 0 ? list[idx - 1] : null;
   const next = idx < list.length - 1 ? list[idx + 1] : null;
   const allIss = flatIssues(it);
-  const charPool = [...charSetOf(it)].sort();
+  const charPool = [...charSetOf(it)];
   const serPool = [...seriesSetOf(it)].sort();
   const pct = progressOf(it);
 
   const visible = allIss.filter(iss => {
+    if (state.evPerson && !personasOf(state.evPerson).some(p => (iss.c || []).includes(p))) return false;
     if (state.evChar && !(iss.c || []).includes(state.evChar)) return false;
     if (state.evSeries && seriesName(iss.s) !== state.evSeries) return false;
     if (state.evUnreadOnly && state.read.has(issueKey(iss))) return false;
@@ -524,6 +575,21 @@ function viewEvent() {
   });
 
   const rel = (it.related || []).map(itemById).filter(Boolean);
+
+  // "只看人物/称号"chips：按 person 分组
+  const evGroups = new Map();
+  charPool.forEach(pid => {
+    const k = personOf(pid).id;
+    if (!evGroups.has(k)) evGroups.set(k, []);
+    evGroups.get(k).push(pid);
+  });
+  const evChips = [...evGroups.entries()].map(([k, plist]) => {
+    const per = state.idx.persons.get(k);
+    const label = per ? per.nameZh : charInfo(k).nameZh;
+    const title = per ? `${per.nameEn}${per.note ? ' — ' + per.note : ''}` : '';
+    return `<button class="chip ${state.evPerson === k ? 'on' : ''}" data-kind="evperson" data-val="${k}" title="${esc(title)}">${esc(label)}</button>` +
+      (plist.length > 1 ? plist.map(pid => `<button class="chip pchip ${state.evChar === pid ? 'on' : ''}" data-kind="evchar" data-val="${pid}" title="${esc(charInfo(pid).nameEn + (personaPeriodText(pid) ? ' · ' + personaPeriodText(pid) : ''))}">${esc(charInfo(pid).nameZh)}</button>`).join('') : '');
+  }).join('');
 
   let body;
   if (state.evBySeries) {
@@ -558,7 +624,7 @@ function viewEvent() {
       <span class="badge">${issueCount(it)} 期 · 已读 ${pct}%</span>
     </div>
     ${it.summaryZh ? `<p class="summary">${esc(it.summaryZh)}</p>` : ''}
-    <div class="chips">${[...charSetOf(it)].map(c => { const ci = charInfo(c); return `<span class="cchip" style="border-color:${ci.color}88;background:${ci.color}18"><span style="color:${ci.color}">${esc(ci.nameZh)}</span><span class="real">${esc(ci.nameEn)}</span></span>`; }).join('')}</div>
+    <div class="chips">${[...charSetOf(it)].map(c => { const ci = charInfo(c); return `<span class="cchip" style="border-color:${ci.color}88;background:${ci.color}18"><span style="color:${ci.color}">${esc(ci.nameZh)}</span><span class="real">${esc(ci.nameEn)}${personaPeriodText(c) ? ' · ' + esc(personaPeriodText(c)) : ''}</span></span>`; }).join('')}</div>
     <div class="detail-tools">
       <button class="btn primary" data-action="export-text" data-id="${esc(it.id)}">📄 导出阅读清单</button>
       <button class="btn" data-action="export-csv" data-id="${esc(it.id)}">⬇ CSV</button>
@@ -569,8 +635,8 @@ function viewEvent() {
     </div>
   </div>
   <div class="subfilter">
-    <span class="flabel">只看人物</span>
-    ${charPool.map(c => `<button class="chip ${state.evChar === c ? 'on' : ''}" data-kind="evchar" data-val="${c}">${esc(charInfo(c).nameZh)}</button>`).join('')}
+    <span class="flabel">只看人物/称号</span>
+    ${evChips}
     <span class="flabel">刊物</span>
     <select id="ev-series" class="filter-select"><option value="">全部</option>${serPool.map(s => `<option value="${s}" ${state.evSeries === s ? 'selected' : ''}>${esc(s)}</option>`).join('')}</select>
     <label class="toggle"><input type="checkbox" id="ev-unread" ${state.evUnreadOnly ? 'checked' : ''}> 仅未读</label>
@@ -597,7 +663,7 @@ function issueTable(issues) {
       <td class="no">#${esc(iss.n)}</td>
       <td class="title">${iss.t ? esc(iss.t) : '<span style="color:var(--text3)">—</span>'}${iss.p ? `<span class="part-badge">Part ${iss.p}</span>` : ''}${iss.x ? `<div class="note">${esc(iss.x)}</div>` : ''}</td>
       <td class="date">${esc(iss.d || '?')}</td>
-      <td><span class="cdotts">${(iss.c || []).map(c => { const ci = charInfo(c); return `<span class="cdot" style="background:${ci.color}" title="${esc(ci.nameZh)}"></span>`; }).join('')}</span></td>
+      <td><span class="cdotts">${(iss.c || []).map(c => { const ci = charInfo(c); const per = personOf(c); const tip = `${ci.nameZh} · ${per.nameZh}${personaPeriodText(c) ? ' · ' + personaPeriodText(c) : ''}`; return `<span class="cdot" style="background:${ci.color}" title="${esc(tip)}"></span>`; }).join('')}</span></td>
     </tr>`;
   }).join('')}
   </tbody></table>`;
@@ -689,16 +755,18 @@ function viewMyList() {
       <div class="pval">${rd} / ${tot} 期</div><div class="pbar"><i style="width:${tot ? Math.round(rd / tot * 100) : 0}%"></i></div></div>`;
   }).join('');
 
-  const perChar = CORE_CHARS.map(cid => {
-    const ci = charInfo(cid);
-    const its = state.items.filter(i => charSetOf(i).has(cid));
-    const tot = its.reduce((s, i) => s + issueCount(i), 0);
-    let rd = 0;
-    its.forEach(i => flatIssues(i).forEach(iss => {
-      if ((iss.c || []).includes(cid) && state.read.has(issueKey(iss))) rd++;
+  const perPerson = CORE_PERSONS.map(pid => {
+    const per = state.idx.persons.get(pid) || { nameZh: pid, color: '#888' };
+    const personaIds = personasOf(pid);
+    const names = personaIds.map(x => charInfo(x).nameZh).join(' / ');
+    let rd = 0, tot = 0;
+    state.items.forEach(i => flatIssues(i).forEach(iss => {
+      if (!(iss.c || []).some(c => personaIds.includes(c))) return;
+      tot++;
+      if (state.read.has(issueKey(iss))) rd++;
     }));
-    return `<div class="prog-card"><div class="pname" style="color:${ci.color}">${ci.nameZh}</div>
-      <div class="pval">${rd} / ${tot} 期（按人物标签统计）</div><div class="pbar"><i style="width:${tot ? Math.round(rd / tot * 100) : 0}%"></i></div></div>`;
+    return `<div class="prog-card"><div class="pname" style="color:${per.color}">${per.nameZh}</div>
+      <div class="pval">${rd} / ${tot} 期 · ${names}</div><div class="pbar"><i style="width:${tot ? Math.round(rd / tot * 100) : 0}%"></i></div></div>`;
   }).join('');
 
   const favs = [...state.favs].map(itemById).filter(Boolean);
@@ -734,7 +802,7 @@ function viewMyList() {
     <div class="stat"><div class="num">${state.build.size}</div><div class="lbl">清单内事件</div></div>
   </div>
   <div class="sec"><h3>按时代进度</h3><div class="progress-grid">${perEra}</div></div>
-  <div class="sec"><h3>核心人物相关期数进度</h3><div class="progress-grid">${perChar}</div></div>
+  <div class="sec"><h3>核心人物进度（按称号时期）</h3><div class="progress-grid">${perPerson}</div></div>
   <div class="sec"><h3>收藏</h3>${favHtml}</div>
   <div class="sec"><h3>自定义阅读清单</h3>
     <div class="about-card" style="margin-bottom:12px">
@@ -756,10 +824,22 @@ function viewAbout() {
     <p>DC 的蝙蝠家族故事经常「一个单元故事，横跨多本刊物」：同一段剧情会在 <b>Detective Comics、Batman、Robin、Nightwing、Batman: Shadow of the Bat、Titans、Young Justice</b> 之间来回切换；加上 P52（后危机）、New 52（新52）、Rebirth（重生）、平行地球（Earth-2、Earth-3…）等连续性设定，单独追某一本刊很容易漏掉剧情。</p>
     <p>本指南把跨刊的大事件（如 Batman: Legacy、No Man's Land）整理成<b>按连载月份交错排列的阅读顺序</b>，并列出当期标题；小单元剧情若标题连续（Part One/Two…）也会被<b>自动合并</b>成单元事件。</p>
   </div>
+  <div class="about-card"><h3>人物 / 称号时期</h3>
+    <p>同一个人物在不同时期使用不同称号，本指南以「人物（person）→ 称号时期（persona）」两级区分，筛选与进度统计都支持下钻：</p>
+    <ul>
+      <li>蒂姆·德雷克：<b>罗宾</b>（1989–2009）→ <b>红罗宾</b>（2009–）</li>
+      <li>斯蒂芬妮·布朗：<b>搅局者</b>（1992–2009）→ <b>罗宾</b>（2004–05，War Games）→ <b>蝙蝠女</b>（2009–2011）</li>
+      <li>芭芭拉·戈登：<b>蝙蝠女</b>（新52/重生 2011–2020）→ <b>神谕</b>（1989–2011）</li>
+      <li>卡珊德拉·该隐：<b>蝙蝠女</b>（2000–2006 / Batgirls 2021–）</li>
+      <li>杰森·托德：罗宾二世 → <b>红头罩</b>（2005–）；迪克·格雷森：罗宾一世 → <b>夜翼</b></li>
+    </ul>
+    <p>通用标签 <code>batgirl</code> 在数据合并时按刊物/封面日期自动拆分为对应人物；斯蒂芬妮的「搅局者」时期标签尚待补充。</p>
+  </div>
   <div class="about-card"><h3>数据模型</h3>
     <ul>
       <li><b>continuities（时代/连续性）</b>：P52 后危机 1986–2011 / New52 2011–2016 / Rebirth 2016–2021 / Frontier 2021–2024 / Absolute 2024–</li>
       <li><b>earths（地球）</b>：new-earth、earth-0、earth-2、earth-3、flashpoint-earth、absolute-earth</li>
+      <li><b>persons / characters（人物 / 称号）</b>：一个 person 可有多个 persona，每个 persona 带起止时期</li>
       <li><b>events（大事件）</b>：含 phases 分组与跨刊期列表，期字段 <code>s</code>(系列) <code>n</code>(期号) <code>t</code>(标题) <code>d</code>(封面日期) <code>p</code>(Part) <code>c</code>(人物) <code>x</code>(备注)</li>
       <li><b>arcs（策划弧线）</b>：大事件之外的小单元；<b>standalone（散刊）</b>：带 Part 标题的零散期，由前端自动合并</li>
     </ul>
@@ -770,7 +850,7 @@ function viewAbout() {
   </div>
   <div class="about-card"><h3>使用</h3>
     <ul>
-      <li>顶部筛选条：时代 / 人物 / 类型 / 地球 / 刊物 / 月份 / 仅大事件</li>
+      <li>顶部筛选条：时代 / 人物·称号 / 类型 / 地球 / 刊物 / 月份 / 仅大事件</li>
       <li>事件详情页：跨刊阅读顺序表、按人物或刊物过滤、仅未读、按刊分组、导出 TXT/CSV</li>
     </ul>
   </div>`;
@@ -780,6 +860,7 @@ function viewAbout() {
 function exportIssues(item) {
   const allIss = flatIssues(item);
   const visible = allIss.filter(iss => {
+    if (state.evPerson && !personasOf(state.evPerson).some(p => (iss.c || []).includes(p))) return false;
     if (state.evChar && !(iss.c || []).includes(state.evChar)) return false;
     if (state.evSeries && seriesName(iss.s) !== state.evSeries) return false;
     return true;

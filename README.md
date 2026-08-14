@@ -63,6 +63,25 @@ python3 -m http.server 8123
 
 ## 数据模型
 
+### 人物 / 称号时期（person / persona）
+
+同一个人物在不同时期使用不同称号，模型以「**人物（person）→ 称号时期（persona）**」两级区分，筛选、进度统计、事件详情过滤均支持下钻：
+
+| 人物 | 称号时期 |
+| --- | --- |
+| 蒂姆·德雷克 | 罗宾（1989–2009）→ 红罗宾（2009–） |
+| 斯蒂芬妮·布朗 | 搅局者（1992–2009）→ 罗宾（2004–05，War Games）→ 蝙蝠女（2009–2011） |
+| 芭芭拉·戈登 | 蝙蝠女（新52/重生 2011–2020）→ 神谕（1989–2011） |
+| 卡珊德拉·该隐 | 蝙蝠女（2000–2006 / Batgirls 2021–） |
+| 杰森·托德 | 罗宾二世 → 红头罩（2005–） |
+| 迪克·格雷森 | 罗宾一世 → 夜翼（兼 2009–2011 代任蝙蝠侠） |
+
+- `data/persons.json`：人物实体（id/中英名/简介/颜色）。
+- `data/characters.json`：称号 persona（含 `person` 归属、`start`/`end` 或 `periods` 时期数组）；通用聚合标签 `batgirl` 在 `merge.js` 中按**刊物/封面日期**自动拆分为 `batgirl-barbara` / `batgirl-cassandra` / `batgirl-stephanie`（规则见 `scripts/merge.js` 的 `expandBatgirl`）。
+- 已知限制：斯蒂芬妮·布朗的「搅局者」时期期号标签尚未补充（当前 0 期）；2006–2009 与 Batgirls（2021–）等空缺/复合时期的通用标签保留为 `batgirl`。
+
+### 事件 / 弧线结构
+
 事件/弧线（`events.json` / `arcs.json` 中）：
 
 ```jsonc
