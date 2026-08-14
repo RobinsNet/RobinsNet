@@ -663,7 +663,7 @@ function issueTable(issues) {
       <td class="no">#${esc(iss.n)}</td>
       <td class="title">${iss.t ? esc(iss.t) : '<span style="color:var(--text3)">—</span>'}${iss.p ? `<span class="part-badge">Part ${iss.p}</span>` : ''}${iss.x ? `<div class="note">${esc(iss.x)}</div>` : ''}</td>
       <td class="date">${esc(iss.d || '?')}</td>
-      <td><span class="cdotts">${(iss.c || []).map(c => { const ci = charInfo(c); const per = personOf(c); const tip = `${ci.nameZh} · ${per.nameZh}${personaPeriodText(c) ? ' · ' + personaPeriodText(c) : ''}`; return `<span class="cdot" style="background:${ci.color}" title="${esc(tip)}"></span>`; }).join('')}</span></td>
+      <td><span class="cdotts">${(iss.c || []).slice(0, 6).map(c => { const ci = charInfo(c); const per = personOf(c); const tip = `${ci.nameZh} · ${per.nameZh}${personaPeriodText(c) ? ' · ' + personaPeriodText(c) : ''}`; return `<span class="cdot" style="background:${ci.color}" title="${esc(tip)}"></span>`; }).join('')}${(iss.c || []).length > 6 ? `<span class="minichip" style="margin-left:3px">+${(iss.c || []).length - 6}</span>` : ''}</span></td>
     </tr>`;
   }).join('')}
   </tbody></table>`;

@@ -30,17 +30,23 @@ python3 -m http.server 8123
 # 打开 http://127.0.0.1:8123/
 ```
 
-## 数据规模（v0.1.0 初版）
+## 数据规模（v0.1.1 · 已并入 dc.fandom 爬虫数据）
 
 | 时代 | 事件数 | 覆盖重点 |
 | --- | --- | --- |
-| P52 后危机（1986–2011） | 38 | Year One、Knightfall 传奇（113 期）、Contagion、Legacy、Cataclysm、No Man's Land（69 期）、Murderer/Fugitive、War Games、Under the Hood、R.I.P.、Battle for the Cowl、Reborn 时代、Return of Bruce Wayne 等 |
+| P52 后危机（1986–2011） | 39 | Year One、Knightfall 传奇（113 期）、Contagion、Legacy、Cataclysm、No Man's Land（69 期）、Murderer/Fugitive、War Games、Under the Hood、R.I.P.、Battle for the Cowl、Reborn 时代、Return of Bruce Wayne、Black Mirror 等 |
 | New 52（2011–2016） | 14 | Court of Owls、Night of the Owls、Death of the Family、Zero Year、Batman Eternal、Endgame、Grayson、Robin War 等 |
 | Rebirth（2016–2021） | 12 | I Am Gotham/Suicide/Bane、The Button、Metal、City of Bane、Joker War 等 |
 | Frontier（2021–2024） | 13 | Future State、Fear State、Robin(2021)、Shadow War、Dark Crisis、Gotham War、Nightwing by Tom Taylor 等 |
 | Absolute（2024–） | 1 | Absolute Batman（绝对宇宙） |
 
-合计：**79 个大事件/弧线 + 40 条策划单元弧线（含 8 条 Detective Comics v3 独立弧线）+ 61 条带 Part 标题散刊 = 1628 期**（数据以封面日期为准）。
+- 事件/弧线：**79 大事件 + 40 策划弧线**；期刊：**2490 期**（其中散刊 923 期，含爬虫补入的完整刊目）
+- 完整系列覆盖：Batman v1（341 期）、Detective Comics v1+v3（504 期）、Robin v2（186 期，中文社区习惯称 Vol. 4）、Nightwing v2/v4（303 期）、Shadow of the Bat（96 期）、Robin I/II/III 迷你系列（15 期）等
+- 标题覆盖：**77%**（散刊 98.8%；事件/弧线内 64.7%）——缺标题主要来自爬虫未覆盖的系列（Batman Eternal、Red Hood 系列、Grayson、Batgirl 系列、Future State 等）
+- 人物标签：42 个称号、5900+ 处标记（含此前缺失的**搅局者 Spoiler 96 处**）
+| Absolute（2024–） | 1 | Absolute Batman（绝对宇宙） |
+
+合计：**79 个大事件 + 40 条策划单元弧线（含 8 条 Detective Comics v3 独立弧线）+ 923 条散刊 = 2490 期**（数据以封面日期为准）。
 
 ## 目录结构
 
@@ -53,12 +59,17 @@ python3 -m http.server 8123
 │   ├── meta.json       # 项目元信息
 │   ├── continuities.json # 时代/连续性（P52/New52/Rebirth/Frontier/Absolute + 配色）
 │   ├── earths.json     # 地球设定
-│   ├── characters.json # 人物标签（id/中英名/颜色）
+│   ├── characters.json # 称号 persona（id/中英名/颜色/所属人物/时期）
+│   ├── persons.json    # 人物实体（person）
 │   ├── series.json     # 刊物（id/名称/卷/起止）
-│   ├── events.json     # ★ 大事件（含 phases 分组与跨刊期列表）— merge 脚本生成
-│   ├── arcs.json       # ★ 策划弧线 + 散刊 — merge 脚本生成
-│   └── research/       # 研究子代理产出的原始 JSON（保留作数据溯源）
-└── scripts/merge.js    # 合并 + 校验 research → events.json / arcs.json
+│   ├── events.json     # ★ 大事件（含 phases 分组与跨刊期列表）— 管线生成
+│   ├── arcs.json       # ★ 策划弧线 + 散刊 — 管线生成
+│   ├── research/       # 研究子代理产出的原始 JSON（保留作数据溯源）
+│   └── crawler/        # dc.fandom 爬虫原始数据（标题/封面日期/人物补全来源）
+└── scripts/
+    ├── merge.js        # 合并 + 校验 research → events.json / arcs.json
+    ├── cleanup.js      # 合并后清理（去重/删冗余事件）
+    └── enrich.js       # 爬虫补全：标题/日期/人物 + 未收录期数转散刊
 ```
 
 ## 数据模型
@@ -112,7 +123,8 @@ python3 -m http.server 8123
 
 ## 数据维护
 
-- 新增/修正事件：编辑 `data/research/*.json` 后运行 `node scripts/merge.js && node scripts/cleanup.js`，或直接编辑 `data/events.json` / `data/arcs.json`。
+- 标准重建管线：`node scripts/merge.js && node scripts/cleanup.js && node scripts/enrich.js`（merge 合并研究数据 → cleanup 清理 → enrich 用 `data/crawler/` 爬虫数据补全标题/日期/人物，并把未收录期数作为散刊加入）。
+- 新增/修正事件：编辑 `data/research/*.json` 后重跑管线，或直接编辑 `data/events.json` / `data/arcs.json`（注意 enrich 会再次补充）。
 - `merge.js` 会校验：id 唯一、期号/日期格式、人物/系列 id 是否存在于对照表，并自动补全缺失的起止日期、时代、地球；同一事件多来源并存时，自动保留**有故事标题**且期数更全的版本。
 - `cleanup.js` 负责合并后清理（删除冗余合并事件、事件内重复期号去重）。
 

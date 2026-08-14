@@ -36,5 +36,10 @@
   { "id": "titans", "nameZh": "泰坦", "nameEn": "Titans", "realName": "", "color": "#f08c00" },
   { "id": "youngjustice", "nameZh": "少年正义联盟", "nameEn": "Young Justice", "realName": "", "color": "#40c057" },
   { "id": "teentitans", "nameZh": "少年泰坦", "nameEn": "Teen Titans", "realName": "", "color": "#f783ac" },
-  { "id": "outsiders", "nameZh": "局外人", "nameEn": "The Outsiders", "realName": "", "color": "#7950f2" }
+  { "id": "outsiders", "nameZh": "局外人", "nameEn": "The Outsiders", "realName": "", "color": "#7950f2" },
+  { "id": "orphan", "nameZh": "孤儿", "nameEn": "Orphan", "realName": "卡珊德拉·该隐", "color": "#e8590c", "person": "cassandra-cain", "start": "2016-08", "end": "2019-12", "note": "卡珊德拉·该隐在重生时代以孤儿身份活动" },
+  { "id": "harley", "nameZh": "哈莉·奎茵", "nameEn": "Harley Quinn", "realName": "哈琳·奎泽尔", "color": "#d6336c" },
+  { "id": "clayface", "nameZh": "泥面人", "nameEn": "Clayface", "realName": "巴兹尔·卡罗", "color": "#8d6e63" },
+  { "id": "manbat", "nameZh": "人蝠", "nameEn": "Man-Bat", "realName": "柯克·朗斯特罗姆", "color": "#6a5acd" },
+  { "id": "batwing", "nameZh": "蝠翼", "nameEn": "Batwing", "realName": "卢克·福克斯 / 大卫·泽文比", "color": "#1971c2" }
 ]
