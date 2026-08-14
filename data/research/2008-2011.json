@@ -132,19 +132,19 @@
     {
       "id": "battle-for-the-cowl",
       "name": "Batman: Battle for the Cowl",
-      "nameZh": "牛角之争",
+      "nameZh": "披风争夺战",
       "era": "P52",
       "earth": "new-earth",
       "type": "saga",
       "start": "2009-05",
       "end": "2009-07",
-      "summaryZh": "布鲁斯·韦恩在《最终危机》中「死亡」后，哥谭群雄并起，迪克·格雷森、蒂姆·德雷克与杰森·托德等人为争夺蝙蝠侠衣钵展开「牛角之争」。托尼·丹尼尔编剧并绘制的三期迷你系列中，冒充蝙蝠侠的杰森·托德被揭穿并以红头罩身份回归，迪克·格雷森最终接任蝙蝠侠，蒂姆·德雷克则决定以红罗宾之名继续行动。配套的五部单刊与《哥谭公报》两册从戈登、阿卡姆疯人院、蝙蝠人等不同视角补充了这一过渡时期的故事。",
+      "summaryZh": "布鲁斯·韦恩在《最终危机》中「死亡」后，哥谭群雄并起，迪克·格雷森、蒂姆·德雷克与杰森·托德等人为争夺蝙蝠侠衣钵展开「披风争夺战」。托尼·丹尼尔编剧并绘制的三期迷你系列中，冒充蝙蝠侠的杰森·托德被揭穿并以红头罩身份回归，迪克·格雷森最终接任蝙蝠侠，蒂姆·德雷克则决定以红罗宾之名继续行动。配套的五部单刊与《哥谭公报》两册从戈登、阿卡姆疯人院、蝙蝠人等不同视角补充了这一过渡时期的故事。",
       "characters": ["batman", "nightwing", "redhood", "robin-tim", "robin-damian", "batgirl", "batwoman", "oracle", "catwoman", "alfred", "gordon", "blackmask", "twopface", "penguin", "riddler", "scarecrow", "ras", "outsiders"],
       "related": ["final-crisis", "long-shadows", "batman-and-robin-v1"],
       "phases": [
         {
           "name": "Battle for the Cowl",
-          "nameZh": "牛角之争",
+          "nameZh": "披风争夺战",
           "issues": [
             {"s": "Battle for the Cowl", "n": "1", "t": "A Hostile Takeover", "d": "2009-05", "c": ["nightwing", "robin-tim", "robin-damian", "alfred", "gordon", "oracle", "catwoman", "batwoman", "blackmask", "scarecrow", "riddler"], "x": "2009-03 上市（封面日期提前约2个月）；本系列期号不带 Part 编号"},
             {"s": "Battle for the Cowl", "n": "2", "t": "Army of One", "d": "2009-06", "c": ["nightwing", "robin-tim", "robin-damian", "alfred", "gordon", "blackmask", "catwoman", "twopface", "penguin"], "x": "2009-04-08 上市"},
@@ -156,7 +156,7 @@
           "nameZh": "单刊",
           "issues": [
             {"s": "Battle for the Cowl: Commissioner Gordon", "n": "1", "t": "A Cold Day in Hell", "d": "2009-05", "c": ["gordon"], "x": "单刊；2009-03-25 上市"},
-            {"s": "Gotham Gazette", "n": "1", "t": "Vicki Vale", "d": "2009-05", "c": [], "x": "单刊（报纸版式），全名 'Batman: Gotham Gazette - Batman Dead?'；常见于牛角之争阅读顺序；故事标题据 BatmanYTB（封面无副题）"},
+            {"s": "Gotham Gazette", "n": "1", "t": "Vicki Vale", "d": "2009-05", "c": [], "x": "单刊（报纸版式），全名 'Batman: Gotham Gazette - Batman Dead?'；常见于披风争夺战阅读顺序；故事标题据 BatmanYTB（封面无副题）"},
             {"s": "Battle for the Cowl: Man-Bat", "n": "1", "t": "I Am Whatever You Say I Am", "d": "2009-06", "c": ["alfred", "outsiders"], "x": "单刊；2009-04-01 上市"},
             {"s": "Battle for the Cowl: Arkham Asylum", "n": "1", "t": "Arkham Asylum: The Place Where Beauty Lies", "d": "2009-06", "c": ["scarecrow"], "x": "单刊；2009-04-22 上市"},
             {"s": "Battle for the Cowl: The Underground", "n": "1", "t": "The Underground", "d": "2009-06", "c": ["catwoman", "riddler", "twopface", "penguin", "blackmask", "redhood", "ras"], "x": "单刊；2009-04-29 上市；杰森假扮蝙蝠侠；DC 征订列出拉斯·艾尔·古尔"},
@@ -168,7 +168,7 @@
           "name": "Oracle: The Cure",
           "nameZh": "神谕：治愈",
           "issues": [
-            {"s": "Oracle: The Cure", "n": "1", "t": "Home Again, Home Again", "d": "2009-05", "c": ["oracle", "batgirl"], "x": "联动迷你系列（并不存在 'Battle for the Cowl: Oracle' 单刊，Oracle 关联作实为这期三期迷你）；常见于牛角之争阅读顺序"},
+            {"s": "Oracle: The Cure", "n": "1", "t": "Home Again, Home Again", "d": "2009-05", "c": ["oracle", "batgirl"], "x": "联动迷你系列（并不存在 'Battle for the Cowl: Oracle' 单刊，Oracle 关联作实为这期三期迷你）；常见于披风争夺战阅读顺序"},
             {"s": "Oracle: The Cure", "n": "2", "t": "Big Trouble in Hong Kong", "d": "2009-06", "c": ["oracle", "batgirl"], "x": null},
             {"s": "Oracle: The Cure", "n": "3", "t": "A Matter of Anti-Life or Death!", "d": "2009-07", "c": ["oracle", "batgirl"], "x": null}
           ]
@@ -184,7 +184,7 @@
       "type": "arc",
       "start": "2009-08",
       "end": "2009-12",
-      "summaryZh": "贾德·温尼克编剧的迪克·格雷森版蝙蝠侠首个故事线。第687期是《牛角之争》的尾声「内心之战」，新蝙蝠侠在超人、神奇女侠面前证明自己配得上斗篷。第688-691期构成主线「长影」：新蝙蝠侠周旋于企鹅人与双面人的地盘争夺之间，面对民众「他是冒牌货」的质疑，最终以一场双面对决收尾，确立了自己的风格。",
+      "summaryZh": "贾德·温尼克编剧的迪克·格雷森版蝙蝠侠首个故事线。第687期是《披风争夺战》的尾声「内心之战」，新蝙蝠侠在超人、神奇女侠面前证明自己配得上斗篷。第688-691期构成主线「长影」：新蝙蝠侠周旋于企鹅人与双面人的地盘争夺之间，面对民众「他是冒牌货」的质疑，最终以一场双面对决收尾，确立了自己的风格。",
       "characters": ["batman", "robin-damian", "robin-tim", "alfred", "gordon", "penguin", "twopface", "blackmask", "scarecrow", "superman", "wonderwoman"],
       "related": ["battle-for-the-cowl", "batman-and-robin-v1"],
       "phases": [
@@ -192,7 +192,7 @@
           "name": "Long Shadows",
           "nameZh": "长影",
           "issues": [
-            {"s": "batman", "n": "687", "t": "A Battle Within: An Epilogue to Battle for the Cowl", "d": "2009-08", "c": ["batman", "robin-tim", "robin-damian", "alfred", "gordon", "superman", "wonderwoman", "scarecrow"], "x": "《牛角之争》尾声（不带 Part 编号）；2009-06-10 上市；与 #688-691 同收于《Batman: Long Shadows》合订本"},
+            {"s": "batman", "n": "687", "t": "A Battle Within: An Epilogue to Battle for the Cowl", "d": "2009-08", "c": ["batman", "robin-tim", "robin-damian", "alfred", "gordon", "superman", "wonderwoman", "scarecrow"], "x": "《披风争夺战》尾声（不带 Part 编号）；2009-06-10 上市；与 #688-691 同收于《Batman: Long Shadows》合订本"},
             {"s": "batman", "n": "688", "t": "Long Shadows Part One: Old Sins Cast Long Shadows", "p": 1, "d": "2009-09", "c": ["batman", "robin-damian", "alfred", "gordon", "penguin", "twopface"], "x": "弧线主体开始；2009-07 上市"},
             {"s": "batman", "n": "689", "t": "Long Shadows Part Two: New Day, New Knight", "p": 2, "d": "2009-10", "c": ["batman", "alfred", "twopface", "penguin", "blackmask"], "x": "2009-08 上市"},
             {"s": "batman", "n": "690", "t": "Long Shadows Part Three: Tripwires", "p": 3, "d": "2009-11", "c": ["batman", "alfred", "twopface", "penguin", "blackmask"], "x": "2009-09 上市"},
