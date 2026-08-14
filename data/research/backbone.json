@@ -1,0 +1,4553 @@
+{
+ "events": [
+  {
+   "id": "year-one",
+   "name": "Batman: Year One",
+   "nameZh": "蝙蝠侠：元年",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "saga",
+   "start": "1987-02",
+   "end": "1987-05",
+   "summaryZh": "弗兰克·米勒编剧的蝙蝠侠起源经典（Batman #404-407）：布鲁斯·韦恩归乡、戈登警长初抵哥谭、猫女与法尔科内犯罪家族登场，确立后危机时代基础设定。",
+   "characters": [
+    "batman",
+    "gordon",
+    "catwoman"
+   ],
+   "phases": [
+    {
+     "name": "Batman: Year One",
+     "nameZh": "元年",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "404",
+       "t": null,
+       "d": "1987-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "405",
+       "t": null,
+       "d": "1987-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "406",
+       "t": null,
+       "d": "1987-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "407",
+       "t": null,
+       "d": "1987-05",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "death-in-the-family",
+   "name": "A Death in the Family",
+   "nameZh": "蝙蝠侠：家中之死",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "arc",
+   "start": "1988-12",
+   "end": "1989-02",
+   "summaryZh": "小丑在中东袭击杰森·托德，DC 以 1-900 电话投票决定二代罗宾命运，杰森被炸死（Batman #426-429）。",
+   "characters": [
+    "batman",
+    "redhood",
+    "joker"
+   ],
+   "phases": [
+    {
+     "name": "A Death in the Family",
+     "nameZh": "家族之死",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "426",
+       "t": null,
+       "d": "1988-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "427",
+       "t": null,
+       "d": "1989-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "428",
+       "t": null,
+       "d": "1989-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "429",
+       "t": null,
+       "d": "1989-02",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lonely-place-of-dying",
+   "name": "A Lonely Place of Dying",
+   "nameZh": "蝙蝠侠：孤独的死亡之地",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "crossover",
+   "start": "1989-10",
+   "end": "1989-12",
+   "summaryZh": "蒂姆·德雷克推断出蝙蝠侠身份，通过考验成为第三代罗宾（New Titans #60-61 与 Batman #440-442 跨刊交错）。",
+   "characters": [
+    "batman",
+    "robin-tim",
+    "nightwing",
+    "redhood"
+   ],
+   "phases": [
+    {
+     "name": "A Lonely Place of Dying",
+     "nameZh": "孤独的死亡之地",
+     "issues": [
+      {
+       "s": "new-titans",
+       "n": "60",
+       "t": null,
+       "d": "1989-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "440",
+       "t": null,
+       "d": "1989-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "new-titans",
+       "n": "61",
+       "t": null,
+       "d": "1989-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "441",
+       "t": null,
+       "d": "1989-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "442",
+       "t": null,
+       "d": "1989-12",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "knightfall-saga",
+   "name": "Batman: Knightfall Saga",
+   "nameZh": "骑士陨落传奇",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "saga",
+   "start": "1992-04",
+   "end": "1995-03",
+   "summaryZh": "贝恩越狱后在哥谭发动连环越狱风暴，最终在蝙蝠洞击败并「折断」蝙蝠侠；让-保罗·瓦利以阿兹瑞尔身份接任蝙蝠侠却堕入暴力，布鲁斯康复归来夺回披风（Knightfall/Knightquest/KnightsEnd/Prodigal/Troika 五大阶段，跨 Batman、Detective Comics、Shadow of the Bat 三刊主线）。",
+   "characters": [
+    "batman",
+    "bane",
+    "azrael",
+    "nightwing",
+    "robin-tim",
+    "catwoman",
+    "gordon",
+    "talia"
+   ],
+   "phases": [
+    {
+     "name": "Prelude to Knightfall",
+     "nameZh": "骑士陨落·序幕",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "484",
+       "t": null,
+       "d": "1992-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "485",
+       "t": null,
+       "d": "1992-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "486",
+       "t": null,
+       "d": "1992-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "487",
+       "t": null,
+       "d": "1992-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "488",
+       "t": null,
+       "d": "1992-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "489",
+       "t": null,
+       "d": "1992-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "490",
+       "t": null,
+       "d": "1992-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "491",
+       "t": null,
+       "d": "1992-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "654",
+       "t": null,
+       "d": "1992-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "655",
+       "t": null,
+       "d": "1992-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "656",
+       "t": null,
+       "d": "1992-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "657",
+       "t": null,
+       "d": "1992-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "658",
+       "t": null,
+       "d": "1992-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman: Vengeance of Bane",
+       "n": "1",
+       "t": null,
+       "d": "1993-01",
+       "p": null,
+       "c": []
+      }
+     ]
+    },
+    {
+     "name": "Knightfall",
+     "nameZh": "骑士陨落",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "492",
+       "t": null,
+       "d": "1993-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "493",
+       "t": null,
+       "d": "1993-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "494",
+       "t": null,
+       "d": "1993-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "495",
+       "t": null,
+       "d": "1993-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "496",
+       "t": null,
+       "d": "1993-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "497",
+       "t": null,
+       "d": "1993-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "659",
+       "t": null,
+       "d": "1993-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "660",
+       "t": null,
+       "d": "1993-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "661",
+       "t": null,
+       "d": "1993-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "662",
+       "t": null,
+       "d": "1993-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "663",
+       "t": null,
+       "d": "1993-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "16",
+       "t": null,
+       "d": "1993-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "17",
+       "t": null,
+       "d": "1993-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "18",
+       "t": null,
+       "d": "1993-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "1",
+       "t": null,
+       "d": "1993-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "2",
+       "t": null,
+       "d": "1993-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "6",
+       "t": null,
+       "d": "1993-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "7",
+       "t": null,
+       "d": "1993-02",
+       "p": null,
+       "c": []
+      }
+     ]
+    },
+    {
+     "name": "Knightquest: The Crusade",
+     "nameZh": "骑士探索·圣战",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "498",
+       "t": null,
+       "d": "1993-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "499",
+       "t": null,
+       "d": "1993-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "500",
+       "t": null,
+       "d": "1993-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "664",
+       "t": null,
+       "d": "1993-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "665",
+       "t": null,
+       "d": "1993-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "666",
+       "t": null,
+       "d": "1993-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "19",
+       "t": null,
+       "d": "1993-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "20",
+       "t": null,
+       "d": "1993-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "3",
+       "t": null,
+       "d": "1993-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "4",
+       "t": null,
+       "d": "1993-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "5",
+       "t": null,
+       "d": "1993-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "8",
+       "t": null,
+       "d": "1993-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "9",
+       "t": null,
+       "d": "1993-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "10",
+       "t": null,
+       "d": "1993-05",
+       "p": null,
+       "c": []
+      }
+     ]
+    },
+    {
+     "name": "Knightquest: The Search",
+     "nameZh": "骑士探索·搜寻",
+     "issues": [
+      {
+       "s": "legends-dk",
+       "n": "59",
+       "t": null,
+       "d": "1993-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "legends-dk",
+       "n": "60",
+       "t": null,
+       "d": "1993-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "legends-dk",
+       "n": "61",
+       "t": null,
+       "d": "1993-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "7",
+       "t": null,
+       "d": "1993-07",
+       "p": null,
+       "c": []
+      }
+     ]
+    },
+    {
+     "name": "KnightsEnd",
+     "nameZh": "骑士终局",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "509",
+       "t": null,
+       "d": "1994-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "510",
+       "t": null,
+       "d": "1994-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "676",
+       "t": null,
+       "d": "1994-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "677",
+       "t": null,
+       "d": "1994-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "29",
+       "t": null,
+       "d": "1994-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "30",
+       "t": null,
+       "d": "1994-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "8",
+       "t": null,
+       "d": "1994-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "9",
+       "t": null,
+       "d": "1994-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "12",
+       "t": null,
+       "d": "1994-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "13",
+       "t": null,
+       "d": "1994-04",
+       "p": null,
+       "c": []
+      }
+     ]
+    },
+    {
+     "name": "Prodigal",
+     "nameZh": "浪子",
+     "issues": [
+      {
+       "s": "robin-v2",
+       "n": "0",
+       "t": null,
+       "d": "1994-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "1",
+       "t": null,
+       "d": "1994-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "2",
+       "t": null,
+       "d": "1994-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "3",
+       "t": null,
+       "d": "1995-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "4",
+       "t": null,
+       "d": "1995-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "512",
+       "t": null,
+       "d": "1995-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "513",
+       "t": null,
+       "d": "1995-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "514",
+       "t": null,
+       "d": "1995-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "679",
+       "t": null,
+       "d": "1995-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "680",
+       "t": null,
+       "d": "1995-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "681",
+       "t": null,
+       "d": "1995-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "32",
+       "t": null,
+       "d": "1995-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "33",
+       "t": null,
+       "d": "1995-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "34",
+       "t": null,
+       "d": "1995-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "14",
+       "t": null,
+       "d": "1995-02",
+       "p": null,
+       "c": []
+      }
+     ]
+    },
+    {
+     "name": "Troika",
+     "nameZh": "三驾马车",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "515",
+       "t": null,
+       "d": "1995-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "682",
+       "t": null,
+       "d": "1995-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "35",
+       "t": null,
+       "d": "1995-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "10",
+       "t": null,
+       "d": "1995-03",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "contagion",
+   "name": "Batman: Contagion",
+   "nameZh": "传染",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "mega-event",
+   "start": "1996-03",
+   "end": "1996-08",
+   "summaryZh": "埃博拉类病毒「克伦奇」在哥谭爆发，蝙蝠侠与戈登、神谕全力控疫；病毒源头指向拉斯·艾尔·古尔，为 Legacy 埋下伏笔。",
+   "characters": [
+    "batman",
+    "oracle",
+    "gordon",
+    "catwoman",
+    "azrael",
+    "nightwing",
+    "robin-tim"
+   ],
+   "phases": [
+    {
+     "name": "Contagion",
+     "nameZh": "传染",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "529",
+       "t": null,
+       "d": "1996-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "530",
+       "t": null,
+       "d": "1996-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "531",
+       "t": null,
+       "d": "1996-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "532",
+       "t": null,
+       "d": "1996-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "533",
+       "t": null,
+       "d": "1996-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "695",
+       "t": null,
+       "d": "1996-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "696",
+       "t": null,
+       "d": "1996-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "697",
+       "t": null,
+       "d": "1996-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "698",
+       "t": null,
+       "d": "1996-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "699",
+       "t": null,
+       "d": "1996-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "49",
+       "t": null,
+       "d": "1996-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "50",
+       "t": null,
+       "d": "1996-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "51",
+       "t": null,
+       "d": "1996-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "52",
+       "t": null,
+       "d": "1996-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "53",
+       "t": null,
+       "d": "1996-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "27",
+       "t": null,
+       "d": "1996-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "28",
+       "t": null,
+       "d": "1996-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "29",
+       "t": null,
+       "d": "1996-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "30",
+       "t": null,
+       "d": "1996-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "31",
+       "t": null,
+       "d": "1996-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "32",
+       "t": null,
+       "d": "1996-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "33",
+       "t": null,
+       "d": "1996-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "34",
+       "t": null,
+       "d": "1996-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "35",
+       "t": null,
+       "d": "1996-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "azrael",
+       "n": "15",
+       "t": null,
+       "d": "1996-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "azrael",
+       "n": "16",
+       "t": null,
+       "d": "1996-04",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "legacy",
+   "name": "Batman: Legacy",
+   "nameZh": "遗产",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "mega-event",
+   "start": "1996-08",
+   "end": "1996-12",
+   "summaryZh": "拉斯·艾尔·古尔揭示「克伦奇」瘟疫实为其手笔：他身患绝症，以毁灭哥谭作为留给蝙蝠侠的「遗产」考验，并引入贝恩；蝙蝠侠带病挫败阴谋。",
+   "characters": [
+    "batman",
+    "ras",
+    "talia",
+    "bane",
+    "robin-tim",
+    "catwoman"
+   ],
+   "phases": [
+    {
+     "name": "Legacy",
+     "nameZh": "遗产",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "533",
+       "t": null,
+       "d": "1996-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "700",
+       "t": null,
+       "d": "1996-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "32",
+       "t": null,
+       "d": "1996-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "36",
+       "t": null,
+       "d": "1996-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "534",
+       "t": null,
+       "d": "1996-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "701",
+       "t": null,
+       "d": "1996-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "54",
+       "t": null,
+       "d": "1996-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "33",
+       "t": null,
+       "d": "1996-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "37",
+       "t": null,
+       "d": "1996-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "702",
+       "t": null,
+       "d": "1996-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "55",
+       "t": null,
+       "d": "1996-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "34",
+       "t": null,
+       "d": "1996-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "38",
+       "t": null,
+       "d": "1996-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "56",
+       "t": null,
+       "d": "1996-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "35",
+       "t": null,
+       "d": "1996-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "57",
+       "t": null,
+       "d": "1996-12",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cataclysm",
+   "name": "Batman: Cataclysm",
+   "nameZh": "大灾变",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "mega-event",
+   "start": "1998-05",
+   "end": "1998-11",
+   "summaryZh": "里氏 7.6 级大地震摧毁哥谭，蝙蝠家族全线投入救援；黑门监狱暴动、阿卡姆失控、贝恩现身等支线同步展开，其后进入「余震」（Aftershock）期并通往 No Man's Land。",
+   "characters": [
+    "batman",
+    "nightwing",
+    "robin-tim",
+    "oracle",
+    "gordon",
+    "catwoman",
+    "azrael",
+    "bane"
+   ],
+   "phases": [
+    {
+     "name": "Cataclysm",
+     "nameZh": "大灾变",
+     "issues": [
+      {
+       "s": "detective",
+       "n": "723",
+       "t": null,
+       "d": "1998-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "73",
+       "t": null,
+       "d": "1998-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "553",
+       "t": null,
+       "d": "1998-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "52",
+       "t": null,
+       "d": "1998-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "19",
+       "t": null,
+       "d": "1998-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "56",
+       "t": null,
+       "d": "1998-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "azrael",
+       "n": "40",
+       "t": null,
+       "d": "1998-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman: Cataclysm",
+       "n": "1",
+       "t": null,
+       "d": "1998-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman: Blackgate: Isle of Men",
+       "n": "1",
+       "t": null,
+       "d": "1998-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman: Arkham Asylum: Tales of Madness",
+       "n": "1",
+       "t": null,
+       "d": "1998-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman: Bane",
+       "n": "1",
+       "t": null,
+       "d": "1998-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman: Huntress/Spoiler: Blunt Trauma",
+       "n": "1",
+       "t": null,
+       "d": "1998-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "554",
+       "t": null,
+       "d": "1998-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "724",
+       "t": null,
+       "d": "1998-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "74",
+       "t": null,
+       "d": "1998-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "20",
+       "t": null,
+       "d": "1998-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "53",
+       "t": null,
+       "d": "1998-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "57",
+       "t": null,
+       "d": "1998-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "555",
+       "t": null,
+       "d": "1998-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "556",
+       "t": null,
+       "d": "1998-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "557",
+       "t": null,
+       "d": "1998-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "558",
+       "t": null,
+       "d": "1998-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "725",
+       "t": null,
+       "d": "1998-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "726",
+       "t": null,
+       "d": "1998-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "727",
+       "t": null,
+       "d": "1998-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "75",
+       "t": null,
+       "d": "1998-07",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "road-to-nml",
+   "name": "Road to No Man's Land (Aftershock)",
+   "nameZh": "通往无人之地（余震）",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "mega-event",
+   "start": "1998-06",
+   "end": "1999-02",
+   "summaryZh": "地震余波与联邦封锁倒计时：哥谭重建无望，蝙蝠侠与戈登在「去留」上分歧，神谕为最后秩序奔走；刊期止于封锁令生效前夕（No Law and a New Order 为 NML 序幕）。",
+   "characters": [
+    "batman",
+    "oracle",
+    "gordon",
+    "nightwing",
+    "robin-tim"
+   ],
+   "phases": [
+    {
+     "name": "Road to No Man's Land",
+     "nameZh": "通往无人之地",
+     "issues": [
+      {
+       "s": "nightwing-v2",
+       "n": "21",
+       "t": null,
+       "d": "1998-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "22",
+       "t": null,
+       "d": "1998-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "54",
+       "t": null,
+       "d": "1998-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "58",
+       "t": null,
+       "d": "1998-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "59",
+       "t": null,
+       "d": "1998-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "76",
+       "t": null,
+       "d": "1998-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "77",
+       "t": null,
+       "d": "1998-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "78",
+       "t": null,
+       "d": "1998-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "79",
+       "t": null,
+       "d": "1998-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "559",
+       "t": null,
+       "d": "1998-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "560",
+       "t": null,
+       "d": "1998-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "728",
+       "t": null,
+       "d": "1998-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "azrael",
+       "n": "47",
+       "t": null,
+       "d": "1998-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "561",
+       "t": null,
+       "d": "1999-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "729",
+       "t": null,
+       "d": "1999-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "azrael",
+       "n": "48",
+       "t": null,
+       "d": "1999-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "562",
+       "t": null,
+       "d": "1999-02",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nml",
+   "name": "Batman: No Man's Land",
+   "nameZh": "无人之地",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "mega-event",
+   "start": "1999-03",
+   "end": "2000-03",
+   "summaryZh": "联邦宣布哥谭为「无人之地」：城市封锁一年，蝙蝠侠以传说之姿回归，众反派瓜分街区，卡珊德拉·凯恩以新蝙蝠女登场；最终新秩序达成，城市重新开放。",
+   "characters": [
+    "batman",
+    "nightwing",
+    "robin-tim",
+    "oracle",
+    "gordon",
+    "batgirl",
+    "catwoman",
+    "azrael"
+   ],
+   "phases": [
+    {
+     "name": "No Man's Land",
+     "nameZh": "无人之地",
+     "issues": [
+      {
+       "s": "Batman: No Man's Land",
+       "n": "1",
+       "t": null,
+       "d": "1999-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "563",
+       "t": null,
+       "d": "1999-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "564",
+       "t": null,
+       "d": "1999-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "565",
+       "t": null,
+       "d": "1999-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "566",
+       "t": null,
+       "d": "1999-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "567",
+       "t": null,
+       "d": "1999-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "568",
+       "t": null,
+       "d": "1999-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "569",
+       "t": null,
+       "d": "1999-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "570",
+       "t": null,
+       "d": "1999-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "571",
+       "t": null,
+       "d": "1999-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "572",
+       "t": null,
+       "d": "1999-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "573",
+       "t": null,
+       "d": "2000-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "574",
+       "t": null,
+       "d": "2000-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "575",
+       "t": null,
+       "d": "2000-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "730",
+       "t": null,
+       "d": "1999-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "731",
+       "t": null,
+       "d": "1999-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "732",
+       "t": null,
+       "d": "1999-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "733",
+       "t": null,
+       "d": "1999-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "734",
+       "t": null,
+       "d": "1999-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "735",
+       "t": null,
+       "d": "1999-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "736",
+       "t": null,
+       "d": "1999-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "737",
+       "t": null,
+       "d": "1999-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "738",
+       "t": null,
+       "d": "1999-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "739",
+       "t": null,
+       "d": "1999-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "740",
+       "t": null,
+       "d": "2000-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "741",
+       "t": null,
+       "d": "2000-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "83",
+       "t": null,
+       "d": "1999-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "84",
+       "t": null,
+       "d": "1999-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "85",
+       "t": null,
+       "d": "1999-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "86",
+       "t": null,
+       "d": "1999-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "87",
+       "t": null,
+       "d": "1999-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "88",
+       "t": null,
+       "d": "1999-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "89",
+       "t": null,
+       "d": "1999-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "90",
+       "t": null,
+       "d": "1999-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "91",
+       "t": null,
+       "d": "1999-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "92",
+       "t": null,
+       "d": "1999-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "93",
+       "t": null,
+       "d": "2000-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "94",
+       "t": null,
+       "d": "2000-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "67",
+       "t": null,
+       "d": "1999-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "68",
+       "t": null,
+       "d": "1999-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "69",
+       "t": null,
+       "d": "1999-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "70",
+       "t": null,
+       "d": "1999-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "71",
+       "t": null,
+       "d": "1999-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "72",
+       "t": null,
+       "d": "2000-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "73",
+       "t": null,
+       "d": "2000-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "35",
+       "t": null,
+       "d": "1999-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "36",
+       "t": null,
+       "d": "1999-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "37",
+       "t": null,
+       "d": "1999-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "38",
+       "t": null,
+       "d": "1999-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "39",
+       "t": null,
+       "d": "1999-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "72",
+       "t": null,
+       "d": "1999-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "73",
+       "t": null,
+       "d": "1999-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "74",
+       "t": null,
+       "d": "1999-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "75",
+       "t": null,
+       "d": "1999-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "76",
+       "t": null,
+       "d": "2000-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "77",
+       "t": null,
+       "d": "2000-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "azrael",
+       "n": "47",
+       "t": null,
+       "d": "1999-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "azrael",
+       "n": "48",
+       "t": null,
+       "d": "1999-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "azrael",
+       "n": "49",
+       "t": null,
+       "d": "1999-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "azrael",
+       "n": "50",
+       "t": null,
+       "d": "1999-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "azrael",
+       "n": "51",
+       "t": null,
+       "d": "1999-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "azrael",
+       "n": "52",
+       "t": null,
+       "d": "1999-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "azrael",
+       "n": "53",
+       "t": null,
+       "d": "1999-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "azrael",
+       "n": "54",
+       "t": null,
+       "d": "1999-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "azrael",
+       "n": "55",
+       "t": null,
+       "d": "1999-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman: Harley Quinn",
+       "n": "1",
+       "t": null,
+       "d": "1999-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman: No Man's Land #0",
+       "n": "0",
+       "t": null,
+       "d": "1999-10",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bruce-wayne-murderer-fugitive",
+   "name": "Bruce Wayne: Murderer? / Fugitive",
+   "nameZh": "布鲁斯·韦恩：凶手？/ 逃犯",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "crossover",
+   "start": "2002-04",
+   "end": "2002-09",
+   "summaryZh": "韦斯利·罗德里格斯之死使布鲁斯·韦恩成为头号嫌犯：蝙蝠家族与戈登分道扬镳，「谋杀者？」阶段布鲁斯被定罪入狱，随后越狱成为「逃犯」洗刷冤屈，揭露真凶为维斯珀·费尔柴尔德。",
+   "characters": [
+    "batman",
+    "nightwing",
+    "robin-tim",
+    "batgirl",
+    "oracle",
+    "gordon"
+   ],
+   "phases": [
+    {
+     "name": "Bruce Wayne: Murderer?",
+     "nameZh": "布鲁斯·韦恩：凶手？",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "599",
+       "t": null,
+       "d": "2002-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "600",
+       "t": null,
+       "d": "2002-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "766",
+       "t": null,
+       "d": "2002-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "767",
+       "t": null,
+       "d": "2002-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "65",
+       "t": null,
+       "d": "2002-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "66",
+       "t": null,
+       "d": "2002-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "98",
+       "t": null,
+       "d": "2002-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "99",
+       "t": null,
+       "d": "2002-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batgirl-v1",
+       "n": "24",
+       "t": null,
+       "d": "2002-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "gotham-knights",
+       "n": "25",
+       "t": null,
+       "d": "2002-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "gotham-knights",
+       "n": "26",
+       "t": null,
+       "d": "2002-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "birds-of-prey",
+       "n": "39",
+       "t": null,
+       "d": "2002-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "birds-of-prey",
+       "n": "40",
+       "t": null,
+       "d": "2002-05",
+       "p": null,
+       "c": []
+      }
+     ]
+    },
+    {
+     "name": "Bruce Wayne: Fugitive",
+     "nameZh": "布鲁斯·韦恩：逃犯",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "601",
+       "t": null,
+       "d": "2002-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "602",
+       "t": null,
+       "d": "2002-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "603",
+       "t": null,
+       "d": "2002-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "604",
+       "t": null,
+       "d": "2002-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "605",
+       "t": null,
+       "d": "2002-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "606",
+       "t": null,
+       "d": "2002-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "607",
+       "t": null,
+       "d": "2002-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "768",
+       "t": null,
+       "d": "2002-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "769",
+       "t": null,
+       "d": "2002-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "770",
+       "t": null,
+       "d": "2002-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "771",
+       "t": null,
+       "d": "2002-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "772",
+       "t": null,
+       "d": "2002-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "773",
+       "t": null,
+       "d": "2002-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "67",
+       "t": null,
+       "d": "2002-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "68",
+       "t": null,
+       "d": "2002-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "100",
+       "t": null,
+       "d": "2002-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batgirl-v1",
+       "n": "27",
+       "t": null,
+       "d": "2002-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "gotham-knights",
+       "n": "27",
+       "t": null,
+       "d": "2002-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "gotham-knights",
+       "n": "28",
+       "t": null,
+       "d": "2002-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "birds-of-prey",
+       "n": "41",
+       "t": null,
+       "d": "2002-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "birds-of-prey",
+       "n": "42",
+       "t": null,
+       "d": "2002-07",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "war-games",
+   "name": "Batman: War Games",
+   "nameZh": "战争游戏",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "crossover",
+   "start": "2004-10",
+   "end": "2005-01",
+   "summaryZh": "蝙蝠侠的罪犯监控系统「红鸟」被斯蒂芬妮·布朗误触全面战争协议，哥谭黑帮陷入混战；斯蒂芬妮（罗宾）因此丧命，黑面具借机崛起。",
+   "characters": [
+    "batman",
+    "batgirl",
+    "robin-tim",
+    "nightwing",
+    "oracle",
+    "gordon",
+    "blackmask"
+   ],
+   "phases": [
+    {
+     "name": "Act One: Outbreak",
+     "nameZh": "第一幕：爆发",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "631",
+       "t": null,
+       "d": "2004-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "797",
+       "t": null,
+       "d": "2004-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batgirl-v1",
+       "n": "53",
+       "t": null,
+       "d": "2004-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "129",
+       "t": null,
+       "d": "2004-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "96",
+       "t": null,
+       "d": "2004-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "34",
+       "t": null,
+       "d": "2004-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "gotham-knights",
+       "n": "56",
+       "t": null,
+       "d": "2004-10",
+       "p": null,
+       "c": []
+      }
+     ]
+    },
+    {
+     "name": "Act Two: Tides",
+     "nameZh": "第二幕：潮汐",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "632",
+       "t": null,
+       "d": "2004-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "798",
+       "t": null,
+       "d": "2004-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batgirl-v1",
+       "n": "54",
+       "t": null,
+       "d": "2004-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "130",
+       "t": null,
+       "d": "2004-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "97",
+       "t": null,
+       "d": "2004-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "35",
+       "t": null,
+       "d": "2004-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "gotham-knights",
+       "n": "57",
+       "t": null,
+       "d": "2004-11",
+       "p": null,
+       "c": []
+      }
+     ]
+    },
+    {
+     "name": "Act Three: Endgame",
+     "nameZh": "第三幕：终局",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "633",
+       "t": null,
+       "d": "2004-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "634",
+       "t": null,
+       "d": "2005-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "799",
+       "t": null,
+       "d": "2004-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "800",
+       "t": null,
+       "d": "2005-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batgirl-v1",
+       "n": "55",
+       "t": null,
+       "d": "2004-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batgirl-v1",
+       "n": "56",
+       "t": null,
+       "d": "2005-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "131",
+       "t": null,
+       "d": "2004-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "132",
+       "t": null,
+       "d": "2005-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "98",
+       "t": null,
+       "d": "2004-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "36",
+       "t": null,
+       "d": "2004-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "37",
+       "t": null,
+       "d": "2005-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "gotham-knights",
+       "n": "58",
+       "t": null,
+       "d": "2004-12",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "under-the-hood",
+   "name": "Batman: Under the Hood",
+   "nameZh": "红头罩之下",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "arc",
+   "start": "2005-04",
+   "end": "2006-07",
+   "summaryZh": "神秘的红头罩（Red Hood）在哥谭崛起，与黑面具争夺毒品地盘；蝙蝠侠追查其身份，最终揭示红头罩正是死而复生的杰森·托德，并牵出拉斯·艾尔·古尔借「拉萨路之池」复活他的真相。",
+   "characters": [
+    "batman",
+    "redhood",
+    "blackmask",
+    "nightwing",
+    "robin-tim",
+    "ras",
+    "talia",
+    "joker"
+   ],
+   "phases": [
+    {
+     "name": "Under the Hood",
+     "nameZh": "红头罩之下",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "635",
+       "t": null,
+       "d": "2005-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "636",
+       "t": null,
+       "d": "2005-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "637",
+       "t": null,
+       "d": "2005-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "638",
+       "t": null,
+       "d": "2005-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "639",
+       "t": null,
+       "d": "2005-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "640",
+       "t": null,
+       "d": "2005-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "641",
+       "t": null,
+       "d": "2005-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "642",
+       "t": null,
+       "d": "2005-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "643",
+       "t": null,
+       "d": "2005-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "644",
+       "t": null,
+       "d": "2006-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "645",
+       "t": null,
+       "d": "2006-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "646",
+       "t": null,
+       "d": "2006-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "647",
+       "t": null,
+       "d": "2006-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "648",
+       "t": null,
+       "d": "2006-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "649",
+       "t": null,
+       "d": "2006-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "650",
+       "t": null,
+       "d": "2006-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "Annual 25",
+       "t": "2006",
+       "d": "25",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "batman-rip",
+   "name": "Batman R.I.P.",
+   "nameZh": "蝙蝠侠：安息",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "arc",
+   "start": "2008-05",
+   "end": "2008-11",
+   "summaryZh": "莫里森笔下的「黑手套」组织以洗脑程序「Zur-En-Arrh」摧毁布鲁斯·韦恩的心智，蝙蝠侠在精神崩溃边缘迎战；故事与 Final Crisis 交织，蝙蝠侠「陨落」后由二代罗宾与夜翼接棒。",
+   "characters": [
+    "batman",
+    "joker",
+    "gordon",
+    "nightwing",
+    "robin-tim",
+    "talia"
+   ],
+   "phases": [
+    {
+     "name": "Batman R.I.P.",
+     "nameZh": "安息",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "676",
+       "t": null,
+       "d": "2008-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "677",
+       "t": null,
+       "d": "2008-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "678",
+       "t": null,
+       "d": "2008-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "679",
+       "t": null,
+       "d": "2008-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "680",
+       "t": null,
+       "d": "2008-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "681",
+       "t": null,
+       "d": "2008-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "846",
+       "t": null,
+       "d": "2008-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "847",
+       "t": null,
+       "d": "2008-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "848",
+       "t": null,
+       "d": "2008-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "849",
+       "t": null,
+       "d": "2008-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "850",
+       "t": null,
+       "d": "2008-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "147",
+       "t": null,
+       "d": "2008-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "148",
+       "t": null,
+       "d": "2008-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "149",
+       "t": null,
+       "d": "2008-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "150",
+       "t": null,
+       "d": "2008-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "151",
+       "t": null,
+       "d": "2008-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "152",
+       "t": null,
+       "d": "2008-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "153",
+       "t": null,
+       "d": "2008-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "175",
+       "t": null,
+       "d": "2008-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "176",
+       "t": null,
+       "d": "2008-06",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "battle-for-the-cowl",
+   "name": "Batman: Battle for the Cowl",
+   "nameZh": "披风争夺战",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "crossover",
+   "start": "2009-03",
+   "end": "2009-05",
+   "summaryZh": "蝙蝠侠「死后」哥谭陷入混乱，夜翼、红头罩与提姆·德雷克为继承披风展开对决；最终迪克·格雷森接任蝙蝠侠，提姆以红罗宾身份独立行动。",
+   "characters": [
+    "batman",
+    "nightwing",
+    "redhood",
+    "robin-tim",
+    "batgirl",
+    "gordon"
+   ],
+   "phases": [
+    {
+     "name": "Battle for the Cowl",
+     "nameZh": "披风争夺战",
+     "issues": [
+      {
+       "s": "Batman: Battle for the Cowl",
+       "n": "1",
+       "t": null,
+       "d": "2009-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman: Battle for the Cowl",
+       "n": "2",
+       "t": null,
+       "d": "2009-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman: Battle for the Cowl",
+       "n": "3",
+       "t": null,
+       "d": "2009-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "686",
+       "t": null,
+       "d": "2009-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "687",
+       "t": null,
+       "d": "2009-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "852",
+       "t": null,
+       "d": "2009-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "181",
+       "t": null,
+       "d": "2009-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "robin-v2",
+       "n": "182",
+       "t": null,
+       "d": "2009-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "152",
+       "t": null,
+       "d": "2009-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "153",
+       "t": null,
+       "d": "2009-05",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "batman-reborn",
+   "name": "Batman: Reborn Era",
+   "nameZh": "蝙蝠侠重生时代",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "saga",
+   "start": "2009-06",
+   "end": "2011-08",
+   "summaryZh": "迪克·格雷森与达米安·韦恩组成新「蝙蝠侠与罗宾」搭档，提姆以红罗宾、芭芭拉重出为蝙蝠女，布鲁斯穿越时空在 Return of Bruce Wayne 中回归，并创立蝙蝠侠有限公司（Batman Incorporated）。",
+   "characters": [
+    "batman",
+    "nightwing",
+    "robin-damian",
+    "redrobin",
+    "batgirl",
+    "gordon",
+    "talia"
+   ],
+   "phases": [
+    {
+     "name": "Batman and Robin",
+     "nameZh": "蝙蝠侠与罗宾",
+     "issues": [
+      {
+       "s": "Batman and Robin",
+       "n": "1",
+       "t": null,
+       "d": "2009-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman and Robin",
+       "n": "2",
+       "t": null,
+       "d": "2009-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman and Robin",
+       "n": "3",
+       "t": null,
+       "d": "2009-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman and Robin",
+       "n": "4",
+       "t": null,
+       "d": "2009-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman and Robin",
+       "n": "5",
+       "t": null,
+       "d": "2009-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman and Robin",
+       "n": "6",
+       "t": null,
+       "d": "2009-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman and Robin",
+       "n": "7",
+       "t": null,
+       "d": "2009-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman and Robin",
+       "n": "8",
+       "t": null,
+       "d": "2010-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman and Robin",
+       "n": "9",
+       "t": null,
+       "d": "2010-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman and Robin",
+       "n": "10",
+       "t": null,
+       "d": "2010-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman and Robin",
+       "n": "11",
+       "t": null,
+       "d": "2010-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman and Robin",
+       "n": "12",
+       "t": null,
+       "d": "2010-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman and Robin",
+       "n": "13",
+       "t": null,
+       "d": "2010-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman and Robin",
+       "n": "14",
+       "t": null,
+       "d": "2010-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman and Robin",
+       "n": "15",
+       "t": null,
+       "d": "2010-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman and Robin",
+       "n": "16",
+       "t": null,
+       "d": "2010-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "687",
+       "t": null,
+       "d": "2009-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "688",
+       "t": null,
+       "d": "2009-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "689",
+       "t": null,
+       "d": "2009-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "690",
+       "t": null,
+       "d": "2009-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "691",
+       "t": null,
+       "d": "2009-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "692",
+       "t": null,
+       "d": "2009-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "693",
+       "t": null,
+       "d": "2010-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "694",
+       "t": null,
+       "d": "2010-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "695",
+       "t": null,
+       "d": "2010-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "696",
+       "t": null,
+       "d": "2010-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "697",
+       "t": null,
+       "d": "2010-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "698",
+       "t": null,
+       "d": "2010-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "699",
+       "t": null,
+       "d": "2010-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "700",
+       "t": null,
+       "d": "2010-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "854",
+       "t": null,
+       "d": "2009-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "855",
+       "t": null,
+       "d": "2009-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "856",
+       "t": null,
+       "d": "2009-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "857",
+       "t": null,
+       "d": "2009-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "858",
+       "t": null,
+       "d": "2009-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "859",
+       "t": null,
+       "d": "2009-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "860",
+       "t": null,
+       "d": "2010-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "861",
+       "t": null,
+       "d": "2010-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "862",
+       "t": null,
+       "d": "2010-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "863",
+       "t": null,
+       "d": "2010-04",
+       "p": null,
+       "c": []
+      }
+     ]
+    },
+    {
+     "name": "The Return of Bruce Wayne",
+     "nameZh": "布鲁斯·韦恩归来",
+     "issues": [
+      {
+       "s": "Batman: The Return of Bruce Wayne",
+       "n": "1",
+       "t": null,
+       "d": "2010-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman: The Return of Bruce Wayne",
+       "n": "2",
+       "t": null,
+       "d": "2010-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman: The Return of Bruce Wayne",
+       "n": "3",
+       "t": null,
+       "d": "2010-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman: The Return of Bruce Wayne",
+       "n": "4",
+       "t": null,
+       "d": "2010-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman: The Return of Bruce Wayne",
+       "n": "5",
+       "t": null,
+       "d": "2010-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman: The Return of Bruce Wayne",
+       "n": "6",
+       "t": null,
+       "d": "2010-11",
+       "p": null,
+       "c": []
+      }
+     ]
+    },
+    {
+     "name": "Batman Incorporated",
+     "nameZh": "蝙蝠侠有限公司",
+     "issues": [
+      {
+       "s": "Batman Incorporated",
+       "n": "1",
+       "t": null,
+       "d": "2010-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman Incorporated",
+       "n": "2",
+       "t": null,
+       "d": "2010-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman Incorporated",
+       "n": "3",
+       "t": null,
+       "d": "2011-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman Incorporated",
+       "n": "4",
+       "t": null,
+       "d": "2011-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman Incorporated",
+       "n": "5",
+       "t": null,
+       "d": "2011-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman Incorporated",
+       "n": "6",
+       "t": null,
+       "d": "2011-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman Incorporated",
+       "n": "7",
+       "t": null,
+       "d": "2011-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman Incorporated",
+       "n": "8",
+       "t": null,
+       "d": "2011-08",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "court-of-owls",
+   "name": "Court of Owls / Night of the Owls",
+   "nameZh": "猫头鹰法庭 / 猫头鹰之夜",
+   "era": "New52",
+   "earth": "earth-0",
+   "type": "saga",
+   "start": "2011-09",
+   "end": "2012-07",
+   "summaryZh": "斯科特·斯奈德开启新 52 蝙蝠侠时代：蝙蝠侠发现操纵哥谭数百年的秘密组织「猫头鹰法庭」及其刺客利爪（Talons）；Night of the Owls 之夜利爪全城猎杀，蝙蝠家族全线参战。",
+   "characters": [
+    "batman",
+    "talon",
+    "nightwing",
+    "robin-damian",
+    "batgirl",
+    "gordon"
+   ],
+   "phases": [
+    {
+     "name": "Court of Owls",
+     "nameZh": "猫头鹰法庭",
+     "issues": [
+      {
+       "s": "batman-v2",
+       "n": "1",
+       "t": null,
+       "d": "2011-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "2",
+       "t": null,
+       "d": "2011-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "3",
+       "t": null,
+       "d": "2011-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "4",
+       "t": null,
+       "d": "2011-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "5",
+       "t": null,
+       "d": "2012-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "6",
+       "t": null,
+       "d": "2012-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "7",
+       "t": null,
+       "d": "2012-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective-v2",
+       "n": "1",
+       "t": null,
+       "d": "2011-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective-v2",
+       "n": "2",
+       "t": null,
+       "d": "2011-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective-v2",
+       "n": "3",
+       "t": null,
+       "d": "2011-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective-v2",
+       "n": "4",
+       "t": null,
+       "d": "2011-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective-v2",
+       "n": "5",
+       "t": null,
+       "d": "2012-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective-v2",
+       "n": "6",
+       "t": null,
+       "d": "2012-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective-v2",
+       "n": "7",
+       "t": null,
+       "d": "2012-03",
+       "p": null,
+       "c": []
+      }
+     ]
+    },
+    {
+     "name": "Night of the Owls",
+     "nameZh": "猫头鹰之夜",
+     "issues": [
+      {
+       "s": "batman-v2",
+       "n": "8",
+       "t": null,
+       "d": "2012-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "9",
+       "t": null,
+       "d": "2012-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "10",
+       "t": null,
+       "d": "2012-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "11",
+       "t": null,
+       "d": "2012-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman Annual (New 52)",
+       "n": "1",
+       "t": "2012-04",
+       "d": "1",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective-v2",
+       "n": "9",
+       "t": null,
+       "d": "2012-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective-v2",
+       "n": "10",
+       "t": null,
+       "d": "2012-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective-v2",
+       "n": "11",
+       "t": null,
+       "d": "2012-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v3",
+       "n": "8",
+       "t": null,
+       "d": "2012-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v3",
+       "n": "9",
+       "t": null,
+       "d": "2012-05",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batgirl-v3",
+       "n": "9",
+       "t": null,
+       "d": "2012-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "red-hood-outlaws-v1",
+       "n": "9",
+       "t": null,
+       "d": "2012-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v4",
+       "n": "9",
+       "t": null,
+       "d": "2012-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-and-robin-v2",
+       "n": "9",
+       "t": null,
+       "d": "2012-04",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "death-of-the-family",
+   "name": "Batman: Death of the Family",
+   "nameZh": "蝙蝠侠：家族之死（新52）",
+   "era": "New52",
+   "earth": "earth-0",
+   "type": "crossover",
+   "start": "2012-10",
+   "end": "2013-02",
+   "summaryZh": "小丑回归，认定蝙蝠家族「偷走」了蝙蝠侠，逐一绑架并折磨其家人，企图证明蝙蝠侠不需要家人；蝙蝠侠以割脸之举逼迫小丑放手。",
+   "characters": [
+    "batman",
+    "joker",
+    "batgirl",
+    "nightwing",
+    "robin-damian",
+    "catwoman",
+    "redhood"
+   ],
+   "phases": [
+    {
+     "name": "Death of the Family",
+     "nameZh": "家族之死",
+     "issues": [
+      {
+       "s": "batman-v2",
+       "n": "13",
+       "t": null,
+       "d": "2012-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "14",
+       "t": null,
+       "d": "2012-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "15",
+       "t": null,
+       "d": "2012-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "16",
+       "t": null,
+       "d": "2013-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "17",
+       "t": null,
+       "d": "2013-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batgirl-v3",
+       "n": "13",
+       "t": null,
+       "d": "2012-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batgirl-v3",
+       "n": "14",
+       "t": null,
+       "d": "2012-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batgirl-v3",
+       "n": "15",
+       "t": null,
+       "d": "2012-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batgirl-v3",
+       "n": "16",
+       "t": null,
+       "d": "2013-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v3",
+       "n": "15",
+       "t": null,
+       "d": "2012-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v3",
+       "n": "16",
+       "t": null,
+       "d": "2013-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v4",
+       "n": "13",
+       "t": null,
+       "d": "2012-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "catwoman-v4",
+       "n": "14",
+       "t": null,
+       "d": "2012-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "red-hood-outlaws-v1",
+       "n": "16",
+       "t": null,
+       "d": "2012-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "red-hood-outlaws-v1",
+       "n": "17",
+       "t": null,
+       "d": "2013-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-and-robin-v2",
+       "n": "15",
+       "t": null,
+       "d": "2012-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-and-robin-v2",
+       "n": "16",
+       "t": null,
+       "d": "2013-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective-v2",
+       "n": "15",
+       "t": null,
+       "d": "2012-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective-v2",
+       "n": "16",
+       "t": null,
+       "d": "2013-01",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "zero-year",
+   "name": "Batman: Zero Year",
+   "nameZh": "零年",
+   "era": "New52",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2013-06",
+   "end": "2014-04",
+   "summaryZh": "斯奈德重述新 52 蝙蝠侠起源：布鲁斯·韦恩的早年、与戈登的初识、谜语人以「零年」计划淹没哥谭；分为 Secret City、Dark City、Savage City 三章。",
+   "characters": [
+    "batman",
+    "gordon",
+    "catwoman",
+    "joker"
+   ],
+   "phases": [
+    {
+     "name": "Zero Year: Secret City",
+     "nameZh": "零年·秘密之城",
+     "issues": [
+      {
+       "s": "batman-v2",
+       "n": "21",
+       "t": null,
+       "d": "2013-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "22",
+       "t": null,
+       "d": "2013-07",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "23",
+       "t": null,
+       "d": "2013-08",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "24",
+       "t": null,
+       "d": "2013-09",
+       "p": null,
+       "c": []
+      }
+     ]
+    },
+    {
+     "name": "Zero Year: Dark City",
+     "nameZh": "零年·黑暗之城",
+     "issues": [
+      {
+       "s": "batman-v2",
+       "n": "25",
+       "t": null,
+       "d": "2013-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "26",
+       "t": null,
+       "d": "2013-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "27",
+       "t": null,
+       "d": "2013-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "28",
+       "t": null,
+       "d": "2014-01",
+       "p": null,
+       "c": []
+      }
+     ]
+    },
+    {
+     "name": "Zero Year: Savage City",
+     "nameZh": "零年·野蛮之城",
+     "issues": [
+      {
+       "s": "batman-v2",
+       "n": "29",
+       "t": null,
+       "d": "2014-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "30",
+       "t": null,
+       "d": "2014-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "31",
+       "t": null,
+       "d": "2014-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "32",
+       "t": null,
+       "d": "2014-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "33",
+       "t": null,
+       "d": "2014-04",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "Annual 2",
+       "t": "2013-08",
+       "d": "2",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "endgame",
+   "name": "Batman: Endgame",
+   "nameZh": "终局之战",
+   "era": "New52",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2014-10",
+   "end": "2015-04",
+   "summaryZh": "小丑以感染「乔基利亚」毒素的形态回归，宣称知晓蝙蝠侠身份，以「你们都是朋友」围猎蝙蝠家族；蝙蝠侠与小丑在洞穴中「同归于尽」，为新 52 蝙蝠侠时代画上句号。",
+   "characters": [
+    "batman",
+    "joker",
+    "gordon",
+    "batgirl",
+    "nightwing",
+    "robin-damian"
+   ],
+   "phases": [
+    {
+     "name": "Endgame",
+     "nameZh": "终局之战",
+     "issues": [
+      {
+       "s": "batman-v2",
+       "n": "35",
+       "t": null,
+       "d": "2014-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "36",
+       "t": null,
+       "d": "2014-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "37",
+       "t": null,
+       "d": "2014-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "38",
+       "t": null,
+       "d": "2015-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "39",
+       "t": null,
+       "d": "2015-03",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v2",
+       "n": "40",
+       "t": null,
+       "d": "2015-04",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "joker-war",
+   "name": "Joker War",
+   "nameZh": "小丑战争",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "crossover",
+   "start": "2020-09",
+   "end": "2020-12",
+   "summaryZh": "小丑以韦恩企业为武器发动终极战争：感染哥谭、劫持韦恩财富并逼蝙蝠侠入绝境；蝙蝠家族全线参战，蝙蝠侠以「死亡与重生」击败小丑，阿尔弗雷德之死成为永久伤痕。",
+   "characters": [
+    "batman",
+    "joker",
+    "redhood",
+    "nightwing",
+    "batgirl",
+    "catwoman",
+    "gordon",
+    "robin-damian"
+   ],
+   "phases": [
+    {
+     "name": "Joker War",
+     "nameZh": "小丑战争",
+     "issues": [
+      {
+       "s": "batman-v3",
+       "n": "95",
+       "t": null,
+       "d": "2020-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v3",
+       "n": "96",
+       "t": null,
+       "d": "2020-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v3",
+       "n": "97",
+       "t": null,
+       "d": "2020-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v3",
+       "n": "98",
+       "t": null,
+       "d": "2020-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v3",
+       "n": "99",
+       "t": null,
+       "d": "2020-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman-v3",
+       "n": "100",
+       "t": null,
+       "d": "2020-12",
+       "p": null,
+       "c": []
+      }
+     ]
+    },
+    {
+     "name": "Joker War Tie-Ins",
+     "nameZh": "小丑战争联动",
+     "issues": [
+      {
+       "s": "joker-war-zone",
+       "n": "1",
+       "t": null,
+       "d": "2020-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batgirl-v3",
+       "n": "47",
+       "t": null,
+       "d": "2020-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "nightwing-v4",
+       "n": "74",
+       "t": null,
+       "d": "2020-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Catwoman",
+       "n": "25",
+       "t": null,
+       "d": "2020-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective-v3",
+       "n": "1025",
+       "t": null,
+       "d": "2020-10",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective-v3",
+       "n": "1026",
+       "t": null,
+       "d": "2020-11",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "detective-v3",
+       "n": "1027",
+       "t": null,
+       "d": "2020-12",
+       "p": null,
+       "c": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "arcs": [],
+ "standalone": [],
+ "sources": [
+  "https://community.cbr.com/threads/chronological-batman-reading-order-modern-era.44918/",
+  "https://www.comicbookherald.com/reading-dc-comics/batman-reading-order/knightfall-trilogy/",
+  "https://www.comicbooktreasury.com/batman-no-mans-land-reading-order/",
+  "https://inverty.com/bbb/faqs/nml.htm",
+  "https://newtocomics.com/legacy-reading-guide/",
+  "https://www.readingorders.com/reading-orders/batman-knightfall-saga/collected-editions",
+  "https://www.howtolovecomics.com/2025/11/12/batman-knightfall-reading-order/",
+  "https://dc.fandom.com/wiki/Batman:_Legacy_(Collected)",
+  "https://dc.fandom.com/wiki/Batman:_No_Man's_Land",
+  "https://en.wikipedia.org/wiki/Batman:_Legacy",
+  "https://en.wikipedia.org/wiki/Batman:_Knightfall",
+  "https://en.wikipedia.org/wiki/Batman:_Contagion",
+  "https://en.wikipedia.org/wiki/Batman:_Cataclysm",
+  "https://en.wikipedia.org/wiki/Batman:_No_Man%27s_Land",
+  "https://en.wikipedia.org/wiki/Batman:_War_Games",
+  "https://en.wikipedia.org/wiki/Batman:_Endgame",
+  "https://en.wikipedia.org/wiki/Batman_R.I.P.",
+  "https://en.wikipedia.org/wiki/Batman:_Battle_for_the_Cowl",
+  "https://en.wikipedia.org/wiki/Bruce_Wayne:_Murderer%3F",
+  "https://en.wikipedia.org/wiki/Batman:_Under_the_Hood",
+  "https://newtocomics.com/contagion-reading-guide/",
+  "https://newtocomics.com/cataclysm-reading-guide/",
+  "https://newtocomics.com/no-mans-land-reading-guide/",
+  "https://newtocomics.com/war-games-reading-guide/",
+  "https://newtocomics.com/bruce-wayne-murderer-fugitive-reading-guide/",
+  "https://www.comicbooktreasury.com/batman-joker-war-reading-order/",
+  "https://www.comicbooktreasury.com/batman-night-of-the-owls-reading-order-a-batfamily-crossover-event-during-new-52-event-dc/",
+  "https://newtocomics.com/batman-zero-year-reading-guide/",
+  "https://newtocomics.com/endgame-reading-guide/",
+  "https://dc.fandom.com/wiki/Batman:_Cataclysm,_New_Edition_(Collected)",
+  "https://dc.fandom.com/wiki/Batman:_Road_to_No_Man%27s_Land_Omnibus_(Collected)",
+  "https://dc.fandom.com/wiki/Batman:_Zero_Year_(Collected)"
+ ]
+}

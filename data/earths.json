@@ -1,0 +1,38 @@
+[
+  {
+    "id": "new-earth",
+    "nameZh": "新地球",
+    "nameEn": "New Earth",
+    "note": "后危机时代（1986–2011）唯一主地球。"
+  },
+  {
+    "id": "earth-0",
+    "nameZh": "主地球",
+    "nameEn": "Earth-0",
+    "note": "新52 / 重生时代主地球（2011– ）。"
+  },
+  {
+    "id": "earth-2",
+    "nameZh": "地球二",
+    "nameEn": "Earth-2",
+    "note": "黄金时代英雄的归宿；新52 起为独立世界。"
+  },
+  {
+    "id": "earth-3",
+    "nameZh": "地球三",
+    "nameEn": "Earth-3",
+    "note": "犯罪辛迪加（Crime Syndicate）所在。"
+  },
+  {
+    "id": "flashpoint-earth",
+    "nameZh": "闪点地球",
+    "nameEn": "Flashpoint Earth",
+    "note": "Flashpoint 事件中被改变的时间线。"
+  },
+  {
+    "id": "absolute-earth",
+    "nameZh": "绝对地球",
+    "nameEn": "Absolute Earth",
+    "note": "绝对宇宙（2024– ），布鲁斯·韦恩年轻时父母未亡、但哥谭更黑暗。"
+  }
+]

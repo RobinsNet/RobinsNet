@@ -1,0 +1,2545 @@
+{
+ "events": [
+  {
+   "id": "hush",
+   "name": "Batman: Hush",
+   "nameZh": "蝙蝠侠：缄默",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "arc",
+   "start": "2002-12",
+   "end": "2003-11",
+   "summaryZh": "布鲁斯·韦恩在追查神秘反派「缄默」（Hush）的过程中与猫女坠入爱河，并向她揭露了自己的身份。缄默幕后操控小丑、稻草人、谜语人等敌人逐一袭击蝙蝠侠，最终揭开其真面目：蝙蝠侠童年挚友托马斯·艾略特。",
+   "characters": [
+    "batman",
+    "catwoman",
+    "hush",
+    "robin-tim",
+    "nightwing",
+    "oracle",
+    "joker",
+    "riddler",
+    "scarecrow",
+    "penguin",
+    "talia",
+    "ras",
+    "alfred",
+    "gordon",
+    "twopface"
+   ],
+   "related": [
+    "fugitive"
+   ],
+   "phases": [
+    {
+     "name": "Hush",
+     "nameZh": "缄默",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "608",
+       "t": "Hush, Part One: The Ransom",
+       "d": "2002-12",
+       "p": 1,
+       "c": [
+        "batman",
+        "catwoman",
+        "riddler"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "609",
+       "t": "Hush, Part Two: The Friend",
+       "d": "2003-01",
+       "p": 2,
+       "c": [
+        "batman",
+        "catwoman",
+        "penguin"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "610",
+       "t": "Hush, Part Three: The Beast in the Mountain",
+       "d": "2003-02",
+       "p": 3,
+       "c": [
+        "batman",
+        "scarecrow"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "611",
+       "t": "Hush, Part Four: The City (Welcome to the Jungle!)",
+       "d": "2003-03",
+       "p": 4,
+       "c": [
+        "batman",
+        "joker"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "612",
+       "t": "Hush, Part Five: The Battle",
+       "d": "2003-04",
+       "p": 5,
+       "c": [
+        "batman",
+        "catwoman"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "613",
+       "t": "Hush, Part Six: The Opera",
+       "d": "2003-05",
+       "p": 6,
+       "c": [
+        "batman",
+        "joker",
+        "catwoman"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "614",
+       "t": "Hush, Part Seven: The Joke",
+       "d": "2003-06",
+       "p": 7,
+       "c": [
+        "batman",
+        "joker"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "615",
+       "t": "Hush, Part Eight: The Choice",
+       "d": "2003-07",
+       "p": 8,
+       "c": [
+        "batman",
+        "catwoman",
+        "talia",
+        "ras"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "616",
+       "t": "Hush, Part Nine: The Assassins",
+       "d": "2003-08",
+       "p": 9,
+       "c": [
+        "batman",
+        "talia",
+        "ras",
+        "robin-tim"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "617",
+       "t": "Hush, Part Ten: The Grave",
+       "d": "2003-09",
+       "p": 10,
+       "c": [
+        "batman",
+        "hush",
+        "catwoman"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "618",
+       "t": "Hush, Part Eleven: The Game",
+       "d": "2003-10",
+       "p": 11,
+       "c": [
+        "batman",
+        "hush",
+        "nightwing"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "619",
+       "t": "Hush, Part Twelve: The End",
+       "d": "2003-11",
+       "p": 12,
+       "c": [
+        "batman",
+        "hush",
+        "catwoman",
+        "twopface"
+       ],
+       "x": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "murderer",
+   "name": "Bruce Wayne: Murderer?",
+   "nameZh": "布鲁斯·韦恩：凶手？",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "crossover",
+   "start": "2002-03",
+   "end": "2002-08",
+   "summaryZh": "韦斯珀·费尔柴尔德（Vesper Fairchild）被发现死于韦恩庄园，布鲁斯·韦恩成为头号谋杀嫌疑人。蝙蝠家族各成员分头调查，蝙蝠侠在被监禁期间策划脱逃，最终证明自己被诬陷，故事随即导向「逃犯」。",
+   "characters": [
+    "batman",
+    "alfred",
+    "gordon",
+    "oracle",
+    "nightwing",
+    "robin-tim",
+    "batgirl",
+    "catwoman",
+    "azrael"
+   ],
+   "related": [],
+   "phases": [
+    {
+     "name": "Bruce Wayne: Murderer?",
+     "nameZh": "布鲁斯·韦恩：凶手？",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "599",
+       "t": "From the Inside-Out",
+       "d": "2002-03",
+       "p": null,
+       "c": [
+        "batman",
+        "alfred",
+        "gordon"
+       ],
+       "x": "Murderer? 第一章"
+      },
+      {
+       "s": "birds-of-prey",
+       "n": "39",
+       "t": null,
+       "d": "2002-03",
+       "p": null,
+       "c": [
+        "oracle",
+        "nightwing"
+       ],
+       "x": null
+      },
+      {
+       "s": "detective",
+       "n": "766",
+       "t": null,
+       "d": "2002-03",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon"
+       ],
+       "x": null
+      },
+      {
+       "s": "gotham-knights",
+       "n": "25",
+       "t": "No Exit",
+       "d": "2002-03",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon"
+       ],
+       "x": null
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "65",
+       "t": null,
+       "d": "2002-03",
+       "p": null,
+       "c": [
+        "nightwing",
+        "oracle"
+       ],
+       "x": null
+      },
+      {
+       "s": "robin-v2",
+       "n": "98",
+       "t": null,
+       "d": "2002-03",
+       "p": null,
+       "c": [
+        "robin-tim",
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "600",
+       "t": "The Scene of the Crime",
+       "d": "2002-04",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon"
+       ],
+       "x": "600 期纪念号"
+      },
+      {
+       "s": "birds-of-prey",
+       "n": "40",
+       "t": null,
+       "d": "2002-04",
+       "p": null,
+       "c": [
+        "oracle",
+        "nightwing"
+       ],
+       "x": null
+      },
+      {
+       "s": "detective",
+       "n": "767",
+       "t": null,
+       "d": "2002-04",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "gotham-knights",
+       "n": "26",
+       "t": null,
+       "d": "2002-04",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon"
+       ],
+       "x": null
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "66",
+       "t": null,
+       "d": "2002-04",
+       "p": null,
+       "c": [
+        "nightwing",
+        "oracle"
+       ],
+       "x": null
+      },
+      {
+       "s": "robin-v2",
+       "n": "99",
+       "t": null,
+       "d": "2002-04",
+       "p": null,
+       "c": [
+        "robin-tim"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "601",
+       "t": "Turning the Town Red, Part 1",
+       "d": "2002-05",
+       "p": 1,
+       "c": [
+        "batman",
+        "gordon"
+       ],
+       "x": null
+      },
+      {
+       "s": "birds-of-prey",
+       "n": "41",
+       "t": null,
+       "d": "2002-05",
+       "p": null,
+       "c": [
+        "oracle"
+       ],
+       "x": null
+      },
+      {
+       "s": "detective",
+       "n": "768",
+       "t": null,
+       "d": "2002-05",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "gotham-knights",
+       "n": "27",
+       "t": null,
+       "d": "2002-05",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "67",
+       "t": null,
+       "d": "2002-05",
+       "p": null,
+       "c": [
+        "nightwing"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "602",
+       "t": "Turning the Town Red, Part 2",
+       "d": "2002-06",
+       "p": 2,
+       "c": [
+        "batman",
+        "gordon"
+       ],
+       "x": null
+      },
+      {
+       "s": "detective",
+       "n": "769",
+       "t": null,
+       "d": "2002-06",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "gotham-knights",
+       "n": "28",
+       "t": null,
+       "d": "2002-06",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon"
+       ],
+       "x": null
+      },
+      {
+       "s": "azrael",
+       "n": "91",
+       "t": null,
+       "d": "2002-08",
+       "p": null,
+       "c": [
+        "azrael"
+       ],
+       "x": "额外章节，封面日期晚于核心刊（2002-08）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fugitive",
+   "name": "Bruce Wayne: Fugitive",
+   "nameZh": "布鲁斯·韦恩：逃犯",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "crossover",
+   "start": "2002-05",
+   "end": "2002-12",
+   "summaryZh": "韦恩洗脱谋杀罪名后以「逃犯」身份自我放逐、周游世界，蝙蝠家族成员追查其下落并劝其归来。最终韦恩在戈登与家族成员的协助下回归哥谭，直面自己的双重身份。",
+   "characters": [
+    "batman",
+    "alfred",
+    "gordon",
+    "oracle",
+    "nightwing",
+    "robin-tim",
+    "batgirl",
+    "catwoman"
+   ],
+   "related": [
+    "murderer"
+   ],
+   "phases": [
+    {
+     "name": "Bruce Wayne: Fugitive",
+     "nameZh": "布鲁斯·韦恩：逃犯",
+     "issues": [
+      {
+       "s": "robin-v2",
+       "n": "100",
+       "t": null,
+       "d": "2002-05",
+       "p": null,
+       "c": [
+        "robin-tim",
+        "batman"
+       ],
+       "x": "100 期纪念号；Fugitive 章节，封面日期早于核心刊"
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "68",
+       "t": null,
+       "d": "2002-06",
+       "p": null,
+       "c": [
+        "nightwing",
+        "oracle"
+       ],
+       "x": null
+      },
+      {
+       "s": "robin-v2",
+       "n": "101",
+       "t": null,
+       "d": "2002-06",
+       "p": null,
+       "c": [
+        "robin-tim"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "603",
+       "t": "The Turning Point",
+       "d": "2002-07",
+       "p": 1,
+       "c": [
+        "batman"
+       ],
+       "x": "Fugitive 第一章"
+      },
+      {
+       "s": "birds-of-prey",
+       "n": "43",
+       "t": null,
+       "d": "2002-07",
+       "p": null,
+       "c": [
+        "oracle",
+        "nightwing"
+       ],
+       "x": null
+      },
+      {
+       "s": "detective",
+       "n": "770",
+       "t": null,
+       "d": "2002-07",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "gotham-knights",
+       "n": "29",
+       "t": null,
+       "d": "2002-07",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon"
+       ],
+       "x": null
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "69",
+       "t": null,
+       "d": "2002-07",
+       "p": null,
+       "c": [
+        "nightwing"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "604",
+       "t": null,
+       "d": "2002-08",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "birds-of-prey",
+       "n": "44",
+       "t": null,
+       "d": "2002-08",
+       "p": null,
+       "c": [
+        "oracle"
+       ],
+       "x": null
+      },
+      {
+       "s": "detective",
+       "n": "771",
+       "t": null,
+       "d": "2002-08",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "gotham-knights",
+       "n": "30",
+       "t": null,
+       "d": "2002-08",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "605",
+       "t": "Courage",
+       "d": "2002-09",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "birds-of-prey",
+       "n": "45",
+       "t": null,
+       "d": "2002-09",
+       "p": null,
+       "c": [
+        "oracle",
+        "nightwing"
+       ],
+       "x": null
+      },
+      {
+       "s": "detective",
+       "n": "772",
+       "t": null,
+       "d": "2002-09",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "gotham-knights",
+       "n": "31",
+       "t": null,
+       "d": "2002-09",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "606",
+       "t": "Death-Wish for Two",
+       "d": "2002-10",
+       "p": 1,
+       "c": [
+        "batman"
+       ],
+       "x": "Deadshot 双期故事"
+      },
+      {
+       "s": "birds-of-prey",
+       "n": "46",
+       "t": null,
+       "d": "2002-10",
+       "p": null,
+       "c": [
+        "oracle"
+       ],
+       "x": null
+      },
+      {
+       "s": "detective",
+       "n": "773",
+       "t": null,
+       "d": "2002-10",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "gotham-knights",
+       "n": "32",
+       "t": null,
+       "d": "2002-10",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "607",
+       "t": "Death-Wish for Two Conclusion: Deadshot Shot Dead!",
+       "d": "2002-11",
+       "p": 2,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "detective",
+       "n": "774",
+       "t": null,
+       "d": "2002-11",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "detective",
+       "n": "775",
+       "t": null,
+       "d": "2002-12",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "war-games",
+   "name": "Batman: War Games",
+   "nameZh": "战争游戏",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "crossover",
+   "start": "2004-10",
+   "end": "2005-11",
+   "summaryZh": "黑面具挑动哥谭黑帮爆发全面火并，蝙蝠侠在行动中重伤离场，由神谕与夜翼等人接手指挥。斯波伊勒（Stephanie Brown）成为新任罗宾却在行动中牺牲，蝙蝠侠归来后与黑面具清算，哥谭满目疮痍，红头罩在余波中崛起。",
+   "characters": [
+    "batman",
+    "oracle",
+    "robin-tim",
+    "nightwing",
+    "batgirl",
+    "blackmask",
+    "catwoman",
+    "gordon"
+   ],
+   "related": [
+    "war-crimes"
+   ],
+   "phases": [
+    {
+     "name": "Act One: Outbreak",
+     "nameZh": "第一幕：爆发",
+     "issues": [
+      {
+       "s": "detective",
+       "n": "797",
+       "t": "War Games: Act One - Outbreak - Part 1: Flashpoint",
+       "d": "2004-10",
+       "p": 1,
+       "c": [
+        "batman",
+        "oracle"
+       ],
+       "x": "Act One 第一章"
+      },
+      {
+       "s": "Batman: War Games Act One",
+       "n": "1",
+       "t": "Batman: War Games Act One",
+       "d": "2005-02",
+       "p": null,
+       "c": [
+        "batman",
+        "oracle",
+        "blackmask"
+       ],
+       "x": "单刊（one-shot），未编号幕章"
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "96",
+       "t": "War Games: Act One - Outbreak, Part 3",
+       "d": "2004-08",
+       "p": 3,
+       "c": [
+        "nightwing",
+        "oracle"
+       ],
+       "x": "标题注明 Part 3 of 8"
+      },
+      {
+       "s": "robin-v2",
+       "n": "126",
+       "t": null,
+       "d": "2004-07",
+       "p": null,
+       "c": [
+        "robin-tim",
+        "batman"
+       ],
+       "x": "同时是 War Drums 尾声（桥接刊）；封面日期为按月推算"
+      },
+      {
+       "s": "batgirl-v1",
+       "n": "57",
+       "t": null,
+       "d": "2004-12",
+       "p": null,
+       "c": [
+        "batgirl",
+        "oracle"
+       ],
+       "x": null
+      },
+      {
+       "s": "catwoman-v3",
+       "n": "34",
+       "t": null,
+       "d": "2004-10",
+       "p": null,
+       "c": [
+        "catwoman"
+       ],
+       "x": null
+      },
+      {
+       "s": "gotham-knights",
+       "n": "56",
+       "t": null,
+       "d": "2004-11",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "Batman: Legends of the Dark Knight",
+       "n": "182",
+       "t": null,
+       "d": "2004-11",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      }
+     ]
+    },
+    {
+     "name": "Act Two: Tides",
+     "nameZh": "第二幕：潮汐",
+     "issues": [
+      {
+       "s": "Batman: War Games Act Two",
+       "n": "1",
+       "t": "Batman: War Games Act Two",
+       "d": "2005-08",
+       "p": null,
+       "c": [
+        "batman",
+        "oracle",
+        "blackmask"
+       ],
+       "x": "单刊（one-shot），未编号幕章；封面日期 2005-08（GCD）"
+      },
+      {
+       "s": "detective",
+       "n": "798",
+       "t": null,
+       "d": "2004-11",
+       "p": null,
+       "c": [
+        "batman",
+        "oracle"
+       ],
+       "x": null
+      },
+      {
+       "s": "robin-v2",
+       "n": "127",
+       "t": null,
+       "d": "2004-08",
+       "p": null,
+       "c": [
+        "robin-tim"
+       ],
+       "x": "封面日期为按月推算"
+      },
+      {
+       "s": "batgirl-v1",
+       "n": "58",
+       "t": null,
+       "d": "2005-01",
+       "p": null,
+       "c": [
+        "batgirl",
+        "oracle"
+       ],
+       "x": null
+      },
+      {
+       "s": "catwoman-v3",
+       "n": "35",
+       "t": null,
+       "d": "2004-11",
+       "p": null,
+       "c": [
+        "catwoman"
+       ],
+       "x": null
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "97",
+       "t": null,
+       "d": "2004-09",
+       "p": null,
+       "c": [
+        "nightwing"
+       ],
+       "x": null
+      },
+      {
+       "s": "gotham-knights",
+       "n": "57",
+       "t": null,
+       "d": "2004-12",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "Batman: Legends of the Dark Knight",
+       "n": "183",
+       "t": null,
+       "d": "2004-12",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      }
+     ]
+    },
+    {
+     "name": "Act Three: Endgame",
+     "nameZh": "第三幕：终局",
+     "issues": [
+      {
+       "s": "Batman: War Games Act Three",
+       "n": "1",
+       "t": "Batman: War Games Act Three",
+       "d": "2005-11",
+       "p": null,
+       "c": [
+        "batman",
+        "oracle",
+        "blackmask"
+       ],
+       "x": "单刊（one-shot），未编号幕章；封面日期 2005-11（GCD）"
+      },
+      {
+       "s": "detective",
+       "n": "799",
+       "t": null,
+       "d": "2004-12",
+       "p": null,
+       "c": [
+        "batman",
+        "oracle"
+       ],
+       "x": null
+      },
+      {
+       "s": "robin-v2",
+       "n": "128",
+       "t": null,
+       "d": "2004-09",
+       "p": null,
+       "c": [
+        "robin-tim"
+       ],
+       "x": "封面日期为按月推算"
+      },
+      {
+       "s": "gotham-knights",
+       "n": "58",
+       "t": null,
+       "d": "2005-01",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "Batman: Legends of the Dark Knight",
+       "n": "184",
+       "t": null,
+       "d": "2005-01",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "detective",
+       "n": "800",
+       "t": null,
+       "d": "2005-01",
+       "p": null,
+       "c": [
+        "batman",
+        "oracle",
+        "blackmask"
+       ],
+       "x": "800 期纪念号；同时是 'Batman: City of Crime' 故事线开篇（续于 #801-808、#811-814）"
+      },
+      {
+       "s": "robin-v2",
+       "n": "129",
+       "t": null,
+       "d": "2004-10",
+       "p": null,
+       "c": [
+        "robin-tim",
+        "batman"
+       ],
+       "x": "封面日期为按月推算"
+      },
+      {
+       "s": "batman",
+       "n": "633",
+       "t": "War Games, Act 3, Part 8: No Going Back",
+       "d": "2004-12",
+       "p": 8,
+       "c": [
+        "batman",
+        "blackmask"
+       ],
+       "x": "War Games 终章"
+      }
+     ]
+    },
+    {
+     "name": "Epilogue",
+     "nameZh": "尾声",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "634",
+       "t": "War Games, Epilogue: Decompression",
+       "d": "2005-01",
+       "p": null,
+       "c": [
+        "batman",
+        "oracle"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "635",
+       "t": "Under the Hood, Part 1: New Business",
+       "d": "2005-02",
+       "p": null,
+       "c": [
+        "batman",
+        "redhood",
+        "blackmask"
+       ],
+       "x": "红头罩首秀；同时是 'Under the Hood' 第一章，作为 War Games 余波阅读"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "war-crimes",
+   "name": "Batman: War Crimes",
+   "nameZh": "战争罪",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "crossover",
+   "start": "2005-10",
+   "end": "2005-11",
+   "summaryZh": "「战争游戏」之后，哥谭黑帮残局引发清算，黑面具成为蝙蝠侠的首要目标；斯波伊勒之死的真相浮出水面，蝙蝠侠与黑面具正面交锋，城市黑帮格局被重新洗牌。",
+   "characters": [
+    "batman",
+    "blackmask",
+    "oracle",
+    "gordon",
+    "batgirl"
+   ],
+   "related": [
+    "war-games"
+   ],
+   "phases": [
+    {
+     "name": "War Crimes",
+     "nameZh": "战争罪",
+     "issues": [
+      {
+       "s": "detective",
+       "n": "809",
+       "t": "War Crimes, Part One",
+       "d": "2005-10",
+       "p": 1,
+       "c": [
+        "batman",
+        "oracle"
+       ],
+       "x": "共 4 部分；另有资料将 Batman #642 与 Detective #811 计入本交叉（6 期版本）"
+      },
+      {
+       "s": "batman",
+       "n": "643",
+       "t": null,
+       "d": "2005-10",
+       "p": 2,
+       "c": [
+        "batman",
+        "blackmask"
+       ],
+       "x": "封面日期为推算（与 #644 双月发行）"
+      },
+      {
+       "s": "detective",
+       "n": "810",
+       "t": null,
+       "d": "2005-11",
+       "p": 3,
+       "c": [
+        "batman",
+        "blackmask"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "644",
+       "t": "War Crimes, Part 4 of 4: Judgement at Gotham",
+       "d": "2005-10",
+       "p": 4,
+       "c": [
+        "batman",
+        "blackmask"
+       ],
+       "x": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "under-the-hood",
+   "name": "Batman: Under the Hood",
+   "nameZh": "红头罩之下",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "arc",
+   "start": "2005-02",
+   "end": "2006-04",
+   "summaryZh": "神秘的红头罩（Red Hood）在哥谭崛起，以暴力手段接管黑面具的犯罪帝国并操控蝙蝠侠的敌人。蝙蝠侠追查其身份，最终揭晓红头罩竟是死而复生的杰森·托德——他曾被小丑杀害，如今归来复仇。",
+   "characters": [
+    "batman",
+    "redhood",
+    "blackmask",
+    "nightwing",
+    "robin-tim",
+    "oracle",
+    "joker",
+    "talia",
+    "ras",
+    "alfred",
+    "gordon"
+   ],
+   "related": [
+    "war-crimes"
+   ],
+   "phases": [
+    {
+     "name": "Under the Hood",
+     "nameZh": "红头罩之下",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "635",
+       "t": "Under the Hood, Part 1: New Business",
+       "d": "2005-02",
+       "p": 1,
+       "c": [
+        "batman",
+        "redhood",
+        "blackmask"
+       ],
+       "x": "红头罩首次登场"
+      },
+      {
+       "s": "batman",
+       "n": "636",
+       "t": "Under the Hood, Part 2: First Strike",
+       "d": "2005-03",
+       "p": 2,
+       "c": [
+        "batman",
+        "redhood"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "637",
+       "t": "Under the Hood, Part 3: Overnight Deliveries",
+       "d": "2005-04",
+       "p": 3,
+       "c": [
+        "batman",
+        "redhood",
+        "blackmask"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "638",
+       "t": "Under the Hood, Part 4: Bidding War",
+       "d": "2005-05",
+       "p": 4,
+       "c": [
+        "batman",
+        "redhood",
+        "blackmask"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "639",
+       "t": "Family Reunion, Part 1: The Word on the Street",
+       "d": "2005-06",
+       "p": 1,
+       "c": [
+        "batman",
+        "robin-tim",
+        "nightwing"
+       ],
+       "x": "Family Reunion 三部曲"
+      },
+      {
+       "s": "batman",
+       "n": "640",
+       "t": "Family Reunion, Part 2: While the Cat's Away",
+       "d": "2005-07",
+       "p": 2,
+       "c": [
+        "batman",
+        "robin-tim",
+        "nightwing"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "641",
+       "t": "Family Reunion, Conclusion: Face To Face",
+       "d": "2005-08",
+       "p": 3,
+       "c": [
+        "batman",
+        "redhood"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "645",
+       "t": "Show Me Yesterday, For I Can't Find Today: A Robins Tale",
+       "d": "2005-11",
+       "p": null,
+       "c": [
+        "batman",
+        "robin-tim"
+       ],
+       "x": "罗宾往事独立篇；#642-644 为 War Crimes 交叉"
+      },
+      {
+       "s": "batman",
+       "n": "646",
+       "t": "Franchise, Part 1 of 2: Supply Side Economics",
+       "d": "2005-12",
+       "p": 1,
+       "c": [
+        "batman",
+        "redhood"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "647",
+       "t": "Franchise, Part 2 of 2: The Away Team",
+       "d": "2006-01",
+       "p": 2,
+       "c": [
+        "batman",
+        "redhood"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "648",
+       "t": "All They Do Is Watch Us Kill, Part 1 of 3",
+       "d": "2006-02",
+       "p": 1,
+       "c": [
+        "batman",
+        "redhood",
+        "blackmask"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "649",
+       "t": "All They Do Is Watch Us Kill, Part 2 of 3",
+       "d": "2006-03",
+       "p": 2,
+       "c": [
+        "batman",
+        "redhood"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "650",
+       "t": "All They Do Is Watch Us Kill, Part 3 of 3: It Only Hurts When I Laugh",
+       "d": "2006-04",
+       "p": 3,
+       "c": [
+        "batman",
+        "redhood",
+        "joker"
+       ],
+       "x": "Red Hood 身份揭晓"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "face-the-face",
+   "name": "Batman: Face the Face",
+   "nameZh": "面对面",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "crossover",
+   "start": "2006-05",
+   "end": "2006-08",
+   "summaryZh": "One Year Later 归来，布鲁斯·韦恩回到哥谭并重新出发；他与归来后的哈维·丹特（双面人）对峙，同时与罗宾共同调查一个模仿蝙蝠侠办案方式的私刑者「面对面」之谜。",
+   "characters": [
+    "batman",
+    "nightwing",
+    "robin-tim",
+    "gordon",
+    "twopface"
+   ],
+   "related": [],
+   "phases": [
+    {
+     "name": "Face the Face",
+     "nameZh": "面对面",
+     "issues": [
+      {
+       "s": "detective",
+       "n": "817",
+       "t": "Face the Face, Part One",
+       "d": "2006-05",
+       "p": 1,
+       "c": [
+        "batman",
+        "robin-tim"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "651",
+       "t": "Face the Face, Part Two",
+       "d": "2006-05",
+       "p": 2,
+       "c": [
+        "batman",
+        "robin-tim"
+       ],
+       "x": null
+      },
+      {
+       "s": "detective",
+       "n": "818",
+       "t": "Face the Face, Part Three",
+       "d": "2006-06",
+       "p": 3,
+       "c": [
+        "batman",
+        "robin-tim"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "652",
+       "t": "Face the Face, Part Four",
+       "d": "2006-06",
+       "p": 4,
+       "c": [
+        "batman",
+        "twopface"
+       ],
+       "x": null
+      },
+      {
+       "s": "detective",
+       "n": "819",
+       "t": "Face the Face, Part Five",
+       "d": "2006-07",
+       "p": 5,
+       "c": [
+        "batman",
+        "gordon"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "653",
+       "t": "Face the Face, Part Six",
+       "d": "2006-07",
+       "p": 6,
+       "c": [
+        "batman",
+        "twopface"
+       ],
+       "x": null
+      },
+      {
+       "s": "detective",
+       "n": "820",
+       "t": "Face the Face, Part Seven",
+       "d": "2006-08",
+       "p": 7,
+       "c": [
+        "batman",
+        "gordon"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "654",
+       "t": "Face the Face, Part Eight: Conclusion",
+       "d": "2006-08",
+       "p": 8,
+       "c": [
+        "batman",
+        "twopface"
+       ],
+       "x": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "batman-and-son",
+   "name": "Batman and Son",
+   "nameZh": "蝙蝠侠与子",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "arc",
+   "start": "2006-09",
+   "end": "2006-12",
+   "summaryZh": "塔莉亚·艾尔·古尔带着布鲁斯·韦恩与她的儿子达米安（Damian Wayne）来到哥谭。达米安是被刺客联盟养大的天才少年，意图取代罗宾成为蝙蝠侠的搭档，布鲁斯被迫面对自己作为父亲的职责。",
+   "characters": [
+    "batman",
+    "robin-damian",
+    "talia",
+    "ras",
+    "alfred",
+    "gordon",
+    "robin-tim"
+   ],
+   "related": [
+    "resurrection-ras"
+   ],
+   "phases": [
+    {
+     "name": "Batman and Son",
+     "nameZh": "蝙蝠侠与子",
+     "issues": [
+      {
+       "s": "batman",
+       "n": "655",
+       "t": "Batman and Son, Part One",
+       "d": "2006-09",
+       "p": 1,
+       "c": [
+        "batman",
+        "robin-damian",
+        "talia"
+       ],
+       "x": "达米安·韦恩初次登场（cameo）"
+      },
+      {
+       "s": "batman",
+       "n": "656",
+       "t": "Batman & Son, Part 2: Man-Bats of London",
+       "d": "2006-10",
+       "p": 2,
+       "c": [
+        "batman",
+        "robin-damian",
+        "talia"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "657",
+       "t": "Batman & Son, Part 3",
+       "d": "2006-11",
+       "p": 3,
+       "c": [
+        "batman",
+        "robin-damian"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "658",
+       "t": "Batman & Son: Absent Fathers",
+       "d": "2006-12",
+       "p": 4,
+       "c": [
+        "batman",
+        "robin-damian",
+        "talia",
+        "ras"
+       ],
+       "x": "Part 4 of 4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "resurrection-ras",
+   "name": "The Resurrection of Ra's al Ghul",
+   "nameZh": "拉斯·艾尔·古尔复活",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "crossover",
+   "start": "2007-12",
+   "end": "2008-03",
+   "summaryZh": "拉斯·艾尔·古尔在拉撒路之池中复活，蝙蝠侠、罗宾、夜翼与刺客联盟成员分头追寻其下落；复活后的拉斯变得疯狂，达米安与父亲并肩作战，最终拉斯再次殒命。",
+   "characters": [
+    "batman",
+    "ras",
+    "talia",
+    "robin-damian",
+    "robin-tim",
+    "nightwing",
+    "alfred"
+   ],
+   "related": [
+    "batman-and-son"
+   ],
+   "phases": [
+    {
+     "name": "The Resurrection of Ra's al Ghul",
+     "nameZh": "拉斯·艾尔·古尔复活",
+     "issues": [
+      {
+       "s": "Batman Annual",
+       "n": "26",
+       "t": "Head of the Demon",
+       "d": "2007-12",
+       "p": null,
+       "c": [
+        "batman",
+        "ras"
+       ],
+       "x": "开篇章节，未编号（非 Part One）；封面日期为最佳估计"
+      },
+      {
+       "s": "batman",
+       "n": "670",
+       "t": "A Prelude to the Resurrection of Ra's al Ghul: Lazarus Rising",
+       "d": "2007-12",
+       "p": null,
+       "c": [
+        "batman",
+        "ras",
+        "talia"
+       ],
+       "x": "前奏（Prelude），未编号；封面日期 2007-12（Overstreet）"
+      },
+      {
+       "s": "robin-v2",
+       "n": "168",
+       "t": "The Resurrection of Ra's al Ghul, Part One (of Seven)",
+       "d": "2008-01",
+       "p": 1,
+       "c": [
+        "robin-tim"
+       ],
+       "x": null
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "138",
+       "t": "The Resurrection of Ra's al Ghul, Part Two: The Lesser of Two Evils",
+       "d": "2008-01",
+       "p": 2,
+       "c": [
+        "nightwing"
+       ],
+       "x": null
+      },
+      {
+       "s": "detective",
+       "n": "838",
+       "t": "The Resurrection of Ra's al Ghul, Part Three (of Seven)",
+       "d": "2008-01",
+       "p": 3,
+       "c": [
+        "batman",
+        "robin-damian"
+       ],
+       "x": null
+      },
+      {
+       "s": "batman",
+       "n": "671",
+       "t": "The Resurrection of Ra's al Ghul, Part Four: He Who Is Master",
+       "d": "2008-01",
+       "p": 4,
+       "c": [
+        "batman",
+        "ras"
+       ],
+       "x": null
+      },
+      {
+       "s": "robin-v2",
+       "n": "169",
+       "t": "The Resurrection of Ra's al Ghul, Part Five (of Seven)",
+       "d": "2008-02",
+       "p": 5,
+       "c": [
+        "robin-tim"
+       ],
+       "x": null
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "139",
+       "t": "The Resurrection of Ra's al Ghul, Part Six (of Seven)",
+       "d": "2008-02",
+       "p": 6,
+       "c": [
+        "nightwing"
+       ],
+       "x": null
+      },
+      {
+       "s": "detective",
+       "n": "839",
+       "t": "The Resurrection of Ra's al Ghul, Part Seven (of Seven)",
+       "d": "2008-02",
+       "p": 7,
+       "c": [
+        "batman",
+        "robin-damian"
+       ],
+       "x": null
+      },
+      {
+       "s": "detective",
+       "n": "840",
+       "t": "Epilogue",
+       "d": "2008-03",
+       "p": null,
+       "c": [
+        "batman",
+        "ras"
+       ],
+       "x": "尾声（Epilogue），未编号"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "infinite-crisis",
+   "name": "Infinite Crisis",
+   "nameZh": "无限危机",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "mega-event",
+   "start": "2005-12",
+   "end": "2006-06",
+   "summaryZh": "来自地球-3 的亚历山大·卢瑟与至尊小超人等旧多元宇宙遗民企图重造多元宇宙；正义联盟与蝙蝠侠、超人、神奇女侠等英雄联手阻止，最终新多元宇宙（New Earth）诞生，DC 宇宙随后进入 One Year Later。",
+   "characters": [
+    "justiceleague",
+    "superman",
+    "wonderwoman",
+    "batman",
+    "flash"
+   ],
+   "related": [],
+   "phases": [
+    {
+     "name": "Infinite Crisis",
+     "nameZh": "无限危机",
+     "issues": [
+      {
+       "s": "infinite-crisis",
+       "n": "1",
+       "t": "Infinite Crisis, Part One",
+       "d": "2005-12",
+       "p": 1,
+       "c": [
+        "justiceleague",
+        "superman",
+        "wonderwoman",
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "infinite-crisis",
+       "n": "2",
+       "t": "Infinite Crisis, Part Two",
+       "d": "2006-01",
+       "p": 2,
+       "c": [
+        "justiceleague",
+        "superman",
+        "wonderwoman",
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "infinite-crisis",
+       "n": "3",
+       "t": "Infinite Crisis, Part Three",
+       "d": "2006-02",
+       "p": 3,
+       "c": [
+        "justiceleague",
+        "superman",
+        "wonderwoman",
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "infinite-crisis",
+       "n": "4",
+       "t": "Infinite Crisis, Part Four: Homecoming",
+       "d": "2006-03",
+       "p": 4,
+       "c": [
+        "justiceleague",
+        "superman",
+        "wonderwoman",
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "infinite-crisis",
+       "n": "5",
+       "t": "Infinite Crisis, Part Five",
+       "d": "2006-04",
+       "p": 5,
+       "c": [
+        "justiceleague",
+        "superman",
+        "wonderwoman",
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "infinite-crisis",
+       "n": "6",
+       "t": "Infinite Crisis, Part Six",
+       "d": "2006-05",
+       "p": 6,
+       "c": [
+        "justiceleague",
+        "superman",
+        "wonderwoman",
+        "batman"
+       ],
+       "x": null
+      },
+      {
+       "s": "infinite-crisis",
+       "n": "7",
+       "t": "Infinite Crisis, Part Seven",
+       "d": "2006-06",
+       "p": 7,
+       "c": [
+        "justiceleague",
+        "superman",
+        "wonderwoman",
+        "batman"
+       ],
+       "x": null
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "arcs": [
+  {
+   "id": "war-drums",
+   "name": "Batman: War Drums",
+   "nameZh": "战鼓",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "arc",
+   "start": "2004-05",
+   "end": "2004-11",
+   "summaryZh": "「战争游戏」前奏：斯波伊勒·布朗（Spoiler）证明自己足以胜任罗宾之位，在提姆·德雷克暂退后成为新任罗宾；哥谭帮派势力蠢蠢欲动，为大战埋下伏笔。",
+   "characters": [
+    "robin-tim",
+    "batgirl",
+    "batman",
+    "oracle",
+    "blackmask"
+   ],
+   "issues": [
+    {
+     "s": "robin-v2",
+     "n": "124",
+     "t": "War Drums",
+     "d": "2004-05",
+     "p": 1,
+     "c": [
+      "robin-tim",
+      "batman"
+     ]
+    },
+    {
+     "s": "robin-v2",
+     "n": "125",
+     "t": "War Drums",
+     "d": "2004-06",
+     "p": 2,
+     "c": [
+      "robin-tim",
+      "batman"
+     ]
+    },
+    {
+     "s": "robin-v2",
+     "n": "126",
+     "t": "War Drums",
+     "d": "2004-07",
+     "p": 3,
+     "c": [
+      "robin-tim",
+      "batgirl"
+     ]
+    },
+    {
+     "s": "gotham-knights",
+     "n": "52",
+     "t": null,
+     "d": "2004-07",
+     "p": null,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "gotham-knights",
+     "n": "53",
+     "t": null,
+     "d": "2004-08",
+     "p": null,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "gotham-knights",
+     "n": "54",
+     "t": null,
+     "d": "2004-09",
+     "p": null,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "gotham-knights",
+     "n": "55",
+     "t": null,
+     "d": "2004-10",
+     "p": null,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "55",
+     "t": null,
+     "d": "2004-10",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ]
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "56",
+     "t": null,
+     "d": "2004-11",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "631",
+     "t": "Last Stand at Alamo High, Part One",
+     "d": "2004-10",
+     "p": 1,
+     "c": [
+      "batman",
+      "robin-tim"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "632",
+     "t": "Last Stand at Alamo High, Part Two",
+     "d": "2004-11",
+     "p": 2,
+     "c": [
+      "batman",
+      "blackmask"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nightwing-year-one",
+   "name": "Nightwing: Year One",
+   "nameZh": "夜翼：元年",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "arc",
+   "start": "2005-03",
+   "end": "2005-05",
+   "summaryZh": "迪克·格雷森离开蝙蝠侠后的第一年：他如何成为夜翼、与芭芭拉·戈登（神谕）的羁绊，以及在布鲁德海文建立自己英雄身份的历程。",
+   "characters": [
+    "nightwing",
+    "batman",
+    "oracle",
+    "alfred",
+    "gordon"
+   ],
+   "issues": [
+    {
+     "s": "nightwing-v2",
+     "n": "101",
+     "t": "Year One, Part One",
+     "d": "2005-03",
+     "p": 1,
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "102",
+     "t": "Year One, Part Two",
+     "d": "2005-03",
+     "p": 2,
+     "c": [
+      "nightwing",
+      "oracle"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "103",
+     "t": "Year One, Part Three",
+     "d": "2005-04",
+     "p": 3,
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "104",
+     "t": "Year One, Part Four",
+     "d": "2005-04",
+     "p": 4,
+     "c": [
+      "nightwing",
+      "oracle"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "105",
+     "t": "Year One, Part Five",
+     "d": "2005-05",
+     "p": 5,
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "106",
+     "t": "Year One, Part Six",
+     "d": "2005-05",
+     "p": 6,
+     "c": [
+      "nightwing",
+      "oracle"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "broken-city",
+   "name": "Batman: Broken City",
+   "nameZh": "破碎之城",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "arc",
+   "start": "2003-12",
+   "end": "2004-05",
+   "summaryZh": "阿扎雷洛（Brian Azzarello）与里索（Eduardo Risso）创作的黑色犯罪故事：蝙蝠侠追查杀害一名年轻女孩的凶手，在哥谭黑暗底层穿行，最终发现真相并非阴谋，而是一场人间悲剧。",
+   "characters": [
+    "batman",
+    "gordon",
+    "alfred"
+   ],
+   "issues": [
+    {
+     "s": "batman",
+     "n": "620",
+     "t": "Broken City, Part One",
+     "d": "2003-12",
+     "p": 1,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "621",
+     "t": "Broken City, Part Two",
+     "d": "2004-01",
+     "p": 2,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "622",
+     "t": "Broken City, Part Three",
+     "d": "2004-02",
+     "p": 3,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "623",
+     "t": "Broken City, Part Four",
+     "d": "2004-03",
+     "p": 4,
+     "c": [
+      "batman",
+      "gordon"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "624",
+     "t": "Broken City, Part Five",
+     "d": "2004-04",
+     "p": 5,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "625",
+     "t": "Broken City, Part Six",
+     "d": "2004-05",
+     "p": 6,
+     "c": [
+      "batman",
+      "gordon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "as-the-crow-flies",
+   "name": "Batman: As the Crow Flies",
+   "nameZh": "乌鸦飞行",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "arc",
+   "start": "2004-06",
+   "end": "2004-10",
+   "summaryZh": "企鹅人与黑面具的毒品战争升级，蝙蝠侠在两人之间周旋；黑面具的残忍手段与企鹅人的伪装逐渐被揭开，猫女也在其中扮演关键角色。",
+   "characters": [
+    "batman",
+    "penguin",
+    "blackmask",
+    "catwoman"
+   ],
+   "issues": [
+    {
+     "s": "batman",
+     "n": "626",
+     "t": "As the Crow Flies, Part One: Visions",
+     "d": "2004-06",
+     "p": 1,
+     "c": [
+      "batman",
+      "penguin"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "627",
+     "t": "As the Crow Flies, Part Two: Partners in Crime",
+     "d": "2004-07",
+     "p": 2,
+     "c": [
+      "batman",
+      "blackmask"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "628",
+     "t": "As the Crow Flies, Part Three: Scary Monsters",
+     "d": "2004-08",
+     "p": 3,
+     "c": [
+      "batman",
+      "catwoman"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "629",
+     "t": "As the Crow Flies, Part Four: Shotgun",
+     "d": "2004-09",
+     "p": 4,
+     "c": [
+      "batman",
+      "blackmask"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "630",
+     "t": "As the Crow Flies, Part Five: Home Invasion",
+     "d": "2004-10",
+     "p": 5,
+     "c": [
+      "batman",
+      "penguin",
+      "blackmask"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "catwoman-dark-end",
+   "name": "Catwoman: Dark End of the Street",
+   "nameZh": "猫女：街巷尽头",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "arc",
+   "start": "2002-01",
+   "end": "2002-09",
+   "summaryZh": "布鲁贝克（Ed Brubaker）重启猫女连载的首个故事线：塞琳娜·凯尔在哥谭东区经营自己的地盘，同时面对黑帮与警方的压力，逐渐走向义警与盗贼之间的模糊地带（合订本名「Dark End of the Street」，收录 #1-9）。",
+   "characters": [
+    "catwoman",
+    "batman",
+    "gordon"
+   ],
+   "issues": [
+    {
+     "s": "catwoman-v3",
+     "n": "1",
+     "t": "Anodyne, Part One",
+     "d": "2002-01",
+     "p": 1,
+     "c": [
+      "catwoman"
+     ]
+    },
+    {
+     "s": "catwoman-v3",
+     "n": "2",
+     "t": "Anodyne, Part Two",
+     "d": "2002-02",
+     "p": 2,
+     "c": [
+      "catwoman"
+     ]
+    },
+    {
+     "s": "catwoman-v3",
+     "n": "3",
+     "t": "Anodyne, Part Three",
+     "d": "2002-03",
+     "p": 3,
+     "c": [
+      "catwoman",
+      "batman"
+     ]
+    },
+    {
+     "s": "catwoman-v3",
+     "n": "4",
+     "t": "Anodyne, Part Four",
+     "d": "2002-04",
+     "p": 4,
+     "c": [
+      "catwoman"
+     ]
+    },
+    {
+     "s": "catwoman-v3",
+     "n": "5",
+     "t": "Trickle Down Theory",
+     "d": "2002-05",
+     "p": null,
+     "c": [
+      "catwoman"
+     ]
+    },
+    {
+     "s": "catwoman-v3",
+     "n": "6",
+     "t": "Disguises, Part One",
+     "d": "2002-06",
+     "p": 1,
+     "c": [
+      "catwoman",
+      "gordon"
+     ]
+    },
+    {
+     "s": "catwoman-v3",
+     "n": "7",
+     "t": "Disguises, Part Two",
+     "d": "2002-07",
+     "p": 2,
+     "c": [
+      "catwoman"
+     ]
+    },
+    {
+     "s": "catwoman-v3",
+     "n": "8",
+     "t": "Disguises, Part Three",
+     "d": "2002-08",
+     "p": 3,
+     "c": [
+      "catwoman"
+     ]
+    },
+    {
+     "s": "catwoman-v3",
+     "n": "9",
+     "t": "Disguises, Part Four",
+     "d": "2002-09",
+     "p": 4,
+     "c": [
+      "catwoman"
+     ]
+    }
+   ]
+  }
+ ],
+ "standalone": [
+  {
+   "s": "batman",
+   "n": "587",
+   "t": "Officer Down, Part One: These Are Your Rights",
+   "d": "2001-05",
+   "p": 1,
+   "c": [
+    "batman",
+    "gordon"
+   ]
+  },
+  {
+   "s": "catwoman-v3",
+   "n": "16",
+   "t": "Relentless, Part 5",
+   "d": "2003-04",
+   "p": 5,
+   "c": [
+    "catwoman"
+   ]
+  },
+  {
+   "s": "catwoman-v3",
+   "n": "19",
+   "t": "No Easy Way Down, Part 3",
+   "d": "2003-07",
+   "p": 3,
+   "c": [
+    "catwoman"
+   ]
+  },
+  {
+   "s": "Batman: Death and the Maidens",
+   "n": "1",
+   "t": "Death and the Maidens, Chapter One",
+   "d": "2003-11",
+   "p": 1,
+   "c": [
+    "batman",
+    "ras"
+   ]
+  },
+  {
+   "s": "Batman: Death and the Maidens",
+   "n": "2",
+   "t": "Death and the Maidens, Chapter Two",
+   "d": "2003-12",
+   "p": 2,
+   "c": [
+    "batman",
+    "ras"
+   ]
+  },
+  {
+   "s": "Batman: Death and the Maidens",
+   "n": "3",
+   "t": "Death and the Maidens, Chapter Three",
+   "d": "2004-01",
+   "p": 3,
+   "c": [
+    "batman",
+    "ras"
+   ]
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Batman:_Hush",
+  "https://en.wikipedia.org/wiki/Bruce_Wayne:_Murderer%3F",
+  "https://en.wikipedia.org/wiki/Bruce_Wayne:_Fugitive",
+  "https://en.wikipedia.org/wiki/Batman:_War_Games",
+  "https://en.wikipedia.org/wiki/Batman:_War_Crimes",
+  "https://en.wikipedia.org/wiki/Batman:_Under_the_Hood",
+  "https://en.wikipedia.org/wiki/Batman:_Face_the_Face",
+  "https://en.wikipedia.org/wiki/Batman_and_Son",
+  "https://en.wikipedia.org/wiki/The_Resurrection_of_Ra's_al_Ghul",
+  "https://en.wikipedia.org/wiki/Infinite_Crisis",
+  "https://en.wikipedia.org/wiki/One_Year_Later",
+  "https://en.wikipedia.org/wiki/Batman:_City_of_Crime",
+  "https://comics.overstreetaccess.com/issues/25790/batman-608-dec-2002",
+  "https://comics.overstreetaccess.com/issues/608229/batman-619-nov-2003",
+  "https://comics.overstreetaccess.com/issues/605284/batman-599-mar-2002",
+  "https://comics.overstreetaccess.com/issues/25650/batman-606-oct-2002",
+  "https://comics.overstreetaccess.com/issues/14474/nightwing-65-mar-2002",
+  "https://comics.overstreetaccess.com/issues/602105/robin-99-apr-2002",
+  "https://comics.overstreetaccess.com/issues/602107/robin-101-jun-2002",
+  "https://comics.overstreetaccess.com/issues/613049/nightwing-101-mar-2005",
+  "https://comics.overstreetaccess.com/issues/613051/nightwing-103-apr-2005",
+  "https://comics.overstreetaccess.com/issues/613054/nightwing-106-may-2005",
+  "https://comics.overstreetaccess.com/issues/161159/catwoman-the-dark-end-of-the-street-1-jan-2002",
+  "https://comics.overstreetaccess.com/issues/449961/catwoman-3-mar-2002",
+  "https://comics.overstreetaccess.com/issues/606718/catwoman-9-sep-2002",
+  "https://comics.overstreetaccess.com/issues/9203/catwoman-16-apr-2003",
+  "https://comics.overstreetaccess.com/issues/22987/batman-644-oct-2005",
+  "https://comics.overstreetaccess.com/issues/14233/batman-655-sep-2006",
+  "https://comics.overstreetaccess.com/issues/14215/batman-656-oct-2006",
+  "https://comics.overstreetaccess.com/issues/13519/detective-comics-819-jul-2006",
+  "https://comics.overstreetaccess.com/issues/869/batman-634-jan-2005",
+  "https://comics.overstreetaccess.com/issues/50977/batman-war-games-1-feb-2005",
+  "https://my.comics.org/issue/103138/",
+  "https://my.comics.org/issue/2113048/",
+  "https://my.comics.org/issue/2026959/",
+  "https://www.comics.org/issue/2034505/",
+  "https://www.comics.org/issue/2022566/",
+  "https://my.comics.org/issue/311419/",
+  "https://dc.fandom.com/wiki/Batman_Vol_1_608",
+  "https://dc.fandom.com/wiki/Batman_Vol_1_635",
+  "https://dc.fandom.com/wiki/Batman_Vol_1_633",
+  "https://dc.fandom.com/wiki/Batman_Vol_1_670",
+  "https://dc.fandom.com/wiki/Batman:_Hush_Vol_1_(Collected)",
+  "https://dc.fandom.com/wiki/Batman:_Under_the_Hood_Vol_1_(Collected)",
+  "https://dc.fandom.com/wiki/Batman:_Under_the_Hood_Vol_2_(Collected)",
+  "https://dc.fandom.com/wiki/Batman:_War_Games,_Act_One_-_Outbreak_(Collected)",
+  "https://dc.fandom.com/wiki/Batman:_War_Games,_Act_Two_-_Tides_(Collected)",
+  "https://dc.fandom.com/wiki/Batman:_War_Games,_Act_Three_-_Endgame_(Collected)",
+  "https://dc.fandom.com/wiki/Batman:_War_Crimes_(Collected)",
+  "https://dc.fandom.com/wiki/Batman:_Face_the_Face_(Collected)",
+  "https://dc.fandom.com/wiki/Batman:_The_Resurrection_of_Ra's_al_Ghul_(Collected)",
+  "https://dc.fandom.com/wiki/Batman:_City_of_Crime_(Collected)",
+  "https://dc.fandom.com/wiki/Batman:_War_Drums_(Collected)",
+  "https://dc.fandom.com/wiki/Azrael:_Agent_of_the_Bat_Vol_1_91",
+  "https://comicvine.gamespot.com/batman-608-hush-chapter-one-the-ransom/4000-124939/",
+  "https://comicvine.gamespot.com/batman-610-hush-chapter-three-the-beast-in-the-mou/4000-125046/",
+  "https://comicvine.gamespot.com/batman-611-hush-chapter-four-the-city-welcome-to-t/4000-125134/",
+  "https://comicvine.gamespot.com/batman-612-hush-chapter-five-the-battle/4000-125222/",
+  "https://comicvine.gamespot.com/batman-617-hush-chapter-ten-the-grave/4000-91386/",
+  "https://www.hipcomic.com/catalog/issue/batman/619/1440",
+  "https://www.hipcomic.com/catalog/issue/batman/633/1369",
+  "https://www.hipcomic.com/catalog/issue/batman/634/1370",
+  "https://www.hipcomic.com/catalog/issue/batman/631/1367",
+  "https://www.hipcomic.com/catalog/issue/batman/635/1371",
+  "https://www.hipcomic.com/catalog/issue/batman/644/1420",
+  "https://www.hipcomic.com/catalog/issue/batman/650/1423",
+  "https://www.hipcomic.com/catalog/issue/batman/651/1412",
+  "https://www.hipcomic.com/catalog/issue/batman/652/1383",
+  "https://www.hipcomic.com/catalog/issue/batman/655/1416",
+  "https://www.hipcomic.com/catalog/issue/batman/656/1410",
+  "https://www.hipcomic.com/catalog/issue/batman/670/1418",
+  "https://www.hipcomic.com/catalog/issue/batman/671/1428",
+  "https://www.hipcomic.com/catalog/issue/batman/599/1380",
+  "https://www.hipcomic.com/catalog/issue/batman/600/1381",
+  "https://www.hipcomic.com/catalog/issue/batman/601/1382",
+  "https://www.hipcomic.com/catalog/issue/batman/603/1392",
+  "https://www.hipcomic.com/catalog/issue/batman/605/1409",
+  "https://www.hipcomic.com/catalog/issue/batman/606/1403",
+  "https://www.hipcomic.com/catalog/issue/batman/607/1425",
+  "https://www.hipcomic.com/catalog/issue/batman/647/1435",
+  "https://www.hipcomic.com/catalog/issue/catwoman/16/55551",
+  "https://www.hipcomic.com/catalog/issue/catwoman/19/55554",
+  "https://cloud.clz.com/swatlibrary/comics/detail/21900243",
+  "https://cloud.clz.com/swatlibrary/comics/detail/21900207",
+  "https://www.ebay.com/p/17056874562",
+  "https://www.ebay.com/p/24056853948",
+  "https://payment.hakes.com/auction/ItemDetail/262742",
+  "https://payment.hakes.com/auction/ItemDetail/262743",
+  "https://newtocomics.com/bruce-wayne-murderer-fugitive-reading-guide/",
+  "https://newtocomics.com/war-games-reading-guide/",
+  "https://newtocomics.com/face-the-face-reading-guide/",
+  "https://www.tradereadingorder.com/dc/batman-bruce-wayne-murderer/",
+  "https://www.readingorders.com/reading-orders/bruce-wayne-fugitive",
+  "https://comicbinding.com/mapping/batman-war-games",
+  "https://www.cbr.com/crime-reporting-gabrych-talks-war-crimes/",
+  "https://www.comics.org/issue/2023380/",
+  "https://www.comics.org/issue/2026959/",
+  "https://www.comics.org/issue/354843/",
+  "https://casscain.fandom.com/wiki/Bruce_Wayne_Murderer/Fugitive",
+  "https://comics.overstreetaccess.com/issues/16735/batman-670-dec-2007",
+  "https://comics.overstreetaccess.com/issues/19224/batman-671-jan-2008",
+  "https://comics.overstreetaccess.com/issues/18315/nightwing-138-jan-2008",
+  "https://comics.overstreetaccess.com/issues/20443/nightwing-139-feb-2008",
+  "https://my.comics.org/issue/902192/",
+  "https://comicvine.gamespot.com/detective-comics-838-the-resurrection-of-ras-al-gh/4000-118095/",
+  "https://comicvine.gamespot.com/nightwing-138-the-resurrection-of-ras-al-ghul-part/4000-117891/",
+  "https://comicvine.gamespot.com/batman-670-a-prelude-to-the-resurrection-of-ras-al/4000-116386/",
+  "https://comicvine.gamespot.com/infinite-crisis-4-homecoming/4000-105306/",
+  "https://dc.fandom.com/wiki/Batman_Annual_Vol_1_26",
+  "https://dc.fandom.com/wiki/Infinite_Crisis_Vol_1_1",
+  "https://www.dcuniverseinfinite.com/collections/story-batman-war-games",
+  "https://www.dc.com/graphic-novels/batman-face-the-face",
+  "https://www.dc.com/graphic-novels/batman-the-black-glove"
+ ]
+}

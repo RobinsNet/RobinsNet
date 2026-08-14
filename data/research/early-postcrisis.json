@@ -1,0 +1,332 @@
+{
+  "events": [
+    {
+      "id": "year-one",
+      "name": "Batman: Year One",
+      "nameZh": "蝙蝠侠：元年",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "saga",
+      "start": "1987-02",
+      "end": "1987-05",
+      "summaryZh": "弗兰克·米勒编剧、大卫·马祖凯利作画的蝙蝠侠起源经典（Batman #404-407，封面日期 1987-02 至 1987-05）：重述布鲁斯·韦恩结束游历归乡、戈登警长初抵哥谭，以及猫女与犯罪家族法尔科内的登场。该故事确立了后危机时代蝙蝠侠的基础设定，直接影响《蝙蝠侠：笑面人》与《蝙蝠侠：第二年》。",
+      "characters": ["batman", "gordon", "catwoman", "alfred"],
+      "family": "bat-family",
+      "related": ["year-two", "man-who-laughs"],
+      "phases": [
+        {
+          "name": "Batman: Year One",
+          "nameZh": "元年",
+          "issues": [
+            {"s": "batman", "n": "404", "t": "Batman: Year One", "d": "1987-02", "p": 1, "c": ["batman", "gordon"], "x": "原刊未标章节号，章节编号取集合集版"},
+            {"s": "batman", "n": "405", "t": "Batman: Year One", "d": "1987-03", "p": 2, "c": ["batman", "gordon", "alfred"], "x": null},
+            {"s": "batman", "n": "406", "t": "Batman: Year One", "d": "1987-04", "p": 3, "c": ["batman", "catwoman", "gordon"], "x": "猫女（赛琳娜·凯尔）登场"},
+            {"s": "batman", "n": "407", "t": "Batman: Year One", "d": "1987-05", "p": 4, "c": ["batman", "catwoman", "gordon"], "x": null}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "killing-joke",
+      "name": "Batman: The Killing Joke",
+      "nameZh": "蝙蝠侠：致命玩笑",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "gn",
+      "start": "1988-03",
+      "end": "1988-03",
+      "summaryZh": "艾伦·摩尔编剧、布莱恩·博兰德作画的图像小说（1988-03 出版）：小丑在精神崩溃前夜枪击芭芭拉·戈登（巴特格尔）并绑架戈登警长，试图证明「只需一个糟糕的日子」就能让任何人堕入疯狂。芭芭拉中枪瘫痪，为日后化身神谕（Oracle）埋下伏笔。",
+      "characters": ["batman", "joker", "gordon"],
+      "family": "bat-family",
+      "related": [],
+      "phases": [
+        {
+          "name": "The Killing Joke",
+          "nameZh": "致命玩笑",
+          "issues": [
+            {"s": "Batman: The Killing Joke", "n": "1", "t": "The Killing Joke", "d": "1988-03", "p": 1, "c": ["batman", "joker", "gordon"], "x": "图像小说（prestige format），1988-03 出版"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "death-in-the-family",
+      "name": "A Death in the Family",
+      "nameZh": "蝙蝠侠：家中之死（家族之死）",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "arc",
+      "start": "1988-12",
+      "end": "1989-02",
+      "summaryZh": "吉姆·斯塔林编剧、吉姆·阿帕罗作画的四期连载（Batman #426-429，封面日期 1988-12 至 1989-02，其中 #427 与 #428 为 1989-01 双月发行）：小丑在中东地区展开袭击，杰森·托德（二代罗宾）追查生母时落入陷阱。DC 通过 1-900 电话投票（1988-09 举行）决定杰森命运，最终杰森被小丑炸死，成为后危机时代最具冲击力的蝙蝠家族事件之一。#427-429 封面日期存在来源分歧（部分目录按月推算为 1989-01~03），建议以 GCD 复核。",
+      "characters": ["batman", "redhood", "joker"],
+      "family": "bat-family",
+      "related": ["lonely-place-of-dying"],
+      "phases": [
+        {
+          "name": "A Death in the Family",
+          "nameZh": "家族之死",
+          "issues": [
+            {"s": "batman", "n": "426", "t": "A Death in the Family: Part One", "d": "1988-12", "p": 1, "c": ["batman", "joker", "redhood"], "x": null},
+            {"s": "batman", "n": "427", "t": "A Death in the Family: Part Two", "d": "1989-01", "p": 2, "c": ["batman", "joker", "redhood"], "x": "1-900 投票于本期上架后举行（1988-09）"},
+            {"s": "batman", "n": "428", "t": "A Death in the Family: Part Three", "d": "1989-01", "p": 3, "c": ["batman", "joker", "redhood"], "x": "杰森·托德之死（读者电话投票结果）；与 #427 同为 1989-01 封面；个别来源标注为 1989-02"},
+            {"s": "batman", "n": "429", "t": "A Death in the Family: Part Four", "d": "1989-02", "p": 4, "c": ["batman", "redhood", "alfred"], "x": "葬礼；杰森之死的余波"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lonely-place-of-dying",
+      "name": "A Lonely Place of Dying",
+      "nameZh": "蝙蝠侠：孤独的死亡之地",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "crossover",
+      "start": "1989-10",
+      "end": "1989-12",
+      "summaryZh": "马弗·沃尔夫曼编剧、乔治·佩雷斯参与的跨刊故事（The New Titans #60-61 与 Batman #440-442）：蒂姆·德雷克幼年目睹格雷森一家之死，据此推断出蝙蝠侠身份，向迪克·格雷森论证「蝙蝠侠需要罗宾」，最终通过考验成为第三代罗宾。阅读顺序依故事章节跨刊交错：New Titans #60 → Batman #440 → New Titans #61 → Batman #441 → Batman #442（封面日期并非单调递增，请以 p 编号为准）。",
+      "characters": ["batman", "robin-tim", "nightwing", "redhood"],
+      "family": "bat-family",
+      "related": ["death-in-the-family"],
+      "phases": [
+        {
+          "name": "A Lonely Place of Dying",
+          "nameZh": "孤独的死亡之地",
+          "issues": [
+            {"s": "new-titans", "n": "60", "t": "A Lonely Place of Dying: Part One", "d": "1989-11", "p": 1, "c": ["nightwing", "robin-tim", "titans"], "x": "序幕：迪克·格雷森获知杰森死讯，蒂姆·德雷克登场"},
+            {"s": "batman", "n": "440", "t": "A Lonely Place of Dying: Part Two", "d": "1989-10", "p": 2, "c": ["batman", "robin-tim", "twopface"], "x": "蒂姆尾随蝙蝠侠调查双面人案"},
+            {"s": "new-titans", "n": "61", "t": "A Lonely Place of Dying: Part Three", "d": "1989-12", "p": 3, "c": ["nightwing", "robin-tim", "titans"], "x": null},
+            {"s": "batman", "n": "441", "t": "A Lonely Place of Dying: Part Four", "d": "1989-11", "p": 4, "c": ["batman", "robin-tim", "nightwing"], "x": null},
+            {"s": "batman", "n": "442", "t": "A Lonely Place of Dying: Part Five", "d": "1989-12", "p": 5, "c": ["batman", "robin-tim", "nightwing", "alfred"], "x": "蒂姆·德雷克成为新罗宾"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "man-who-laughs",
+      "name": "Batman: The Man Who Laughs",
+      "nameZh": "蝙蝠侠：笑面人",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "one-shot",
+      "start": "2005-02",
+      "end": "2005-02",
+      "summaryZh": "埃德·布鲁贝克编剧、道格·曼克作画的单刊（2005-02 出版）：时间线设定在《元年》之后不久，重述蝙蝠侠与哥谭市应对小丑首次犯罪的过程，戈登警长在追查中扮演关键角色。作为《元年》的后续补充叙事，按设定归属早期后危机时代。",
+      "characters": ["batman", "joker", "gordon"],
+      "family": "bat-family",
+      "related": ["year-one"],
+      "phases": [
+        {
+          "name": "The Man Who Laughs",
+          "nameZh": "笑面人",
+          "issues": [
+            {"s": "Batman: The Man Who Laughs", "n": "1", "t": "The Man Who Laughs", "d": "2005-02", "p": 1, "c": ["batman", "joker", "gordon"], "x": "单刊（one-shot）；故事时间线紧接《元年》"}
+          ]
+        }
+      ]
+    }
+  ],
+  "arcs": [
+    {
+      "id": "year-two",
+      "name": "Batman: Year Two",
+      "nameZh": "蝙蝠侠：第二年",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "arc",
+      "start": "1987-06",
+      "end": "1987-09",
+      "summaryZh": "迈克·W·巴尔编剧、艾伦·戴维斯与托德·麦克法兰作画（Detective Comics #575-578，封面日期 1987-06 至 1987-09）：蝙蝠侠第二年遭遇以「死神」（The Reaper）为名的私刑者，并直面杀父仇人乔·奇尔；布鲁斯与猫女的关系在此萌芽。注意：该故事连载于《侦探漫画》而非《蝙蝠侠》主刊（用户初稿误写为 Batman #575-578）。",
+      "characters": ["batman", "catwoman", "gordon", "alfred"],
+      "family": "bat-family",
+      "related": ["year-one"],
+      "phases": [
+        {
+          "name": "Batman: Year Two",
+          "nameZh": "第二年",
+          "issues": [
+            {"s": "detective", "n": "575", "t": "Batman: Year Two: Part One", "d": "1987-06", "p": 1, "c": ["batman", "catwoman"], "x": "「死神」与乔·奇尔出场"},
+            {"s": "detective", "n": "576", "t": "Batman: Year Two: Part Two", "d": "1987-07", "p": 2, "c": ["batman", "catwoman"], "x": null},
+            {"s": "detective", "n": "577", "t": "Batman: Year Two: Part Three", "d": "1987-08", "p": 3, "c": ["batman", "catwoman", "gordon"], "x": null},
+            {"s": "detective", "n": "578", "t": "Batman: Year Two: Part Four", "d": "1987-09", "p": 4, "c": ["batman", "catwoman", "gordon"], "x": "结局：与「死神」的决战"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "venom",
+      "name": "Batman: Venom",
+      "nameZh": "蝙蝠侠：毒液",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "arc",
+      "start": "1991-03",
+      "end": "1991-07",
+      "summaryZh": "丹尼斯·奥尼尔编剧、特雷弗·冯·伊登作画（Legends of the Dark Knight #16-20，封面日期 1991-03 至 1991-07）：为拯救被绑架的女孩，蝙蝠侠滥用类固醇「毒液」并染上药瘾，最终戒断。该故事引入日后被贝恩（Bane）使用的毒液药剂，是《骑士陨落》的重要前奏（LOTDK 于 1990-10 跳刊一期，故 #16 封面为 1991-03）。",
+      "characters": ["batman"],
+      "family": "bat-family",
+      "related": ["knightfall"],
+      "phases": [
+        {
+          "name": "Venom",
+          "nameZh": "毒液",
+          "issues": [
+            {"s": "legends-dk", "n": "16", "t": "Venom: Part One", "d": "1991-03", "p": 1, "c": ["batman"], "x": null},
+            {"s": "legends-dk", "n": "17", "t": "Venom: Part Two", "d": "1991-04", "p": 2, "c": ["batman"], "x": null},
+            {"s": "legends-dk", "n": "18", "t": "Venom: Part Three", "d": "1991-05", "p": 3, "c": ["batman"], "x": null},
+            {"s": "legends-dk", "n": "19", "t": "Venom: Part Four", "d": "1991-06", "p": 4, "c": ["batman"], "x": null},
+            {"s": "legends-dk", "n": "20", "t": "Venom: Part Five", "d": "1991-07", "p": 5, "c": ["batman"], "x": "蝙蝠侠戒断毒液"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sword-of-azrael",
+      "name": "Batman: Sword of Azrael",
+      "nameZh": "蝙蝠侠：阿兹瑞尔之剑",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "arc",
+      "start": "1992-10",
+      "end": "1993-01",
+      "summaryZh": "丹尼斯·奥尼尔编剧、乔·克萨达作画的四期迷你系列（封面日期 1992-10 至 1993-01）：让-保罗·瓦利被「圣杜马斯教团」训练为复仇天使阿兹瑞尔，在蝙蝠侠协助下对抗教团。阿兹瑞尔（Jean-Paul Valley）首次登场，故事直接为《骑士陨落》铺垫——他日后将短暂接替蝙蝠侠。",
+      "characters": ["batman", "azrael"],
+      "family": "bat-family",
+      "related": ["knightfall"],
+      "phases": [
+        {
+          "name": "Sword of Azrael",
+          "nameZh": "阿兹瑞尔之剑",
+          "issues": [
+            {"s": "Batman: Sword of Azrael", "n": "1", "t": "Sword of Azrael: Part One", "d": "1992-10", "p": 1, "c": ["batman", "azrael"], "x": "阿兹瑞尔（让-保罗·瓦利）首次登场"},
+            {"s": "Batman: Sword of Azrael", "n": "2", "t": "Sword of Azrael: Part Two", "d": "1992-11", "p": 2, "c": ["batman", "azrael"], "x": null},
+            {"s": "Batman: Sword of Azrael", "n": "3", "t": "Sword of Azrael: Part Three", "d": "1992-12", "p": 3, "c": ["batman", "azrael"], "x": null},
+            {"s": "Batman: Sword of Azrael", "n": "4", "t": "Sword of Azrael: Part Four", "d": "1993-01", "p": 4, "c": ["batman", "azrael"], "x": null}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gothic",
+      "name": "Batman: Gothic",
+      "nameZh": "蝙蝠侠：哥特",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "arc",
+      "start": "1990-04",
+      "end": "1990-08",
+      "summaryZh": "格兰特·莫里森编剧、克劳斯·詹森作画的五期连载（Legends of the Dark Knight #6-10，封面日期 1990-04 至 1990-08）：哥谭出现以「惠斯珀先生」（Mr. Whisper）为名的连环杀手，目标直指布鲁斯·韦恩的少年时代。故事以哥特式恐怖氛围著称，是莫里森在 LOTDK 的经典篇章。",
+      "characters": ["batman", "gordon"],
+      "family": "bat-family",
+      "related": [],
+      "phases": [
+        {
+          "name": "Gothic",
+          "nameZh": "哥特",
+          "issues": [
+            {"s": "legends-dk", "n": "6", "t": "Gothic: Part One", "d": "1990-04", "p": 1, "c": ["batman", "gordon"], "x": null},
+            {"s": "legends-dk", "n": "7", "t": "Gothic: Part Two", "d": "1990-05", "p": 2, "c": ["batman", "gordon"], "x": null},
+            {"s": "legends-dk", "n": "8", "t": "Gothic: Part Three", "d": "1990-06", "p": 3, "c": ["batman", "gordon"], "x": null},
+            {"s": "legends-dk", "n": "9", "t": "Gothic: Part Four", "d": "1990-07", "p": 4, "c": ["batman", "gordon"], "x": null},
+            {"s": "legends-dk", "n": "10", "t": "Gothic: Part Five", "d": "1990-08", "p": 5, "c": ["batman", "gordon"], "x": null}
+          ]
+        }
+      ]
+    }
+  ],
+  "standalone": [
+    {"s": "batman", "n": "436", "t": "Batman: Year Three: Part One", "d": "1989-06", "p": 1, "c": ["batman", "nightwing"], "x": "副题 'Different Roads'；迪克·格雷森起源闪回"},
+    {"s": "batman", "n": "437", "t": "Batman: Year Three: Part Two", "d": "1989-07", "p": 2, "c": ["batman", "nightwing"], "x": "副题 'Changes Made'"},
+    {"s": "batman", "n": "438", "t": "Batman: Year Three: Part Three", "d": "1989-08", "p": 3, "c": ["batman", "nightwing"], "x": null},
+    {"s": "batman", "n": "439", "t": "Batman: Year Three: Part Four", "d": "1989-09", "p": 4, "c": ["batman", "nightwing"], "x": "为《孤独的死亡之地》做铺垫"},
+    {"s": "batman", "n": "448", "t": "The Penguin Affair: Part One", "d": "1990-06", "p": 1, "c": ["batman", "penguin"], "x": "副题 'Pawns'；封面日期为按月推算（1989-90 蝙蝠侠主刊偶有双月发行），建议以 GCD 复核"},
+    {"s": "batman", "n": "449", "t": "The Penguin Affair: Part Two", "d": "1990-07", "p": 2, "c": ["batman", "penguin"], "x": "封面日期为按月推算"},
+    {"s": "batman", "n": "450", "t": "The Penguin Affair: Part Three", "d": "1990-08", "p": 3, "c": ["batman", "penguin"], "x": "副题 'Winged Vengeance'；封面日期为按月推算"},
+    {"s": "batman", "n": "452", "t": "Dark Knight, Dark City: Part One", "d": "1990-08", "p": 1, "c": ["batman", "riddler", "gordon"], "x": "谜语人登场；#452 与 #453 同为 1990-08 双月发行"},
+    {"s": "batman", "n": "453", "t": "Dark Knight, Dark City: Part Two", "d": "1990-08", "p": 2, "c": ["batman", "riddler", "gordon"], "x": null},
+    {"s": "batman", "n": "454", "t": "Dark Knight, Dark City: Part Three", "d": "1990-09", "p": 3, "c": ["batman", "riddler", "gordon"], "x": null},
+    {"s": "batman", "n": "455", "t": "Identity Crisis: Part One", "d": "1990-10", "p": 1, "c": ["batman", "twopface"], "x": "双面人人格分裂故事"},
+    {"s": "batman", "n": "456", "t": "Identity Crisis: Part Two", "d": "1990-11", "p": 2, "c": ["batman", "twopface"], "x": "副题 'Without Fear of Consequence'"},
+    {"s": "detective", "n": "598", "t": "Blind Justice: Part One", "d": "1989-03", "p": 1, "c": ["batman", "gordon"], "x": "萨姆·哈姆（1989 电影《蝙蝠侠》编剧）跨三期故事"},
+    {"s": "detective", "n": "599", "t": "Blind Justice: Part Two", "d": "1989-04", "p": 2, "c": ["batman", "gordon"], "x": null},
+    {"s": "detective", "n": "600", "t": "Blind Justice: Part Three", "d": "1989-05", "p": 3, "c": ["batman", "gordon"], "x": "第 600 期纪念号；威利·艾斯纳等嘉宾内页"},
+    {"s": "detective", "n": "604", "t": "The Mud Pack: Part One", "d": "1989-09", "p": 1, "c": ["batman"], "x": "三代泥面人（Clayface）集结"},
+    {"s": "detective", "n": "605", "t": "The Mud Pack: Part Two", "d": "1989-10", "p": 2, "c": ["batman"], "x": null},
+    {"s": "detective", "n": "606", "t": "The Mud Pack: Part Three", "d": "1989-11", "p": 3, "c": ["batman"], "x": null},
+    {"s": "detective", "n": "607", "t": "The Mud Pack: Part Four", "d": "1989-12", "p": 4, "c": ["batman"], "x": null}
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Batman:_Year_One",
+    "https://en.wikipedia.org/wiki/A_Death_in_the_Family_(comics)",
+    "https://en.wikipedia.org/wiki/Batman:_Year_Two",
+    "https://en.wikipedia.org/wiki/Batman:_Year_Three",
+    "https://en.wikipedia.org/wiki/Batman:_The_Killing_Joke",
+    "https://en.wikipedia.org/wiki/Batman:_The_Man_Who_Laughs",
+    "https://en.wikipedia.org/wiki/Batman:_Prey",
+    "https://my.comics.org/issue/1726049/",
+    "https://my.comics.org/issue/868317/",
+    "https://my.comics.org/issue/868312/",
+    "https://my.comics.org/issue/879317/",
+    "https://my.comics.org/issue/47217/",
+    "https://my.comics.org/issue/47219/",
+    "https://my.comics.org/issue/879295/",
+    "https://www.comics.org/changeset/1686737/compare/?collapse=1",
+    "https://dc.fandom.com/wiki/Batman_Vol_1_426",
+    "https://dc.fandom.com/wiki/Batman_Vol_1_428",
+    "https://dc.fandom.com/wiki/Batman_Vol_1_429",
+    "https://dc.fandom.com/wiki/Batman_Vol_1_441",
+    "https://dc.fandom.com/wiki/Batman_Vol_1_452",
+    "https://dc.fandom.com/wiki/Batman_Vol_1_454",
+    "https://dc.fandom.com/wiki/New_Titans_Vol_1_61",
+    "https://dc.fandom.com/wiki/Batman:_Legends_of_the_Dark_Knight_Vol_1_6",
+    "https://dc.fandom.com/wiki/Batman:_Legends_of_the_Dark_Knight_Vol_1_16",
+    "https://dc.fandom.com/wiki/Batman:_Sword_of_Azrael_Vol_1_1",
+    "https://dc.fandom.com/wiki/Batman:_Blind_Justice",
+    "https://dc.fandom.com/wiki/Batman:_Dark_Knight,_Dark_City_(Collected)",
+    "https://web.archive.org/web/20171120173028/http://dc.wikia.com/wiki/Batman:_The_Mud_Pack",
+    "https://comics.overstreetaccess.com/issues/190708/batman-406-apr-1987",
+    "https://comics.overstreetaccess.com/issues/245736/batman-452-aug-1990",
+    "https://comics.overstreetaccess.com/issues/247040/batman-454-sep-1990",
+    "https://comics.overstreetaccess.com/issues/6484/detective-comics-604-sep-1989",
+    "https://keycollectorcomics.com/issue/batman-1-427,27204/",
+    "https://keycollectorcomics.com/issue/batman-440-423087,423087/",
+    "https://keycollectorcomics.com/issue/batman-1-441,423769/",
+    "https://keycollectorcomics.com/issue/detective-comics-600-434040,434040/",
+    "https://keycollectorcomics.com/issue/detective-comics-1-598,435460/",
+    "https://keycollectorcomics.com/issue/detective-comics-1-604,435467/",
+    "https://keycollectorcomics.com/issue/batman-453-423561,423561/",
+    "https://keycollectorcomics.com/issue/batman-454-423507,423507/",
+    "https://keycollectorcomics.com/issue/batman-sword-of-azrael-1-1,27298/",
+    "https://www.cgccomics.com/population-report/comics/1/dc-comics/2297/batman/18568/0076764/label-categories/",
+    "https://www.illustrationhistory.org/illustrations/cover-of-batman-no-426",
+    "https://payment.hakes.com/Auction/ItemDetail/262724/BATMAN-426-DECEMBER-1988-CGC-98-NMMINT",
+    "https://comics.ha.com/itm/original-comic-art/mike-mignola-batman-428-cover-original-art-dc-1989-/a/7274-91073.s",
+    "https://www.hipcomic.com/catalog/issue/batman/436/1180",
+    "https://www.hipcomic.com/catalog/issue/batman/437/1181",
+    "https://www.hipcomic.com/catalog/issue/batman/448/1154",
+    "https://www.hipcomic.com/catalog/issue/batman/452/1147",
+    "https://www.hipcomic.com/catalog/issue/batman/453/1191",
+    "https://www.hipcomic.com/catalog/issue/batman/455/1246",
+    "https://www.hipcomic.com/catalog/issue/batman/456/1189",
+    "https://kaboom.rocks/comics/92/issues/450/reviews",
+    "https://adorkification.blogspot.com/2012/07/robin-iii-part-20-batman-455-october.html",
+    "https://adorkification.blogspot.com/2012/07/robin-iii-part-21-batman-456-november.html",
+    "http://randomrockinblog.blogspot.com/2019/01/legends-of-dark-knight-11-september-1990.html",
+    "http://randomrockinblog.blogspot.com/2019/06/batman-legends-of-dark-knight-12.html",
+    "https://www.chrisisoninfiniteearths.com/2017/08/new-titans-60-1989.html",
+    "https://tessatechaitea.blogspot.com/2019/07/the-new-titans-61.html",
+    "https://s-lib019.lib.uiowa.edu/repositories/2/archival_objects/1145228",
+    "https://s-lib019.lib.uiowa.edu/repositories/2/archival_objects/1145238",
+    "https://tomwritesaboutstuff.com/loneliness-and-cheeseburgers/batman-legends-of-the-dark-knight-vol-1-issue-016/",
+    "https://www.biblio.com/book/batman-legends-dark-knight-6-gothic/d/1138318689",
+    "https://www.worthpoint.com/worthopedia/detective-comics-575-dc-comics-june-4848044508",
+    "https://13thdimension.com/batman-year-two-to-be-re-released-as-four-monthly-facsimile-editions/",
+    "https://www.pepcomics.com/eng/detective-comics-576-facsimile-edition-cvr-a-todd-mcfarlane-year-two-part-2-of-4",
+    "https://www.faraos.dk/comics/uscomics/dc/batman/dcfinest/dc-finest--batman-a-death-in-the-family-1988-1989",
+    "https://batman.fandom.com/wiki/The_Penguin_Affair",
+    "https://www.cbr.com/nostalgia-november-day-27-detective-comics-600/",
+    "http://notblogx.blogspot.com/2015/08/batman-sword-of-azrael-4-january-1993.html",
+    "https://irrelevantcomics.blogspot.com/2011/01/tim-drake-from-beginning-part-3-lonely.html",
+    "https://crushingkrisis.com/crushing-comics-guide-collecting-dc-comic-books/collecting-batman-comics/collecting-batman-comics-trade-reading-order-post-crisis/"
+  ]
+}

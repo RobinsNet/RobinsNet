@@ -1,0 +1,1018 @@
+{
+ "events": [
+  {
+   "id": "black-mirror",
+   "name": "The Black Mirror",
+   "nameZh": "黑镜",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "saga",
+   "characters": [
+    "batman",
+    "gordon",
+    "joker"
+   ],
+   "issues": [
+    {
+     "s": "detective",
+     "n": "871",
+     "t": "The Black Mirror Part One",
+     "p": 1,
+     "d": "2011-01",
+     "c": [
+      "batman",
+      "gordon",
+      "oracle"
+     ],
+     "x": "Main story (Snyder/Jock); backup: Skeleton Case Part One (3-part backup)"
+    },
+    {
+     "s": "detective",
+     "n": "872",
+     "t": "The Black Mirror Part Two",
+     "p": 2,
+     "d": "2011-02",
+     "c": [
+      "batman",
+      "gordon",
+      "oracle"
+     ],
+     "x": "Backup: Skeleton Case Part Two"
+    },
+    {
+     "s": "detective",
+     "n": "873",
+     "t": "The Black Mirror Part Three",
+     "p": 3,
+     "d": "2011-03",
+     "c": [
+      "batman",
+      "gordon",
+      "oracle"
+     ],
+     "x": "Backup: Skeleton Case Part Three"
+    },
+    {
+     "s": "detective",
+     "n": "874",
+     "t": "Skeleton Cases Part 3",
+     "p": 3,
+     "d": "2011-04",
+     "c": [
+      "batman",
+      "gordon"
+     ],
+     "x": "Main story (Snyder/Francavilla); title per Comic Vine/CLZ, ambiguity flagged"
+    },
+    {
+     "s": "detective",
+     "n": "875",
+     "t": "Lost Boys",
+     "d": "2011-05",
+     "c": [
+      "batman",
+      "gordon"
+     ],
+     "x": "Main story (Snyder/Jock); Gordon vs Peter Pan killer"
+    },
+    {
+     "s": "detective",
+     "n": "876",
+     "t": "Hungry City Part One",
+     "p": 1,
+     "d": "2011-06",
+     "c": [
+      "batman",
+      "gordon"
+     ],
+     "x": "Hungry City arc begins (3 parts)"
+    },
+    {
+     "s": "detective",
+     "n": "877",
+     "t": "Hungry City Part Two",
+     "p": 2,
+     "d": "2011-07",
+     "c": [
+      "batman",
+      "gordon"
+     ],
+     "x": null
+    },
+    {
+     "s": "detective",
+     "n": "878",
+     "t": "Hungry City Part Three",
+     "p": 3,
+     "d": "2011-08",
+     "c": [
+      "batman",
+      "gordon"
+     ],
+     "x": null
+    },
+    {
+     "s": "detective",
+     "n": "879",
+     "t": "Skeleton Key",
+     "d": "2011-09",
+     "c": [
+      "batman",
+      "gordon"
+     ],
+     "x": null
+    },
+    {
+     "s": "detective",
+     "n": "880",
+     "t": "My Dark Architect",
+     "d": "2011-09",
+     "c": [
+      "batman",
+      "gordon",
+      "joker"
+     ],
+     "x": "Joker features; double-shipped with #879 (both cover-dated Sep 2011)"
+    },
+    {
+     "s": "detective",
+     "n": "881",
+     "t": "The Face in the Glass",
+     "d": "2011-10",
+     "c": [
+      "batman",
+      "gordon"
+     ],
+     "x": "Final pre-Flashpoint Detective Comics; Gordon Jr. finale"
+    }
+   ],
+   "summaryZh": "封面日期为2011-01至2011-10（每月一册，末期#879/#880同为2011-09双刊，#881为2011-10），并非用户预期的2010-06~2011-04。依据：Overstreet Access 封面日期（#871=Jan 2011、#874=Apr 2011、#875=May 2011、#878=Aug 2011、#879=Sep 2011、#881=Oct 2011）、IGN 当周发售测评（#874:2011-02-24、#875:2011-03-31、#876:2011-04-28、#877:2011-05-25、#880:2011-07-28，对应封面+2月），以及合"
+  },
+  {
+   "id": "gates-of-gotham",
+   "name": "Batman: Gates of Gotham",
+   "nameZh": "哥谭之门",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "series",
+   "characters": [
+    "batman",
+    "robin-damian",
+    "batgirl",
+    "nightwing",
+    "redrobin"
+   ],
+   "related": [
+    "black-mirror"
+   ],
+   "issues": [
+    {
+     "s": "gates-of-gotham",
+     "n": "1",
+     "t": "Part One: A Bridge to the Past",
+     "p": 1,
+     "d": "2011-07",
+     "c": [
+      "batman",
+      "robin-damian"
+     ],
+     "x": null
+    },
+    {
+     "s": "gates-of-gotham",
+     "n": "2",
+     "t": "Part Two: The Four Families",
+     "p": 2,
+     "d": "2011-08",
+     "c": [
+      "batman",
+      "nightwing"
+     ],
+     "x": null
+    },
+    {
+     "s": "gates-of-gotham",
+     "n": "3",
+     "t": "Part Three: The Key to the City",
+     "p": 3,
+     "d": "2011-09",
+     "c": [
+      "batman",
+      "redrobin"
+     ],
+     "x": null
+    },
+    {
+     "s": "gates-of-gotham",
+     "n": "4",
+     "t": "Part Four: The Gotham City Massacre",
+     "p": 4,
+     "d": "2011-10",
+     "c": [
+      "batman",
+      "batgirl"
+     ],
+     "x": "GCD: Early October 2011"
+    },
+    {
+     "s": "gates-of-gotham",
+     "n": "5",
+     "t": "Part Five: Welcome to the Future",
+     "p": 5,
+     "d": "2011-10",
+     "c": [
+      "batman",
+      "robin-damian",
+      "nightwing",
+      "redrobin",
+      "batgirl"
+     ],
+     "x": "GCD Newsstand: Late October 2011; finale"
+    }
+   ],
+   "summaryZh": "封面日期（GCD）：#1=2011-07、#2=2011-08、#3=2011-09、#4=2011-10（GCD 记为 Early October 2011）、#5=2011-10（GCD Newsstand 记为 Late October 2011）——末期两期共用2011-10封面（DC 末期拆月封面），并非用户预期的2011-05~2011-09。；每期主故事均带『Part』标题（Comic Vine 核实）：Part One: A Bridge to the Past / Part Two: The Four Families / Part Three: The Key to the"
+  }
+ ],
+ "arcs": [
+  {
+   "id": "streets-of-gotham",
+   "name": "Batman: Streets of Gotham",
+   "nameZh": "哥谭街道",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "arc",
+   "start": "2009-08",
+   "end": "2011-05",
+   "summaryZh": "《哥谭街道》主线连载（2009-2011，共21期），保罗·迪尼主笔，迪克·格雷森为蝙蝠侠、达米安为罗宾。主要故事弧：『封口费』（Hush Money，#1-4，缄默归来勒索哥谭权贵）、『利维坦』（Leviathan，#5-11，迪尼/本森/约斯特联合编剧）、『缄默之屋』（House of Hush，#14-21，汤米·埃利奥特身世与缄默的执念）；早期多期附『人蝠』（Man-Bat，柯克·朗斯特罗姆）备用故事。#12-13为过渡期单期故事，弧名与标题未核实。",
+   "characters": [
+    "batman",
+    "robin-damian",
+    "hush"
+   ],
+   "issues": [
+    {
+     "s": "streets-of-gotham",
+     "n": "1",
+     "t": "Hush Money Part One",
+     "p": 1,
+     "d": "2009-08",
+     "c": [
+      "batman",
+      "robin-damian",
+      "hush"
+     ],
+     "x": "Backup: Man-Bat feature"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "2",
+     "t": "Hush Money Part Two",
+     "p": 2,
+     "d": "2009-09",
+     "c": [
+      "batman",
+      "robin-damian",
+      "hush"
+     ],
+     "x": "Backup: Man-Bat"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "3",
+     "t": "Hush Money Part Three",
+     "p": 3,
+     "d": "2009-10",
+     "c": [
+      "batman",
+      "robin-damian",
+      "hush"
+     ],
+     "x": "Backup: Man-Bat; cover date per Overstreet (Oct 2009)"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "4",
+     "t": "Hush Money Part Four",
+     "p": 4,
+     "d": "2009-11",
+     "c": [
+      "batman",
+      "robin-damian",
+      "hush"
+     ],
+     "x": "Backup: Man-Bat"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "5",
+     "t": "Leviathan Part One",
+     "p": 1,
+     "d": "2009-12",
+     "c": [
+      "batman",
+      "robin-damian"
+     ],
+     "x": "Backup: Man-Bat; Leviathan arc begins"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "6",
+     "t": "Leviathan Part Two",
+     "p": 2,
+     "d": "2010-01",
+     "c": [
+      "batman",
+      "robin-damian"
+     ],
+     "x": "Backup: Man-Bat"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "7",
+     "t": "Leviathan Part Three",
+     "p": 3,
+     "d": "2010-02",
+     "c": [
+      "batman",
+      "robin-damian"
+     ],
+     "x": "Backup: Man-Bat"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "8",
+     "t": "Leviathan Part Four",
+     "p": 4,
+     "d": "2010-03",
+     "c": [
+      "batman",
+      "robin-damian"
+     ],
+     "x": "Backup: Man-Bat (final chapter, best-effort)"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "9",
+     "t": "Leviathan Part Five",
+     "p": 5,
+     "d": "2010-04",
+     "c": [
+      "batman",
+      "robin-damian"
+     ],
+     "x": null
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "10",
+     "t": "Leviathan Part Six",
+     "p": 6,
+     "d": "2010-05",
+     "c": [
+      "batman",
+      "robin-damian"
+     ],
+     "x": null
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "11",
+     "t": "Leviathan Part Seven",
+     "p": 7,
+     "d": "2010-06",
+     "c": [
+      "batman",
+      "robin-damian"
+     ],
+     "x": "Leviathan trade collects #5-11"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "12",
+     "d": "2010-07",
+     "c": [
+      "batman",
+      "robin-damian"
+     ],
+     "x": "Transitional issue; printed title/arc not verified"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "13",
+     "d": "2010-08",
+     "c": [
+      "batman",
+      "robin-damian"
+     ],
+     "x": "Transitional issue; printed title/arc not verified; cover date per Overstreet (Aug 2010)"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "14",
+     "t": "House of Hush Part One",
+     "p": 1,
+     "d": "2010-09",
+     "c": [
+      "batman",
+      "hush"
+     ],
+     "x": "House of Hush arc begins; cover date per Overstreet (Sep 2010)"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "15",
+     "t": "House of Hush Part Two",
+     "p": 2,
+     "d": "2010-10",
+     "c": [
+      "batman",
+      "hush"
+     ],
+     "x": null
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "16",
+     "t": "House of Hush Part Three",
+     "p": 3,
+     "d": "2010-11",
+     "c": [
+      "batman",
+      "hush"
+     ],
+     "x": null
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "17",
+     "t": "House of Hush Part Four",
+     "p": 4,
+     "d": "2011-01",
+     "c": [
+      "batman",
+      "hush"
+     ],
+     "x": "Cover date per GCD (Jan 2011); Comic Vine slug records 'The House of Hush Chapter...'"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "18",
+     "t": "House of Hush Part Five",
+     "p": 5,
+     "d": "2011-02",
+     "c": [
+      "batman",
+      "hush"
+     ],
+     "x": "Cover date per GCD (Feb 2011)"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "19",
+     "t": "House of Hush Part Six",
+     "p": 6,
+     "d": "2011-03",
+     "c": [
+      "batman",
+      "hush"
+     ],
+     "x": "Cover date per Overstreet (Mar 2011)"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "20",
+     "t": "House of Hush Part Seven",
+     "p": 7,
+     "d": "2011-03",
+     "c": [
+      "batman",
+      "hush"
+     ],
+     "x": "Key Collector lists Mar 2011 (double-shipped with #19); some sources imply Apr/May 2011"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "21",
+     "t": "The House of Hush Finale",
+     "d": "2011-05",
+     "c": [
+      "batman",
+      "hush"
+     ],
+     "x": "Series finale (pre-Flashpoint); cover date per Overstreet (May 2011); title per Comic Vine slug"
+    }
+   ]
+  },
+  {
+   "id": "batgirl-v2",
+   "name": "Batgirl",
+   "nameZh": "蝙蝠女（斯蒂芬妮·布朗）",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "arc",
+   "start": "2009-10",
+   "end": "2011-10",
+   "summaryZh": "《蝙蝠女》斯蒂芬妮·布朗主役连载（2009-2011，共24期），布莱恩·Q·米勒执笔，芭芭拉·戈登（Oracle）全程辅佐。主要故事弧：『蝙蝠女崛起』（Batgirl Rising，#1-7，斯蒂芬妮接任蝙蝠女）、『洪水』（The Flood，#9-14，神谕被困、洪水来袭）、『一课』（The Lesson，#15-18）、『碰撞』（Collision，#19-24，前Flashpoint终章）。",
+   "characters": [
+    "batgirl",
+    "oracle"
+   ],
+   "issues": [
+    {
+     "s": "batgirl-v2",
+     "n": "1",
+     "d": "2009-10",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "Batgirl Rising arc begins (trade collects #1-7)"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "2",
+     "d": "2009-11",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": null
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "3",
+     "d": "2009-12",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": null
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "4",
+     "d": "2010-01",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "Cover date per Overstreet (Jan 2010)"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "5",
+     "d": "2010-02",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": null
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "6",
+     "d": "2010-03",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": null
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "7",
+     "d": "2010-04",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": null
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "8",
+     "d": "2010-05",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "Bridge issue before The Flood"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "9",
+     "t": "The Flood Part 1",
+     "p": 1,
+     "d": "2010-06",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "The Flood arc begins; title per Comic Vine slug"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "10",
+     "d": "2010-07",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "The Flood arc"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "11",
+     "d": "2010-08",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "The Flood arc"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "12",
+     "d": "2010-09",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "The Flood arc"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "13",
+     "t": "Trust",
+     "d": "2010-10",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "Title per Comic Vine slug; The Flood arc"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "14",
+     "d": "2010-11",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "The Flood trade collects #9-14 (per collection blog)"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "15",
+     "d": "2010-12",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "The Lesson arc begins (trade range approx)"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "16",
+     "d": "2011-01",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": null
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "17",
+     "d": "2011-02",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": null
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "18",
+     "d": "2011-03",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": null
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "19",
+     "d": "2011-05",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "Collision arc begins (trade range approx); cover date per Overstreet (May 2011)"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "20",
+     "d": "2011-06",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": null
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "21",
+     "d": "2011-07",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": null
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "22",
+     "d": "2011-08",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "Cover date inferred (Key Collector on-sale Jun 2011 +2)"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "23",
+     "d": "2011-09",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": null
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "24",
+     "d": "2011-10",
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "Series finale (pre-Flashpoint); on-sale Aug 2011 per Key Collector/blogs, cover date Oct 2011"
+    }
+   ]
+  },
+  {
+   "id": "arkham-reborn",
+   "name": "Batman: Arkham Reborn",
+   "nameZh": "阿卡姆重生",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "arc",
+   "start": "2009-12",
+   "end": "2010-02",
+   "summaryZh": "《蝙蝠侠：阿卡姆重生》三期限定迷你系列（2009-2010），大卫·海因执笔、杰里米·豪恩作画：杰里迈亚·阿卡姆主持重建阿卡姆疯人院，蝙蝠侠追查新阿卡姆背后的阴谋。每期均带『Part』小标题（Part One... The Raggedy Man / Part Two... Just Desserts / Part Three... The Ghost in the Machine）。",
+   "characters": [
+    "batman"
+   ],
+   "issues": [
+    {
+     "s": "Batman: Arkham Reborn",
+     "n": "1",
+     "t": "Part One... The Raggedy Man",
+     "p": 1,
+     "d": "2009-12",
+     "c": [
+      "batman"
+     ],
+     "x": "On-sale 2009-10-28 (ComicList), cover Dec 2009; title per HipComic"
+    },
+    {
+     "s": "Batman: Arkham Reborn",
+     "n": "2",
+     "t": "Part Two... Just Desserts",
+     "p": 2,
+     "d": "2010-01",
+     "c": [
+      "batman"
+     ],
+     "x": "Cover date inferred (monthly); title per HipComic"
+    },
+    {
+     "s": "Batman: Arkham Reborn",
+     "n": "3",
+     "t": "Part Three... The Ghost in the Machine",
+     "p": 3,
+     "d": "2010-02",
+     "c": [
+      "batman"
+     ],
+     "x": "Cover date inferred (monthly); title per HipComic"
+    }
+   ]
+  }
+ ],
+ "standalone": [
+  {
+   "s": "Batman: The Widening Gyre",
+   "n": "1",
+   "t": "Part One: Turning and Turning",
+   "p": 1,
+   "d": "2009-10",
+   "c": [
+    "batman"
+   ]
+  },
+  {
+   "s": "Batman: The Widening Gyre",
+   "n": "2",
+   "p": 2,
+   "d": "2009-11",
+   "c": [
+    "batman"
+   ]
+  },
+  {
+   "s": "Batman: The Widening Gyre",
+   "n": "3",
+   "p": 3,
+   "d": "2009-12",
+   "c": [
+    "batman"
+   ]
+  },
+  {
+   "s": "Batman: The Widening Gyre",
+   "n": "4",
+   "p": 4,
+   "d": "2010-02",
+   "c": [
+    "batman"
+   ]
+  },
+  {
+   "s": "Batman: The Widening Gyre",
+   "n": "5",
+   "p": 5,
+   "d": "2010-04",
+   "c": [
+    "batman"
+   ]
+  },
+  {
+   "s": "Batman: The Widening Gyre",
+   "n": "6",
+   "p": 6,
+   "d": "2010-09",
+   "c": [
+    "batman"
+   ]
+  },
+  {
+   "s": "Batman: Odyssey",
+   "n": "1",
+   "t": "Part 1",
+   "p": 1,
+   "d": "2010-09",
+   "c": [
+    "batman"
+   ]
+  },
+  {
+   "s": "Batman: Odyssey",
+   "n": "2",
+   "t": "Part 2",
+   "p": 2,
+   "d": "2010-10",
+   "c": [
+    "batman"
+   ]
+  },
+  {
+   "s": "Batman: Odyssey",
+   "n": "3",
+   "t": "Part 3",
+   "p": 3,
+   "d": "2010-11",
+   "c": [
+    "batman"
+   ]
+  },
+  {
+   "s": "Batman: Odyssey",
+   "n": "4",
+   "t": "Part 4",
+   "p": 4,
+   "d": "2010-12",
+   "c": [
+    "batman"
+   ]
+  },
+  {
+   "s": "Batman: Odyssey",
+   "n": "5",
+   "t": "Part 5",
+   "p": 5,
+   "d": "2011-01",
+   "c": [
+    "batman"
+   ]
+  },
+  {
+   "s": "Batman: Odyssey",
+   "n": "6",
+   "t": "Part 6",
+   "p": 6,
+   "d": "2011-02",
+   "c": [
+    "batman"
+   ]
+  }
+ ],
+ "sources": [
+  "https://comics.overstreetaccess.com/issues/155358/detective-comics-871-jan-2011",
+  "https://comics.overstreetaccess.com/issues/173780/detective-comics-874-apr-2011",
+  "https://comics.overstreetaccess.com/issues/177432/detective-comics-875-may-2011",
+  "https://comics.overstreetaccess.com/issues/187524/detective-comics-878-aug-2011",
+  "https://comics.overstreetaccess.com/issues/189566/detective-comics-879-sep-2011",
+  "https://comics.overstreetaccess.com/issues/196864/detective-comics-881-oct-2011",
+  "https://www.keycollectorcomics.com/issue/detective-comics-881-newsstand,864789/",
+  "https://admin.keycollectorcomics.com/issue/detective-comics-1-880,32786/",
+  "https://www.keycollectorcomics.com/issue/detective-comics-874-434603,434603/",
+  "https://www.comics.org/issue/2053236/",
+  "https://www.comics.org/issue/2124993/",
+  "https://www.comics.org/issue/862572/",
+  "https://www.comics.org/issue/849337/",
+  "https://www.comics.org/issue/863497/",
+  "https://www.comics.org/issue/868425/",
+  "https://my.comics.org/issue/2201034/",
+  "https://www.comics.org/series/58655/details/timeline/",
+  "https://comicvine.gamespot.com/batman-gates-of-gotham-part-one-a-bridge-to-the-past/4000-270443/",
+  "https://comicvine.gamespot.com/batman-gates-of-gotham-3-part-three-the-key-to-the/4000-280286/",
+  "https://comicvine.gamespot.com/batman-gates-of-gotham-4-part-four-the-gotham-city/4000-283130/",
+  "https://comicvine.gamespot.com/2/4000-288287",
+  "https://comics.overstreetaccess.com/issues/70931/batman-streets-of-gotham-3-oct-2009",
+  "https://comics.overstreetaccess.com/issues/127997/batman-streets-of-gotham-13-aug-2010",
+  "https://comics.overstreetaccess.com/issues/133375/batman-streets-of-gotham-14-sep-2010",
+  "https://comics.overstreetaccess.com/issues/168028/batman-streets-of-gotham-19-mar-2011",
+  "https://comics.overstreetaccess.com/issues/176785/batman-streets-of-gotham-21-may-2011",
+  "https://www.comics.org/issue/794265/",
+  "https://my.comics.org/issue/787893/",
+  "https://www.keycollectorcomics.com/issue/batman-streets-of-gotham-20-427546,427546/",
+  "https://discover.aclib.us/Hoopla/15430690",
+  "https://comicvine.gamespot.com/batman-streets-of-gotham-14-house-of-hush-pt-1-two/4000-225820/user-reviews/2200-10276/",
+  "https://comicvine.gamespot.com/batman-streets-of-gotham-21-the-house-of-hush-fina/4000-266499/user-reviews/2200-16496/",
+  "https://comics.overstreetaccess.com/issues/87052/batgirl-4-jan-2010",
+  "https://comics.overstreetaccess.com/issues/175712/batgirl-19-may-2011",
+  "https://www.keycollectorcomics.com/issue/batgirl-24-422577,422577/",
+  "https://www.keycollectorcomics.com/issue/batgirl-22-422557,422557/",
+  "http://allysonsattic.blogspot.com/2011/05/batgirl-flood-includes-issues-9-10-11.html",
+  "https://comicvine.gamespot.com/batgirl-9-the-flood-part-1/4000-206639/user-reviews/",
+  "https://comicvine.gamespot.com/batgirl-13-trust/4000-228846/user-reviews/2200-10879/",
+  "https://dc.fandom.com/wiki/Batgirl:_Batgirl_Rising_(Collected)",
+  "https://www.comics.org/issue/681424/",
+  "https://www.hipcomic.com/catalog/issue/arkham-reborn/1/134201",
+  "https://www.hipcomic.com/catalog/issue/arkham-reborn/2/139090",
+  "https://www.hipcomic.com/catalog/issue/arkham-reborn/3/141569",
+  "https://gocollect.com/blog/comiclist-dc-comics-for-10-28-2009/",
+  "https://www.comics.org/issue/875518/",
+  "https://www.comics.org/issue/885947/",
+  "https://comics.overstreetaccess.com/issues/85779/batman-the-widening-gyre-3-dec-2009",
+  "https://www.comics.org/issue/885955/",
+  "https://comics.overstreetaccess.com/issues/105862/batman-the-widening-gyre-5-apr-2010",
+  "https://www.comics.org/issue/885958/",
+  "https://comicvine.gamespot.com/batman-the-widening-gyre-1-part-one-turning-and-tu/4000-168286/user-reviews/2200-5097/",
+  "https://www.comics.org/issue/854461/",
+  "https://comicvine.gamespot.com/batman-odyssey-1-part-1/4000-223386/user-reviews/2200-9822/",
+  "http://www.aquamanshrine.net/2010/11/batman-odyssey-5-jan-2011.html",
+  "https://comicvine.gamespot.com/detective-comics-872-the-black-mirror-part-two-of-/4000-252621/user-reviews/2200-14347/",
+  "https://comicvine.gamespot.com/detective-comics-873-the-black-mirror-part-three-o/4000-259072/user-reviews/2200-15047/",
+  "https://comicvine.gamespot.com/detective-comics-874-skeleton-cases-part-3/4000-263707/user-reviews/2200-15721/",
+  "https://comicvine.gamespot.com/detective-comics-875-lost-boys/4000-267103/user-reviews/2200-16941/",
+  "https://comicvine.gamespot.com/detective-comics-876-hungry-city-pt-1-of-3/4000-268975/user-reviews/2200-17599/",
+  "https://comicvine.gamespot.com/detective-comics-877-hungry-city-part-two-of-three/4000-271354/user-reviews/",
+  "https://comicvine.gamespot.com/detective-comics-879-skeleton-key/4000-278454/user-reviews/2200-21859/",
+  "https://comicvine.gamespot.com/detective-comics-880-my-dark-architect/4000-281529/user-reviews/2200-21498/",
+  "https://comicvine.gamespot.com/app.php/detective-comics-881-the-face-in-the-glass/4000-285157/user-reviews/",
+  "https://en.wikipedia.org/wiki/Batman:_The_Black_Mirror",
+  "https://en.wikipedia.org/wiki/Batman:_Gates_of_Gotham",
+  "https://en.wikipedia.org/wiki/Streets_of_Gotham",
+  "https://en.wikipedia.org/wiki/Batwoman:_Elegy",
+  "https://dc.fandom.com/wiki/Batman:_The_Black_Mirror_(Collected)",
+  "https://dc.fandom.com/wiki/Batman:_Gates_of_Gotham",
+  "https://dc.fandom.com/wiki/Batman:_Leviathan",
+  "https://www.comics.org/issue/1039733/"
+ ],
+ "notes": [
+  "【重大日期修正】本批所有事件的封面日期均与任务预期不符，以来源为准：(1) Detective Comics #871-881《黑镜》实际封面为2011-01~2011-10（每月一册，#879/#880同为2011-09双刊，#881为2011-10），而非2010-06~2011-04；依据 Overstreet（#871=Jan 2011…#881=Oct 2011）、IGN 当周测评（#874~#877、#880 的发售周对应封面+2月）、合集 TPB 于2011-11-29出版。GCD 的 #856=2009-10 亦印证此月份链。(2) Gates of Gotham #1-5 封面为2011-07~2011-10（#4 Early October、#5 Late October），而非2011-05~2011-09。(3) Streets of Gotham 末期为2011-05（#21，Overstreet），而非2011-08；#15-20中部分日期由月度节奏推断（锚点：#14=2010-09、#17=2011-01、#18=2011-02、#19=2011-03、#20=2011-03、#21=2011-05）。(4) Batgirl（斯蒂芬妮）#1 封面为2009-10（非2009-08），#24 封面为2011-10（发售2011-08，非2011-08封面）；#5-18日期按月度推断（锚点：#4=2010-01、#19=2011-05）。(5) Arkham Reborn 封面为2009-12~2010-02（非2009-10~12）。",
+  "【黑镜逐期标题】已核实：'The Black Mirror'主故事仅#871-873（第1-3部，of Three），其后为单期标题故事：#874 'Skeleton Cases Part 3'（Francavilla 作画，标题据 Comic Vine/CLZ；与#871-873备用故事'Skeleton Case'同名，是否为同一故事线存在歧义）、#875 'Lost Boys'、#876-878 'Hungry City'第1-3部、#879 'Skeleton Key'、#880 'My Dark Architect'、#881 'The Face in the Glass'。未发现'Lost in the Mirror'。备用故事'Skeleton Case'（第1-3部）随#871-873连载。",
+  "【Detective Comics #854-870（黑镜之前的蝙蝠侠重生时代）】#854-863（封面约2009-08~2010-05）：#853之后的'Batman Reborn'时代，主线由大卫·海因（早期）与格雷格·鲁卡（后期）执笔，并连载鲁卡与J·H·威廉姆斯三世合作的'Batwoman'备用故事（即'Elegy'，后结集为《Batwoman: Elegy》，另有Batwoman主故事线'Cutter'）。#864-870（封面约2010-06~2010-12）：鲁卡/威廉姆斯三世主导的Batwoman篇，直接衔接斯奈德#871接手。此批未加入events/issues，仅供阅读顺序参考。",
+  "【Streets of Gotham 弧结构】'Hush Money'=#1-4（WorldCat 卷一标题核实）；'Leviathan'=#5-11（Hoopla 卷二'Issues #5-11'核实；迪尼/本森/约斯特联合编剧）；'House of Hush'=#14-21（#14='House of Hush Pt 1'、#21='The House of Hush Finale'，Comic Vine 核实）；#12-13为过渡期单期，弧名与标题未能核实（已省略t）。各期t为弧名+部号（如'Hush Money Part One'），完整副标题未逐一核实。备用故事'Man-Bat'（人蝠，柯克·朗斯特罗姆）出现于早期各期（约#1-8，尽力而为）；未找到'Silent Knight'备用故事的来源支持。",
+  "【Batgirl 弧结构】'Batgirl Rising'=#1-7（合集核实）；'The Flood'=#9-14（合集博客明确列出9-14，非用户预期的8-13）；#8为过渡单期；'The Lesson'=#15-18、'Collision'=#19-24（范围据合集推测，尽力而为）。逐期标题大多未能核实（已核实：#9='The Flood Part 1'、#13='Trust'），其余省略t。人物仅标 batgirl/oracle（斯蒂芬妮+芭芭拉）；redrobin/robin-damian/blackmask/alfred 的逐期出场未获来源证实，故未标注。",
+  "【Arkham Reborn】每期带Part小标题（HipComic 记录为'Part One... The Raggedy Man'、'Part Two... Just Desserts'、'Part Three... The Ghost in the Machine'，省略号或为冒号，已尽力按来源记录）。#1 于2009-10-28发售（ComicList），封面2009-12；#2/#3封面按月度推断（2010-01、2010-02）。",
+  "【Standalone 补充说明】《Batman: The Widening Gyre》#1-6：封面2009-10、2009-11、2009-12、2010-02、2010-04、2010-09（GCD/Overstreet核实，中期严重延期）；#1标题'Part One: Turning and Turning'已核实（副题取自叶芝《第二次降临》），#2-6的Part序号可推定但副标题未核实，故t省略、保留p。《Batman: Odyssey》#1-6：封面2010-09~2011-02逐月（锚点：#1=2010-09、#5=2011-01、#6=2011-02 GCD）；#1-#2标题'Part 1/Part 2'已核实（Comic Vine），#3-6按同模式标注。两系列均未列入上方事件/弧。",
+  "【人物标注】各期c均为尽力而为：Gates of Gotham 各期焦点英雄（#2夜翼/#3红罗宾/#4蝙蝠女卡珊德拉/#5全员）依据剧情记忆推断；黑镜中 oracle 仅标于#871-873（芭芭拉协助调查镜中照片）、joker 仅标于#880（Comic Vine评论'The Joker and Hell Break Loose'）；Streets of Gotham 中 catwoman 出现未被来源证实，未标；Arkham Reborn 主要角色（杰里迈亚·阿卡姆等）不在允许id列表内，故仅标batman。",
+  "【来源偏好说明】GCD（comics.org）直连被 Cloudflare 拦截，封面日期以 Overstreet Access（其slug即封面日期，经 #874↔IGN发售周交叉验证）、Key Collector（多数条目为发售月）及 GCD 索引片段交叉核实；故事标题以 Comic Vine slug/用户评论、CLZ、HipComic 为准。"
+ ]
+}

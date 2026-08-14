@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>蝙蝠家族阅读指南 · Batman Family Reading Guide</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand" data-action="nav" data-view="home">
+    <span class="logo">🦇</span>
+    <div class="brand-text">
+      <h1>蝙蝠家族阅读指南</h1>
+      <span class="sub">Batman Family Reading Guide</span>
+    </div>
+  </div>
+  <nav id="nav" class="nav">
+    <button data-action="nav" data-view="home">总览</button>
+    <button data-action="nav" data-view="events">事件库</button>
+    <button data-action="nav" data-view="timeline">时间线</button>
+    <button data-action="nav" data-view="arcs">单元弧线</button>
+    <button data-action="nav" data-view="mylist">我的清单</button>
+    <button data-action="nav" data-view="about">关于</button>
+  </nav>
+  <div class="searchbox">
+    <input id="search" type="search" placeholder="搜索事件 / 刊名 / 角色…" autocomplete="off">
+  </div>
+</header>
+
+<div class="filterbar" id="filterbar"></div>
+
+<main id="main" class="main"></main>
+
+<footer class="footer">
+  <p>蝙蝠家族阅读指南 · 数据为社区整理（Wikipedia / DC Fandom / GCD），封面日期为准 · 仅供阅读参考</p>
+</footer>
+
+<div id="toast" class="toast"></div>
+<script src="app.js"></script>
+</body>
+</html>

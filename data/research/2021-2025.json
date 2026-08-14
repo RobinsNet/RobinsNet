@@ -1,0 +1,2452 @@
+{
+  "events": [
+    {
+      "id": "future-state",
+      "name": "Future State",
+      "nameZh": "未来态",
+      "era": "Frontier",
+      "earth": "earth-0",
+      "type": "mega-event",
+      "start": "2021-03",
+      "end": "2021-06",
+      "summaryZh": "《未来态》是 2021 年初 DC 的全体性事件，设定在「小丑战争」之后的近未来：哥谭被「治安官」（Magistrate）与和平卫士一号机器警察统治，蝙蝠家族四散，贾斯·福克斯（Jace Fox）接任新蝙蝠侠，布鲁斯·韦恩以「黑暗侦探」身份秘密调查，迪克·格雷森、达米安·罗宾、猫女与蝙蝠女郎们各自在暗处抵抗；封面日期 2021-03~06（上市 2021-01~04）。",
+      "characters": [
+        "batman",
+        "nightwing",
+        "robin-damian",
+        "catwoman",
+        "batgirl",
+        "oracle",
+        "gordon"
+      ],
+      "family": "bat-family",
+      "related": [
+        "infinite-frontier"
+      ],
+      "phases": [
+        {
+          "name": "Future State: Batman",
+          "nameZh": "未来态：蝙蝠侠（格兰特）",
+          "issues": [
+            {
+              "s": "Future State: Batman",
+              "n": "1",
+              "t": null,
+              "d": "2021-03",
+              "c": ["batman", "gordon"]
+            },
+            {
+              "s": "Future State: Batman",
+              "n": "2",
+              "t": null,
+              "d": "2021-04",
+              "c": ["batman", "gordon"]
+            }
+          ]
+        },
+        {
+          "name": "Future State: Nightwing",
+          "nameZh": "未来态：夜翼",
+          "issues": [
+            {
+              "s": "Future State: Nightwing",
+              "n": "1",
+              "t": null,
+              "d": "2021-03",
+              "c": ["nightwing"]
+            },
+            {
+              "s": "Future State: Nightwing",
+              "n": "2",
+              "t": null,
+              "d": "2021-04",
+              "c": ["nightwing"]
+            }
+          ]
+        },
+        {
+          "name": "Future State: Robin Eternal",
+          "nameZh": "未来态：永恒罗宾",
+          "issues": [
+            {
+              "s": "Future State: Robin Eternal",
+              "n": "1",
+              "t": null,
+              "d": "2021-03",
+              "c": ["robin-damian"]
+            },
+            {
+              "s": "Future State: Robin Eternal",
+              "n": "2",
+              "t": null,
+              "d": "2021-04",
+              "c": ["robin-damian"]
+            }
+          ]
+        },
+        {
+          "name": "Future State: Catwoman",
+          "nameZh": "未来态：猫女",
+          "issues": [
+            {
+              "s": "Future State: Catwoman",
+              "n": "1",
+              "t": null,
+              "d": "2021-03",
+              "c": ["catwoman"]
+            },
+            {
+              "s": "Future State: Catwoman",
+              "n": "2",
+              "t": null,
+              "d": "2021-04",
+              "c": ["catwoman"]
+            }
+          ]
+        },
+        {
+          "name": "Future State: Batgirls",
+          "nameZh": "未来态：蝙蝠女郎",
+          "issues": [
+            {
+              "s": "Future State: Batgirls",
+              "n": "1",
+              "t": null,
+              "d": "2021-03",
+              "c": ["batgirl", "oracle"]
+            },
+            {
+              "s": "Future State: Batgirls",
+              "n": "2",
+              "t": null,
+              "d": "2021-04",
+              "c": ["batgirl", "oracle"]
+            }
+          ]
+        },
+        {
+          "name": "Future State: The Next Batman",
+          "nameZh": "未来态：下一代蝙蝠侠",
+          "issues": [
+            {
+              "s": "Future State: The Next Batman",
+              "n": "1",
+              "t": null,
+              "d": "2021-03",
+              "c": ["batman", "gordon"],
+              "x": "Overstreet 封面日期 2021-03（2021-01-05 上市）"
+            },
+            {
+              "s": "Future State: The Next Batman",
+              "n": "2",
+              "t": null,
+              "d": "2021-04",
+              "c": ["batman"]
+            },
+            {
+              "s": "Future State: The Next Batman",
+              "n": "3",
+              "t": null,
+              "d": "2021-05",
+              "c": ["batman"]
+            },
+            {
+              "s": "Future State: The Next Batman",
+              "n": "4",
+              "t": null,
+              "d": "2021-06",
+              "c": ["batman"]
+            }
+          ]
+        },
+        {
+          "name": "Future State: Dark Detective",
+          "nameZh": "未来态：黑暗侦探",
+          "issues": [
+            {
+              "s": "Future State: Dark Detective",
+              "n": "1",
+              "t": null,
+              "d": "2021-03",
+              "c": ["batman"],
+              "x": "GCD 首刷变体封面日期 2021-03（二刷 2021-04）"
+            },
+            {
+              "s": "Future State: Dark Detective",
+              "n": "2",
+              "t": null,
+              "d": "2021-04",
+              "c": ["batman"]
+            },
+            {
+              "s": "Future State: Dark Detective",
+              "n": "3",
+              "t": null,
+              "d": "2021-05",
+              "c": ["batman"]
+            },
+            {
+              "s": "Future State: Dark Detective",
+              "n": "4",
+              "t": null,
+              "d": "2021-06",
+              "c": ["batman"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "infinite-frontier",
+      "name": "Infinite Frontier",
+      "nameZh": "无限边疆",
+      "era": "Frontier",
+      "earth": "earth-0",
+      "type": "series",
+      "start": "2021-05",
+      "end": "2021-11",
+      "summaryZh": "《无限边疆》是 DC 多元宇宙重启后的主线迷你系列：乔舒亚·威廉森笔下的新纪元，闪电侠与伙伴调查「暗面纪元」遗留的威胁，多元宇宙重新洗牌，阿尔法·普赖姆英雄集结，蝙蝠侠与猫头鹰法庭等暗线也参与其中；#0 为序幕（2021-05 封面），#1-6 正篇（2021-08~11 封面，2021-06-22 起每两周上市）。",
+      "characters": [
+        "batman",
+        "superman",
+        "flash",
+        "wonderwoman",
+        "justiceleague"
+      ],
+      "family": null,
+      "related": [
+        "future-state",
+        "fear-state"
+      ],
+      "phases": [
+        {
+          "name": "Infinite Frontier",
+          "nameZh": "无限边疆",
+          "issues": [
+            {
+              "s": "infinite-frontier",
+              "n": "0",
+              "t": null,
+              "d": "2021-05",
+              "c": ["batman", "superman", "flash", "justiceleague"],
+              "x": "GCD 封面日期 2021-05（2021-03-10 上市）"
+            },
+            {
+              "s": "infinite-frontier",
+              "n": "1",
+              "t": null,
+              "d": "2021-08",
+              "c": ["flash", "superman", "justiceleague"],
+              "x": "Overstreet 封面日期 2021-08（2021-06-22 上市，DC 官方博客核实）"
+            },
+            {
+              "s": "infinite-frontier",
+              "n": "2",
+              "t": null,
+              "d": "2021-09",
+              "c": ["flash", "justiceleague"]
+            },
+            {
+              "s": "infinite-frontier",
+              "n": "3",
+              "t": null,
+              "d": "2021-09",
+              "c": ["flash", "justiceleague"]
+            },
+            {
+              "s": "infinite-frontier",
+              "n": "4",
+              "t": null,
+              "d": "2021-10",
+              "c": ["flash", "justiceleague"]
+            },
+            {
+              "s": "infinite-frontier",
+              "n": "5",
+              "t": null,
+              "d": "2021-10",
+              "c": ["flash", "justiceleague"]
+            },
+            {
+              "s": "infinite-frontier",
+              "n": "6",
+              "t": null,
+              "d": "2021-11",
+              "c": ["flash", "justiceleague"],
+              "x": "约 2021-08-31~09-08 上市（终刊，封面日期为估计值）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fear-state",
+      "name": "Fear State",
+      "nameZh": "恐惧状态",
+      "era": "Frontier",
+      "earth": "earth-0",
+      "type": "mega-event",
+      "start": "2021-10",
+      "end": "2022-01",
+      "summaryZh": "《恐惧状态》是 2021 年秋的哥谭大事件（詹姆斯·泰尼恩四世主笔）：稻草人以「恐惧宣言」策划城市级恐惧实验，秘密塑造哥谭为无蝙蝠侠的治安官警察国度，蝙蝠侠被孤立，和平卫士一号全面接管；主线 Batman #112-117（封面 2021-11~2022-01，双周发售），夜翼/猫女/侦探漫画均有联动，Alpha/Omega 收束全书。",
+      "characters": [
+        "batman",
+        "scarecrow",
+        "nightwing",
+        "catwoman",
+        "oracle",
+        "batgirl",
+        "gordon",
+        "joker"
+      ],
+      "family": "bat-family",
+      "related": [
+        "infinite-frontier",
+        "nightwing-taylor"
+      ],
+      "phases": [
+        {
+          "name": "Fear State Alpha",
+          "nameZh": "恐惧状态·序章",
+          "issues": [
+            {
+              "s": "Batman: Fear State: Alpha",
+              "n": "1",
+              "t": null,
+              "d": "2021-10",
+              "c": ["batman", "scarecrow"],
+              "x": "GCD/Overstreet 封面日期 2021-10（2021-08-03 上市）"
+            }
+          ]
+        },
+        {
+          "name": "The Fear State",
+          "nameZh": "恐惧状态正篇",
+          "issues": [
+            {
+              "s": "batman-v3",
+              "n": "112",
+              "t": "Fear State Part One",
+              "d": "2021-11",
+              "p": 1,
+              "c": ["batman", "scarecrow"],
+              "x": "GCD 封面日期 2021-11（2021-09-07 上市，双周发售）"
+            },
+            {
+              "s": "batman-v3",
+              "n": "113",
+              "t": "Fear State Part Two",
+              "d": "2021-11",
+              "p": 2,
+              "c": ["batman", "scarecrow"],
+              "x": "GCD 封面日期 2021-11（2021-09-21 上市）"
+            },
+            {
+              "s": "batman-v3",
+              "n": "114",
+              "t": "Fear State Part Three",
+              "d": "2021-12",
+              "p": 3,
+              "c": ["batman", "scarecrow"],
+              "x": "GCD 封面日期 2021-12"
+            },
+            {
+              "s": "batman-v3",
+              "n": "115",
+              "t": "Fear State Part Four",
+              "d": "2021-12",
+              "p": 4,
+              "c": ["batman", "scarecrow"],
+              "x": "GCD 封面日期 2021-12"
+            },
+            {
+              "s": "batman-v3",
+              "n": "116",
+              "t": "Fear State Part Five",
+              "d": "2022-01",
+              "p": 5,
+              "c": ["batman", "scarecrow"],
+              "x": "封面日期为估计值（2021-11 上市）"
+            },
+            {
+              "s": "batman-v3",
+              "n": "117",
+              "t": "Fear State Part Six",
+              "d": "2022-01",
+              "p": 6,
+              "c": ["batman", "scarecrow"],
+              "x": "GCD 封面日期 2022-01（2021-11-16 上市）"
+            }
+          ]
+        },
+        {
+          "name": "Nightwing Tie-In",
+          "nameZh": "夜翼联动",
+          "issues": [
+            {
+              "s": "nightwing-v4",
+              "n": "84",
+              "t": "Fear State Part One",
+              "d": "2021-11",
+              "p": 1,
+              "c": ["nightwing", "oracle"],
+              "x": "CBR 核实为 Fear State Part 1（2021-09 上市，封面 2021-11）"
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "85",
+              "t": "Fear State Part Two",
+              "d": "2021-12",
+              "p": 2,
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "86",
+              "t": "Fear State Part Three",
+              "d": "2022-01",
+              "p": 3,
+              "c": ["nightwing", "oracle"]
+            }
+          ]
+        },
+        {
+          "name": "Catwoman Tie-In",
+          "nameZh": "猫女联动",
+          "issues": [
+            {
+              "s": "Catwoman",
+              "n": "34",
+              "t": null,
+              "d": "2021-10",
+              "c": ["catwoman"]
+            },
+            {
+              "s": "Catwoman",
+              "n": "35",
+              "t": null,
+              "d": "2021-11",
+              "c": ["catwoman"],
+              "x": "Overstreet 封面日期 2021-11（Fear State 联动）"
+            },
+            {
+              "s": "Catwoman",
+              "n": "36",
+              "t": null,
+              "d": "2021-12",
+              "c": ["catwoman"]
+            }
+          ]
+        },
+        {
+          "name": "Detective Comics Tie-In",
+          "nameZh": "侦探漫画联动",
+          "issues": [
+            {
+              "s": "detective-v3",
+              "n": "1042",
+              "t": null,
+              "d": "2021-10",
+              "c": ["batman", "gordon"]
+            },
+            {
+              "s": "detective-v3",
+              "n": "1043",
+              "t": null,
+              "d": "2021-11",
+              "c": ["batman"],
+              "x": "刊商标注 Fear State 联动（玛利子·塔马基主笔）"
+            },
+            {
+              "s": "detective-v3",
+              "n": "1044",
+              "t": null,
+              "d": "2021-12",
+              "c": ["batman"]
+            },
+            {
+              "s": "detective-v3",
+              "n": "1045",
+              "t": null,
+              "d": "2022-01",
+              "c": ["batman"]
+            }
+          ]
+        },
+        {
+          "name": "Secret Files",
+          "nameZh": "秘密档案",
+          "issues": [
+            {
+              "s": "Batman: Secret Files: Peacekeeper-01",
+              "n": "1",
+              "t": null,
+              "d": "2021-12",
+              "c": ["batman", "gordon"],
+              "x": "GCD 封面日期 2021-12（2021-10 上市）"
+            },
+            {
+              "s": "Batman: Secret Files: The Gardener",
+              "n": "1",
+              "t": null,
+              "d": "2022-01",
+              "c": ["batman", "batgirl"],
+              "x": "封面日期为估计值（2021-11 上市）"
+            }
+          ]
+        },
+        {
+          "name": "Fear State Omega",
+          "nameZh": "恐惧状态·终章",
+          "issues": [
+            {
+              "s": "Batman: Fear State: Omega",
+              "n": "1",
+              "t": null,
+              "d": "2022-01",
+              "c": ["batman", "scarecrow", "gordon"],
+              "x": "Overstreet 封面日期 2022-01（2021-11-30 上市）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "robin-2021",
+      "name": "Robin (2021)",
+      "nameZh": "罗宾（2021）",
+      "era": "Frontier",
+      "earth": "earth-0",
+      "type": "series",
+      "start": "2021-06",
+      "end": "2022-10",
+      "summaryZh": "《罗宾》（第三卷，乔舒亚·威廉森主笔）是达米安·韦恩的独立长篇：十四岁生日之际他受邀参加「拉撒路锦标赛」，在拉撒路岛上与康纳·霍克、拉文杰、再生人等年轻战士对决，牵出母魂与恶魔「哪吒」的阴谋；锦标赛后主线走向影之战（#13-15）并以 #16-17 收尾，直接铺垫《蝙蝠侠大战罗宾》。",
+      "characters": [
+        "robin-damian",
+        "batman",
+        "ras",
+        "talia",
+        "deathstroke"
+      ],
+      "family": "bat-family",
+      "related": [
+        "batman-vs-robin",
+        "shadow-war"
+      ],
+      "phases": [
+        {
+          "name": "The Lazarus Tournament",
+          "nameZh": "拉撒路锦标赛",
+          "issues": [
+            {
+              "s": "robin-2021",
+              "n": "1",
+              "t": null,
+              "d": "2021-06",
+              "c": ["robin-damian", "ras"],
+              "x": "2021-04-27 上市（DC 官方博客核实），封面日期 2021-06（eBay/GCD 核实）"
+            },
+            {
+              "s": "robin-2021",
+              "n": "2",
+              "t": null,
+              "d": "2021-07",
+              "c": ["robin-damian", "ras"]
+            },
+            {
+              "s": "robin-2021",
+              "n": "3",
+              "t": null,
+              "d": "2021-08",
+              "c": ["robin-damian", "ras"]
+            },
+            {
+              "s": "robin-2021",
+              "n": "4",
+              "t": null,
+              "d": "2021-09",
+              "c": ["robin-damian", "ras"]
+            },
+            {
+              "s": "robin-2021",
+              "n": "5",
+              "t": null,
+              "d": "2021-10",
+              "c": ["robin-damian", "ras"]
+            },
+            {
+              "s": "robin-2021",
+              "n": "6",
+              "t": null,
+              "d": "2021-11",
+              "c": ["robin-damian", "ras"]
+            }
+          ]
+        },
+        {
+          "name": "After the Tournament",
+          "nameZh": "锦标赛余波",
+          "issues": [
+            {
+              "s": "robin-2021",
+              "n": "7",
+              "t": null,
+              "d": "2022-01",
+              "c": ["robin-damian", "batman"],
+              "x": "2021-11 上市（Inside Pulse 核实）"
+            },
+            {
+              "s": "robin-2021",
+              "n": "8",
+              "t": null,
+              "d": "2022-02",
+              "c": ["robin-damian", "batman"]
+            },
+            {
+              "s": "robin-2021",
+              "n": "9",
+              "t": null,
+              "d": "2022-03",
+              "c": ["robin-damian", "talia"],
+              "x": "2022-01 上市（Dark Knight News 双刊评测核实）"
+            },
+            {
+              "s": "robin-2021",
+              "n": "10",
+              "t": null,
+              "d": "2022-04",
+              "c": ["robin-damian", "talia"]
+            },
+            {
+              "s": "robin-2021",
+              "n": "11",
+              "t": null,
+              "d": "2022-04",
+              "c": ["robin-damian", "deathstroke"],
+              "x": "2022-02 上市（影之战前奏）"
+            },
+            {
+              "s": "robin-2021",
+              "n": "12",
+              "t": null,
+              "d": "2022-05",
+              "c": ["robin-damian", "deathstroke"]
+            }
+          ]
+        },
+        {
+          "name": "Shadow War",
+          "nameZh": "影之战",
+          "issues": [
+            {
+              "s": "robin-2021",
+              "n": "13",
+              "t": null,
+              "d": "2022-06",
+              "c": ["robin-damian", "deathstroke"],
+              "x": "GCD 封面日期 2022-06（2022-04-19 上市）"
+            },
+            {
+              "s": "robin-2021",
+              "n": "14",
+              "t": null,
+              "d": "2022-07",
+              "c": ["robin-damian", "deathstroke"]
+            },
+            {
+              "s": "robin-2021",
+              "n": "15",
+              "t": null,
+              "d": "2022-08",
+              "c": ["robin-damian", "deathstroke"]
+            }
+          ]
+        },
+        {
+          "name": "The Final Robin",
+          "nameZh": "最后的罗宾",
+          "issues": [
+            {
+              "s": "robin-2021",
+              "n": "16",
+              "t": null,
+              "d": "2022-09",
+              "c": ["robin-damian", "batman"]
+            },
+            {
+              "s": "robin-2021",
+              "n": "17",
+              "t": null,
+              "d": "2022-10",
+              "c": ["robin-damian", "batman"],
+              "x": "2022-08-23 上市（AIPT 核实），终刊，铺垫《蝙蝠侠大战罗宾》"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "batman-vs-robin",
+      "name": "Batman vs. Robin",
+      "nameZh": "蝙蝠侠大战罗宾",
+      "era": "Frontier",
+      "earth": "earth-0",
+      "type": "series",
+      "start": "2022-11",
+      "end": "2023-04",
+      "summaryZh": "《蝙蝠侠大战罗宾》是马克·韦德主笔的五期迷你系列（因疫情从 2021 年多次延期）：达米安被恶魔哪吒与母魂操控，与蝙蝠侠兵戎相见，蝙蝠家族群像登场，最终引出「拉撒路星球」事件；#1 封面 2022-11（2022-09-13 上市），#5 封面 2023-04。",
+      "characters": [
+        "batman",
+        "robin-damian",
+        "ras",
+        "talia",
+        "superman"
+      ],
+      "family": "bat-family",
+      "related": [
+        "robin-2021",
+        "lazarus-planet"
+      ],
+      "phases": [
+        {
+          "name": "Batman vs. Robin",
+          "nameZh": "蝙蝠侠大战罗宾",
+          "issues": [
+            {
+              "s": "batman-vs-robin",
+              "n": "1",
+              "t": null,
+              "d": "2022-11",
+              "c": ["batman", "robin-damian"],
+              "x": "GCD 封面日期 2022-11（2022-09-13 上市，DC 官方博客核实；原定 2021 年上市多次延期）"
+            },
+            {
+              "s": "batman-vs-robin",
+              "n": "2",
+              "t": null,
+              "d": "2022-12",
+              "c": ["batman", "robin-damian"]
+            },
+            {
+              "s": "batman-vs-robin",
+              "n": "3",
+              "t": null,
+              "d": "2023-01",
+              "c": ["batman", "robin-damian"]
+            },
+            {
+              "s": "batman-vs-robin",
+              "n": "4",
+              "t": null,
+              "d": "2023-02",
+              "c": ["batman", "robin-damian"]
+            },
+            {
+              "s": "batman-vs-robin",
+              "n": "5",
+              "t": null,
+              "d": "2023-04",
+              "c": ["batman", "robin-damian"],
+              "x": "GCD 封面日期 2023-04（2023-02-28 上市）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shadow-war",
+      "name": "Shadow War",
+      "nameZh": "影之战",
+      "era": "Frontier",
+      "earth": "earth-0",
+      "type": "crossover",
+      "start": "2022-05",
+      "end": "2022-08",
+      "summaryZh": "《影之战》是 2022 年春的蝙蝠家族跨界事件（威廉森主笔）：丧钟在蝙蝠侠与罗宾面前刺杀拉斯·艾尔·古尔，引发全球刺客势力与塔利亚的复仇战争，阿尔卑斯·格胡尔之女「雷沙德」介入，最终揭示拉斯假死阴谋；涵盖 Alpha/Beta 单刊、蝙蝠侠 #122-124、罗宾 #13-15、丧钟公司 #8-9 与 Shadow War Zone。",
+      "characters": [
+        "batman",
+        "robin-damian",
+        "deathstroke",
+        "ras",
+        "talia",
+        "talon"
+      ],
+      "family": "bat-family",
+      "related": [
+        "robin-2021"
+      ],
+      "phases": [
+        {
+          "name": "Shadow War Alpha",
+          "nameZh": "影之战·序章",
+          "issues": [
+            {
+              "s": "Shadow War: Alpha",
+              "n": "1",
+              "t": null,
+              "d": "2022-05",
+              "c": ["batman", "robin-damian", "deathstroke"],
+              "x": "2022-03-29 上市（Inside Pulse 核实），封面日期为估计值"
+            }
+          ]
+        },
+        {
+          "name": "Shadow War",
+          "nameZh": "影之战正篇",
+          "issues": [
+            {
+              "s": "batman-v3",
+              "n": "122",
+              "t": null,
+              "d": "2022-06",
+              "c": ["batman", "deathstroke"],
+              "x": "GCD/Overstreet 封面日期 2022-06（2022-04-06 上市）"
+            },
+            {
+              "s": "robin-2021",
+              "n": "13",
+              "t": null,
+              "d": "2022-06",
+              "c": ["robin-damian", "deathstroke"],
+              "x": "GCD 封面日期 2022-06"
+            },
+            {
+              "s": "Deathstroke Inc.",
+              "n": "8",
+              "t": null,
+              "d": "2022-06",
+              "c": ["deathstroke"]
+            },
+            {
+              "s": "batman-v3",
+              "n": "123",
+              "t": null,
+              "d": "2022-07",
+              "c": ["batman", "deathstroke"]
+            },
+            {
+              "s": "Shadow War Zone",
+              "n": "1",
+              "t": null,
+              "d": "2022-07",
+              "c": ["batman", "deathstroke", "talon"],
+              "x": "2022-05 上市（Key Collector 核实），封面日期 2022-07（eBay 核实）"
+            },
+            {
+              "s": "Deathstroke Inc.",
+              "n": "9",
+              "t": null,
+              "d": "2022-07",
+              "c": ["deathstroke"]
+            },
+            {
+              "s": "robin-2021",
+              "n": "14",
+              "t": null,
+              "d": "2022-07",
+              "c": ["robin-damian", "deathstroke"]
+            },
+            {
+              "s": "Shadow War: Omega",
+              "n": "1",
+              "t": null,
+              "d": "2022-07",
+              "c": ["batman", "deathstroke", "ras"],
+              "x": "Overstreet 封面日期 2022-07（2022-05-31 上市）"
+            },
+            {
+              "s": "robin-2021",
+              "n": "15",
+              "t": null,
+              "d": "2022-08",
+              "c": ["robin-damian", "deathstroke"]
+            },
+            {
+              "s": "batman-v3",
+              "n": "124",
+              "t": null,
+              "d": "2022-08",
+              "c": ["batman", "deathstroke"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dark-crisis",
+      "name": "Dark Crisis",
+      "nameZh": "黑暗危机",
+      "era": "Frontier",
+      "earth": "earth-0",
+      "type": "mega-event",
+      "start": "2022-08",
+      "end": "2023-02",
+      "summaryZh": "《黑暗危机》（Dark Crisis on Infinite Earths）是 2022-23 年 DC 全体大事件：正义联盟在对抗「黑暗军团」后失踪/死亡，夜翼与泰坦、少年正义联盟等新生代英雄接掌大局，对抗帕里亚（Pariah）与大黑暗（The Great Darkness）；主线 #1-7（封面 2022-08~2023-02），另有《黑暗危机：少年正义联盟》等衍生迷你系列。",
+      "characters": [
+        "justiceleague",
+        "nightwing",
+        "batman",
+        "superman",
+        "flash",
+        "wonderwoman",
+        "titans",
+        "youngjustice",
+        "teentitans"
+      ],
+      "family": null,
+      "related": [
+        "lazarus-planet"
+      ],
+      "phases": [
+        {
+          "name": "Dark Crisis",
+          "nameZh": "黑暗危机",
+          "issues": [
+            {
+              "s": "dark-crisis",
+              "n": "1",
+              "t": null,
+              "d": "2022-08",
+              "c": ["justiceleague", "nightwing", "titans"],
+              "x": "2022-06-07 上市（But Why Tho 核实），封面日期为估计值 2022-08"
+            },
+            {
+              "s": "dark-crisis",
+              "n": "2",
+              "t": null,
+              "d": "2022-09",
+              "c": ["nightwing", "titans"]
+            },
+            {
+              "s": "dark-crisis",
+              "n": "3",
+              "t": null,
+              "d": "2022-10",
+              "c": ["nightwing", "titans"]
+            },
+            {
+              "s": "dark-crisis",
+              "n": "4",
+              "t": null,
+              "d": "2022-11",
+              "c": ["nightwing", "titans"]
+            },
+            {
+              "s": "dark-crisis",
+              "n": "5",
+              "t": null,
+              "d": "2022-12",
+              "c": ["nightwing", "titans"]
+            },
+            {
+              "s": "dark-crisis",
+              "n": "6",
+              "t": null,
+              "d": "2023-01",
+              "c": ["nightwing", "titans"]
+            },
+            {
+              "s": "dark-crisis",
+              "n": "7",
+              "t": null,
+              "d": "2023-02",
+              "c": ["nightwing", "titans", "superman"],
+              "x": "2022-12~2023-01 上市（GeekDad 2022-12 评测），封面日期为估计值 2023-02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lazarus-planet",
+      "name": "Lazarus Planet",
+      "nameZh": "拉撒路星球",
+      "era": "Frontier",
+      "earth": "earth-0",
+      "type": "mega-event",
+      "start": "2023-03",
+      "end": "2023-08",
+      "summaryZh": "《拉撒路星球》是 2023 年初的 DC 大事件：恶魔哪吒被释放后引发全球拉撒路风暴，魔法与超能力紊乱，超人、神奇女侠等众英雄集结对抗「复仇女神」与雷公等新威胁，蝙蝠家族也深陷其中；结构为 Alpha #1 + 多部单刊（突袭氪星/传说重生/下一次进化/黑暗命运）+ Revenge of the Gods #1-4 + Omega #1（无主线 #1-6 系列，勘误任务假设）。",
+      "characters": [
+        "batman",
+        "superman",
+        "wonderwoman",
+        "ras",
+        "robin-damian",
+        "redhood",
+        "titans"
+      ],
+      "family": null,
+      "related": [
+        "batman-vs-robin",
+        "dark-crisis"
+      ],
+      "phases": [
+        {
+          "name": "Lazarus Planet Alpha",
+          "nameZh": "拉撒路星球·序章",
+          "issues": [
+            {
+              "s": "Lazarus Planet: Alpha",
+              "n": "1",
+              "t": null,
+              "d": "2023-03",
+              "c": ["batman", "superman", "ras"],
+              "x": "GCD 封面日期 2023-03（2023-01-17 上市）"
+            }
+          ]
+        },
+        {
+          "name": "Lazarus Planet One-Shots",
+          "nameZh": "拉撒路星球单刊",
+          "issues": [
+            {
+              "s": "Lazarus Planet: Assault on Krypton",
+              "n": "1",
+              "t": null,
+              "d": "2023-03",
+              "c": ["superman", "wonderwoman"],
+              "x": "Overstreet 封面日期 2023-03"
+            },
+            {
+              "s": "Lazarus Planet: Legends Reborn",
+              "n": "1",
+              "t": null,
+              "d": "2023-03",
+              "c": ["titans", "superman"],
+              "x": "封面日期为估计值"
+            },
+            {
+              "s": "Lazarus Planet: Next Evolution",
+              "n": "1",
+              "t": null,
+              "d": "2023-04",
+              "c": ["redhood", "robin-damian"],
+              "x": "封面日期为估计值"
+            },
+            {
+              "s": "Lazarus Planet: Dark Fate",
+              "n": "1",
+              "t": null,
+              "d": "2023-04",
+              "c": ["wonderwoman", "superman"],
+              "x": "封面日期为估计值"
+            }
+          ]
+        },
+        {
+          "name": "Lazarus Planet: Revenge of the Gods",
+          "nameZh": "拉撒路星球：诸神复仇",
+          "issues": [
+            {
+              "s": "Lazarus Planet: Revenge of the Gods",
+              "n": "1",
+              "t": null,
+              "d": "2023-05",
+              "c": ["wonderwoman", "superman", "batman"],
+              "x": "Overstreet 封面日期 2023-05（2023-03 上市）"
+            },
+            {
+              "s": "Lazarus Planet: Revenge of the Gods",
+              "n": "2",
+              "t": null,
+              "d": "2023-06",
+              "c": ["wonderwoman", "superman", "batman"]
+            },
+            {
+              "s": "Lazarus Planet: Revenge of the Gods",
+              "n": "3",
+              "t": null,
+              "d": "2023-07",
+              "c": ["wonderwoman", "superman", "batman"]
+            },
+            {
+              "s": "Lazarus Planet: Revenge of the Gods",
+              "n": "4",
+              "t": null,
+              "d": "2023-08",
+              "c": ["wonderwoman", "superman", "batman"]
+            }
+          ]
+        },
+        {
+          "name": "Lazarus Planet Omega",
+          "nameZh": "拉撒路星球·终章",
+          "issues": [
+            {
+              "s": "Lazarus Planet: Omega",
+              "n": "1",
+              "t": null,
+              "d": "2023-04",
+              "c": ["batman", "superman", "wonderwoman"],
+              "x": "封面日期 2023-04（eBay 核实；2023-02 上市）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gotham-war",
+      "name": "Gotham War",
+      "nameZh": "哥谭战争",
+      "era": "Frontier",
+      "earth": "earth-0",
+      "type": "crossover",
+      "start": "2023-11",
+      "end": "2024-01",
+      "summaryZh": "《哥谭战争》是 2023 年秋的蝙蝠家族大事件（奇普·兹达斯基主笔）：猫女说服哥谭罪犯签订「不杀人、只劫富」协议，红头罩率众执行，蝙蝠侠反对并与之开战，蝙蝠家族在布鲁斯与塞琳娜之间分裂；主线为 Batman #137-138 + Catwoman #57-58 + 终章单刊《焦土》（Scorched Earth）。",
+      "characters": [
+        "batman",
+        "catwoman",
+        "redhood",
+        "nightwing",
+        "oracle",
+        "batgirl"
+      ],
+      "family": "bat-family",
+      "related": [
+        "knight-terrors"
+      ],
+      "phases": [
+        {
+          "name": "The Gotham War",
+          "nameZh": "哥谭战争",
+          "issues": [
+            {
+              "s": "batman-v3",
+              "n": "137",
+              "t": null,
+              "d": "2023-11",
+              "c": ["batman", "catwoman", "redhood"],
+              "x": "2023-09-06 上市（GoCollect 核实），封面日期为估计值 2023-11"
+            },
+            {
+              "s": "Catwoman",
+              "n": "57",
+              "t": null,
+              "d": "2023-11",
+              "c": ["catwoman", "redhood"]
+            },
+            {
+              "s": "batman-v3",
+              "n": "138",
+              "t": null,
+              "d": "2023-12",
+              "c": ["batman", "catwoman"]
+            },
+            {
+              "s": "Catwoman",
+              "n": "58",
+              "t": null,
+              "d": "2023-12",
+              "c": ["catwoman", "batman"]
+            },
+            {
+              "s": "Gotham War: Scorched Earth",
+              "n": "1",
+              "t": null,
+              "d": "2024-01",
+              "c": ["batman", "catwoman", "nightwing", "redhood"],
+              "x": "2023-11 上市（trans--scribe 评测核实），封面日期为估计值 2024-01"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "knight-terrors",
+      "name": "Knight Terrors",
+      "nameZh": "骑士惊悚",
+      "era": "Frontier",
+      "earth": "earth-0",
+      "type": "mega-event",
+      "start": "2023-08",
+      "end": "2023-10",
+      "summaryZh": "《骑士惊悚》是 2023 年夏的 DC 恐怖大事件（威廉森主笔）：噩梦之王「失眠者」（Insomnia）窃取噩梦石，将全 DC 英雄卷入沉睡噩梦，蝙蝠家族众人各自面对内心恐惧；主线 #1-4 每周连载（2023-07 上市），各角色刊推出「Knight Terrors: 某某 #1-2」联动篇，First Blood #1 为序幕。",
+      "characters": [
+        "batman",
+        "nightwing",
+        "robin-damian",
+        "catwoman",
+        "batgirl",
+        "joker",
+        "scarecrow"
+      ],
+      "family": "bat-family",
+      "related": [
+        "gotham-war"
+      ],
+      "phases": [
+        {
+          "name": "Knight Terrors: First Blood",
+          "nameZh": "骑士惊悚·序章",
+          "issues": [
+            {
+              "s": "Knight Terrors: First Blood",
+              "n": "1",
+              "t": null,
+              "d": "2023-08",
+              "c": ["batman", "joker"],
+              "x": "2023-06-06 上市，封面日期为估计值 2023-08"
+            }
+          ]
+        },
+        {
+          "name": "Knight Terrors",
+          "nameZh": "骑士惊悚正篇",
+          "issues": [
+            {
+              "s": "knight-terrors",
+              "n": "1",
+              "t": null,
+              "d": "2023-09",
+              "c": ["batman", "nightwing", "joker"],
+              "x": "2023-07-04 上市（每周连载），封面日期为估计值"
+            },
+            {
+              "s": "knight-terrors",
+              "n": "2",
+              "t": null,
+              "d": "2023-09",
+              "c": ["batman", "nightwing", "joker"]
+            },
+            {
+              "s": "knight-terrors",
+              "n": "3",
+              "t": null,
+              "d": "2023-10",
+              "c": ["batman", "nightwing", "joker"]
+            },
+            {
+              "s": "knight-terrors",
+              "n": "4",
+              "t": null,
+              "d": "2023-10",
+              "c": ["batman", "nightwing", "joker"]
+            }
+          ]
+        },
+        {
+          "name": "Knight Terrors: Bat-Family Tie-Ins",
+          "nameZh": "骑士惊悚：蝙蝠家族联动",
+          "issues": [
+            {
+              "s": "Knight Terrors: Batman",
+              "n": "1",
+              "t": null,
+              "d": "2023-09",
+              "c": ["batman"]
+            },
+            {
+              "s": "Knight Terrors: Batman",
+              "n": "2",
+              "t": null,
+              "d": "2023-10",
+              "c": ["batman"]
+            },
+            {
+              "s": "Knight Terrors: Nightwing",
+              "n": "1",
+              "t": null,
+              "d": "2023-09",
+              "c": ["nightwing"]
+            },
+            {
+              "s": "Knight Terrors: Nightwing",
+              "n": "2",
+              "t": null,
+              "d": "2023-10",
+              "c": ["nightwing"]
+            },
+            {
+              "s": "Knight Terrors: Robin",
+              "n": "1",
+              "t": null,
+              "d": "2023-09",
+              "c": ["robin-damian"]
+            },
+            {
+              "s": "Knight Terrors: Robin",
+              "n": "2",
+              "t": null,
+              "d": "2023-10",
+              "c": ["robin-damian"]
+            },
+            {
+              "s": "Knight Terrors: Catwoman",
+              "n": "1",
+              "t": null,
+              "d": "2023-09",
+              "c": ["catwoman"]
+            },
+            {
+              "s": "Knight Terrors: Catwoman",
+              "n": "2",
+              "t": null,
+              "d": "2023-10",
+              "c": ["catwoman"]
+            },
+            {
+              "s": "Knight Terrors: Detective Comics",
+              "n": "1",
+              "t": null,
+              "d": "2023-09",
+              "c": ["batman"]
+            },
+            {
+              "s": "Knight Terrors: Detective Comics",
+              "n": "2",
+              "t": null,
+              "d": "2023-10",
+              "c": ["batman"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nightwing-taylor",
+      "name": "Nightwing by Tom Taylor",
+      "nameZh": "夜翼（泰勒时代）",
+      "era": "Frontier",
+      "earth": "earth-0",
+      "type": "saga",
+      "start": "2021-05",
+      "end": "2024-12",
+      "summaryZh": "汤姆·泰勒与布鲁诺·雷东多的《夜翼》v4 #78-118 长篇：迪克·格雷森继承阿尔弗雷德遗产搬回布鲁德海文，开办「海利马戏团」安全屋，对抗掳心者（Heartless）与市长祖科，与芭芭拉·戈登重修旧好并在 #100 求婚，期间卷入恐惧状态、影之战与野兽世界，最终于 #118 完结（v5 于 #119 换新创作组）；#119 之后为丹·沃特斯时代。",
+      "characters": [
+        "nightwing",
+        "oracle",
+        "batman",
+        "batgirl",
+        "redhood",
+        "robin-damian",
+        "superman"
+      ],
+      "family": "bat-family",
+      "related": [
+        "fear-state",
+        "dark-crisis",
+        "knight-terrors"
+      ],
+      "phases": [
+        {
+          "name": "Leaping into the Light",
+          "nameZh": "跃入光明",
+          "issues": [
+            {
+              "s": "nightwing-v4",
+              "n": "78",
+              "t": "Leaping Into the Light Part One",
+              "d": "2021-05",
+              "p": 1,
+              "c": ["nightwing", "oracle"],
+              "x": "2021-03 上市（Inside Pulse 评测核实），封面日期为估计值 2021-05；Taylor 时代开篇"
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "79",
+              "t": "Leaping Into the Light Part Two",
+              "d": "2021-06",
+              "p": 2,
+              "c": ["nightwing"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "80",
+              "t": "Leaping Into the Light Part Three",
+              "d": "2021-07",
+              "p": 3,
+              "c": ["nightwing", "robin-damian", "redhood"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "81",
+              "t": "Leaping Into the Light Part Four",
+              "d": "2021-08",
+              "p": 4,
+              "c": ["nightwing"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "82",
+              "t": "Leaping Into the Light Part Five",
+              "d": "2021-09",
+              "p": 5,
+              "c": ["nightwing"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "83",
+              "t": "Leaping Into the Light Part Six",
+              "d": "2021-10",
+              "p": 6,
+              "c": ["nightwing", "oracle"],
+              "x": "2021-08 上市（Key Collector 核实），封面日期为估计值 2021-10"
+            }
+          ]
+        },
+        {
+          "name": "Fear State",
+          "nameZh": "恐惧状态",
+          "issues": [
+            {
+              "s": "nightwing-v4",
+              "n": "84",
+              "t": "Fear State Part One",
+              "d": "2021-11",
+              "p": 1,
+              "c": ["nightwing", "oracle"],
+              "x": "Fear State Part 1（CBR 核实）"
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "85",
+              "t": "Fear State Part Two",
+              "d": "2021-12",
+              "p": 2,
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "86",
+              "t": "Fear State Part Three",
+              "d": "2022-01",
+              "p": 3,
+              "c": ["nightwing", "oracle"]
+            }
+          ]
+        },
+        {
+          "name": "Get Grayson",
+          "nameZh": "夺回格雷森",
+          "issues": [
+            {
+              "s": "nightwing-v4",
+              "n": "87",
+              "t": null,
+              "d": "2022-02",
+              "c": ["nightwing"],
+              "x": "2021-12 上市（But Why Tho 评测核实）；恐惧状态余波，衔接 Get Grayson"
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "88",
+              "t": "Get Grayson Part One",
+              "d": "2022-03",
+              "p": 1,
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "89",
+              "t": "Get Grayson Part Two",
+              "d": "2022-04",
+              "p": 2,
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "90",
+              "t": "Get Grayson Part Three",
+              "d": "2022-05",
+              "p": 3,
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "91",
+              "t": "Get Grayson Part Four",
+              "d": "2022-06",
+              "p": 4,
+              "c": ["nightwing", "oracle"],
+              "x": "Get Grayson Part Four（Comic Book Revolution 核实）"
+            }
+          ]
+        },
+        {
+          "name": "The Battle for Blüdhaven's Heart",
+          "nameZh": "布鲁德海文之心争夺战",
+          "issues": [
+            {
+              "s": "nightwing-v4",
+              "n": "92",
+              "t": null,
+              "d": "2022-07",
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "93",
+              "t": null,
+              "d": "2022-08",
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "94",
+              "t": null,
+              "d": "2022-09",
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "95",
+              "t": null,
+              "d": "2022-10",
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "96",
+              "t": null,
+              "d": "2022-11",
+              "c": ["nightwing", "oracle"]
+            }
+          ]
+        },
+        {
+          "name": "Heartless & the Milestone",
+          "nameZh": "掳心者与里程碑",
+          "issues": [
+            {
+              "s": "nightwing-v4",
+              "n": "97",
+              "t": null,
+              "d": "2022-12",
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "98",
+              "t": null,
+              "d": "2023-01",
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "99",
+              "t": null,
+              "d": "2023-02",
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "100",
+              "t": null,
+              "d": "2023-03",
+              "c": ["nightwing", "oracle", "batman"],
+              "x": "里程碑第 100 期超大开本（2023-01 上市，Key Collector 核实；封面日期为估计值 2023-03）"
+            }
+          ]
+        },
+        {
+          "name": "The Final Years",
+          "nameZh": "终章岁月",
+          "issues": [
+            {
+              "s": "nightwing-v4",
+              "n": "101",
+              "t": null,
+              "d": "2023-04",
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "102",
+              "t": null,
+              "d": "2023-05",
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "103",
+              "t": null,
+              "d": "2023-06",
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "104",
+              "t": null,
+              "d": "2023-07",
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "105",
+              "t": null,
+              "d": "2023-08",
+              "c": ["nightwing", "oracle"],
+              "x": "2023-06 上市（But Why Tho 等评测核实），封面日期为估计值 2023-08"
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "106",
+              "t": null,
+              "d": "2023-09",
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "107",
+              "t": null,
+              "d": "2023-10",
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "108",
+              "t": null,
+              "d": "2023-11",
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "109",
+              "t": null,
+              "d": "2023-12",
+              "c": ["nightwing", "oracle", "titans"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "110",
+              "t": null,
+              "d": "2024-02",
+              "c": ["nightwing", "oracle", "titans"],
+              "x": "封面日期为估计值"
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "111",
+              "t": null,
+              "d": "2024-03",
+              "c": ["nightwing", "oracle", "titans"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "112",
+              "t": null,
+              "d": "2024-05",
+              "c": ["nightwing", "batman"],
+              "x": "2024-03 上市（AIPT 评测核实）"
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "113",
+              "t": null,
+              "d": "2024-06",
+              "c": ["nightwing", "oracle"],
+              "x": "Legacy #300 周年（2024-04 上市，DKN 核实；封面日期为估计值）"
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "114",
+              "t": null,
+              "d": "2024-07",
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "115",
+              "t": null,
+              "d": "2024-08",
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "116",
+              "t": null,
+              "d": "2024-09",
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "117",
+              "t": null,
+              "d": "2024-10",
+              "c": ["nightwing", "oracle"]
+            },
+            {
+              "s": "nightwing-v4",
+              "n": "118",
+              "t": null,
+              "d": "2024-12",
+              "c": ["nightwing", "oracle"],
+              "x": "v4 终刊，Taylor 时代完结（2024-10 上市，Key Collector 核实；封面日期为估计值 2024-12）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "batman-failsafe",
+      "name": "Batman: Failsafe & Zur-En-Arrh",
+      "nameZh": "蝙蝠侠：故障保险与 Zur-En-Arrh",
+      "era": "Frontier",
+      "earth": "earth-0",
+      "type": "arc",
+      "start": "2022-09",
+      "end": "2023-07",
+      "summaryZh": "奇普·兹达斯基的《蝙蝠侠》长篇开篇两幕：#125-130「故障保险」（Failsafe）——蝙蝠侠激活了用来对付自己的终极保险机器人，几乎摧毁布鲁斯并暴露其身份给企鹅人；#131-135「哥谭的蝙蝠侠」（The Bat-Man of Gotham / Zur-En-Arrh）——红面具反派操控哥谭，蝙蝠侠的备用人格 Zur-En-Arrh 全面接管，开启「红色家族」阴谋。",
+      "characters": [
+        "batman",
+        "robin-damian",
+        "superman",
+        "redhood",
+        "penguin"
+      ],
+      "family": "bat-family",
+      "related": [
+        "gotham-war"
+      ],
+      "phases": [
+        {
+          "name": "Failsafe",
+          "nameZh": "故障保险",
+          "issues": [
+            {
+              "s": "batman-v3",
+              "n": "125",
+              "t": null,
+              "d": "2022-09",
+              "c": ["batman", "robin-damian"],
+              "x": "GCD 封面日期 2022-09（2022-07 上市，Key Collector 核实）"
+            },
+            {
+              "s": "batman-v3",
+              "n": "126",
+              "t": null,
+              "d": "2022-10",
+              "c": ["batman", "robin-damian"]
+            },
+            {
+              "s": "batman-v3",
+              "n": "127",
+              "t": null,
+              "d": "2022-11",
+              "c": ["batman", "robin-damian"]
+            },
+            {
+              "s": "batman-v3",
+              "n": "128",
+              "t": null,
+              "d": "2022-12",
+              "c": ["batman", "robin-damian"]
+            },
+            {
+              "s": "batman-v3",
+              "n": "129",
+              "t": null,
+              "d": "2023-01",
+              "c": ["batman", "superman"]
+            },
+            {
+              "s": "batman-v3",
+              "n": "130",
+              "t": null,
+              "d": "2023-02",
+              "c": ["batman", "superman"],
+              "x": "封面日期为估计值"
+            }
+          ]
+        },
+        {
+          "name": "The Bat-Man of Gotham",
+          "nameZh": "哥谭的蝙蝠侠（Zur-En-Arrh）",
+          "issues": [
+            {
+              "s": "batman-v3",
+              "n": "131",
+              "t": null,
+              "d": "2023-04",
+              "c": ["batman", "redhood", "penguin"],
+              "x": "2023-02 上市（Key Collector 核实），封面日期为估计值 2023-04"
+            },
+            {
+              "s": "batman-v3",
+              "n": "132",
+              "t": null,
+              "d": "2023-05",
+              "c": ["batman", "redhood", "penguin"]
+            },
+            {
+              "s": "batman-v3",
+              "n": "133",
+              "t": null,
+              "d": "2023-06",
+              "c": ["batman", "redhood", "penguin"]
+            },
+            {
+              "s": "batman-v3",
+              "n": "134",
+              "t": null,
+              "d": "2023-06",
+              "c": ["batman", "redhood", "penguin"]
+            },
+            {
+              "s": "batman-v3",
+              "n": "135",
+              "t": null,
+              "d": "2023-07",
+              "c": ["batman", "redhood", "penguin"],
+              "x": "2023-05 上市（Key Collector 核实），封面日期为估计值 2023-07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tim-drake-robin",
+      "name": "Tim Drake: Robin",
+      "nameZh": "蒂姆·德雷克：罗宾",
+      "era": "Frontier",
+      "earth": "earth-0",
+      "type": "series",
+      "start": "2022-11",
+      "end": "2023-08",
+      "summaryZh": "《蒂姆·德雷克：罗宾》是蒂姆个人系列（梅根·菲茨马丁主笔）：蒂姆以「罗宾」之名独立行动，调查哥谭失踪案，与男友伯纳德修成正果，并揭出「混沌教团」（Chaos Cult）背后的操控者；#1-10 完结，蒂姆随后在《蝙蝠侠：哥谭骑士》等系列中继续。",
+      "characters": [
+        "robin-tim",
+        "batman",
+        "batgirl"
+      ],
+      "family": "bat-family",
+      "related": [],
+      "phases": [
+        {
+          "name": "Tim Drake: Robin",
+          "nameZh": "蒂姆·德雷克：罗宾",
+          "issues": [
+            {
+              "s": "tim-drake-robin",
+              "n": "1",
+              "t": null,
+              "d": "2022-11",
+              "c": ["robin-tim", "batman"],
+              "x": "Overstreet 封面日期 2022-11（2022-09-27 上市）"
+            },
+            {
+              "s": "tim-drake-robin",
+              "n": "2",
+              "t": null,
+              "d": "2022-12",
+              "c": ["robin-tim"]
+            },
+            {
+              "s": "tim-drake-robin",
+              "n": "3",
+              "t": null,
+              "d": "2023-01",
+              "c": ["robin-tim"]
+            },
+            {
+              "s": "tim-drake-robin",
+              "n": "4",
+              "t": null,
+              "d": "2023-02",
+              "c": ["robin-tim"]
+            },
+            {
+              "s": "tim-drake-robin",
+              "n": "5",
+              "t": null,
+              "d": "2023-03",
+              "c": ["robin-tim"]
+            },
+            {
+              "s": "tim-drake-robin",
+              "n": "6",
+              "t": null,
+              "d": "2023-04",
+              "c": ["robin-tim"]
+            },
+            {
+              "s": "tim-drake-robin",
+              "n": "7",
+              "t": null,
+              "d": "2023-05",
+              "c": ["robin-tim"]
+            },
+            {
+              "s": "tim-drake-robin",
+              "n": "8",
+              "t": null,
+              "d": "2023-06",
+              "c": ["robin-tim"]
+            },
+            {
+              "s": "tim-drake-robin",
+              "n": "9",
+              "t": null,
+              "d": "2023-07",
+              "c": ["robin-tim"]
+            },
+            {
+              "s": "tim-drake-robin",
+              "n": "10",
+              "t": null,
+              "d": "2023-08",
+              "c": ["robin-tim"],
+              "x": "2023-06-27 上市（GetYourComiCon 核实），终刊，封面日期为估计值 2023-08"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "absolute-batman",
+      "name": "Absolute Batman",
+      "nameZh": "绝对蝙蝠侠",
+      "era": "Absolute",
+      "earth": "absolute-earth",
+      "type": "series",
+      "start": "2024-12",
+      "end": "2025-05",
+      "summaryZh": "《绝对蝙蝠侠》是 2024 年 10 月 DC「绝对宇宙」（All-In 重启）的旗舰系列（斯科特·斯奈德编剧、尼克·德拉戈塔作画）：在绝对地球上，韦恩夫妇健在，布鲁斯是拥有巨额信托的工程师兼义务警探，蝙蝠装巨大化、拥有锯刃披风与利爪手套，对抗黑面具的「派对动物」帮派；首幕「动物园」（The Zoo）收于 #6，本档案收录 #1-6。",
+      "characters": [
+        "batman",
+        "blackmask",
+        "gordon"
+      ],
+      "family": "bat-family",
+      "related": [],
+      "phases": [
+        {
+          "name": "The Zoo",
+          "nameZh": "动物园",
+          "issues": [
+            {
+              "s": "absolute-batman",
+              "n": "1",
+              "t": null,
+              "d": "2024-12",
+              "c": ["batman", "blackmask"],
+              "x": "Overstreet 封面日期 2024-12（2024-10-09 上市，多次加印）"
+            },
+            {
+              "s": "absolute-batman",
+              "n": "2",
+              "t": null,
+              "d": "2025-01",
+              "c": ["batman", "blackmask"],
+              "x": "2024-11 上市，封面日期为估计值"
+            },
+            {
+              "s": "absolute-batman",
+              "n": "3",
+              "t": null,
+              "d": "2025-02",
+              "c": ["batman", "blackmask"],
+              "x": "2024-12 上市"
+            },
+            {
+              "s": "absolute-batman",
+              "n": "4",
+              "t": null,
+              "d": "2025-03",
+              "c": ["batman", "blackmask"],
+              "x": "2025-01 上市"
+            },
+            {
+              "s": "absolute-batman",
+              "n": "5",
+              "t": null,
+              "d": "2025-04",
+              "c": ["batman", "blackmask"],
+              "x": "2025-02 上市"
+            },
+            {
+              "s": "absolute-batman",
+              "n": "6",
+              "t": null,
+              "d": "2025-05",
+              "c": ["batman", "blackmask"],
+              "x": "2025-03 上市（DC 官方博客核实）"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "arcs": [
+    {
+      "id": "worlds-finest",
+      "name": "The Devil Nezha",
+      "nameZh": "恶魔哪吒",
+      "era": "Frontier",
+      "earth": "earth-0",
+      "type": "arc",
+      "start": "2022-06",
+      "end": "2023-01",
+      "summaryZh": "马克·韦德与丹·莫拉的《蝙蝠侠/超人：世界最佳搭档》开篇大幕：哪吒（Nezha）挣脱封印袭击大都会与哥谭，蝙蝠侠与超人联手对抗这位东方恶魔神，期间联动《蝙蝠侠大战罗宾》与「拉撒路星球」事件线。",
+      "characters": [
+        "superman",
+        "batman",
+        "robin-damian"
+      ],
+      "issues": [
+        {
+          "s": "worlds-finest",
+          "n": "1",
+          "t": null,
+          "d": "2022-06",
+          "c": ["superman", "batman"],
+          "x": "2022 年春上市，封面日期为估计值 2022-06"
+        },
+        {
+          "s": "worlds-finest",
+          "n": "2",
+          "t": null,
+          "d": "2022-07",
+          "c": ["superman", "batman"]
+        },
+        {
+          "s": "worlds-finest",
+          "n": "3",
+          "t": null,
+          "d": "2022-08",
+          "c": ["superman", "batman"]
+        },
+        {
+          "s": "worlds-finest",
+          "n": "4",
+          "t": null,
+          "d": "2022-09",
+          "c": ["superman", "batman"]
+        },
+        {
+          "s": "worlds-finest",
+          "n": "5",
+          "t": null,
+          "d": "2022-10",
+          "c": ["superman", "batman"]
+        },
+        {
+          "s": "worlds-finest",
+          "n": "6",
+          "t": null,
+          "d": "2022-11",
+          "c": ["superman", "batman"]
+        },
+        {
+          "s": "worlds-finest",
+          "n": "7",
+          "t": null,
+          "d": "2022-12",
+          "c": ["superman", "batman", "robin-damian"]
+        },
+        {
+          "s": "worlds-finest",
+          "n": "8",
+          "t": null,
+          "d": "2023-01",
+          "c": ["superman", "batman", "robin-damian"],
+          "x": "终幕（封面日期为估计值）"
+        }
+      ]
+    },
+    {
+      "id": "brave-bold",
+      "name": "Batman: The Brave and the Bold",
+      "nameZh": "蝙蝠侠：英勇无畏",
+      "era": "Frontier",
+      "earth": "earth-0",
+      "type": "arc",
+      "start": "2023-07",
+      "end": "2023-12",
+      "summaryZh": "《蝙蝠侠：英勇无畏》是 2023 年重启的蝙蝠家族选集系列：每期由多个短篇构成，汇聚不同编剧与画师，讲述蝙蝠侠与蝙蝠家族成员（蝙蝠女、罗宾、夜翼、猫女等）以及 DC 众英雄的搭档故事；本档案收录前六期（系列其后延续）。",
+      "characters": [
+        "batman",
+        "batgirl",
+        "nightwing",
+        "robin-damian",
+        "catwoman"
+      ],
+      "issues": [
+        {
+          "s": "brave-bold",
+          "n": "1",
+          "t": null,
+          "d": "2023-07",
+          "c": ["batman"],
+          "x": "GCD/Overstreet 封面日期 2023-07（2023-05-09 上市）"
+        },
+        {
+          "s": "brave-bold",
+          "n": "2",
+          "t": null,
+          "d": "2023-08",
+          "c": ["batman", "batgirl"]
+        },
+        {
+          "s": "brave-bold",
+          "n": "3",
+          "t": null,
+          "d": "2023-09",
+          "c": ["batman", "nightwing"]
+        },
+        {
+          "s": "brave-bold",
+          "n": "4",
+          "t": null,
+          "d": "2023-10",
+          "c": ["batman", "robin-damian"]
+        },
+        {
+          "s": "brave-bold",
+          "n": "5",
+          "t": null,
+          "d": "2023-11",
+          "c": ["batman", "catwoman"]
+        },
+        {
+          "s": "brave-bold",
+          "n": "6",
+          "t": null,
+          "d": "2023-12",
+          "c": ["batman"]
+        }
+      ]
+    },
+    {
+      "id": "nightwing-v4-heartless",
+      "name": "The Battle for Blüdhaven's Heart",
+      "nameZh": "布鲁德海文之心争夺战",
+      "era": "Frontier",
+      "earth": "earth-0",
+      "type": "arc",
+      "start": "2022-07",
+      "end": "2022-11",
+      "summaryZh": "泰勒《夜翼》核心大幕：掳心者（Heartless）掌控布鲁德海文电力与黑市，夜翼与芭芭拉联手反攻，全城陷入「心灵之战」，掳心者真实身份揭晓，迪克与芭芭拉关系也在此幕升温；对应 Nightwing v4 #92-96（分卷边界为估计值）。",
+      "characters": [
+        "nightwing",
+        "oracle",
+        "batman"
+      ],
+      "issues": [
+        {
+          "s": "nightwing-v4",
+          "n": "92",
+          "t": null,
+          "d": "2022-07",
+          "c": ["nightwing", "oracle"]
+        },
+        {
+          "s": "nightwing-v4",
+          "n": "93",
+          "t": null,
+          "d": "2022-08",
+          "c": ["nightwing", "oracle"]
+        },
+        {
+          "s": "nightwing-v4",
+          "n": "94",
+          "t": null,
+          "d": "2022-09",
+          "c": ["nightwing", "oracle"]
+        },
+        {
+          "s": "nightwing-v4",
+          "n": "95",
+          "t": null,
+          "d": "2022-10",
+          "c": ["nightwing", "oracle"]
+        },
+        {
+          "s": "nightwing-v4",
+          "n": "96",
+          "t": null,
+          "d": "2022-11",
+          "c": ["nightwing", "oracle"]
+        }
+      ]
+    },
+    {
+      "id": "batman-joker-year-one",
+      "name": "The Joker: Year One",
+      "nameZh": "小丑：元年",
+      "era": "Frontier",
+      "earth": "earth-0",
+      "type": "arc",
+      "start": "2024-02",
+      "end": "2024-06",
+      "summaryZh": "《小丑：元年》是兹达斯基在《蝙蝠侠》主刊连载的年度大幕（2023-11 官宣，2024 年连载）：以「元年」视角重构小丑起源，与《致命玩笑》叙事对话并关联《三个小丑》，重新定义小丑与戈登、蝙蝠侠的初次相遇；本档案收录 Batman #140-144（期号范围为估计值，待核实）。",
+      "characters": [
+        "batman",
+        "joker",
+        "gordon"
+      ],
+      "issues": [
+        {
+          "s": "batman-v3",
+          "n": "140",
+          "t": null,
+          "d": "2024-02",
+          "c": ["batman", "joker"],
+          "x": "期号范围为估计值"
+        },
+        {
+          "s": "batman-v3",
+          "n": "141",
+          "t": null,
+          "d": "2024-03",
+          "c": ["batman", "joker"]
+        },
+        {
+          "s": "batman-v3",
+          "n": "142",
+          "t": null,
+          "d": "2024-04",
+          "c": ["batman", "joker"],
+          "x": "2024-02 上市（AIPT/Den of Geek 核实为本幕章节）"
+        },
+        {
+          "s": "batman-v3",
+          "n": "143",
+          "t": null,
+          "d": "2024-05",
+          "c": ["batman", "joker"]
+        },
+        {
+          "s": "batman-v3",
+          "n": "144",
+          "t": null,
+          "d": "2024-06",
+          "c": ["batman", "joker"],
+          "x": "2024-04 上市（多印次，Bleeding Cool 核实）"
+        }
+      ]
+    },
+    {
+      "id": "batman-the-knight",
+      "name": "Batman: The Knight",
+      "nameZh": "蝙蝠侠：骑士之路",
+      "era": "Frontier",
+      "earth": "earth-0",
+      "type": "arc",
+      "start": "2022-04",
+      "end": "2023-01",
+      "summaryZh": "兹达斯基与卡尔米内·迪詹多梅尼科的十期迷你系列：讲述青年布鲁斯·韦恩在成为蝙蝠侠之前的环球修行之旅，师从杜卡德大师、拉斯·艾尔·古尔、塔利亚等，探索他如何成为「世界上最伟大的侦探」；每期以 Part 编号连载。",
+      "characters": [
+        "batman",
+        "ras",
+        "talia",
+        "alfred"
+      ],
+      "issues": [
+        {
+          "s": "Batman: The Knight",
+          "n": "1",
+          "t": "Part One",
+          "d": "2022-04",
+          "p": 1,
+          "c": ["batman"],
+          "x": "2022-02 上市，封面日期为估计值 2022-04"
+        },
+        {
+          "s": "Batman: The Knight",
+          "n": "2",
+          "t": "Part Two",
+          "d": "2022-05",
+          "p": 2,
+          "c": ["batman"]
+        },
+        {
+          "s": "Batman: The Knight",
+          "n": "3",
+          "t": "Part Three",
+          "d": "2022-06",
+          "p": 3,
+          "c": ["batman"]
+        },
+        {
+          "s": "Batman: The Knight",
+          "n": "4",
+          "t": "Part Four",
+          "d": "2022-07",
+          "p": 4,
+          "c": ["batman", "ras"]
+        },
+        {
+          "s": "Batman: The Knight",
+          "n": "5",
+          "t": "Part Five",
+          "d": "2022-08",
+          "p": 5,
+          "c": ["batman", "talia"]
+        },
+        {
+          "s": "Batman: The Knight",
+          "n": "6",
+          "t": "Part Six",
+          "d": "2022-09",
+          "p": 6,
+          "c": ["batman"]
+        },
+        {
+          "s": "Batman: The Knight",
+          "n": "7",
+          "t": "Part Seven",
+          "d": "2022-10",
+          "p": 7,
+          "c": ["batman"]
+        },
+        {
+          "s": "Batman: The Knight",
+          "n": "8",
+          "t": "Part Eight",
+          "d": "2022-11",
+          "p": 8,
+          "c": ["batman"]
+        },
+        {
+          "s": "Batman: The Knight",
+          "n": "9",
+          "t": "Part Nine",
+          "d": "2022-12",
+          "p": 9,
+          "c": ["batman"]
+        },
+        {
+          "s": "Batman: The Knight",
+          "n": "10",
+          "t": "Part Ten",
+          "d": "2023-01",
+          "p": 10,
+          "c": ["batman", "ras"],
+          "x": "终刊（封面日期为估计值）"
+        }
+      ]
+    }
+  ],
+  "standalone": [
+    {
+      "s": "Batman: The Knight",
+      "n": "1",
+      "t": "Part One",
+      "d": "2022-04",
+      "p": 1,
+      "c": ["batman"],
+      "x": "《蝙蝠侠：骑士之路》开篇（2022-02 上市），散刊条目与 arc 交叉引用"
+    },
+    {
+      "s": "Robin 2021 Annual",
+      "n": "1",
+      "t": "The Casebook",
+      "d": "2022-01",
+      "c": ["robin-damian", "batman"],
+      "x": "《罗宾 2021 年刊》「案件簿」，2021-11 上市（GeekDad 核实），归入 robin-2021 时代散刊"
+    },
+    {
+      "s": "The Joker",
+      "n": "1",
+      "t": null,
+      "d": "2021-05",
+      "c": ["joker", "gordon"],
+      "x": "泰尼恩《小丑》2021 系列开篇（2021-03 上市，封面日期为估计值）"
+    },
+    {
+      "s": "Batman: One Bad Day: The Riddler",
+      "n": "1",
+      "t": null,
+      "d": "2023-04",
+      "c": ["riddler", "batman"],
+      "x": "《One Bad Day》单刊系列之一（2023-02 上市，封面日期为估计值）"
+    },
+    {
+      "s": "Batman: Gargoyle of Gotham",
+      "n": "1",
+      "t": null,
+      "d": "2023-09",
+      "c": ["batman", "joker"],
+      "x": "拉斐尔·格拉姆帕的独立恐怖短篇系列（2023-07 上市，封面日期为估计值）"
+    }
+  ],
+  "sources": [
+    "https://www.comicbooktreasury.com/batman-fear-state-reading-order/",
+    "https://www.comicbooktreasury.com/dc-future-state-reading-order/",
+    "https://www.comicbooktreasury.com/dark-crisis-reading-order/",
+    "https://www.comicbooktreasury.com/dc-knight-terrors-reading-order/",
+    "https://newtocomics.com/future-state-reading-guide/",
+    "https://newtocomics.com/fear-state-reading-guide/",
+    "https://www.comicbookherald.com/reading-dc-comics/dc-future-state-reading-order/",
+    "https://www.comicbookherald.com/reading-dc-comics/dc-infinite-frontier-reading-order/dark-crisis/",
+    "https://www.readingorders.com/reading-orders/batman-fear-state/collected-editions?timeline=18",
+    "https://www.readingorders.com/reading-orders/shadow-war?timeline=3",
+    "https://www.readingorders.com/reading-orders/shadow-war/collected-editions?timeline=3",
+    "https://comicbookreadingorders.com/dc/dc-master-reading-order/",
+    "https://en.wikipedia.org/wiki/Fear_State",
+    "https://en.wikipedia.org/wiki/Knight_Terrors",
+    "https://www.wikiwand.com/en/Shadow_War_(DC_Comics)",
+    "https://www.wikiwand.com/en/Fear_State",
+    "https://dc.fandom.com/wiki/Infinite_Frontier_Vol_1_0",
+    "https://dc.fandom.com/wiki/Batman:_Fear_State:_Alpha_Vol_1_1",
+    "https://dc.fandom.com/wiki/Batman:_Fear_State:_Omega_Vol_1_1",
+    "https://dc.fandom.com/wiki/Dark_Crisis_Vol_1_1",
+    "https://dc.fandom.com/wiki/Lazarus_Planet:_Revenge_of_the_Gods_Vol_1_1",
+    "https://dc.fandom.com/wiki/Batman/Catwoman:_The_Gotham_War:_Scorched_Earth_Vol_1_1",
+    "https://dc.fandom.com/wiki/Future_State:_The_Next_Batman_Vol_1_1",
+    "https://www.comics.org/issue/2202503/",
+    "https://www.comics.org/issue/2277161/",
+    "https://www.comics.org/issue/2269555/",
+    "https://www.comics.org/issue/2277695/",
+    "https://www.comics.org/issue/2264651/",
+    "https://www.comics.org/issue/2267428/",
+    "https://www.comics.org/issue/2269504/",
+    "https://www.comics.org/issue/2384927/",
+    "https://www.comics.org/issue/2396646/",
+    "https://www.comics.org/issue/2430465/",
+    "https://www.comics.org/issue/2497738/",
+    "https://www.comics.org/issue/2477225/",
+    "https://www.comics.org/issue/2575105/",
+    "https://www.comics.org/issue/2530420/",
+    "https://www.comics.org/issue/2551270/",
+    "https://comics.overstreetaccess.com/issues/688904/future-state-the-next-batman-1-mar-2021",
+    "https://comics.overstreetaccess.com/issues/702650/infinite-frontier-1-aug-2021",
+    "https://comics.overstreetaccess.com/issues/796231/batman-fear-state-alpha-1-oct-2021",
+    "https://comics.overstreetaccess.com/issues/1222302/batman-fear-state-omega-1-jan-2022",
+    "https://comics.overstreetaccess.com/issues/1221404/batman-117-jan-2022",
+    "https://comics.overstreetaccess.com/issues/1227569/batman-122-jun-2022",
+    "https://comics.overstreetaccess.com/issues/1234363/shadow-war-omega-1-jul-2022",
+    "https://comics.overstreetaccess.com/issues/1323271/tim-drake-robin-1-nov-2022",
+    "https://comics.overstreetaccess.com/issues/1400797/lazarus-planet-assault-on-krypton-1-mar-2023",
+    "https://comics.overstreetaccess.com/issues/1443675/lazarus-planet-revenge-of-the-gods-1-may-2023",
+    "https://comics.overstreetaccess.com/issues/1456888/batman-the-brave-and-the-bold-1-jul-2023",
+    "https://comics.overstreetaccess.com/issues/1585746/absolute-batman-1-dec-2024",
+    "https://www.dc.com/blog/2021/05/25/dc-s-infinite-frontier-miniseries-launches-june-22",
+    "https://www.dc.com/blog/2021/04/01/damian-wayne-seeks-his-own-destiny-in-robin-1-on-april-27",
+    "https://www.dc.com/blog/2022/08/17/new-comic-book-series-batman-vs-robin-launches-september-13",
+    "https://www.dc.com/blog/2023/04/13/horror-invades-the-dc-universe-in-knight-terrors",
+    "https://www.dc.com/blog/2023/11/16/dc-announces-the-joker-year-one",
+    "https://www.dc.com/blog/2024/11/20/absolute-batman-1-goes-back-to-press-for-a-fourth-printing",
+    "https://www.dc.com/blog/2024/12/17/absolute-batman-6-batman-s-showdown-against-black-mask-and-his-party-animals-arrives-this-march",
+    "https://www.dc.com/blog/2023/08/10/sneak-peek-preview-of-dc-s-the-gotham-war",
+    "https://bleedingcool.com/comics/checklist-for-fear-state-confirms-secret-files-and-omega/",
+    "https://www.cbr.com/fear-state-tie-ins-dc-characters/",
+    "https://www.comicbookrevolution.com/nightwing-84-fear-state-part-1-review/",
+    "https://www.comicbookrevolution.com/nightwing-91-get-grayson-part-four-review/",
+    "https://www.comicbookrevolution.com/nightwing-78-leap-into-the-light-part-1-review/",
+    "https://butwhytho.net/2021/08/review-nightwing-issue-83/",
+    "https://butwhytho.net/2022/06/review-dark-crisis-issue-1/",
+    "https://butwhytho.net/2021/09/review-infinite-frontier-issue-6/",
+    "https://www.comicsbookcase.com/reading-lists-archive/shadow-war-reading-list",
+    "https://www.thepopverse.com/dc-comics-the-joker-year-one-origins-batman-comic-2024",
+    "https://www.polygon.com/23964415/batman-joker-year-one-dc-comics/",
+    "https://www.denofgeek.com/comics/batman-142-joker-year-one-killing-joke/",
+    "https://dcuguide.com/Infinite_Frontier_Title_Index",
+    "https://dcuguide.com/Batman/Superman:_World's_Finest_Title_Index",
+    "https://dcuguide.com/Absolute_Batman_Title_Index",
+    "https://www.keycollectorcomics.com/issue/batman-3-112-4,327490/",
+    "https://www.keycollectorcomics.com/issue/nightwing-4-83-450981,450981/",
+    "https://www.keycollectorcomics.com/issue/nightwing-4-100-9,350603/",
+    "https://www.keycollectorcomics.com/issue/robin-3-17-3,337269/",
+    "https://www.keycollectorcomics.com/issue/nightwing-1-118-6-5,823490/",
+    "https://www.keycollectorcomics.com/issue/nightwing-1-119-1,826520/",
+    "https://www.keycollectorcomics.com/issue/absolute-batman-1-1-38,840536/",
+    "https://www.keycollectorcomics.com/issue/shadow-war-zone-1-2,332314/",
+    "https://www.keycollectorcomics.com/issue/batman-1-131,664579/",
+    "https://www.keycollectorcomics.com/issue/batman-1-136-3,781116/",
+    "https://www.keycollectorcomics.com/issue/batman-3-125-6,333203/"
+  ]
+}

@@ -1,0 +1,4418 @@
+{
+ "arcs": [
+  {
+   "id": "year-two",
+   "name": "Batman: Year Two",
+   "nameZh": "蝙蝠侠：第二年",
+   "kind": "arc",
+   "type": "arc",
+   "phases": [
+    {
+     "name": "Batman: Year Two",
+     "nameZh": "第二年",
+     "issues": [
+      {
+       "s": "detective",
+       "n": "575",
+       "t": "Batman: Year Two: Part One",
+       "d": "1987-06",
+       "p": 1,
+       "c": [
+        "batman",
+        "catwoman"
+       ],
+       "x": "「死神」与乔·奇尔出场"
+      },
+      {
+       "s": "detective",
+       "n": "576",
+       "t": "Batman: Year Two: Part Two",
+       "d": "1987-07",
+       "p": 2,
+       "c": [
+        "batman",
+        "catwoman"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "577",
+       "t": "Batman: Year Two: Part Three",
+       "d": "1987-08",
+       "p": 3,
+       "c": [
+        "batman",
+        "catwoman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "578",
+       "t": "Batman: Year Two: Part Four",
+       "d": "1987-09",
+       "p": 4,
+       "c": [
+        "batman",
+        "catwoman",
+        "gordon"
+       ],
+       "x": "结局：与「死神」的决战"
+      }
+     ]
+    }
+   ],
+   "start": "1987-06",
+   "end": "1987-09",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "迈克·W·巴尔编剧、艾伦·戴维斯与托德·麦克法兰作画（Detective Comics #575-578，封面日期 1987-06 至 1987-09）：蝙蝠侠第二年遭遇以「死神」（The Reaper）为名的私刑者，并直面杀父仇人乔·奇尔；布鲁斯与猫女的关系在此萌芽。注意：该故事连载于《侦探漫画》而非《蝙蝠侠》主刊（用户初稿误写为 Batman #575-578）。",
+   "characters": [
+    "batman",
+    "catwoman",
+    "gordon",
+    "alfred"
+   ],
+   "family": "bat-family",
+   "related": [
+    "year-one"
+   ]
+  },
+  {
+   "id": "gothic",
+   "name": "Batman: Gothic",
+   "nameZh": "蝙蝠侠：哥特",
+   "kind": "arc",
+   "type": "arc",
+   "phases": [
+    {
+     "name": "Gothic",
+     "nameZh": "哥特",
+     "issues": [
+      {
+       "s": "legends-dk",
+       "n": "6",
+       "t": "Gothic: Part One",
+       "d": "1990-04",
+       "p": 1,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "7",
+       "t": "Gothic: Part Two",
+       "d": "1990-05",
+       "p": 2,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "8",
+       "t": "Gothic: Part Three",
+       "d": "1990-06",
+       "p": 3,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "9",
+       "t": "Gothic: Part Four",
+       "d": "1990-07",
+       "p": 4,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "10",
+       "t": "Gothic: Part Five",
+       "d": "1990-08",
+       "p": 5,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      }
+     ]
+    }
+   ],
+   "start": "1990-04",
+   "end": "1990-08",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "格兰特·莫里森编剧、克劳斯·詹森作画的五期连载（Legends of the Dark Knight #6-10，封面日期 1990-04 至 1990-08）：哥谭出现以「惠斯珀先生」（Mr. Whisper）为名的连环杀手，目标直指布鲁斯·韦恩的少年时代。故事以哥特式恐怖氛围著称，是莫里森在 LOTDK 的经典篇章。",
+   "characters": [
+    "batman",
+    "gordon"
+   ],
+   "family": "bat-family",
+   "related": []
+  },
+  {
+   "id": "venom",
+   "name": "Batman: Venom",
+   "nameZh": "蝙蝠侠：毒液",
+   "kind": "arc",
+   "type": "arc",
+   "phases": [
+    {
+     "name": "Venom",
+     "nameZh": "毒液",
+     "issues": [
+      {
+       "s": "legends-dk",
+       "n": "16",
+       "t": "Venom: Part One",
+       "d": "1991-03",
+       "p": 1,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "17",
+       "t": "Venom: Part Two",
+       "d": "1991-04",
+       "p": 2,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "18",
+       "t": "Venom: Part Three",
+       "d": "1991-05",
+       "p": 3,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "19",
+       "t": "Venom: Part Four",
+       "d": "1991-06",
+       "p": 4,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "20",
+       "t": "Venom: Part Five",
+       "d": "1991-07",
+       "p": 5,
+       "c": [
+        "batman"
+       ],
+       "x": "蝙蝠侠戒断毒液"
+      }
+     ]
+    }
+   ],
+   "start": "1991-03",
+   "end": "1991-07",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "丹尼斯·奥尼尔编剧、特雷弗·冯·伊登作画（Legends of the Dark Knight #16-20，封面日期 1991-03 至 1991-07）：为拯救被绑架的女孩，蝙蝠侠滥用类固醇「毒液」并染上药瘾，最终戒断。该故事引入日后被贝恩（Bane）使用的毒液药剂，是《骑士陨落》的重要前奏（LOTDK 于 1990-10 跳刊一期，故 #16 封面为 1991-03）。",
+   "characters": [
+    "batman"
+   ],
+   "family": "bat-family",
+   "related": [
+    "knightfall"
+   ]
+  },
+  {
+   "id": "sword-of-azrael",
+   "name": "Batman: Sword of Azrael",
+   "nameZh": "蝙蝠侠：阿兹瑞尔之剑",
+   "kind": "arc",
+   "type": "arc",
+   "phases": [
+    {
+     "name": "Sword of Azrael",
+     "nameZh": "阿兹瑞尔之剑",
+     "issues": [
+      {
+       "s": "Batman: Sword of Azrael",
+       "n": "1",
+       "t": "Sword of Azrael: Part One",
+       "d": "1992-10",
+       "p": 1,
+       "c": [
+        "batman",
+        "azrael"
+       ],
+       "x": "阿兹瑞尔（让-保罗·瓦利）首次登场"
+      },
+      {
+       "s": "Batman: Sword of Azrael",
+       "n": "2",
+       "t": "Sword of Azrael: Part Two",
+       "d": "1992-11",
+       "p": 2,
+       "c": [
+        "batman",
+        "azrael"
+       ]
+      },
+      {
+       "s": "Batman: Sword of Azrael",
+       "n": "3",
+       "t": "Sword of Azrael: Part Three",
+       "d": "1992-12",
+       "p": 3,
+       "c": [
+        "batman",
+        "azrael"
+       ]
+      },
+      {
+       "s": "Batman: Sword of Azrael",
+       "n": "4",
+       "t": "Sword of Azrael: Part Four",
+       "d": "1993-01",
+       "p": 4,
+       "c": [
+        "batman",
+        "azrael"
+       ]
+      }
+     ]
+    }
+   ],
+   "start": "1992-10",
+   "end": "1993-01",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "丹尼斯·奥尼尔编剧、乔·克萨达作画的四期迷你系列（封面日期 1992-10 至 1993-01）：让-保罗·瓦利被「圣杜马斯教团」训练为复仇天使阿兹瑞尔，在蝙蝠侠协助下对抗教团。阿兹瑞尔（Jean-Paul Valley）首次登场，故事直接为《骑士陨落》铺垫——他日后将短暂接替蝙蝠侠。",
+   "characters": [
+    "batman",
+    "azrael"
+   ],
+   "family": "bat-family",
+   "related": [
+    "knightfall"
+   ]
+  },
+  {
+   "id": "knight-bludhaven",
+   "name": "Nightwing: A Knight in Blüdhaven",
+   "nameZh": "布鲁德海文之骑士",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "nightwing-v2",
+     "n": "1",
+     "t": null,
+     "d": "1996-10",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "2",
+     "t": null,
+     "d": "1996-11",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "3",
+     "t": null,
+     "d": "1996-12",
+     "p": null,
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "4",
+     "t": null,
+     "d": "1997-01",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "5",
+     "t": null,
+     "d": "1997-02",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "6",
+     "t": null,
+     "d": "1997-03",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "7",
+     "t": null,
+     "d": "1997-04",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "8",
+     "t": null,
+     "d": "1997-05",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    }
+   ],
+   "start": "1996-10",
+   "end": "1997-05",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "Nightwing 系列开篇连载：迪克·格雷森告别哥谭与蝙蝠侠的阴影，移居犯罪频发的布鲁德海文，以夜翼身份独立成为该城守护者（首 8 期长篇）。",
+   "characters": [
+    "nightwing",
+    "batman",
+    "oracle"
+   ]
+  },
+  {
+   "id": "long-halloween",
+   "name": "Batman: The Long Halloween",
+   "nameZh": "漫长的万圣节",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "1",
+     "t": "Chapter One: Crime",
+     "d": "1996-12",
+     "p": 1,
+     "c": [
+      "batman",
+      "gordon",
+      "catwoman"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "2",
+     "t": "Chapter Two: Thanksgiving",
+     "d": "1997-01",
+     "p": 2,
+     "c": [
+      "batman",
+      "twopface",
+      "gordon"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "3",
+     "t": "Chapter Three: Christmas",
+     "d": "1997-02",
+     "p": 3,
+     "c": [
+      "batman",
+      "joker"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "4",
+     "t": "Chapter Four: New Year's Eve",
+     "d": "1997-03",
+     "p": 4,
+     "c": [
+      "batman",
+      "catwoman"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "5",
+     "t": "Chapter Five: Valentine's Day",
+     "d": "1997-04",
+     "p": 5,
+     "c": [
+      "batman",
+      "catwoman"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "6",
+     "t": "Chapter Six: March",
+     "d": "1997-05",
+     "p": 6,
+     "c": [
+      "batman",
+      "twopface"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "7",
+     "t": "Chapter Seven: April Fools' Day",
+     "d": "1997-06",
+     "p": 7,
+     "c": [
+      "batman",
+      "joker",
+      "riddler"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "8",
+     "t": "Chapter Eight: May Day",
+     "d": "1997-07",
+     "p": 8,
+     "c": [
+      "batman",
+      "gordon"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "9",
+     "t": "Chapter Nine: June",
+     "d": "1997-08",
+     "p": 9,
+     "c": [
+      "batman",
+      "scarecrow"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "10",
+     "t": "Chapter Ten: Independence Day",
+     "d": "1997-09",
+     "p": 10,
+     "c": [
+      "batman",
+      "penguin"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "11",
+     "t": "Chapter Eleven: August",
+     "d": "1997-10",
+     "p": 11,
+     "c": [
+      "batman",
+      "twopface"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "12",
+     "t": "Chapter Twelve: Labor Day",
+     "d": "1997-11",
+     "p": 12,
+     "c": [
+      "batman",
+      "catwoman"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "13",
+     "t": "Chapter Thirteen: Halloween",
+     "d": "1997-12",
+     "p": 13,
+     "c": [
+      "batman",
+      "twopface",
+      "gordon"
+     ]
+    }
+   ],
+   "start": "1996-12",
+   "end": "1997-12",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "12 期限定刊：蝙蝠侠与戈登、哈维·丹特联手追查连环杀手「假日杀手」（Holiday），案件横跨一整年的节日；期间丹特坠入疯狂成为双面人，猫女与蝙蝠侠的关系亦被卷入。",
+   "characters": [
+    "batman",
+    "catwoman",
+    "gordon",
+    "twopface",
+    "joker",
+    "penguin",
+    "scarecrow",
+    "riddler",
+    "alfred"
+   ]
+  },
+  {
+   "id": "she-cats",
+   "name": "Catwoman: She-Cats",
+   "nameZh": "雌猫帮",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "catwoman-v2",
+     "n": "42",
+     "t": "She-Cats, Part 1: Feline and Female",
+     "d": "1997-02",
+     "p": 1,
+     "c": [
+      "catwoman"
+     ]
+    },
+    {
+     "s": "catwoman-v2",
+     "n": "43",
+     "t": "She-Cats, Part 2: Red of Fang and Claw",
+     "d": "1997-03",
+     "p": 2,
+     "c": [
+      "catwoman"
+     ]
+    }
+   ],
+   "start": "1997-02",
+   "end": "1997-03",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "Catwoman 两期短弧：赛琳娜与黑市掮客「She-Cats」组织周旋，卷入猫女与老对手的交锋（两期均带 Part 标题）。",
+   "characters": [
+    "catwoman",
+    "batman"
+   ]
+  },
+  {
+   "id": "dark-victory",
+   "name": "Batman: Dark Victory",
+   "nameZh": "黑暗胜利",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "Batman: Dark Victory",
+     "n": "0",
+     "t": null,
+     "d": "1999-09",
+     "p": null,
+     "c": [
+      "batman",
+      "gordon"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "1",
+     "t": null,
+     "d": "1999-12",
+     "p": null,
+     "c": [
+      "batman",
+      "gordon",
+      "twopface"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "2",
+     "t": null,
+     "d": "2000-01",
+     "p": null,
+     "c": [
+      "batman",
+      "catwoman"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "3",
+     "t": null,
+     "d": "2000-02",
+     "p": null,
+     "c": [
+      "batman",
+      "twopface"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "4",
+     "t": null,
+     "d": "2000-03",
+     "p": null,
+     "c": [
+      "batman",
+      "joker"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "5",
+     "t": null,
+     "d": "2000-04",
+     "p": null,
+     "c": [
+      "batman",
+      "gordon"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "6",
+     "t": null,
+     "d": "2000-05",
+     "p": null,
+     "c": [
+      "batman",
+      "alfred"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "7",
+     "t": null,
+     "d": "2000-06",
+     "p": null,
+     "c": [
+      "batman",
+      "penguin"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "8",
+     "t": null,
+     "d": "2000-07",
+     "p": null,
+     "c": [
+      "batman",
+      "catwoman"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "9",
+     "t": null,
+     "d": "2000-08",
+     "p": null,
+     "c": [
+      "batman",
+      "gordon"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "10",
+     "t": null,
+     "d": "2000-09",
+     "p": null,
+     "c": [
+      "batman",
+      "twopface"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "11",
+     "t": null,
+     "d": "2000-10",
+     "p": null,
+     "c": [
+      "batman",
+      "joker"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "12",
+     "t": null,
+     "d": "2000-11",
+     "p": null,
+     "c": [
+      "batman",
+      "catwoman"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "13",
+     "t": null,
+     "d": "2000-12",
+     "p": null,
+     "c": [
+      "batman",
+      "gordon",
+      "nightwing"
+     ]
+    }
+   ],
+   "start": "1999-09",
+   "end": "2000-12",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "The Long Halloween 的续篇：蝙蝠侠、戈登与双面人追查新连环杀手「刽子手」（The Hangman），同时布鲁斯收养孤儿迪克·格雷森，后者成为初代罗宾；猫女与哥谭众反派（小丑、企鹅人等）皆卷入。全 14 期（#0-13）。",
+   "characters": [
+    "batman",
+    "gordon",
+    "twopface",
+    "catwoman",
+    "joker",
+    "penguin",
+    "alfred",
+    "nightwing"
+   ]
+  },
+  {
+   "id": "catwoman-dark-end",
+   "name": "Catwoman: Dark End of the Street",
+   "nameZh": "猫女：街巷尽头",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "catwoman-v3",
+     "n": "1",
+     "t": "Anodyne, Part One",
+     "d": "2002-01",
+     "p": 1,
+     "c": [
+      "catwoman"
+     ]
+    },
+    {
+     "s": "catwoman-v3",
+     "n": "2",
+     "t": "Anodyne, Part Two",
+     "d": "2002-02",
+     "p": 2,
+     "c": [
+      "catwoman"
+     ]
+    },
+    {
+     "s": "catwoman-v3",
+     "n": "3",
+     "t": "Anodyne, Part Three",
+     "d": "2002-03",
+     "p": 3,
+     "c": [
+      "catwoman",
+      "batman"
+     ]
+    },
+    {
+     "s": "catwoman-v3",
+     "n": "4",
+     "t": "Anodyne, Part Four",
+     "d": "2002-04",
+     "p": 4,
+     "c": [
+      "catwoman"
+     ]
+    },
+    {
+     "s": "catwoman-v3",
+     "n": "5",
+     "t": "Trickle Down Theory",
+     "d": "2002-05",
+     "p": null,
+     "c": [
+      "catwoman"
+     ]
+    },
+    {
+     "s": "catwoman-v3",
+     "n": "6",
+     "t": "Disguises, Part One",
+     "d": "2002-06",
+     "p": 1,
+     "c": [
+      "catwoman",
+      "gordon"
+     ]
+    },
+    {
+     "s": "catwoman-v3",
+     "n": "7",
+     "t": "Disguises, Part Two",
+     "d": "2002-07",
+     "p": 2,
+     "c": [
+      "catwoman"
+     ]
+    },
+    {
+     "s": "catwoman-v3",
+     "n": "8",
+     "t": "Disguises, Part Three",
+     "d": "2002-08",
+     "p": 3,
+     "c": [
+      "catwoman"
+     ]
+    },
+    {
+     "s": "catwoman-v3",
+     "n": "9",
+     "t": "Disguises, Part Four",
+     "d": "2002-09",
+     "p": 4,
+     "c": [
+      "catwoman"
+     ]
+    }
+   ],
+   "start": "2002-01",
+   "end": "2002-09",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "布鲁贝克（Ed Brubaker）重启猫女连载的首个故事线：塞琳娜·凯尔在哥谭东区经营自己的地盘，同时面对黑帮与警方的压力，逐渐走向义警与盗贼之间的模糊地带（合订本名「Dark End of the Street」，收录 #1-9）。",
+   "characters": [
+    "catwoman",
+    "batman",
+    "gordon"
+   ]
+  },
+  {
+   "id": "broken-city",
+   "name": "Batman: Broken City",
+   "nameZh": "破碎之城",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "batman",
+     "n": "620",
+     "t": "Broken City, Part One",
+     "d": "2003-12",
+     "p": 1,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "621",
+     "t": "Broken City, Part Two",
+     "d": "2004-01",
+     "p": 2,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "622",
+     "t": "Broken City, Part Three",
+     "d": "2004-02",
+     "p": 3,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "623",
+     "t": "Broken City, Part Four",
+     "d": "2004-03",
+     "p": 4,
+     "c": [
+      "batman",
+      "gordon"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "624",
+     "t": "Broken City, Part Five",
+     "d": "2004-04",
+     "p": 5,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "625",
+     "t": "Broken City, Part Six",
+     "d": "2004-05",
+     "p": 6,
+     "c": [
+      "batman",
+      "gordon"
+     ]
+    }
+   ],
+   "start": "2003-12",
+   "end": "2004-05",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "阿扎雷洛（Brian Azzarello）与里索（Eduardo Risso）创作的黑色犯罪故事：蝙蝠侠追查杀害一名年轻女孩的凶手，在哥谭黑暗底层穿行，最终发现真相并非阴谋，而是一场人间悲剧。",
+   "characters": [
+    "batman",
+    "gordon",
+    "alfred"
+   ]
+  },
+  {
+   "id": "war-drums",
+   "name": "Batman: War Drums",
+   "nameZh": "战鼓",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "robin-v2",
+     "n": "124",
+     "t": "War Drums",
+     "d": "2004-05",
+     "p": 1,
+     "c": [
+      "robin-tim",
+      "batman"
+     ]
+    },
+    {
+     "s": "robin-v2",
+     "n": "125",
+     "t": "War Drums",
+     "d": "2004-06",
+     "p": 2,
+     "c": [
+      "robin-tim",
+      "batman"
+     ]
+    },
+    {
+     "s": "robin-v2",
+     "n": "126",
+     "t": "War Drums",
+     "d": "2004-07",
+     "p": 3,
+     "c": [
+      "robin-tim",
+      "batgirl"
+     ]
+    },
+    {
+     "s": "gotham-knights",
+     "n": "52",
+     "t": null,
+     "d": "2004-07",
+     "p": null,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "gotham-knights",
+     "n": "53",
+     "t": null,
+     "d": "2004-08",
+     "p": null,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "gotham-knights",
+     "n": "54",
+     "t": null,
+     "d": "2004-09",
+     "p": null,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "gotham-knights",
+     "n": "55",
+     "t": null,
+     "d": "2004-10",
+     "p": null,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "55",
+     "t": null,
+     "d": "2004-10",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ]
+    },
+    {
+     "s": "batgirl-v1",
+     "n": "56",
+     "t": null,
+     "d": "2004-11",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "631",
+     "t": "Last Stand at Alamo High, Part One",
+     "d": "2004-10",
+     "p": 1,
+     "c": [
+      "batman",
+      "robin-tim"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "632",
+     "t": "Last Stand at Alamo High, Part Two",
+     "d": "2004-11",
+     "p": 2,
+     "c": [
+      "batman",
+      "blackmask"
+     ]
+    }
+   ],
+   "start": "2004-05",
+   "end": "2004-11",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "「战争游戏」前奏：斯波伊勒·布朗（Spoiler）证明自己足以胜任罗宾之位，在提姆·德雷克暂退后成为新任罗宾；哥谭帮派势力蠢蠢欲动，为大战埋下伏笔。",
+   "characters": [
+    "robin-tim",
+    "batgirl",
+    "batman",
+    "oracle",
+    "blackmask"
+   ]
+  },
+  {
+   "id": "as-the-crow-flies",
+   "name": "Batman: As the Crow Flies",
+   "nameZh": "乌鸦飞行",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "batman",
+     "n": "626",
+     "t": "As the Crow Flies, Part One: Visions",
+     "d": "2004-06",
+     "p": 1,
+     "c": [
+      "batman",
+      "penguin"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "627",
+     "t": "As the Crow Flies, Part Two: Partners in Crime",
+     "d": "2004-07",
+     "p": 2,
+     "c": [
+      "batman",
+      "blackmask"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "628",
+     "t": "As the Crow Flies, Part Three: Scary Monsters",
+     "d": "2004-08",
+     "p": 3,
+     "c": [
+      "batman",
+      "catwoman"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "629",
+     "t": "As the Crow Flies, Part Four: Shotgun",
+     "d": "2004-09",
+     "p": 4,
+     "c": [
+      "batman",
+      "blackmask"
+     ]
+    },
+    {
+     "s": "batman",
+     "n": "630",
+     "t": "As the Crow Flies, Part Five: Home Invasion",
+     "d": "2004-10",
+     "p": 5,
+     "c": [
+      "batman",
+      "penguin",
+      "blackmask"
+     ]
+    }
+   ],
+   "start": "2004-06",
+   "end": "2004-10",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "企鹅人与黑面具的毒品战争升级，蝙蝠侠在两人之间周旋；黑面具的残忍手段与企鹅人的伪装逐渐被揭开，猫女也在其中扮演关键角色。",
+   "characters": [
+    "batman",
+    "penguin",
+    "blackmask",
+    "catwoman"
+   ]
+  },
+  {
+   "id": "nightwing-year-one",
+   "name": "Nightwing: Year One",
+   "nameZh": "夜翼：元年",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "nightwing-v2",
+     "n": "101",
+     "t": "Year One, Part One",
+     "d": "2005-03",
+     "p": 1,
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "102",
+     "t": "Year One, Part Two",
+     "d": "2005-03",
+     "p": 2,
+     "c": [
+      "nightwing",
+      "oracle"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "103",
+     "t": "Year One, Part Three",
+     "d": "2005-04",
+     "p": 3,
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "104",
+     "t": "Year One, Part Four",
+     "d": "2005-04",
+     "p": 4,
+     "c": [
+      "nightwing",
+      "oracle"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "105",
+     "t": "Year One, Part Five",
+     "d": "2005-05",
+     "p": 5,
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "106",
+     "t": "Year One, Part Six",
+     "d": "2005-05",
+     "p": 6,
+     "c": [
+      "nightwing",
+      "oracle"
+     ]
+    }
+   ],
+   "start": "2005-03",
+   "end": "2005-05",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "迪克·格雷森离开蝙蝠侠后的第一年：他如何成为夜翼、与芭芭拉·戈登（神谕）的羁绊，以及在布鲁德海文建立自己英雄身份的历程。",
+   "characters": [
+    "nightwing",
+    "batman",
+    "oracle",
+    "alfred",
+    "gordon"
+   ]
+  },
+  {
+   "id": "streets-of-gotham",
+   "name": "Batman: Streets of Gotham",
+   "nameZh": "哥谭街道",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "streets-of-gotham",
+     "n": "1",
+     "t": "Hush Money Part One",
+     "d": "2009-08",
+     "p": 1,
+     "c": [
+      "batman",
+      "robin-damian",
+      "hush"
+     ],
+     "x": "Backup: Man-Bat feature"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "2",
+     "t": "Hush Money Part Two",
+     "d": "2009-09",
+     "p": 2,
+     "c": [
+      "batman",
+      "robin-damian",
+      "hush"
+     ],
+     "x": "Backup: Man-Bat"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "3",
+     "t": "Hush Money Part Three",
+     "d": "2009-10",
+     "p": 3,
+     "c": [
+      "batman",
+      "robin-damian",
+      "hush"
+     ],
+     "x": "Backup: Man-Bat; cover date per Overstreet (Oct 2009)"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "4",
+     "t": "Hush Money Part Four",
+     "d": "2009-11",
+     "p": 4,
+     "c": [
+      "batman",
+      "robin-damian",
+      "hush"
+     ],
+     "x": "Backup: Man-Bat"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "5",
+     "t": "Leviathan Part One",
+     "d": "2009-12",
+     "p": 1,
+     "c": [
+      "batman",
+      "robin-damian"
+     ],
+     "x": "Backup: Man-Bat; Leviathan arc begins"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "6",
+     "t": "Leviathan Part Two",
+     "d": "2010-01",
+     "p": 2,
+     "c": [
+      "batman",
+      "robin-damian"
+     ],
+     "x": "Backup: Man-Bat"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "7",
+     "t": "Leviathan Part Three",
+     "d": "2010-02",
+     "p": 3,
+     "c": [
+      "batman",
+      "robin-damian"
+     ],
+     "x": "Backup: Man-Bat"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "8",
+     "t": "Leviathan Part Four",
+     "d": "2010-03",
+     "p": 4,
+     "c": [
+      "batman",
+      "robin-damian"
+     ],
+     "x": "Backup: Man-Bat (final chapter, best-effort)"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "9",
+     "t": "Leviathan Part Five",
+     "d": "2010-04",
+     "p": 5,
+     "c": [
+      "batman",
+      "robin-damian"
+     ]
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "10",
+     "t": "Leviathan Part Six",
+     "d": "2010-05",
+     "p": 6,
+     "c": [
+      "batman",
+      "robin-damian"
+     ]
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "11",
+     "t": "Leviathan Part Seven",
+     "d": "2010-06",
+     "p": 7,
+     "c": [
+      "batman",
+      "robin-damian"
+     ],
+     "x": "Leviathan trade collects #5-11"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "12",
+     "t": null,
+     "d": "2010-07",
+     "p": null,
+     "c": [
+      "batman",
+      "robin-damian"
+     ],
+     "x": "Transitional issue; printed title/arc not verified"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "13",
+     "t": null,
+     "d": "2010-08",
+     "p": null,
+     "c": [
+      "batman",
+      "robin-damian"
+     ],
+     "x": "Transitional issue; printed title/arc not verified; cover date per Overstreet (Aug 2010)"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "14",
+     "t": "House of Hush Part One",
+     "d": "2010-09",
+     "p": 1,
+     "c": [
+      "batman",
+      "hush"
+     ],
+     "x": "House of Hush arc begins; cover date per Overstreet (Sep 2010)"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "15",
+     "t": "House of Hush Part Two",
+     "d": "2010-10",
+     "p": 2,
+     "c": [
+      "batman",
+      "hush"
+     ]
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "16",
+     "t": "House of Hush Part Three",
+     "d": "2010-11",
+     "p": 3,
+     "c": [
+      "batman",
+      "hush"
+     ]
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "17",
+     "t": "House of Hush Part Four",
+     "d": "2011-01",
+     "p": 4,
+     "c": [
+      "batman",
+      "hush"
+     ],
+     "x": "Cover date per GCD (Jan 2011); Comic Vine slug records 'The House of Hush Chapter...'"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "18",
+     "t": "House of Hush Part Five",
+     "d": "2011-02",
+     "p": 5,
+     "c": [
+      "batman",
+      "hush"
+     ],
+     "x": "Cover date per GCD (Feb 2011)"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "19",
+     "t": "House of Hush Part Six",
+     "d": "2011-03",
+     "p": 6,
+     "c": [
+      "batman",
+      "hush"
+     ],
+     "x": "Cover date per Overstreet (Mar 2011)"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "20",
+     "t": "House of Hush Part Seven",
+     "d": "2011-03",
+     "p": 7,
+     "c": [
+      "batman",
+      "hush"
+     ],
+     "x": "Key Collector lists Mar 2011 (double-shipped with #19); some sources imply Apr/May 2011"
+    },
+    {
+     "s": "streets-of-gotham",
+     "n": "21",
+     "t": "The House of Hush Finale",
+     "d": "2011-05",
+     "p": null,
+     "c": [
+      "batman",
+      "hush"
+     ],
+     "x": "Series finale (pre-Flashpoint); cover date per Overstreet (May 2011); title per Comic Vine slug"
+    }
+   ],
+   "start": "2009-08",
+   "end": "2011-05",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "《哥谭街道》主线连载（2009-2011，共21期），保罗·迪尼主笔，迪克·格雷森为蝙蝠侠、达米安为罗宾。主要故事弧：『封口费』（Hush Money，#1-4，缄默归来勒索哥谭权贵）、『利维坦』（Leviathan，#5-11，迪尼/本森/约斯特联合编剧）、『缄默之屋』（House of Hush，#14-21，汤米·埃利奥特身世与缄默的执念）；早期多期附『人蝠』（Man-Bat，柯克·朗斯特罗姆）备用故事。#12-13为过渡期单期故事，弧名与标题未核实。",
+   "characters": [
+    "batman",
+    "robin-damian",
+    "hush"
+   ]
+  },
+  {
+   "id": "batgirl-v2",
+   "name": "Batgirl",
+   "nameZh": "蝙蝠女（斯蒂芬妮·布朗）",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "batgirl-v2",
+     "n": "1",
+     "t": null,
+     "d": "2009-10",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "Batgirl Rising arc begins (trade collects #1-7)"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "2",
+     "t": null,
+     "d": "2009-11",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ]
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "3",
+     "t": null,
+     "d": "2009-12",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ]
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "4",
+     "t": null,
+     "d": "2010-01",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "Cover date per Overstreet (Jan 2010)"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "5",
+     "t": null,
+     "d": "2010-02",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ]
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "6",
+     "t": null,
+     "d": "2010-03",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ]
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "7",
+     "t": null,
+     "d": "2010-04",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ]
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "8",
+     "t": null,
+     "d": "2010-05",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "Bridge issue before The Flood"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "9",
+     "t": "The Flood Part 1",
+     "d": "2010-06",
+     "p": 1,
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "The Flood arc begins; title per Comic Vine slug"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "10",
+     "t": null,
+     "d": "2010-07",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "The Flood arc"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "11",
+     "t": null,
+     "d": "2010-08",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "The Flood arc"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "12",
+     "t": null,
+     "d": "2010-09",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "The Flood arc"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "13",
+     "t": "Trust",
+     "d": "2010-10",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "Title per Comic Vine slug; The Flood arc"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "14",
+     "t": null,
+     "d": "2010-11",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "The Flood trade collects #9-14 (per collection blog)"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "15",
+     "t": null,
+     "d": "2010-12",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "The Lesson arc begins (trade range approx)"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "16",
+     "t": null,
+     "d": "2011-01",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ]
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "17",
+     "t": null,
+     "d": "2011-02",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ]
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "18",
+     "t": null,
+     "d": "2011-03",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ]
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "19",
+     "t": null,
+     "d": "2011-05",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "Collision arc begins (trade range approx); cover date per Overstreet (May 2011)"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "20",
+     "t": null,
+     "d": "2011-06",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ]
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "21",
+     "t": null,
+     "d": "2011-07",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ]
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "22",
+     "t": null,
+     "d": "2011-08",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "Cover date inferred (Key Collector on-sale Jun 2011 +2)"
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "23",
+     "t": null,
+     "d": "2011-09",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ]
+    },
+    {
+     "s": "batgirl-v2",
+     "n": "24",
+     "t": null,
+     "d": "2011-10",
+     "p": null,
+     "c": [
+      "batgirl",
+      "oracle"
+     ],
+     "x": "Series finale (pre-Flashpoint); on-sale Aug 2011 per Key Collector/blogs, cover date Oct 2011"
+    }
+   ],
+   "start": "2009-10",
+   "end": "2011-10",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "《蝙蝠女》斯蒂芬妮·布朗主役连载（2009-2011，共24期），布莱恩·Q·米勒执笔，芭芭拉·戈登（Oracle）全程辅佐。主要故事弧：『蝙蝠女崛起』（Batgirl Rising，#1-7，斯蒂芬妮接任蝙蝠女）、『洪水』（The Flood，#9-14，神谕被困、洪水来袭）、『一课』（The Lesson，#15-18）、『碰撞』（Collision，#19-24，前Flashpoint终章）。",
+   "characters": [
+    "batgirl",
+    "oracle"
+   ]
+  },
+  {
+   "id": "arkham-reborn",
+   "name": "Batman: Arkham Reborn",
+   "nameZh": "阿卡姆重生",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "Batman: Arkham Reborn",
+     "n": "1",
+     "t": "Part One... The Raggedy Man",
+     "d": "2009-12",
+     "p": 1,
+     "c": [
+      "batman"
+     ],
+     "x": "On-sale 2009-10-28 (ComicList), cover Dec 2009; title per HipComic"
+    },
+    {
+     "s": "Batman: Arkham Reborn",
+     "n": "2",
+     "t": "Part Two... Just Desserts",
+     "d": "2010-01",
+     "p": 2,
+     "c": [
+      "batman"
+     ],
+     "x": "Cover date inferred (monthly); title per HipComic"
+    },
+    {
+     "s": "Batman: Arkham Reborn",
+     "n": "3",
+     "t": "Part Three... The Ghost in the Machine",
+     "d": "2010-02",
+     "p": 3,
+     "c": [
+      "batman"
+     ],
+     "x": "Cover date inferred (monthly); title per HipComic"
+    }
+   ],
+   "start": "2009-12",
+   "end": "2010-02",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "《蝙蝠侠：阿卡姆重生》三期限定迷你系列（2009-2010），大卫·海因执笔、杰里米·豪恩作画：杰里迈亚·阿卡姆主持重建阿卡姆疯人院，蝙蝠侠追查新阿卡姆背后的阴谋。每期均带『Part』小标题（Part One... The Raggedy Man / Part Two... Just Desserts / Part Three... The Ghost in the Machine）。",
+   "characters": [
+    "batman"
+   ]
+  },
+  {
+   "id": "nightwing-v3-traps-and-trapezes",
+   "name": "Traps and Trapezes",
+   "nameZh": "陷阱与秋千",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "nightwing-v3",
+     "n": "1",
+     "t": "Welcome to Gotham",
+     "d": "2011-11",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    },
+    {
+     "s": "nightwing-v3",
+     "n": "2",
+     "t": "Haly's Wish",
+     "d": "2011-12",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    },
+    {
+     "s": "nightwing-v3",
+     "n": "3",
+     "t": "Past and Present",
+     "d": "2012-01",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    },
+    {
+     "s": "nightwing-v3",
+     "n": "4",
+     "t": "South Beach Connection",
+     "d": "2012-02",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    },
+    {
+     "s": "nightwing-v3",
+     "n": "5",
+     "t": "'Til Death Do Us Part",
+     "d": "2012-03",
+     "p": null,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v3",
+     "n": "6",
+     "t": "Good Girl Gone Bad",
+     "d": "2012-04",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    },
+    {
+     "s": "nightwing-v3",
+     "n": "7",
+     "t": "Turning Points",
+     "d": "2012-05",
+     "p": null,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    }
+   ],
+   "start": "2011-11",
+   "end": "2012-05",
+   "era": "New52",
+   "earth": "earth-0",
+   "summaryZh": "夜翼回到哈利马戏团调查旧友连环被杀案，逐步发现凶手「Saiko」与猫头鹰法庭的关联，迪克的身世之谜（灰之子）自此揭开。",
+   "characters": [
+    "nightwing",
+    "talon"
+   ]
+  },
+  {
+   "id": "batgirl-v3-darkest-reflection",
+   "name": "The Darkest Reflection",
+   "nameZh": "最黑暗的倒影",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "batgirl-v3",
+     "n": "1",
+     "t": "The Darkest Reflection",
+     "d": "2011-11",
+     "p": 1,
+     "c": [
+      "batgirl"
+     ]
+    },
+    {
+     "s": "batgirl-v3",
+     "n": "2",
+     "t": "The Darkest Reflection",
+     "d": "2011-12",
+     "p": 2,
+     "c": [
+      "batgirl"
+     ]
+    },
+    {
+     "s": "batgirl-v3",
+     "n": "3",
+     "t": "The Darkest Reflection",
+     "d": "2012-01",
+     "p": 3,
+     "c": [
+      "batgirl"
+     ]
+    },
+    {
+     "s": "batgirl-v3",
+     "n": "4",
+     "t": "The Darkest Reflection",
+     "d": "2012-02",
+     "p": 4,
+     "c": [
+      "batgirl"
+     ]
+    },
+    {
+     "s": "batgirl-v3",
+     "n": "5",
+     "t": "The Darkest Reflection",
+     "d": "2012-03",
+     "p": 5,
+     "c": [
+      "batgirl"
+     ]
+    },
+    {
+     "s": "batgirl-v3",
+     "n": "6",
+     "t": "The Darkest Reflection",
+     "d": "2012-04",
+     "p": 6,
+     "c": [
+      "batgirl"
+     ]
+    }
+   ],
+   "start": "2011-11",
+   "end": "2012-04",
+   "era": "New52",
+   "earth": "earth-0",
+   "summaryZh": "新52 重设后芭芭拉·戈登康复并重披蝙蝠女战衣，对抗杀手镜（Mirror）与哥谭黑帮，同时隐瞒父亲戈登局长。",
+   "characters": [
+    "batgirl",
+    "gordon"
+   ]
+  },
+  {
+   "id": "red-hood-outlaws-redemption",
+   "name": "REDemption",
+   "nameZh": "救赎",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "red-hood-outlaws-v1",
+     "n": "1",
+     "t": "REDemption",
+     "d": "2011-11",
+     "p": 1,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v1",
+     "n": "2",
+     "t": "REDemption",
+     "d": "2011-12",
+     "p": 2,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v1",
+     "n": "3",
+     "t": "REDemption",
+     "d": "2012-01",
+     "p": 3,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v1",
+     "n": "4",
+     "t": "REDemption",
+     "d": "2012-02",
+     "p": 4,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v1",
+     "n": "5",
+     "t": "REDemption",
+     "d": "2012-03",
+     "p": 5,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v1",
+     "n": "6",
+     "t": "REDemption",
+     "d": "2012-04",
+     "p": 6,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v1",
+     "n": "7",
+     "t": "REDemption",
+     "d": "2012-05",
+     "p": 7,
+     "c": [
+      "redhood"
+     ]
+    }
+   ],
+   "start": "2011-11",
+   "end": "2012-05",
+   "era": "New52",
+   "earth": "earth-0",
+   "summaryZh": "杰森·托德（红头罩）、星火与军火库组成「法外者」，以非正统手段游走于法外正义，同时杰森继续追查自己「死而复生」的真相。",
+   "characters": [
+    "redhood"
+   ]
+  },
+  {
+   "id": "detective-v2-faces-of-death",
+   "name": "Faces of Death",
+   "nameZh": "死亡面孔",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "detective-v2",
+     "n": "1",
+     "t": "Faces of Death",
+     "d": "2011-11",
+     "p": 1,
+     "c": [
+      "batman",
+      "gordon"
+     ]
+    },
+    {
+     "s": "detective-v2",
+     "n": "2",
+     "t": "Faces of Death",
+     "d": "2011-12",
+     "p": 2,
+     "c": [
+      "batman",
+      "gordon"
+     ]
+    },
+    {
+     "s": "detective-v2",
+     "n": "3",
+     "t": "Faces of Death",
+     "d": "2012-01",
+     "p": 3,
+     "c": [
+      "batman",
+      "gordon"
+     ]
+    },
+    {
+     "s": "detective-v2",
+     "n": "4",
+     "t": "Faces of Death",
+     "d": "2012-02",
+     "p": 4,
+     "c": [
+      "batman",
+      "gordon"
+     ]
+    },
+    {
+     "s": "detective-v2",
+     "n": "5",
+     "t": "Faces of Death",
+     "d": "2012-03",
+     "p": 5,
+     "c": [
+      "batman",
+      "gordon"
+     ]
+    },
+    {
+     "s": "detective-v2",
+     "n": "6",
+     "t": "Faces of Death",
+     "d": "2012-04",
+     "p": 6,
+     "c": [
+      "batman",
+      "gordon"
+     ]
+    },
+    {
+     "s": "detective-v2",
+     "n": "7",
+     "t": "Faces of Death",
+     "d": "2012-05",
+     "p": 7,
+     "c": [
+      "batman",
+      "gordon"
+     ]
+    }
+   ],
+   "start": "2011-11",
+   "end": "2012-05",
+   "era": "New52",
+   "earth": "earth-0",
+   "summaryZh": "《侦探漫画》重启首弧：连环杀手「屠夫」袭警，戈登局长被卷入，蝙蝠侠追查凶手的同时与警局关系降至冰点；小丑在开篇短暂现身，为「家庭之死」埋下伏笔。",
+   "characters": [
+    "batman",
+    "gordon"
+   ]
+  },
+  {
+   "id": "nightwing-v4-better-than-batman",
+   "name": "Better Than Batman",
+   "nameZh": "比蝙蝠侠更好",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "nightwing-v4",
+     "n": "1",
+     "t": "Better Than Batman Part One",
+     "d": "2016-09",
+     "p": 1,
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "2",
+     "t": "Better Than Batman Part Two",
+     "d": "2016-10",
+     "p": 2,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "3",
+     "t": "Better Than Batman Part Three",
+     "d": "2016-10",
+     "p": 3,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "4",
+     "t": "Better Than Batman Part Four",
+     "d": "2016-11",
+     "p": 4,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "5",
+     "t": "Better Than Batman Part Five",
+     "d": "2016-11",
+     "p": 5,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "6",
+     "t": "Better Than Batman Part Six",
+     "d": "2016-12",
+     "p": 6,
+     "c": [
+      "nightwing",
+      "talon",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "7",
+     "t": "Better Than Batman Part Seven",
+     "d": "2017-01",
+     "p": 7,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "8",
+     "t": "Better Than Batman Part Eight",
+     "d": "2017-01",
+     "p": 8,
+     "c": [
+      "nightwing",
+      "talon",
+      "batman"
+     ]
+    }
+   ],
+   "start": "2016-09",
+   "end": "2017-01",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "summaryZh": "夜翼回到布鲁德海文，却卷入猫头鹰法庭前爪牙「猛禽」（Raptor）的复仇阴谋；迪克必须证明自己可以成为比蝙蝠侠更好的英雄，同时调查父母的真正死因。",
+   "characters": [
+    "nightwing",
+    "batman",
+    "talon"
+   ]
+  },
+  {
+   "id": "red-hood-outlaws-v2",
+   "name": "Red Hood and the Outlaws",
+   "nameZh": "红头罩与法外者",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "1",
+     "t": null,
+     "d": "2016-10",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "2",
+     "t": null,
+     "d": "2016-11",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "3",
+     "t": null,
+     "d": "2016-12",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "4",
+     "t": null,
+     "d": "2016-12",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "5",
+     "t": null,
+     "d": "2017-01",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "6",
+     "t": null,
+     "d": "2017-01",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "7",
+     "t": null,
+     "d": "2017-02",
+     "p": null,
+     "c": [
+      "redhood",
+      "batman"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "8",
+     "t": null,
+     "d": "2017-02",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "9",
+     "t": null,
+     "d": "2017-03",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "10",
+     "t": null,
+     "d": "2017-03",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "11",
+     "t": null,
+     "d": "2017-04",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "12",
+     "t": null,
+     "d": "2017-04",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "13",
+     "t": null,
+     "d": "2017-05",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "14",
+     "t": null,
+     "d": "2017-05",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "15",
+     "t": null,
+     "d": "2017-06",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "16",
+     "t": null,
+     "d": "2017-06",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "17",
+     "t": null,
+     "d": "2017-07",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "18",
+     "t": null,
+     "d": "2017-08",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "19",
+     "t": null,
+     "d": "2017-09",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "20",
+     "t": null,
+     "d": "2017-10",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "21",
+     "t": null,
+     "d": "2017-11",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "22",
+     "t": null,
+     "d": "2017-12",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "23",
+     "t": null,
+     "d": "2018-01",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "24",
+     "t": null,
+     "d": "2018-02",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "25",
+     "t": null,
+     "d": "2018-03",
+     "p": null,
+     "c": [
+      "redhood"
+     ],
+     "x": "2018-08 上市（Key Collector 核实）；系列下期更名"
+    }
+   ],
+   "start": "2016-10",
+   "end": "2018-10",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "summaryZh": "杰森·托德重组法外者（阿忒弥斯、比扎罗），自称「暗黑三一体」，追查拉撒路之池与猫头鹰法庭留下的遗产，并与蝙蝠侠保持若即若离的关系。",
+   "characters": [
+    "redhood",
+    "batman",
+    "talia",
+    "robin-damian"
+   ]
+  },
+  {
+   "id": "nightwing-v4-bludhaven",
+   "name": "Blüdhaven",
+   "nameZh": "重返布鲁德海文",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "nightwing-v4",
+     "n": "9",
+     "t": "Blüdhaven Part One",
+     "d": "2017-02",
+     "p": 1,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "10",
+     "t": "Blüdhaven Part Two",
+     "d": "2017-02",
+     "p": 2,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "11",
+     "t": "Blüdhaven Part Three",
+     "d": "2017-03",
+     "p": 3,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "12",
+     "t": "Blüdhaven Part Four",
+     "d": "2017-03",
+     "p": 4,
+     "c": [
+      "nightwing",
+      "talon",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "13",
+     "t": "Blüdhaven Part Five",
+     "d": "2017-04",
+     "p": 5,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "14",
+     "t": "Blüdhaven Part Six",
+     "d": "2017-04",
+     "p": 6,
+     "c": [
+      "nightwing",
+      "talia"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "15",
+     "t": "Blüdhaven Part Seven",
+     "d": "2017-05",
+     "p": 7,
+     "c": [
+      "nightwing",
+      "talon",
+      "talia"
+     ]
+    }
+   ],
+   "start": "2017-02",
+   "end": "2017-06",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "summaryZh": "夜翼发现布鲁德海文建在拉撒路之池之上，猫头鹰法庭的「爪」持续追猎他；迪克决定扎根这座城市，成为它的守护者。",
+   "characters": [
+    "nightwing",
+    "talon",
+    "batman",
+    "talia"
+   ]
+  },
+  {
+   "id": "nightwing-v4-nightwing-must-die",
+   "name": "Nightwing Must Die",
+   "nameZh": "夜翼必须死",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "nightwing-v4",
+     "n": "16",
+     "t": "Nightwing Must Die Part One",
+     "d": "2017-05",
+     "p": 1,
+     "c": [
+      "nightwing",
+      "batman",
+      "robin-damian"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "17",
+     "t": "Nightwing Must Die Part Two",
+     "d": "2017-05",
+     "p": 2,
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "18",
+     "t": "Nightwing Must Die Part Three",
+     "d": "2017-06",
+     "p": 3,
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "19",
+     "t": "The Lazarus Contract Part Four",
+     "d": "2017-06",
+     "p": 4,
+     "c": [
+      "nightwing"
+     ],
+     "x": "拉撒路契约联动（Part 4）"
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "20",
+     "t": "The Lazarus Contract Part Six",
+     "d": "2017-07",
+     "p": 6,
+     "c": [
+      "nightwing"
+     ],
+     "x": "拉撒路契约联动（Part 6）"
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "21",
+     "t": "Nightwing Must Die Part Six",
+     "d": "2017-07",
+     "p": 6,
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    }
+   ],
+   "start": "2017-05",
+   "end": "2017-07",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "summaryZh": "来自黑暗多元宇宙的「死亡之翼」（Deathwing）——夜翼的黑暗镜像——入侵主宇宙，伪装成迪克袭击蝙蝠家族，迫使夜翼与蝙蝠侠联手对抗自己的倒影。",
+   "characters": [
+    "nightwing",
+    "batman",
+    "robin-damian",
+    "talon"
+   ]
+  },
+  {
+   "id": "nightwing-v4-blockbuster",
+   "name": "Blockbuster",
+   "nameZh": "重磅炸弹",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "nightwing-v4",
+     "n": "22",
+     "t": null,
+     "d": "2017-08",
+     "p": null,
+     "c": [
+      "nightwing",
+      "gordon"
+     ],
+     "x": "2017-06 上市（Key Collector 核实）"
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "23",
+     "t": null,
+     "d": "2017-09",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "24",
+     "t": null,
+     "d": "2017-10",
+     "p": null,
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "25",
+     "t": null,
+     "d": "2017-11",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "26",
+     "t": null,
+     "d": "2017-12",
+     "p": null,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "27",
+     "t": null,
+     "d": "2018-01",
+     "p": null,
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "28",
+     "t": null,
+     "d": "2018-02",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    }
+   ],
+   "start": "2017-08",
+   "end": "2018-02",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "summaryZh": "重磅炸弹（Blockbuster）接管布鲁德海文地下世界，夜翼与这位老对手展开全面战争；布鲁德海文陷入沦陷危机，迪克在「夜翼必须死」事件后直面黑帮战争与城市归属之战。",
+   "characters": [
+    "nightwing",
+    "batman",
+    "talon",
+    "gordon"
+   ]
+  },
+  {
+   "id": "red-hood-outlaw",
+   "name": "Red Hood: Outlaw",
+   "nameZh": "红头罩：法外者",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "red-hood-outlaw",
+     "n": "26",
+     "t": null,
+     "d": "2018-11",
+     "p": null,
+     "c": [
+      "redhood"
+     ],
+     "x": "2018-09 上市（Key Collector 核实）；更名首期"
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "27",
+     "t": null,
+     "d": "2018-12",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "28",
+     "t": null,
+     "d": "2019-01",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "29",
+     "t": null,
+     "d": "2019-02",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "30",
+     "t": null,
+     "d": "2019-03",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "31",
+     "t": null,
+     "d": "2019-04",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "32",
+     "t": null,
+     "d": "2019-05",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "33",
+     "t": null,
+     "d": "2019-06",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "34",
+     "t": null,
+     "d": "2019-07",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "35",
+     "t": null,
+     "d": "2019-08",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "36",
+     "t": null,
+     "d": "2019-09",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "37",
+     "t": null,
+     "d": "2019-10",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "38",
+     "t": null,
+     "d": "2019-11",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "39",
+     "t": null,
+     "d": "2019-12",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "40",
+     "t": null,
+     "d": "2020-01",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "41",
+     "t": null,
+     "d": "2020-02",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "42",
+     "t": null,
+     "d": "2020-03",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "43",
+     "t": null,
+     "d": "2020-04",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "44",
+     "t": null,
+     "d": "2020-05",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "45",
+     "t": null,
+     "d": "2020-06",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "46",
+     "t": null,
+     "d": "2020-07",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "47",
+     "t": null,
+     "d": "2020-08",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "48",
+     "t": null,
+     "d": "2020-09",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "49",
+     "t": null,
+     "d": "2020-10",
+     "p": null,
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "50",
+     "t": null,
+     "d": "2020-12",
+     "p": null,
+     "c": [
+      "redhood"
+     ],
+     "x": "2020-10 上市（GeekDad 核实）；系列收官"
+    }
+   ],
+   "start": "2018-11",
+   "end": "2020-12",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "summaryZh": "系列自 #26 起更名《红头罩：法外者》：杰森·托德离开法外者小队独行哥谭，对抗新的罪犯势力，并在「小丑战争」余波中重新审视与蝙蝠家族的关系。",
+   "characters": [
+    "redhood",
+    "batman",
+    "batgirl",
+    "robin-damian"
+   ]
+  },
+  {
+   "id": "batman-the-knight",
+   "name": "Batman: The Knight",
+   "nameZh": "蝙蝠侠：骑士之路",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "Batman: The Knight",
+     "n": "1",
+     "t": "Part One",
+     "d": "2022-04",
+     "p": 1,
+     "c": [
+      "batman"
+     ],
+     "x": "2022-02 上市，封面日期为估计值 2022-04"
+    },
+    {
+     "s": "Batman: The Knight",
+     "n": "2",
+     "t": "Part Two",
+     "d": "2022-05",
+     "p": 2,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "Batman: The Knight",
+     "n": "3",
+     "t": "Part Three",
+     "d": "2022-06",
+     "p": 3,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "Batman: The Knight",
+     "n": "4",
+     "t": "Part Four",
+     "d": "2022-07",
+     "p": 4,
+     "c": [
+      "batman",
+      "ras"
+     ]
+    },
+    {
+     "s": "Batman: The Knight",
+     "n": "5",
+     "t": "Part Five",
+     "d": "2022-08",
+     "p": 5,
+     "c": [
+      "batman",
+      "talia"
+     ]
+    },
+    {
+     "s": "Batman: The Knight",
+     "n": "6",
+     "t": "Part Six",
+     "d": "2022-09",
+     "p": 6,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "Batman: The Knight",
+     "n": "7",
+     "t": "Part Seven",
+     "d": "2022-10",
+     "p": 7,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "Batman: The Knight",
+     "n": "8",
+     "t": "Part Eight",
+     "d": "2022-11",
+     "p": 8,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "Batman: The Knight",
+     "n": "9",
+     "t": "Part Nine",
+     "d": "2022-12",
+     "p": 9,
+     "c": [
+      "batman"
+     ]
+    },
+    {
+     "s": "Batman: The Knight",
+     "n": "10",
+     "t": "Part Ten",
+     "d": "2023-01",
+     "p": 10,
+     "c": [
+      "batman",
+      "ras"
+     ],
+     "x": "终刊（封面日期为估计值）"
+    }
+   ],
+   "start": "2022-04",
+   "end": "2023-01",
+   "era": "Frontier",
+   "earth": "earth-0",
+   "summaryZh": "兹达斯基与卡尔米内·迪詹多梅尼科的十期迷你系列：讲述青年布鲁斯·韦恩在成为蝙蝠侠之前的环球修行之旅，师从杜卡德大师、拉斯·艾尔·古尔、塔利亚等，探索他如何成为「世界上最伟大的侦探」；每期以 Part 编号连载。",
+   "characters": [
+    "batman",
+    "ras",
+    "talia",
+    "alfred"
+   ]
+  },
+  {
+   "id": "worlds-finest",
+   "name": "The Devil Nezha",
+   "nameZh": "恶魔哪吒",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "worlds-finest",
+     "n": "1",
+     "t": null,
+     "d": "2022-06",
+     "p": null,
+     "c": [
+      "superman",
+      "batman"
+     ],
+     "x": "2022 年春上市，封面日期为估计值 2022-06"
+    },
+    {
+     "s": "worlds-finest",
+     "n": "2",
+     "t": null,
+     "d": "2022-07",
+     "p": null,
+     "c": [
+      "superman",
+      "batman"
+     ]
+    },
+    {
+     "s": "worlds-finest",
+     "n": "3",
+     "t": null,
+     "d": "2022-08",
+     "p": null,
+     "c": [
+      "superman",
+      "batman"
+     ]
+    },
+    {
+     "s": "worlds-finest",
+     "n": "4",
+     "t": null,
+     "d": "2022-09",
+     "p": null,
+     "c": [
+      "superman",
+      "batman"
+     ]
+    },
+    {
+     "s": "worlds-finest",
+     "n": "5",
+     "t": null,
+     "d": "2022-10",
+     "p": null,
+     "c": [
+      "superman",
+      "batman"
+     ]
+    },
+    {
+     "s": "worlds-finest",
+     "n": "6",
+     "t": null,
+     "d": "2022-11",
+     "p": null,
+     "c": [
+      "superman",
+      "batman"
+     ]
+    },
+    {
+     "s": "worlds-finest",
+     "n": "7",
+     "t": null,
+     "d": "2022-12",
+     "p": null,
+     "c": [
+      "superman",
+      "batman",
+      "robin-damian"
+     ]
+    },
+    {
+     "s": "worlds-finest",
+     "n": "8",
+     "t": null,
+     "d": "2023-01",
+     "p": null,
+     "c": [
+      "superman",
+      "batman",
+      "robin-damian"
+     ],
+     "x": "终幕（封面日期为估计值）"
+    }
+   ],
+   "start": "2022-06",
+   "end": "2023-01",
+   "era": "Frontier",
+   "earth": "earth-0",
+   "summaryZh": "马克·韦德与丹·莫拉的《蝙蝠侠/超人：世界最佳搭档》开篇大幕：哪吒（Nezha）挣脱封印袭击大都会与哥谭，蝙蝠侠与超人联手对抗这位东方恶魔神，期间联动《蝙蝠侠大战罗宾》与「拉撒路星球」事件线。",
+   "characters": [
+    "superman",
+    "batman",
+    "robin-damian"
+   ]
+  },
+  {
+   "id": "nightwing-v4-heartless",
+   "name": "The Battle for Blüdhaven's Heart",
+   "nameZh": "布鲁德海文之心争夺战",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "nightwing-v4",
+     "n": "92",
+     "t": null,
+     "d": "2022-07",
+     "p": null,
+     "c": [
+      "nightwing",
+      "oracle"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "93",
+     "t": null,
+     "d": "2022-08",
+     "p": null,
+     "c": [
+      "nightwing",
+      "oracle"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "94",
+     "t": null,
+     "d": "2022-09",
+     "p": null,
+     "c": [
+      "nightwing",
+      "oracle"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "95",
+     "t": null,
+     "d": "2022-10",
+     "p": null,
+     "c": [
+      "nightwing",
+      "oracle"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "96",
+     "t": null,
+     "d": "2022-11",
+     "p": null,
+     "c": [
+      "nightwing",
+      "oracle"
+     ]
+    }
+   ],
+   "start": "2022-07",
+   "end": "2022-11",
+   "era": "Frontier",
+   "earth": "earth-0",
+   "summaryZh": "泰勒《夜翼》核心大幕：掳心者（Heartless）掌控布鲁德海文电力与黑市，夜翼与芭芭拉联手反攻，全城陷入「心灵之战」，掳心者真实身份揭晓，迪克与芭芭拉关系也在此幕升温；对应 Nightwing v4 #92-96（分卷边界为估计值）。",
+   "characters": [
+    "nightwing",
+    "oracle",
+    "batman"
+   ]
+  },
+  {
+   "id": "brave-bold",
+   "name": "Batman: The Brave and the Bold",
+   "nameZh": "蝙蝠侠：英勇无畏",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "brave-bold",
+     "n": "1",
+     "t": null,
+     "d": "2023-07",
+     "p": null,
+     "c": [
+      "batman"
+     ],
+     "x": "GCD/Overstreet 封面日期 2023-07（2023-05-09 上市）"
+    },
+    {
+     "s": "brave-bold",
+     "n": "2",
+     "t": null,
+     "d": "2023-08",
+     "p": null,
+     "c": [
+      "batman",
+      "batgirl"
+     ]
+    },
+    {
+     "s": "brave-bold",
+     "n": "3",
+     "t": null,
+     "d": "2023-09",
+     "p": null,
+     "c": [
+      "batman",
+      "nightwing"
+     ]
+    },
+    {
+     "s": "brave-bold",
+     "n": "4",
+     "t": null,
+     "d": "2023-10",
+     "p": null,
+     "c": [
+      "batman",
+      "robin-damian"
+     ]
+    },
+    {
+     "s": "brave-bold",
+     "n": "5",
+     "t": null,
+     "d": "2023-11",
+     "p": null,
+     "c": [
+      "batman",
+      "catwoman"
+     ]
+    },
+    {
+     "s": "brave-bold",
+     "n": "6",
+     "t": null,
+     "d": "2023-12",
+     "p": null,
+     "c": [
+      "batman"
+     ]
+    }
+   ],
+   "start": "2023-07",
+   "end": "2023-12",
+   "era": "Frontier",
+   "earth": "earth-0",
+   "summaryZh": "《蝙蝠侠：英勇无畏》是 2023 年重启的蝙蝠家族选集系列：每期由多个短篇构成，汇聚不同编剧与画师，讲述蝙蝠侠与蝙蝠家族成员（蝙蝠女、罗宾、夜翼、猫女等）以及 DC 众英雄的搭档故事；本档案收录前六期（系列其后延续）。",
+   "characters": [
+    "batman",
+    "batgirl",
+    "nightwing",
+    "robin-damian",
+    "catwoman"
+   ]
+  },
+  {
+   "id": "batman-joker-year-one",
+   "name": "The Joker: Year One",
+   "nameZh": "小丑：元年",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "batman-v3",
+     "n": "140",
+     "t": null,
+     "d": "2024-02",
+     "p": null,
+     "c": [
+      "batman",
+      "joker"
+     ],
+     "x": "期号范围为估计值"
+    },
+    {
+     "s": "batman-v3",
+     "n": "141",
+     "t": null,
+     "d": "2024-03",
+     "p": null,
+     "c": [
+      "batman",
+      "joker"
+     ]
+    },
+    {
+     "s": "batman-v3",
+     "n": "142",
+     "t": null,
+     "d": "2024-04",
+     "p": null,
+     "c": [
+      "batman",
+      "joker"
+     ],
+     "x": "2024-02 上市（AIPT/Den of Geek 核实为本幕章节）"
+    },
+    {
+     "s": "batman-v3",
+     "n": "143",
+     "t": null,
+     "d": "2024-05",
+     "p": null,
+     "c": [
+      "batman",
+      "joker"
+     ]
+    },
+    {
+     "s": "batman-v3",
+     "n": "144",
+     "t": null,
+     "d": "2024-06",
+     "p": null,
+     "c": [
+      "batman",
+      "joker"
+     ],
+     "x": "2024-04 上市（多印次，Bleeding Cool 核实）"
+    }
+   ],
+   "start": "2024-02",
+   "end": "2024-06",
+   "era": "Frontier",
+   "earth": "earth-0",
+   "summaryZh": "《小丑：元年》是兹达斯基在《蝙蝠侠》主刊连载的年度大幕（2023-11 官宣，2024 年连载）：以「元年」视角重构小丑起源，与《致命玩笑》叙事对话并关联《三个小丑》，重新定义小丑与戈登、蝙蝠侠的初次相遇；本档案收录 Batman #140-144（期号范围为估计值，待核实）。",
+   "characters": [
+    "batman",
+    "joker",
+    "gordon"
+   ]
+  }
+ ],
+ "standalone": [
+  {
+   "s": "batman",
+   "n": "542",
+   "t": "Faceless, Part 1: Murdicide",
+   "d": "1997-05",
+   "p": 1,
+   "c": [
+    "batman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "543",
+   "t": "Faceless, Part 2: Postmarked Murder",
+   "d": "1997-06",
+   "p": 2,
+   "c": [
+    "batman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "544",
+   "t": "Faceless, Part 3",
+   "d": "1997-07",
+   "p": 3,
+   "c": [
+    "batman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "548",
+   "t": "The Penguin Returns, Part One: Burning Faces",
+   "d": "1997-11",
+   "p": 1,
+   "c": [
+    "batman",
+    "penguin"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "549",
+   "t": "The Penguin Returns, Part Two: The Egyptian Falcon",
+   "d": "1997-12",
+   "p": 2,
+   "c": [
+    "batman",
+    "penguin"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "catwoman-v2",
+   "n": "46",
+   "t": "Two-Face, Part One",
+   "d": "1997-06",
+   "p": 1,
+   "c": [
+    "catwoman",
+    "twopface"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "catwoman-v2",
+   "n": "47",
+   "t": "Two-Face, Part 2: Two Ways To Skin A Cat",
+   "d": "1997-07",
+   "p": 2,
+   "c": [
+    "catwoman",
+    "twopface"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "587",
+   "t": "Officer Down, Part One: These Are Your Rights",
+   "d": "2001-05",
+   "p": 1,
+   "c": [
+    "batman",
+    "gordon"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "catwoman-v3",
+   "n": "16",
+   "t": "Relentless, Part 5",
+   "d": "2003-04",
+   "p": 5,
+   "c": [
+    "catwoman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "catwoman-v3",
+   "n": "19",
+   "t": "No Easy Way Down, Part 3",
+   "d": "2003-07",
+   "p": 3,
+   "c": [
+    "catwoman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "Batman: Death and the Maidens",
+   "n": "1",
+   "t": "Death and the Maidens, Chapter One",
+   "d": "2003-11",
+   "p": 1,
+   "c": [
+    "batman",
+    "ras"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "Batman: Death and the Maidens",
+   "n": "2",
+   "t": "Death and the Maidens, Chapter Two",
+   "d": "2003-12",
+   "p": 2,
+   "c": [
+    "batman",
+    "ras"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "Batman: Death and the Maidens",
+   "n": "3",
+   "t": "Death and the Maidens, Chapter Three",
+   "d": "2004-01",
+   "p": 3,
+   "c": [
+    "batman",
+    "ras"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "Batman: The Widening Gyre",
+   "n": "1",
+   "t": "Part One: Turning and Turning",
+   "d": "2009-10",
+   "p": 1,
+   "c": [
+    "batman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "Batman: The Widening Gyre",
+   "n": "2",
+   "t": null,
+   "d": "2009-11",
+   "p": 2,
+   "c": [
+    "batman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "Batman: The Widening Gyre",
+   "n": "3",
+   "t": null,
+   "d": "2009-12",
+   "p": 3,
+   "c": [
+    "batman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "Batman: The Widening Gyre",
+   "n": "4",
+   "t": null,
+   "d": "2010-02",
+   "p": 4,
+   "c": [
+    "batman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "Batman: The Widening Gyre",
+   "n": "5",
+   "t": null,
+   "d": "2010-04",
+   "p": 5,
+   "c": [
+    "batman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "Batman: The Widening Gyre",
+   "n": "6",
+   "t": null,
+   "d": "2010-09",
+   "p": 6,
+   "c": [
+    "batman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "Batman: Odyssey",
+   "n": "1",
+   "t": "Part 1",
+   "d": "2010-09",
+   "p": 1,
+   "c": [
+    "batman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "Batman: Odyssey",
+   "n": "2",
+   "t": "Part 2",
+   "d": "2010-10",
+   "p": 2,
+   "c": [
+    "batman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "Batman: Odyssey",
+   "n": "3",
+   "t": "Part 3",
+   "d": "2010-11",
+   "p": 3,
+   "c": [
+    "batman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "Batman: Odyssey",
+   "n": "4",
+   "t": "Part 4",
+   "d": "2010-12",
+   "p": 4,
+   "c": [
+    "batman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "Batman: Odyssey",
+   "n": "5",
+   "t": "Part 5",
+   "d": "2011-01",
+   "p": 5,
+   "c": [
+    "batman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "Batman: Odyssey",
+   "n": "6",
+   "t": "Part 6",
+   "d": "2011-02",
+   "p": 6,
+   "c": [
+    "batman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "Batman: The Knight",
+   "n": "1",
+   "t": "Part One",
+   "d": "2022-04",
+   "p": 1,
+   "c": [
+    "batman"
+   ],
+   "x": "《蝙蝠侠：骑士之路》开篇（2022-02 上市），散刊条目与 arc 交叉引用",
+   "era": "Frontier"
+  },
+  {
+   "s": "Robin 2021 Annual",
+   "n": "1",
+   "t": "The Casebook",
+   "d": "2022-01",
+   "p": null,
+   "c": [
+    "robin-damian",
+    "batman"
+   ],
+   "x": "《罗宾 2021 年刊》「案件簿」，2021-11 上市（GeekDad 核实），归入 robin-2021 时代散刊",
+   "era": "Frontier"
+  },
+  {
+   "s": "The Joker",
+   "n": "1",
+   "t": null,
+   "d": "2021-05",
+   "p": null,
+   "c": [
+    "joker",
+    "gordon"
+   ],
+   "x": "泰尼恩《小丑》2021 系列开篇（2021-03 上市，封面日期为估计值）",
+   "era": "Frontier"
+  },
+  {
+   "s": "Batman: One Bad Day: The Riddler",
+   "n": "1",
+   "t": null,
+   "d": "2023-04",
+   "p": null,
+   "c": [
+    "riddler",
+    "batman"
+   ],
+   "x": "《One Bad Day》单刊系列之一（2023-02 上市，封面日期为估计值）",
+   "era": "Frontier"
+  },
+  {
+   "s": "Batman: Gargoyle of Gotham",
+   "n": "1",
+   "t": null,
+   "d": "2023-09",
+   "p": null,
+   "c": [
+    "batman",
+    "joker"
+   ],
+   "x": "拉斐尔·格拉姆帕的独立恐怖短篇系列（2023-07 上市，封面日期为估计值）",
+   "era": "Frontier"
+  },
+  {
+   "s": "batman",
+   "n": "436",
+   "t": "Batman: Year Three: Part One",
+   "d": "1989-06",
+   "p": 1,
+   "c": [
+    "batman",
+    "nightwing"
+   ],
+   "x": "副题 'Different Roads'；迪克·格雷森起源闪回",
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "437",
+   "t": "Batman: Year Three: Part Two",
+   "d": "1989-07",
+   "p": 2,
+   "c": [
+    "batman",
+    "nightwing"
+   ],
+   "x": "副题 'Changes Made'",
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "438",
+   "t": "Batman: Year Three: Part Three",
+   "d": "1989-08",
+   "p": 3,
+   "c": [
+    "batman",
+    "nightwing"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "439",
+   "t": "Batman: Year Three: Part Four",
+   "d": "1989-09",
+   "p": 4,
+   "c": [
+    "batman",
+    "nightwing"
+   ],
+   "x": "为《孤独的死亡之地》做铺垫",
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "448",
+   "t": "The Penguin Affair: Part One",
+   "d": "1990-06",
+   "p": 1,
+   "c": [
+    "batman",
+    "penguin"
+   ],
+   "x": "副题 'Pawns'；封面日期为按月推算（1989-90 蝙蝠侠主刊偶有双月发行），建议以 GCD 复核",
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "449",
+   "t": "The Penguin Affair: Part Two",
+   "d": "1990-07",
+   "p": 2,
+   "c": [
+    "batman",
+    "penguin"
+   ],
+   "x": "封面日期为按月推算",
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "450",
+   "t": "The Penguin Affair: Part Three",
+   "d": "1990-08",
+   "p": 3,
+   "c": [
+    "batman",
+    "penguin"
+   ],
+   "x": "副题 'Winged Vengeance'；封面日期为按月推算",
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "452",
+   "t": "Dark Knight, Dark City: Part One",
+   "d": "1990-08",
+   "p": 1,
+   "c": [
+    "batman",
+    "riddler",
+    "gordon"
+   ],
+   "x": "谜语人登场；#452 与 #453 同为 1990-08 双月发行",
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "453",
+   "t": "Dark Knight, Dark City: Part Two",
+   "d": "1990-08",
+   "p": 2,
+   "c": [
+    "batman",
+    "riddler",
+    "gordon"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "454",
+   "t": "Dark Knight, Dark City: Part Three",
+   "d": "1990-09",
+   "p": 3,
+   "c": [
+    "batman",
+    "riddler",
+    "gordon"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "455",
+   "t": "Identity Crisis: Part One",
+   "d": "1990-10",
+   "p": 1,
+   "c": [
+    "batman",
+    "twopface"
+   ],
+   "x": "双面人人格分裂故事",
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "456",
+   "t": "Identity Crisis: Part Two",
+   "d": "1990-11",
+   "p": 2,
+   "c": [
+    "batman",
+    "twopface"
+   ],
+   "x": "副题 'Without Fear of Consequence'",
+   "era": "P52"
+  },
+  {
+   "s": "detective",
+   "n": "598",
+   "t": "Blind Justice: Part One",
+   "d": "1989-03",
+   "p": 1,
+   "c": [
+    "batman",
+    "gordon"
+   ],
+   "x": "萨姆·哈姆（1989 电影《蝙蝠侠》编剧）跨三期故事",
+   "era": "P52"
+  },
+  {
+   "s": "detective",
+   "n": "599",
+   "t": "Blind Justice: Part Two",
+   "d": "1989-04",
+   "p": 2,
+   "c": [
+    "batman",
+    "gordon"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "detective",
+   "n": "600",
+   "t": "Blind Justice: Part Three",
+   "d": "1989-05",
+   "p": 3,
+   "c": [
+    "batman",
+    "gordon"
+   ],
+   "x": "第 600 期纪念号；威利·艾斯纳等嘉宾内页",
+   "era": "P52"
+  },
+  {
+   "s": "detective",
+   "n": "604",
+   "t": "The Mud Pack: Part One",
+   "d": "1989-09",
+   "p": 1,
+   "c": [
+    "batman"
+   ],
+   "x": "三代泥面人（Clayface）集结",
+   "era": "P52"
+  },
+  {
+   "s": "detective",
+   "n": "605",
+   "t": "The Mud Pack: Part Two",
+   "d": "1989-10",
+   "p": 2,
+   "c": [
+    "batman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "detective",
+   "n": "606",
+   "t": "The Mud Pack: Part Three",
+   "d": "1989-11",
+   "p": 3,
+   "c": [
+    "batman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "detective",
+   "n": "607",
+   "t": "The Mud Pack: Part Four",
+   "d": "1989-12",
+   "p": 4,
+   "c": [
+    "batman"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "batman-v2",
+   "n": "12",
+   "t": null,
+   "d": "2012-10",
+   "p": null,
+   "c": [
+    "batman",
+    "talon"
+   ],
+   "x": "《猫头鹰之夜》收尾，与 #8-11 同收录于 The City of Owls 合订本",
+   "era": "New52"
+  },
+  {
+   "s": "batman-v2",
+   "n": "18",
+   "t": "Resolve",
+   "d": "2013-05",
+   "p": null,
+   "c": [
+    "batman",
+    "robin-damian"
+   ],
+   "x": "Requiem 悼念单刊：布鲁斯哀悼达米安",
+   "era": "New52"
+  },
+  {
+   "s": "batman-v2",
+   "n": "23.1",
+   "t": "The Riddler",
+   "d": "2013-11",
+   "p": null,
+   "c": [
+    "riddler"
+   ],
+   "x": "Villains Month 反派月单刊（Forever Evil 联动）",
+   "era": "New52"
+  },
+  {
+   "s": "batman-v2",
+   "n": "23.3",
+   "t": "The Joker",
+   "d": "2013-11",
+   "p": null,
+   "c": [
+    "joker"
+   ],
+   "x": "Villains Month 反派月单刊（Forever Evil 联动）",
+   "era": "New52"
+  },
+  {
+   "s": "batman-v2",
+   "n": "34",
+   "t": null,
+   "d": "2014-10",
+   "p": null,
+   "c": [
+    "batman"
+   ],
+   "x": "《零年》与《终局》之间的过渡单刊",
+   "era": "New52"
+  },
+  {
+   "s": "detective-v2",
+   "n": "18",
+   "t": null,
+   "d": "2013-05",
+   "p": null,
+   "c": [
+    "batman",
+    "robin-damian"
+   ],
+   "x": "Requiem 悼念单刊",
+   "era": "New52"
+  },
+  {
+   "s": "Batman: Three Jokers",
+   "n": "1",
+   "t": "Part One",
+   "d": "2020-10",
+   "p": 1,
+   "c": [
+    "batman",
+    "joker",
+    "redhood",
+    "batgirl"
+   ],
+   "x": "2020-08 上市（GCD 核实封面日期 2020-10）",
+   "era": "Rebirth"
+  },
+  {
+   "s": "Batman: Three Jokers",
+   "n": "2",
+   "t": "Part Two",
+   "d": "2020-12",
+   "p": 2,
+   "c": [
+    "batman",
+    "joker",
+    "redhood",
+    "batgirl"
+   ],
+   "x": "2020-10 上市",
+   "era": "Rebirth"
+  },
+  {
+   "s": "Batman: Three Jokers",
+   "n": "3",
+   "t": "Part Three",
+   "d": "2021-02",
+   "p": 3,
+   "c": [
+    "batman",
+    "joker",
+    "redhood",
+    "batgirl"
+   ],
+   "x": "2020-12 上市（封面日期跨入 2021）",
+   "era": "Frontier"
+  },
+  {
+   "s": "Batman: Last Knight on Earth",
+   "n": "1",
+   "t": "Part One",
+   "d": "2019-07",
+   "p": 1,
+   "c": [
+    "batman",
+    "joker",
+    "superman"
+   ],
+   "x": "2019-05 上市（GCD 核实封面日期 2019-07）；DC Black Label",
+   "era": "Rebirth"
+  },
+  {
+   "s": "Batman: Last Knight on Earth",
+   "n": "2",
+   "t": "Part Two",
+   "d": "2019-10",
+   "p": 2,
+   "c": [
+    "batman",
+    "joker"
+   ],
+   "x": "2019-08 上市；DC Black Label",
+   "era": "Rebirth"
+  },
+  {
+   "s": "Batman: Last Knight on Earth",
+   "n": "3",
+   "t": "Part Three",
+   "d": "2020-04",
+   "p": 3,
+   "c": [
+    "batman",
+    "joker"
+   ],
+   "x": "延期至 2020-02 上市；DC Black Label",
+   "era": "Rebirth"
+  }
+ ]
+}

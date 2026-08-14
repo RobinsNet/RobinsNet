@@ -1,0 +1,42 @@
+[
+  {
+    "id": "P52",
+    "nameZh": "后危机时代",
+    "nameEn": "Post-Crisis (Pre-Flashpoint)",
+    "range": "1986 – 2011",
+    "color": "#e6b800",
+    "note": "Crisis on Infinite Earths 之后、Flashpoint 之前的连续性，即社区俗称的 P52/闪点前时代。"
+  },
+  {
+    "id": "New52",
+    "nameZh": "新52",
+    "nameEn": "The New 52",
+    "range": "2011 – 2016",
+    "color": "#1971c2",
+    "note": "Flashpoint 重启后的连续性，2011 年 9 月起所有刊物从第 1 期重新编号。"
+  },
+  {
+    "id": "Rebirth",
+    "nameZh": "重生时代",
+    "nameEn": "DC Rebirth",
+    "range": "2016 – 2021",
+    "color": "#2f9e44",
+    "note": "DC Universe: Rebirth 之后恢复期号延续、找回历史记忆的连续性。"
+  },
+  {
+    "id": "Frontier",
+    "nameZh": "无限边疆/黎明时代",
+    "nameEn": "Infinite Frontier & Dawn of DC",
+    "range": "2021 – 2024",
+    "color": "#e8590c",
+    "note": "Future State / Infinite Frontier 之后，Dark Crisis 至 Dawn of DC 时期。"
+  },
+  {
+    "id": "Absolute",
+    "nameZh": "绝对宇宙",
+    "nameEn": "Absolute Universe",
+    "range": "2024 –",
+    "color": "#c92a2a",
+    "note": "2024 年起的新平行宇宙（Absolute Earth），如 Absolute Batman。"
+  }
+]

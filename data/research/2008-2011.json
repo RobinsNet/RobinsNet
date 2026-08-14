@@ -1,0 +1,516 @@
+{
+  "events": [
+    {
+      "id": "black-glove",
+      "name": "The Black Glove",
+      "nameZh": "黑手套",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "arc",
+      "start": "2007-08",
+      "end": "2008-05",
+      "summaryZh": "「黑手套」是格兰特·莫里森蝙蝠侠长篇叙事的第二阶段：蝙蝠侠受邀前往神秘小岛参加「国际英雄俱乐部」聚会，却遭遇连环谋杀（#667-669）；随后黑手套组织（以「西蒙·赫特博士」为首）的阴谋逐步逼近布鲁斯·韦恩，为「蝙蝠侠安息」埋下伏笔（#672-675）。本事件收录《蝙蝠侠》#667-669 与 #672-675，期间 #670-671 属于《拉尔斯·艾尔·古尔复活》联动（不纳入本事件）。",
+      "characters": ["batman", "robin-tim", "alfred", "gordon", "nightwing", "talia", "robin-damian"],
+      "related": ["batman-rip"],
+      "phases": [
+        {
+          "name": "The Black Glove",
+          "nameZh": "黑手套",
+          "issues": [
+            {"s": "batman", "n": "667", "t": "The Island of Mr. Mayhew", "d": "2007-08", "c": ["batman", "robin-tim"], "x": "黑手套开篇（格兰特·莫里森编剧，J.H. Williams III 作画）；'Island of Mr. Mayhew' 章回"},
+            {"s": "batman", "n": "668", "t": "Now We Are Dead!", "d": "2007-09", "c": ["batman", "robin-tim"], "x": null},
+            {"s": "batman", "n": "669", "t": "The Dark Knight Must Die!", "d": "2007-11", "c": ["batman", "robin-tim"], "x": "'Island of Mr. Mayhew' 三回结束；无 2007-10 封面期号（DC 封面日期调整）。#670-671 属《拉尔斯·艾尔·古尔复活》联动（#670=序章 'Lazarus Rising' 2007-12，#671=第4回 'He Who Is Master' 2008-01），不纳入本事件"},
+            {"s": "batman", "n": "672", "t": "Space Medicine", "d": "2008-02", "c": ["batman", "alfred"], "x": "黑手套线在拉尔斯联动后继续；此四回有时被标注为 'Space Medicine' / 'The Three Ghosts of Batman' 余波"},
+            {"s": "batman", "n": "673", "t": "Joe Chill in Hell", "d": "2008-03", "c": ["batman", "alfred"], "x": null},
+            {"s": "batman", "n": "674", "t": "Batman Dies at Dawn", "d": "2008-04", "c": ["batman", "gordon"], "x": null},
+            {"s": "batman", "n": "675", "t": "The Fiend with Nine Eyes", "d": "2008-05", "c": ["batman", "robin-tim", "nightwing", "talia", "robin-damian"], "x": "本弧收尾；塔利亚与达米安首次登场，为「蝙蝠侠安息」铺垫"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "batman-rip",
+      "name": "Batman R.I.P.",
+      "nameZh": "蝙蝠侠安息",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "saga",
+      "start": "2008-06",
+      "end": "2009-01",
+      "summaryZh": "「蝙蝠侠安息」是莫里森蝙蝠侠史诗的高潮：黑手套组织（西蒙·赫特博士）对布鲁斯·韦恩发动全面的心理与物理打击，蝙蝠侠被「Zur-En-Arrh」人格侵蚀、被活埋，最终靠意志挣脱并击坠赫特（#676-681）。结尾两期 #682-683 以「Last Rites（最后仪式）」两回与《最终危机》联动，回望蝙蝠侠的整个生涯（阿尔弗雷德视角），并直接衔接《最终危机》#5-6 中蝙蝠侠的结局。",
+      "characters": ["batman", "joker", "alfred", "robin-tim", "nightwing", "robin-damian", "gordon", "batwoman", "catwoman", "talia", "ras"],
+      "related": ["black-glove", "final-crisis"],
+      "phases": [
+        {
+          "name": "Batman R.I.P.",
+          "nameZh": "蝙蝠侠安息",
+          "issues": [
+            {"s": "batman", "n": "676", "t": "Batman R.I.P. Part One", "p": 1, "d": "2008-06", "c": ["batman", "joker", "alfred", "robin-tim"], "x": "章回副题：'Midnight in the House of Hurt'；2008-05 上市"},
+            {"s": "batman", "n": "677", "t": "Batman R.I.P. Part Two", "p": 2, "d": "2008-07", "c": ["batman", "gordon", "alfred"], "x": "章回副题：'Batman in the Underworld'"},
+            {"s": "batman", "n": "678", "t": "Batman R.I.P. Part Three", "p": 3, "d": "2008-08", "c": ["batman", "robin-tim", "nightwing", "alfred"], "x": "章回副题：'Zur En Arrh'"},
+            {"s": "batman", "n": "679", "t": "Batman R.I.P. Part Four", "p": 4, "d": "2008-09", "c": ["batman", "robin-tim", "alfred"], "x": "章回副题：'Miracle on Crime Alley'"},
+            {"s": "batman", "n": "680", "t": "Batman R.I.P. Part Five", "p": 5, "d": "2008-10", "c": ["batman", "nightwing", "joker"], "x": "章回副题：'The Thin White Duke of Death'"},
+            {"s": "batman", "n": "681", "t": "Batman R.I.P. Part Six", "p": 6, "d": "2008-12", "c": ["batman", "robin-tim", "nightwing", "alfred", "joker", "robin-damian"], "x": "章回副题：'The Conclusion: Hearts in Darkness'；无 2008-11 封面期号（最终危机期间追赶进度）"}
+          ]
+        },
+        {
+          "name": "Last Rites",
+          "nameZh": "最后仪式",
+          "issues": [
+            {"s": "batman", "n": "682", "t": "The Butler Did It", "d": "2009-01", "c": ["batman", "alfred", "gordon", "nightwing", "batwoman"], "x": "'Last Rites' 第一回——蝙蝠侠安息的收尾；《最终危机》联动（扩展最终危机 #5 布鲁德海文地堡场景）；封面 'Early January 2009'，2008-12 上市"},
+            {"s": "batman", "n": "683", "t": "What the Butler Saw", "d": "2009-01", "c": ["batman", "alfred", "joker", "catwoman", "talia", "ras", "robin-damian"], "x": "'Last Rites' 第二回——蝙蝠侠安息的收尾；《最终危机》联动（衔接最终危机 #6）；GCD 封面 'Late January 2009'，2008-12 末上市"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "final-crisis",
+      "name": "Final Crisis",
+      "nameZh": "最终危机",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "mega-event",
+      "start": "2008-07",
+      "end": "2009-03",
+      "summaryZh": "《最终危机》是2008年DC的大事件：达克赛德的「坠落」撕裂现实，反派联盟（天秤座 Libra）杀害火星猎人，正义联盟在噩梦中挣扎；蝙蝠侠在 #5-6 中射杀达克赛德后被欧米伽射线「击杀」。本事件收录主线七期（封面日期 2008-07 至 2009-03，其间 2008-09 与 2009-02 无刊），以及蝙蝠家族相关的「Last Rites」两期与《最终危机：安魂曲》#1（正义联盟为火星猎人举行的葬礼，蝙蝠侠出席）。非蝙蝠家族联动（Superman Beyond、Submit、Resist、Revelations、Legion of 3 Worlds 等）不纳入。",
+      "characters": ["justiceleague", "superman", "batman", "flash", "wonderwoman"],
+      "related": ["batman-rip"],
+      "phases": [
+        {
+          "name": "Final Crisis",
+          "nameZh": "最终危机",
+          "issues": [
+            {"s": "final-crisis", "n": "1", "t": "Final Crisis", "d": "2008-07", "c": ["justiceleague", "superman", "batman", "flash", "wonderwoman"], "x": "火星猎人被 Libra 的反派军团杀害；2008-05-28 上市"},
+            {"s": "final-crisis", "n": "2", "t": "Final Crisis", "d": "2008-08", "c": ["justiceleague", "superman", "batman", "flash", "wonderwoman"], "x": null},
+            {"s": "final-crisis", "n": "3", "t": "Final Crisis", "d": "2008-10", "c": ["justiceleague", "superman", "batman", "flash"], "x": "无 2008-09 封面期号（进度延误）"},
+            {"s": "final-crisis", "n": "4", "t": "Final Crisis", "d": "2008-11", "c": ["batman", "flash", "superman"], "x": "蝙蝠侠在布鲁德海文调查"},
+            {"s": "final-crisis", "n": "5", "t": "Final Crisis", "d": "2008-12", "c": ["batman", "superman", "flash", "justiceleague"], "x": "衔接「蝙蝠侠安息」；蝙蝠侠射杀达克赛德"},
+            {"s": "final-crisis", "n": "6", "t": "Final Crisis", "d": "2009-01", "c": ["batman", "superman", "wonderwoman", "justiceleague", "flash"], "x": "蝙蝠侠被欧米伽射线击中（「死亡」）；2009-01-14 上市"},
+            {"s": "final-crisis", "n": "7", "t": "Final Crisis", "d": "2009-03", "c": ["justiceleague", "superman", "flash", "wonderwoman", "batman"], "x": "终局；无 2009-02 封面期号；2009-01-28 上市"}
+          ]
+        },
+        {
+          "name": "Last Rites",
+          "nameZh": "最后仪式",
+          "issues": [
+            {"s": "batman", "n": "682", "t": "The Butler Did It", "d": "2009-01", "c": ["batman", "alfred", "gordon", "nightwing", "batwoman"], "x": "同时是「蝙蝠侠安息」的收尾（见事件 batman-rip）；《最终危机》联动；封面 'Early January 2009'"},
+            {"s": "batman", "n": "683", "t": "What the Butler Saw", "d": "2009-01", "c": ["batman", "alfred", "joker", "catwoman", "talia", "ras", "robin-damian"], "x": "同时是「蝙蝠侠安息」的收尾（见事件 batman-rip）；《最终危机》联动；GCD 封面 'Late January 2009'"}
+          ]
+        },
+        {
+          "name": "Requiem",
+          "nameZh": "安魂曲",
+          "issues": [
+            {"s": "Final Crisis: Requiem", "n": "1", "t": "Final Crisis: Requiem - Caretakers of Mars", "d": "2008-09", "c": ["justiceleague", "superman", "wonderwoman", "batman", "flash"], "x": "单刊；正义联盟为火星猎人举行的葬礼（蝙蝠侠出席）；2008-07-09 上市，封面 2008-09"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "whatever-happened",
+      "name": "Whatever Happened to the Caped Crusader?",
+      "nameZh": "那位戴头罩的骑士怎么了",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "arc",
+      "start": "2009-04",
+      "end": "2009-04",
+      "summaryZh": "尼尔·盖曼撰写的「最后的蝙蝠侠故事」：在蝙蝠侠的守灵夜上，众多亲友与宿敌（猫女、阿尔弗雷德、双面人、戈登、小丑等）各自讲述他「死亡」的版本，故事以超现实的元叙事向蝙蝠侠七十年的历史致敬，最终蝙蝠侠与母亲玛莎·韦恩告别。故事分两部分刊载于《蝙蝠侠》#686（Part One）与《侦探漫画》#853（Part Two），紧接「蝙蝠侠安息」与《最终危机》之后。",
+      "characters": ["batman", "catwoman", "alfred", "joker", "gordon", "twopface", "oracle", "ras", "superman", "nightwing"],
+      "related": ["batman-rip", "final-crisis"],
+      "phases": [
+        {
+          "name": "Whatever Happened to the Caped Crusader?",
+          "nameZh": "那位戴头罩的骑士怎么了",
+          "issues": [
+            {"s": "batman", "n": "686", "t": "Whatever Happened to the Caped Crusader? Part One", "p": 1, "d": "2009-04", "c": ["batman", "catwoman", "alfred", "joker", "gordon", "twopface", "oracle"], "x": "Part One；2009-02-11 上市；《蝙蝠侠》第1卷休刊前最后一期"},
+            {"s": "detective", "n": "853", "t": "Whatever Happened to the Caped Crusader? Part Two", "p": 2, "d": "2009-04", "c": ["batman", "joker", "ras", "superman", "catwoman", "alfred", "gordon", "twopface", "nightwing"], "x": "Part Two；2009-04 上市；《侦探漫画》第1卷休刊前最后一期"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "battle-for-the-cowl",
+      "name": "Batman: Battle for the Cowl",
+      "nameZh": "牛角之争",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "saga",
+      "start": "2009-05",
+      "end": "2009-07",
+      "summaryZh": "布鲁斯·韦恩在《最终危机》中「死亡」后，哥谭群雄并起，迪克·格雷森、蒂姆·德雷克与杰森·托德等人为争夺蝙蝠侠衣钵展开「牛角之争」。托尼·丹尼尔编剧并绘制的三期迷你系列中，冒充蝙蝠侠的杰森·托德被揭穿并以红头罩身份回归，迪克·格雷森最终接任蝙蝠侠，蒂姆·德雷克则决定以红罗宾之名继续行动。配套的五部单刊与《哥谭公报》两册从戈登、阿卡姆疯人院、蝙蝠人等不同视角补充了这一过渡时期的故事。",
+      "characters": ["batman", "nightwing", "redhood", "robin-tim", "robin-damian", "batgirl", "batwoman", "oracle", "catwoman", "alfred", "gordon", "blackmask", "twopface", "penguin", "riddler", "scarecrow", "ras", "outsiders"],
+      "related": ["final-crisis", "long-shadows", "batman-and-robin-v1"],
+      "phases": [
+        {
+          "name": "Battle for the Cowl",
+          "nameZh": "牛角之争",
+          "issues": [
+            {"s": "Battle for the Cowl", "n": "1", "t": "A Hostile Takeover", "d": "2009-05", "c": ["nightwing", "robin-tim", "robin-damian", "alfred", "gordon", "oracle", "catwoman", "batwoman", "blackmask", "scarecrow", "riddler"], "x": "2009-03 上市（封面日期提前约2个月）；本系列期号不带 Part 编号"},
+            {"s": "Battle for the Cowl", "n": "2", "t": "Army of One", "d": "2009-06", "c": ["nightwing", "robin-tim", "robin-damian", "alfred", "gordon", "blackmask", "catwoman", "twopface", "penguin"], "x": "2009-04-08 上市"},
+            {"s": "Battle for the Cowl", "n": "3", "t": "Last Man Standing", "d": "2009-07", "c": ["nightwing", "robin-tim", "robin-damian", "redhood", "alfred", "gordon", "twopface", "penguin", "blackmask"], "x": "2009-05 上市；蒂姆辞去罗宾之位，杰森以新红头罩身份回归，迪克继任蝙蝠侠"}
+          ]
+        },
+        {
+          "name": "One-shots",
+          "nameZh": "单刊",
+          "issues": [
+            {"s": "Battle for the Cowl: Commissioner Gordon", "n": "1", "t": "A Cold Day in Hell", "d": "2009-05", "c": ["gordon"], "x": "单刊；2009-03-25 上市"},
+            {"s": "Gotham Gazette", "n": "1", "t": "Vicki Vale", "d": "2009-05", "c": [], "x": "单刊（报纸版式），全名 'Batman: Gotham Gazette - Batman Dead?'；常见于牛角之争阅读顺序；故事标题据 BatmanYTB（封面无副题）"},
+            {"s": "Battle for the Cowl: Man-Bat", "n": "1", "t": "I Am Whatever You Say I Am", "d": "2009-06", "c": ["alfred", "outsiders"], "x": "单刊；2009-04-01 上市"},
+            {"s": "Battle for the Cowl: Arkham Asylum", "n": "1", "t": "Arkham Asylum: The Place Where Beauty Lies", "d": "2009-06", "c": ["scarecrow"], "x": "单刊；2009-04-22 上市"},
+            {"s": "Battle for the Cowl: The Underground", "n": "1", "t": "The Underground", "d": "2009-06", "c": ["catwoman", "riddler", "twopface", "penguin", "blackmask", "redhood", "ras"], "x": "单刊；2009-04-29 上市；杰森假扮蝙蝠侠；DC 征订列出拉斯·艾尔·古尔"},
+            {"s": "Battle for the Cowl: The Network", "n": "1", "t": "The Network", "d": "2009-07", "c": ["oracle", "catwoman", "batgirl"], "x": "单刊；2009-05-06 上市"},
+            {"s": "Gotham Gazette", "n": "1", "t": "Harvey Bullock", "d": "2009-07", "c": ["gordon"], "x": "单刊（报纸版式），全名 'Batman: Gotham Gazette - Batman Alive?'；2009-05-28 上市；故事标题据 BatmanYTB（封面无副题）"}
+          ]
+        },
+        {
+          "name": "Oracle: The Cure",
+          "nameZh": "神谕：治愈",
+          "issues": [
+            {"s": "Oracle: The Cure", "n": "1", "t": "Home Again, Home Again", "d": "2009-05", "c": ["oracle", "batgirl"], "x": "联动迷你系列（并不存在 'Battle for the Cowl: Oracle' 单刊，Oracle 关联作实为这期三期迷你）；常见于牛角之争阅读顺序"},
+            {"s": "Oracle: The Cure", "n": "2", "t": "Big Trouble in Hong Kong", "d": "2009-06", "c": ["oracle", "batgirl"], "x": null},
+            {"s": "Oracle: The Cure", "n": "3", "t": "A Matter of Anti-Life or Death!", "d": "2009-07", "c": ["oracle", "batgirl"], "x": null}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "long-shadows",
+      "name": "Long Shadows",
+      "nameZh": "长影",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "arc",
+      "start": "2009-08",
+      "end": "2009-12",
+      "summaryZh": "贾德·温尼克编剧的迪克·格雷森版蝙蝠侠首个故事线。第687期是《牛角之争》的尾声「内心之战」，新蝙蝠侠在超人、神奇女侠面前证明自己配得上斗篷。第688-691期构成主线「长影」：新蝙蝠侠周旋于企鹅人与双面人的地盘争夺之间，面对民众「他是冒牌货」的质疑，最终以一场双面对决收尾，确立了自己的风格。",
+      "characters": ["batman", "robin-damian", "robin-tim", "alfred", "gordon", "penguin", "twopface", "blackmask", "scarecrow", "superman", "wonderwoman"],
+      "related": ["battle-for-the-cowl", "batman-and-robin-v1"],
+      "phases": [
+        {
+          "name": "Long Shadows",
+          "nameZh": "长影",
+          "issues": [
+            {"s": "batman", "n": "687", "t": "A Battle Within: An Epilogue to Battle for the Cowl", "d": "2009-08", "c": ["batman", "robin-tim", "robin-damian", "alfred", "gordon", "superman", "wonderwoman", "scarecrow"], "x": "《牛角之争》尾声（不带 Part 编号）；2009-06-10 上市；与 #688-691 同收于《Batman: Long Shadows》合订本"},
+            {"s": "batman", "n": "688", "t": "Long Shadows Part One: Old Sins Cast Long Shadows", "p": 1, "d": "2009-09", "c": ["batman", "robin-damian", "alfred", "gordon", "penguin", "twopface"], "x": "弧线主体开始；2009-07 上市"},
+            {"s": "batman", "n": "689", "t": "Long Shadows Part Two: New Day, New Knight", "p": 2, "d": "2009-10", "c": ["batman", "alfred", "twopface", "penguin", "blackmask"], "x": "2009-08 上市"},
+            {"s": "batman", "n": "690", "t": "Long Shadows Part Three: Tripwires", "p": 3, "d": "2009-11", "c": ["batman", "alfred", "twopface", "penguin", "blackmask"], "x": "2009-09 上市"},
+            {"s": "batman", "n": "691", "t": "Long Shadows Conclusion: Two Knights. Two Faces.", "d": "2009-12", "c": ["batman", "alfred", "twopface", "blackmask"], "x": "终章（标注 'Conclusion'，无 Part 编号）；2009-10 上市；#691 与 #692（2009-12）同期双刊"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "batman-and-robin-v1",
+      "name": "Batman and Robin",
+      "nameZh": "蝙蝠侠与罗宾",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "series",
+      "start": "2009-08",
+      "end": "2011-01",
+      "summaryZh": "格兰特·莫里森编剧的《蝙蝠侠与罗宾》，迪克·格雷森与达米安·韦恩组成新一代「活力双雄」。系列以「蝙蝠侠重生」开篇，先后对抗猪面教授、「红头罩复仇记」中的杰森·托德，随后历经「黑骑士」与「蝙蝠侠对决罗宾」章节，揭露黑手套与西蒙·赫特的阴谋。最终章《黑弥撒》（「蝙蝠侠与罗宾必须死！」线）中，布鲁斯·韦恩穿越时间归来，完成蝙蝠侠衣钵的交接。",
+      "characters": ["batman", "robin-damian", "redhood", "joker", "talia", "alfred", "gordon", "penguin", "batwoman"],
+      "related": ["battle-for-the-cowl", "long-shadows", "return-bruce-wayne"],
+      "phases": [
+        {
+          "name": "Batman Reborn",
+          "nameZh": "蝙蝠侠重生",
+          "issues": [
+            {"s": "batman-and-robin-v1", "n": "1", "t": "Batman Reborn Part 1: Domino Effect", "p": 1, "d": "2009-08", "c": ["batman", "robin-damian", "alfred", "gordon"], "x": "2009-06 上市；GCD 封面 2009-08"},
+            {"s": "batman-and-robin-v1", "n": "2", "t": "Batman Reborn Part 2: The Circus of Strange", "p": 2, "d": "2009-09", "c": ["batman", "robin-damian", "alfred", "gordon"], "x": "2009-07-01 上市"},
+            {"s": "batman-and-robin-v1", "n": "3", "t": "Batman Reborn Part 3: Mommy Made of Nails", "p": 3, "d": "2009-10", "c": ["batman", "robin-damian", "alfred", "gordon", "redhood"], "x": "2009-08 上市；红头罩（杰森）在期末出现"},
+            {"s": "batman-and-robin-v1", "n": "4", "t": "Revenge of the Red Hood Part 1: Red Right Hand", "p": 1, "d": "2009-11", "c": ["batman", "robin-damian", "redhood", "gordon", "penguin"], "x": "2009-09 上市；杰森·托德任红头罩"},
+            {"s": "batman-and-robin-v1", "n": "5", "t": "Revenge of the Red Hood Part 2: Scarlet", "p": 2, "d": "2009-12", "c": ["batman", "robin-damian", "redhood", "gordon", "penguin"], "x": "2009-10 上市"},
+            {"s": "batman-and-robin-v1", "n": "6", "t": "Revenge of the Red Hood Part 3: Flamingo is Here", "p": 3, "d": "2010-01", "c": ["batman", "robin-damian", "redhood", "gordon"], "x": "2009-11 上市"}
+          ]
+        },
+        {
+          "name": "Blackest Knight",
+          "nameZh": "黑骑士",
+          "issues": [
+            {"s": "batman-and-robin-v1", "n": "7", "t": "Blackest Knight Part 1: Pearly and the Pit", "p": 1, "d": "2010-03", "c": ["batman", "robin-damian", "batwoman"], "x": "2010-01-27 上市（跳过 2010-02 封面槽位）；GCD 封面 2010-03；合订本 'Batman vs. Robin' 收 #7-12"},
+            {"s": "batman-and-robin-v1", "n": "8", "t": "Blackest Knight Part 2: Batman vs. Batman", "p": 2, "d": "2010-04", "c": ["batman", "robin-damian", "batwoman"], "x": "2010-02-10 上市（与 #9 双周连发）"},
+            {"s": "batman-and-robin-v1", "n": "9", "t": "Blackest Knight Part 3: Broken", "p": 3, "d": "2010-04", "c": ["batman", "robin-damian", "batwoman", "alfred"], "x": "2010-02-24 上市（GCD 封面 'Late April 2010'）"}
+          ]
+        },
+        {
+          "name": "Batman vs. Robin",
+          "nameZh": "蝙蝠侠对决罗宾",
+          "issues": [
+            {"s": "batman-and-robin-v1", "n": "10", "t": "Batman vs. Robin Part 1: The Haunting of Wayne Manor", "p": 1, "d": "2010-05", "c": ["batman", "robin-damian", "alfred", "talia"], "x": "2010-03 上市"},
+            {"s": "batman-and-robin-v1", "n": "11", "t": "Batman vs. Robin Part 2: Boneyard", "p": 2, "d": "2010-06", "c": ["batman", "robin-damian", "alfred", "talia"], "x": "2010-04 上市"},
+            {"s": "batman-and-robin-v1", "n": "12", "t": "Batman vs. Robin Part 3: Mexican Train", "p": 3, "d": "2010-07", "c": ["batman", "robin-damian", "alfred", "talia"], "x": "2010-05-05 上市；DC 征订称其为 'Batman vs. Robin' 终章"}
+          ]
+        },
+        {
+          "name": "Batman and Robin Must Die!",
+          "nameZh": "蝙蝠侠与罗宾必须死！",
+          "issues": [
+            {"s": "batman-and-robin-v1", "n": "13", "t": "Batman and Robin Must Die! Part 1: The Garden of Death", "p": 1, "d": "2010-08", "c": ["batman", "robin-damian", "joker", "gordon"], "x": "2010-07 上市（跳过 2010-06 封面槽位）"},
+            {"s": "batman-and-robin-v1", "n": "14", "t": "Batman and Robin Must Die! Part 2: The Triumph of Death", "p": 2, "d": "2010-10", "c": ["batman", "robin-damian", "joker", "gordon"], "x": "2010-09 上市（跳过 2010-09 封面槽位）"},
+            {"s": "batman-and-robin-v1", "n": "15", "t": "Batman and Robin Must Die! Part 3: The Knight, Death and the Devil", "p": 3, "d": "2010-12", "c": ["batman", "robin-damian", "joker", "gordon"], "x": "2010-10-20 上市"},
+            {"s": "batman-and-robin-v1", "n": "16", "t": "Black Mass", "d": "2011-01", "c": ["batman", "robin-damian"], "x": "系列终章（无 Part 编号）；2010-11-03 上市；布鲁斯自时间流归来；与 #13-15 及《Batman: The Return》#1 同收于 'Batman and Robin Must Die!' 精装本"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "red-robin-series",
+      "name": "Red Robin",
+      "nameZh": "红罗宾",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "series",
+      "start": "2009-08",
+      "end": "2011-10",
+      "summaryZh": "《红罗宾》是2009-2011年蒂姆·德雷克（Tim Drake）的蝙蝠家族个人连载，共26期，封面日期自2009年8月至2011年10月。故事始于布鲁斯·韦恩疑似死亡之后，蒂姆不顾众人反对独自追查其下落，先后对抗拉斯·艾尔·古尔（The Grail 圣杯篇）与蜘蛛议会（Council of Spiders），并在第10-11期与蝙蝠少女（斯蒂芬妮·布朗）展开「碰撞」（Collision）交叉事件。连载后半段由法比安·尼谢萨接手编剧，讲述暗杀名单（The Hit List）、兔子洞（The Rabbit Hole）与「哥谭审判」（Judgment on Gotham，与《蝙蝠侠》#708-709 交叉）等篇章，最终以《死亡七日》（7 Days of Death）收尾，系列于第26期完结。",
+      "characters": ["redrobin", "nightwing", "batman", "ras", "robin-damian", "batgirl", "teentitans", "azrael"],
+      "related": ["battle-for-the-cowl", "return-bruce-wayne"],
+      "phases": [
+        {
+          "name": "The Grail",
+          "nameZh": "圣杯",
+          "issues": [
+            {"s": "red-robin", "n": "1", "t": "The Grail, Part 1", "p": 1, "d": "2009-08", "c": ["redrobin", "batman", "ras"], "x": "系列开篇；蒂姆追查疑似已死的布鲁斯·韦恩"},
+            {"s": "red-robin", "n": "2", "t": "The Grail, Part 2", "p": 2, "d": "2009-09", "c": ["redrobin", "batman", "ras"], "x": null},
+            {"s": "red-robin", "n": "3", "t": "The Grail, Part 3", "p": 3, "d": "2009-10", "c": ["redrobin", "batman", "ras"], "x": "与拉斯·艾尔·古尔联手（DC.com 博客 'RED ROBIN and Ra's team up'）"},
+            {"s": "red-robin", "n": "4", "t": "The Grail, Part 4", "p": 4, "d": "2009-11", "c": ["redrobin", "batman", "ras"], "x": null}
+          ]
+        },
+        {
+          "name": "Council of Spiders",
+          "nameZh": "蜘蛛议会",
+          "issues": [
+            {"s": "red-robin", "n": "5", "t": "Council of Spiders, Part 1", "p": 1, "d": "2009-12", "c": ["redrobin"], "x": "印刷故事题按 Comic Vine/clz；合订本 'Red Robin: The Grail'（Vol 1）收录 #1-5"},
+            {"s": "red-robin", "n": "6", "t": "Council of Spiders, Part 2", "p": 2, "d": "2010-01", "c": ["redrobin"], "x": null},
+            {"s": "red-robin", "n": "7", "t": "Council of Spiders, Part 3", "p": 3, "d": "2010-02", "c": ["redrobin"], "x": null},
+            {"s": "red-robin", "n": "8", "t": "Council of Spiders, Part 4", "p": 4, "d": "2010-03", "c": ["redrobin"], "x": null}
+          ]
+        },
+        {
+          "name": "Collision",
+          "nameZh": "碰撞",
+          "issues": [
+            {"s": "red-robin", "n": "9", "t": "Collision, Part 1", "p": 1, "d": "2010-04", "c": ["redrobin"], "x": null},
+            {"s": "red-robin", "n": "10", "t": "Collision, Part 2 of 4", "p": 2, "d": "2010-05", "c": ["redrobin", "batgirl"], "x": "蝙蝠少女/红罗宾交叉开始（与 Batgirl #10 同期，封面均为 2010-05）"},
+            {"s": "red-robin", "n": "11", "t": "Collision, Part 3", "p": 3, "d": "2010-06", "c": ["redrobin", "batgirl"], "x": "交叉在此收尾（DC.com 博客，与 Batgirl #11 同期）"},
+            {"s": "red-robin", "n": "12", "t": "Collision, Part 4", "p": 4, "d": "2010-07", "c": ["redrobin"], "x": null}
+          ]
+        },
+        {
+          "name": "The Hit List",
+          "nameZh": "暗杀名单",
+          "issues": [
+            {"s": "red-robin", "n": "13", "t": "The Hit List, Part 1: The Domino Effect", "p": 1, "d": "2010-08", "c": ["redrobin"], "x": "法比安·尼谢萨接任编剧"},
+            {"s": "red-robin", "n": "14", "t": "The Hit List, Part 2: The Devil You Know", "p": 2, "d": "2010-09", "c": ["redrobin", "robin-damian"], "x": "蒂姆对达米安（评论 'The Battle of the Robins'）"},
+            {"s": "red-robin", "n": "15", "t": "The Hit List, Part 3: Secret Identity Crisis", "p": 3, "d": "2010-10", "c": ["redrobin"], "x": null},
+            {"s": "red-robin", "n": "16", "t": "The Hit List, Part 4: The Best-Laid Plans", "p": 4, "d": "2010-11", "c": ["redrobin"], "x": null},
+            {"s": "red-robin", "n": "17", "t": "The Hit List, Epilogue: Back to Front", "d": "2011-01", "c": ["redrobin"], "x": "尾声章；全系列唯一跳月为 2010-12（#16 与 #17 之间）"}
+          ]
+        },
+        {
+          "name": "The Rabbit Hole",
+          "nameZh": "兔子洞",
+          "issues": [
+            {"s": "red-robin", "n": "18", "t": "The Rabbit Hole, Part One: Broken Promises", "p": 1, "d": "2011-02", "c": ["redrobin"], "x": null},
+            {"s": "red-robin", "n": "19", "t": "The Rabbit Hole, Part Two: Caught in the…", "p": 2, "d": "2011-03", "c": ["redrobin"], "x": "副题在来源中被截断（'Caught in the…'）"},
+            {"s": "red-robin", "n": "20", "t": "The Rabbit Hole, Interlude: On the Shoulders of Titans", "d": "2011-04", "c": ["redrobin", "teentitans"], "x": "少年泰坦间奏——与 Teen Titans #92（'On the Shoulders of Titans, Part II'，2011-04）同月交叉"},
+            {"s": "red-robin", "n": "21", "t": "The Rabbit Hole, Part Three: Sinsanity", "p": 3, "d": "2011-05", "c": ["redrobin"], "x": null},
+            {"s": "red-robin", "n": "22", "t": "Judgment on Gotham, Part Two: A Soul in Silence", "p": 2, "d": "2011-06", "c": ["redrobin", "azrael"], "x": "'Judgment on Gotham' 交叉（Batman #708 = Part One 'One Good Man'，2011-05；Batman #709 = Conclusion 'Secret Sin'，2011-06）；阿兹瑞尔登场"}
+          ]
+        },
+        {
+          "name": "7 Days of Death",
+          "nameZh": "死亡七日",
+          "issues": [
+            {"s": "red-robin", "n": "23", "t": "7 Days of Death, Part One: Little Trigger", "p": 1, "d": "2011-07", "c": ["redrobin"], "x": null},
+            {"s": "red-robin", "n": "24", "t": "7 Days of Death, Part Two", "p": 2, "d": "2011-08", "c": ["redrobin"], "x": "副题未核实"},
+            {"s": "red-robin", "n": "25", "t": "7 Days of Death, Part Three: The Bigger…", "p": 3, "d": "2011-09", "c": ["redrobin"], "x": "副题在来源中被截断（'The Bigger…'）"},
+            {"s": "red-robin", "n": "26", "t": "7 Days of Death, Part Four", "p": 4, "d": "2011-10", "c": ["redrobin"], "x": "系列终章；副题未核实"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "life-after-death",
+      "name": "Life After Death",
+      "nameZh": "死后余生",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "arc",
+      "start": "2009-12",
+      "end": "2010-05",
+      "summaryZh": "《死后余生》是托尼·丹尼尔（Tony Daniel）编剧并作画的《蝙蝠侠》主线故事（第692-697期，封面日期2009年12月至2010年5月），讲述迪克·格雷森接任蝙蝠侠后，黑面具重返哥谭、争夺地下世界控制权的故事。六期副标题依次为《觉醒》《猜谜》《破碎的碎片》《烟雾与镜子》《心战》与《解放者》，第697期最终揭晓黑面具的真实身份。",
+      "characters": ["batman", "blackmask"],
+      "related": ["long-shadows"],
+      "phases": [
+        {
+          "name": "Life After Death",
+          "nameZh": "死后余生",
+          "issues": [
+            {"s": "batman", "n": "692", "t": "Life After Death, Part 1: The Awakening", "p": 1, "d": "2009-12", "c": ["batman", "blackmask"], "x": "弧线开篇；迪克·格雷森任蝙蝠侠；#691 与 #692 同期双刊（均封面 2009-12）"},
+            {"s": "batman", "n": "693", "t": "Life After Death, Part 2: Charades", "p": 2, "d": "2010-01", "c": ["batman", "blackmask"], "x": null},
+            {"s": "batman", "n": "694", "t": "Life After Death, Part 3: Fractured Pieces", "p": 3, "d": "2010-02", "c": ["batman", "blackmask"], "x": null},
+            {"s": "batman", "n": "695", "t": "Life After Death, Part 4: Smoke and Mirrors", "p": 4, "d": "2010-03", "c": ["batman", "blackmask"], "x": null},
+            {"s": "batman", "n": "696", "t": "Life After Death, Part 5: Mind Games", "p": 5, "d": "2010-04", "c": ["batman", "blackmask"], "x": null},
+            {"s": "batman", "n": "697", "t": "Life After Death, Part 6: Liberator", "p": 6, "d": "2010-05", "c": ["batman", "blackmask"], "x": "黑面具身份揭晓（GCD 目录 'Black Mask... Revealed!'）"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "time-and-batman",
+      "name": "Time and the Batman",
+      "nameZh": "蝙蝠侠之时",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "arc",
+      "start": "2010-08",
+      "end": "2010-11",
+      "summaryZh": "《蝙蝠侠之时》是《蝙蝠侠》第700期里程碑特刊的主线故事（封面日期2010年8月），由格兰特·莫里森编剧、安迪·库伯特作画，横跨蝙蝠侠的过去、现在与未来，特刊另附多篇短篇故事。随后第701-703期（2010年9-11月）实为莫里森与托尼·丹尼尔的《蝙蝠侠R.I.P.：缺失的篇章》三部曲，补全了《R.I.P.》与《最终危机》之间的情节；合集《Batman: Time and the Batman》收录第700-703期。",
+      "characters": ["batman"],
+      "related": ["batman-rip", "final-crisis", "return-bruce-wayne"],
+      "phases": [
+        {
+          "name": "Time and the Batman",
+          "nameZh": "蝙蝠侠之时",
+          "issues": [
+            {"s": "batman", "n": "700", "t": "Time and the Batman", "d": "2010-08", "c": ["batman"], "x": "百页里程碑特刊（2010-06 上市）；主线为莫里森与库伯特；特刊另附多篇短篇（标题未逐一核实）；主线无 Part 编号"}
+          ]
+        },
+        {
+          "name": "Batman R.I.P.: The Missing Chapter",
+          "nameZh": "蝙蝠侠安息：缺失的篇章",
+          "issues": [
+            {"s": "batman", "n": "701", "t": "R.I.P.: The Missing Chapter, Part 1: The Hole in Things", "p": 1, "d": "2010-09", "c": ["batman"], "x": "莫里森与托尼·丹尼尔；补全「蝙蝠侠安息」与《最终危机》之间的情节；并非 'Time and the Batman Part 2'"},
+            {"s": "batman", "n": "702", "t": "R.I.P.: The Missing Chapter, Part 2: Batman's Last Case", "p": 2, "d": "2010-10", "c": ["batman"], "x": "莫里森与丹尼尔"},
+            {"s": "batman", "n": "703", "t": "The Great Escape", "d": "2010-11", "c": ["batman"], "x": "印刷题按 Comic Vine（'The Great Escape'）；《缺失的篇章》第3章（莫里森与丹尼尔）；存在75周年纪念变体封面"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "return-bruce-wayne",
+      "name": "Batman: The Return of Bruce Wayne",
+      "nameZh": "布鲁斯·韦恩归来",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "series",
+      "start": "2010-07",
+      "end": "2010-12",
+      "summaryZh": "布鲁斯·韦恩在《最终危机》后坠入时间洪流，本系列六期分别讲述他在史前、殖民猎巫时代、海盗时代、旧西部、1940年代黑色电影与当代六个时代中的经历，逐步找回记忆并最终回归。格兰特·莫里森编剧，每期由不同画师绘制；第5、6期需与《蝙蝠侠与罗宾》#13-16（「蝙蝠侠与罗宾必须死！」）交织阅读。",
+      "characters": ["batman", "superman", "redrobin", "justiceleague"],
+      "related": ["time-and-batman", "final-crisis"],
+      "phases": [
+        {
+          "name": "Batman: The Return of Bruce Wayne",
+          "nameZh": "布鲁斯·韦恩归来",
+          "issues": [
+            {"s": "return-bruce-wayne", "n": "1", "t": "Part One: Shadow on Stone", "p": 1, "d": "2010-07", "c": ["batman"], "x": "史前时代"},
+            {"s": "return-bruce-wayne", "n": "2", "t": "Part Two: Until the End of Time", "p": 2, "d": "2010-07", "c": ["batman"], "x": "殖民猎巫时代；#1 与 #2 同月双刊"},
+            {"s": "return-bruce-wayne", "n": "3", "t": "Part Three: The Bones of Bristol Bay", "p": 3, "d": "2010-08", "c": ["batman"], "x": "海盗时代"},
+            {"s": "return-bruce-wayne", "n": "4", "t": "Part Four: Dark Night, Dark Rider", "p": 4, "d": "2010-09", "c": ["batman"], "x": "旧西部时代"},
+            {"s": "return-bruce-wayne", "n": "5", "t": "Part Five: Masquerade", "p": 5, "d": "2010-11", "c": ["batman"], "x": "1940年代黑色电影时代；无 2010-10 期号（进度延误）；与《蝙蝠侠与罗宾》#13-16（'蝙蝠侠与罗宾必须死！'）交织"},
+            {"s": "return-bruce-wayne", "n": "6", "t": "Finale: The All-Over", "p": 6, "d": "2010-12", "c": ["batman", "superman", "redrobin", "justiceleague"], "x": "当代终章（印刷为 'Finale' 而非 'Part Six'）；与《蝙蝠侠与罗宾》#13-16 交织"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-home",
+      "name": "Batman: The Road Home",
+      "nameZh": "归途",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "saga",
+      "start": "2010-12",
+      "end": "2010-12",
+      "summaryZh": "布鲁斯·韦恩以新身份「局内人」（The Insider）秘密回到哥谭，通过八个单刊观察他的家人与盟友在他「死亡」期间的生活与抉择。八个单刊的封面日期均为2010年12月，故事设定在《布鲁斯·韦恩归来》之后、《蝙蝠侠公司》之前；官方系列名为「Bruce Wayne: The Road Home」，副标题依次为蝙蝠侠与罗宾、红罗宾、局外人、蝙蝠少女、猫女、戈登局长、神谕与拉斯·艾尔·古尔。",
+      "characters": ["batman", "nightwing", "robin-damian", "redrobin", "batgirl", "catwoman", "oracle", "gordon", "ras", "outsiders", "penguin"],
+      "related": ["return-bruce-wayne"],
+      "phases": [
+        {
+          "name": "Batman: The Road Home",
+          "nameZh": "归途",
+          "issues": [
+            {"s": "Batman: The Road Home: Batman and Robin", "n": "1", "t": "Outside Looking In", "d": "2010-12", "c": ["batman", "nightwing", "robin-damian"], "x": "单刊；设定于《布鲁斯·韦恩归来》之后、《蝙蝠侠公司》之前；迪克与达米安尚不知布鲁斯归来"},
+            {"s": "Batman: The Road Home: Red Robin", "n": "1", "t": "The Insider", "d": "2010-12", "c": ["batman", "redrobin"], "x": "单刊"},
+            {"s": "Batman: The Road Home: Outsiders", "n": "1", "t": "Inside Interference", "d": "2010-12", "c": ["batman", "outsiders"], "x": "单刊"},
+            {"s": "Batman: The Road Home: Batgirl", "n": "1", "t": null, "d": "2010-12", "c": ["batman", "batgirl"], "x": "单刊；GCD 标注故事无题"},
+            {"s": "Batman: The Road Home: Catwoman", "n": "1", "t": "Lifting the Vale", "d": "2010-12", "c": ["batman", "catwoman"], "x": "单刊；GCD 题 'Lifting the Vale'（常被误作 'Lifting the Veil'）"},
+            {"s": "Batman: The Road Home: Commissioner Gordon", "n": "1", "t": "Gotham's Finest", "d": "2010-12", "c": ["batman", "gordon", "penguin"], "x": "单刊"},
+            {"s": "Batman: The Road Home: Oracle", "n": "1", "t": null, "d": "2010-12", "c": ["batman", "oracle", "batgirl"], "x": "单刊；GCD 标注故事无题"},
+            {"s": "Batman: The Road Home: Ra's al Ghul", "n": "1", "t": "A Life Worth Living", "d": "2010-12", "c": ["batman", "ras"], "x": "单刊；建议作为本系列最后一册阅读"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eye-of-beholder",
+      "name": "Eye of the Beholder",
+      "nameZh": "凝视者之眼",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "arc",
+      "start": "2011-01",
+      "end": "2011-04",
+      "summaryZh": "托尼·丹尼尔编剧并绘制的四期故事线，蝙蝠侠追查神秘的连环杀手「凝视者」（The Beholder）。本故事线严格为《蝙蝠侠》#704-707（合订本即收录这四期），封面日期为2011年1月至4月——此前预期的2010年11月至2011年2月实为各期上市时间而非封面日期。",
+      "characters": ["batman", "robin-damian", "alfred", "gordon"],
+      "related": ["life-after-death"],
+      "phases": [
+        {
+          "name": "Eye of the Beholder",
+          "nameZh": "凝视者之眼",
+          "issues": [
+            {"s": "batman", "n": "704", "t": "Eye of the Beholder Part One: Hear No Evil", "p": 1, "d": "2011-01", "c": ["batman", "robin-damian", "alfred"], "x": null},
+            {"s": "batman", "n": "705", "t": "Eye of the Beholder Part Two: See No Evil", "p": 2, "d": "2011-02", "c": ["batman", "robin-damian"], "x": null},
+            {"s": "batman", "n": "706", "t": "Eye of the Beholder Part Three: Speak No Evil", "p": 3, "d": "2011-03", "c": ["batman", "robin-damian", "alfred"], "x": null},
+            {"s": "batman", "n": "707", "t": "Eye of the Beholder, Conclusion: The Evil Within", "p": 4, "d": "2011-04", "c": ["batman", "robin-damian", "gordon"], "x": "印刷题用 'Conclusion' 而非 'Part Four'"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "batman-inc-v1",
+      "name": "Batman Incorporated",
+      "nameZh": "蝙蝠侠公司",
+      "era": "P52",
+      "earth": "new-earth",
+      "type": "series",
+      "start": "2011-01",
+      "end": "2012-02",
+      "summaryZh": "布鲁斯·韦恩公开创立「蝙蝠侠公司」，在全球招募代理人打击犯罪。本事件以单刊《蝙蝠侠：归来》#1为序幕（封面日期2011年1月），随后为《蝙蝠侠公司》#1-8（封面日期2011年1月-7月，第8期延至2011年10月），并以单刊《蝙蝠侠公司：利维坦突袭》#1收尾（封面日期2012年2月，取代被取消的第9、10期）。",
+      "characters": ["batman", "robin-damian", "talia", "catwoman", "nightwing", "redrobin", "batgirl", "batwoman", "alfred"],
+      "related": ["road-home", "return-bruce-wayne"],
+      "phases": [
+        {
+          "name": "Batman Incorporated",
+          "nameZh": "蝙蝠侠公司",
+          "issues": [
+            {"s": "Batman: The Return", "n": "1", "t": "Planet Gotham", "d": "2011-01", "c": ["batman", "robin-damian", "alfred"], "x": "单刊；《蝙蝠侠公司》序幕"},
+            {"s": "batman-inc-v1", "n": "1", "t": "Mr. Unknown Is Dead", "d": "2011-01", "c": ["batman", "catwoman"], "x": null},
+            {"s": "batman-inc-v1", "n": "2", "t": "Resurrector!", "d": "2011-02", "c": ["batman", "catwoman"], "x": null},
+            {"s": "batman-inc-v1", "n": "3", "t": "Scorpion Tango", "d": "2011-03", "c": ["batman"], "x": null},
+            {"s": "batman-inc-v1", "n": "4", "t": "The Kane Affair", "d": "2011-04", "c": ["batman", "batwoman"], "x": null},
+            {"s": "batman-inc-v1", "n": "5", "t": "Master Spy", "d": "2011-05", "c": ["batman", "batwoman"], "x": null},
+            {"s": "batman-inc-v1", "n": "6", "t": "Nyktomorph", "d": "2011-06", "c": ["batman"], "x": null},
+            {"s": "batman-inc-v1", "n": "7", "t": "Medicine Soldiers", "d": "2011-07", "c": ["batman"], "x": null},
+            {"s": "batman-inc-v1", "n": "8", "t": "Nightmares in Numberland", "d": "2011-10", "c": ["batman"], "x": "从 2011-08 延至 2011-10"}
+          ]
+        },
+        {
+          "name": "Leviathan Strikes",
+          "nameZh": "利维坦突袭",
+          "issues": [
+            {"s": "Batman Incorporated: Leviathan Strikes", "n": "1", "t": "Chapter 1: The School of Night", "d": "2012-02", "c": ["batman", "nightwing", "redrobin", "robin-damian", "batgirl", "talia"], "x": "单刊；取代被征订又取消的第9、10期；故事分两章（'Chapter 1: The School of Night' 与无题 'Chapter 2'）；2011-12-21 上市"}
+          ]
+        }
+      ]
+    }
+  ],
+  "arcs": [],
+  "standalone": [],
+  "sources": []
+}
