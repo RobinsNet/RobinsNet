@@ -772,8 +772,6 @@ function viewAbout() {
     <ul>
       <li>顶部筛选条：时代 / 人物 / 类型 / 地球 / 刊物 / 月份 / 仅大事件</li>
       <li>事件详情页：跨刊阅读顺序表、按人物或刊物过滤、仅未读、按刊分组、导出 TXT/CSV</li>
-      <li>进度与收藏保存在浏览器 localStorage，不发送任何数据</li>
-      <li>需要本地 HTTP 服务访问（<code>python3 -m http.server</code>），不能直接双击打开</li>
     </ul>
   </div>`;
 }
