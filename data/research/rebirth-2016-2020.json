@@ -1,3264 +1,3305 @@
 {
-  "events": [
+ "events": [
+  {
+   "id": "dc-rebirth",
+   "name": "DC Rebirth",
+   "nameZh": "DC 重生",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "one-shot",
+   "start": "2016-07",
+   "end": "2016-08",
+   "summaryZh": "《DC 重生》是 2016 年 DC 宇宙重启的序幕：沃利·韦斯特从神速力归来，向巴里·艾伦揭露时间被偷走的十年，并留下笑匠笑脸徽章与守望者世界的伏笔；随后各系列以「Rebirth」特刊开启新纪元，蝙蝠侠也迎来自己的重生特刊，杜克·托马斯登场。",
+   "characters": [
+    "batman",
+    "flash",
+    "superman",
+    "justiceleague"
+   ],
+   "family": "bat-family",
+   "related": [
+    "i-am-gotham"
+   ],
+   "phases": [
     {
-      "id": "dc-rebirth",
-      "name": "DC Rebirth",
-      "nameZh": "DC 重生",
-      "era": "Rebirth",
-      "earth": "earth-0",
-      "type": "one-shot",
-      "start": "2016-07",
-      "end": "2016-08",
-      "summaryZh": "《DC 重生》是 2016 年 DC 宇宙重启的序幕：沃利·韦斯特从神速力归来，向巴里·艾伦揭露时间被偷走的十年，并留下笑匠笑脸徽章与守望者世界的伏笔；随后各系列以「Rebirth」特刊开启新纪元，蝙蝠侠也迎来自己的重生特刊，杜克·托马斯登场。",
-      "characters": [
-        "batman",
+     "name": "Rebirth Prologue",
+     "nameZh": "重生序幕",
+     "issues": [
+      {
+       "s": "DC Universe: Rebirth",
+       "n": "1",
+       "t": null,
+       "d": "2016-07",
+       "c": [
         "flash",
+        "batman",
         "superman",
         "justiceleague"
-      ],
-      "family": "bat-family",
-      "related": [
-        "i-am-gotham"
-      ],
-      "phases": [
-        {
-          "name": "Rebirth Prologue",
-          "nameZh": "重生序幕",
-          "issues": [
-            {
-              "s": "DC Universe: Rebirth",
-              "n": "1",
-              "t": null,
-              "d": "2016-07",
-              "c": [
-                "flash",
-                "batman",
-                "superman",
-                "justiceleague"
-              ],
-              "x": "2016-05-25 上市；封面日期 2016-07（Overstreet 核实）"
-            },
-            {
-              "s": "Batman: Rebirth",
-              "n": "1",
-              "t": null,
-              "d": "2016-08",
-              "c": [
-                "batman",
-                "gordon"
-              ],
-              "x": "2016-06-01 上市；Duke Thomas 登场，铺垫 I Am Gotham"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "monster-men",
-      "name": "Night of the Monster Men",
-      "nameZh": "怪兽人之夜",
-      "era": "Rebirth",
-      "earth": "earth-0",
-      "type": "crossover",
-      "start": "2016-11",
-      "end": "2016-12",
-      "summaryZh": "《怪兽人之夜》是重生时代首个跨刊联动事件：雨果·斯特兰奇利用怪兽血清在哥谭释放巨型怪兽，蝙蝠侠、夜翼与侦探漫画的蝙蝠团队（蝙蝠女侠、红罗宾等）联手对抗，最终将怪兽围困于哥谭湾。六期按连载月份交错阅读。",
-      "characters": [
+       ],
+       "x": "2016-05-25 上市；封面日期 2016-07（Overstreet 核实）"
+      },
+      {
+       "s": "Batman: Rebirth",
+       "n": "1",
+       "t": null,
+       "d": "2016-08",
+       "c": [
         "batman",
-        "nightwing",
-        "gordon",
-        "robin-damian"
-      ],
-      "family": "bat-family",
-      "related": [
-        "detective-rebirth",
-        "i-am-gotham"
-      ],
-      "phases": [
-        {
-          "name": "Night of the Monster Men",
-          "nameZh": "怪兽人之夜",
-          "issues": [
-            {
-              "s": "batman-v3",
-              "n": "7",
-              "t": "Night of the Monster Men Part One",
-              "d": "2016-11",
-              "p": 1,
-              "c": [
-                "batman"
-              ]
-            },
-            {
-              "s": "nightwing-v4",
-              "n": "5",
-              "t": "Night of the Monster Men Part Two",
-              "d": "2016-11",
-              "p": 2,
-              "c": [
-                "nightwing"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "941",
-              "t": "Night of the Monster Men Part Three",
-              "d": "2016-11",
-              "p": 3,
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "8",
-              "t": "Night of the Monster Men Part Four",
-              "d": "2016-12",
-              "p": 4,
-              "c": [
-                "batman"
-              ]
-            },
-            {
-              "s": "nightwing-v4",
-              "n": "6",
-              "t": "Night of the Monster Men Part Five",
-              "d": "2016-12",
-              "p": 5,
-              "c": [
-                "nightwing"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "942",
-              "t": "Night of the Monster Men Part Six",
-              "d": "2016-12",
-              "p": 6,
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ]
-            }
-          ]
-        }
-      ]
-    },
+        "gordon"
+       ],
+       "x": "2016-06-01 上市；Duke Thomas 登场，铺垫 I Am Gotham"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "monster-men",
+   "name": "Night of the Monster Men",
+   "nameZh": "怪兽人之夜",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "crossover",
+   "start": "2016-11",
+   "end": "2016-12",
+   "summaryZh": "《怪兽人之夜》是重生时代首个跨刊联动事件：雨果·斯特兰奇利用怪兽血清在哥谭释放巨型怪兽，蝙蝠侠、夜翼与侦探漫画的蝙蝠团队（蝙蝠女侠、红罗宾等）联手对抗，最终将怪兽围困于哥谭湾。六期按连载月份交错阅读。",
+   "characters": [
+    "batman",
+    "nightwing",
+    "gordon",
+    "robin-damian"
+   ],
+   "family": "bat-family",
+   "related": [
+    "i-am-gotham"
+   ],
+   "phases": [
     {
-      "id": "i-am-gotham",
-      "name": "I Am Gotham",
-      "nameZh": "我是哥谭",
-      "era": "Rebirth",
-      "earth": "earth-0",
-      "type": "arc",
-      "start": "2016-08",
-      "end": "2016-11",
-      "summaryZh": "汤姆·金执笔的蝙蝠侠主线开端：失控的超人类「哥谭」与「哥谭女孩」企图以暴力重建城市，蝙蝠侠与杜克·托马斯（信号）联手阻止他们，并结识了神秘线人贝恩。",
-      "characters": [
+     "name": "Night of the Monster Men",
+     "nameZh": "怪兽人之夜",
+     "issues": [
+      {
+       "s": "batman-v3",
+       "n": "7",
+       "t": "Night of the Monster Men Part One",
+       "d": "2016-11",
+       "p": 1,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "nightwing-v4",
+       "n": "5",
+       "t": "Night of the Monster Men Part Two",
+       "d": "2016-11",
+       "p": 2,
+       "c": [
+        "nightwing"
+       ]
+      },
+      {
+       "s": "detective-v3",
+       "n": "941",
+       "t": "Night of the Monster Men Part Three",
+       "d": "2016-11",
+       "p": 3,
+       "c": [
         "batman",
-        "gordon",
-        "superman"
-      ],
-      "family": "bat-family",
-      "related": [
-        "dc-rebirth"
-      ],
-      "phases": [
-        {
-          "name": "I Am Gotham",
-          "nameZh": "我是哥谭",
-          "issues": [
-            {
-              "s": "batman-v3",
-              "n": "1",
-              "t": "I Am Gotham Part One",
-              "d": "2016-08",
-              "p": 1,
-              "c": [
-                "batman"
-              ],
-              "x": "Duke Thomas 出场"
-            },
-            {
-              "s": "batman-v3",
-              "n": "2",
-              "t": "I Am Gotham Part Two",
-              "d": "2016-09",
-              "p": 2,
-              "c": [
-                "batman"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "3",
-              "t": "I Am Gotham Part Three",
-              "d": "2016-10",
-              "p": 3,
-              "c": [
-                "batman"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "4",
-              "t": "I Am Gotham Part Four",
-              "d": "2016-10",
-              "p": 4,
-              "c": [
-                "batman"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "5",
-              "t": "I Am Gotham Part Five",
-              "d": "2016-11",
-              "p": 5,
-              "c": [
-                "batman"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "6",
-              "t": "I Am Gotham Part Six",
-              "d": "2016-11",
-              "p": 6,
-              "c": [
-                "batman"
-              ]
-            }
-          ]
-        }
-      ]
-    },
+        "batwoman",
+        "redrobin"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "8",
+       "t": "Night of the Monster Men Part Four",
+       "d": "2016-12",
+       "p": 4,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "nightwing-v4",
+       "n": "6",
+       "t": "Night of the Monster Men Part Five",
+       "d": "2016-12",
+       "p": 5,
+       "c": [
+        "nightwing"
+       ]
+      },
+      {
+       "s": "detective-v3",
+       "n": "942",
+       "t": "Night of the Monster Men Part Six",
+       "d": "2016-12",
+       "p": 6,
+       "c": [
+        "batman",
+        "batwoman",
+        "redrobin"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "i-am-gotham",
+   "name": "I Am Gotham",
+   "nameZh": "我是哥谭",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2016-08",
+   "end": "2016-11",
+   "summaryZh": "汤姆·金执笔的蝙蝠侠主线开端：失控的超人类「哥谭」与「哥谭女孩」企图以暴力重建城市，蝙蝠侠与杜克·托马斯（信号）联手阻止他们，并结识了神秘线人贝恩。",
+   "characters": [
+    "batman",
+    "gordon",
+    "superman"
+   ],
+   "family": "bat-family",
+   "related": [
+    "dc-rebirth"
+   ],
+   "phases": [
     {
-      "id": "i-am-suicide",
-      "name": "I Am Suicide",
-      "nameZh": "我是自杀",
-      "era": "Rebirth",
-      "earth": "earth-0",
-      "type": "arc",
-      "start": "2016-12",
-      "end": "2017-02",
-      "summaryZh": "为营救被囚于圣普里斯卡监狱的心理医生们，蝙蝠侠组建了一支自杀小队（猫女、贝恩、死人、约拿·海克斯等）攻入贝恩的老巢。贝恩早已识破计划，留下「我是贝恩」的终极预告。",
-      "characters": [
+     "name": "I Am Gotham",
+     "nameZh": "我是哥谭",
+     "issues": [
+      {
+       "s": "batman-v3",
+       "n": "1",
+       "t": "I Am Gotham Part One",
+       "d": "2016-08",
+       "p": 1,
+       "c": [
+        "batman"
+       ],
+       "x": "Duke Thomas 出场"
+      },
+      {
+       "s": "batman-v3",
+       "n": "2",
+       "t": "I Am Gotham Part Two",
+       "d": "2016-09",
+       "p": 2,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "3",
+       "t": "I Am Gotham Part Three",
+       "d": "2016-10",
+       "p": 3,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "4",
+       "t": "I Am Gotham Part Four",
+       "d": "2016-10",
+       "p": 4,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "5",
+       "t": "I Am Gotham Part Five",
+       "d": "2016-11",
+       "p": 5,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "6",
+       "t": "I Am Gotham Part Six",
+       "d": "2016-11",
+       "p": 6,
+       "c": [
+        "batman"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "i-am-suicide",
+   "name": "I Am Suicide",
+   "nameZh": "我是自杀",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2016-12",
+   "end": "2017-02",
+   "summaryZh": "为营救被囚于圣普里斯卡监狱的心理医生们，蝙蝠侠组建了一支自杀小队（猫女、贝恩、死人、约拿·海克斯等）攻入贝恩的老巢。贝恩早已识破计划，留下「我是贝恩」的终极预告。",
+   "characters": [
+    "batman",
+    "catwoman",
+    "bane"
+   ],
+   "family": "bat-family",
+   "related": [
+    "i-am-bane"
+   ],
+   "phases": [
+    {
+     "name": "I Am Suicide",
+     "nameZh": "我是自杀",
+     "issues": [
+      {
+       "s": "batman-v3",
+       "n": "9",
+       "t": "I Am Suicide Part One",
+       "d": "2016-12",
+       "p": 1,
+       "c": [
         "batman",
         "catwoman",
         "bane"
-      ],
-      "family": "bat-family",
-      "related": [
-        "i-am-bane"
-      ],
-      "phases": [
-        {
-          "name": "I Am Suicide",
-          "nameZh": "我是自杀",
-          "issues": [
-            {
-              "s": "batman-v3",
-              "n": "9",
-              "t": "I Am Suicide Part One",
-              "d": "2016-12",
-              "p": 1,
-              "c": [
-                "batman",
-                "catwoman",
-                "bane"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "10",
-              "t": "I Am Suicide Part Two",
-              "d": "2016-12",
-              "p": 2,
-              "c": [
-                "batman",
-                "catwoman",
-                "bane"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "11",
-              "t": "I Am Suicide Part Three",
-              "d": "2017-01",
-              "p": 3,
-              "c": [
-                "batman",
-                "catwoman",
-                "bane"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "12",
-              "t": "I Am Suicide Part Four",
-              "d": "2017-01",
-              "p": 4,
-              "c": [
-                "batman",
-                "catwoman",
-                "bane"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "13",
-              "t": "I Am Suicide Part Five",
-              "d": "2017-02",
-              "p": 5,
-              "c": [
-                "batman",
-                "catwoman",
-                "bane"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "14",
-              "t": "I Am Suicide Part Six",
-              "d": "2017-02",
-              "p": 6,
-              "c": [
-                "batman",
-                "catwoman",
-                "bane"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "15",
-              "t": "I Am Suicide Part Seven",
-              "d": "2017-02",
-              "p": 7,
-              "c": [
-                "batman",
-                "catwoman",
-                "bane"
-              ]
-            }
-          ]
-        }
-      ]
-    },
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "10",
+       "t": "I Am Suicide Part Two",
+       "d": "2016-12",
+       "p": 2,
+       "c": [
+        "batman",
+        "catwoman",
+        "bane"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "11",
+       "t": "I Am Suicide Part Three",
+       "d": "2017-01",
+       "p": 3,
+       "c": [
+        "batman",
+        "catwoman",
+        "bane"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "12",
+       "t": "I Am Suicide Part Four",
+       "d": "2017-01",
+       "p": 4,
+       "c": [
+        "batman",
+        "catwoman",
+        "bane"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "13",
+       "t": "I Am Suicide Part Five",
+       "d": "2017-02",
+       "p": 5,
+       "c": [
+        "batman",
+        "catwoman",
+        "bane"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "14",
+       "t": "I Am Suicide Part Six",
+       "d": "2017-02",
+       "p": 6,
+       "c": [
+        "batman",
+        "catwoman",
+        "bane"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "15",
+       "t": "I Am Suicide Part Seven",
+       "d": "2017-02",
+       "p": 7,
+       "c": [
+        "batman",
+        "catwoman",
+        "bane"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "i-am-bane",
+   "name": "I Am Bane",
+   "nameZh": "我是贝恩",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2017-04",
+   "end": "2017-08",
+   "summaryZh": "贝恩向蝙蝠侠发动终极复仇：他组建大军袭击哥谭与蝙蝠家族，从身心两方面击垮蝙蝠侠。蝙蝠侠在阿尔弗雷德与猫女的支持下重振旗鼓击败贝恩，并在结尾向猫女求婚。",
+   "characters": [
+    "batman",
+    "bane",
+    "catwoman",
+    "robin-damian"
+   ],
+   "family": "bat-family",
+   "related": [
+    "the-button",
+    "i-am-suicide"
+   ],
+   "phases": [
     {
-      "id": "i-am-bane",
-      "name": "I Am Bane",
-      "nameZh": "我是贝恩",
-      "era": "Rebirth",
-      "earth": "earth-0",
-      "type": "arc",
-      "start": "2017-04",
-      "end": "2017-08",
-      "summaryZh": "贝恩向蝙蝠侠发动终极复仇：他组建大军袭击哥谭与蝙蝠家族，从身心两方面击垮蝙蝠侠。蝙蝠侠在阿尔弗雷德与猫女的支持下重振旗鼓击败贝恩，并在结尾向猫女求婚。",
-      "characters": [
+     "name": "I Am Bane",
+     "nameZh": "我是贝恩",
+     "issues": [
+      {
+       "s": "batman-v3",
+       "n": "16",
+       "t": "I Am Bane Part One",
+       "d": "2017-04",
+       "p": 1,
+       "c": [
         "batman",
         "bane",
         "catwoman",
         "robin-damian"
-      ],
-      "family": "bat-family",
-      "related": [
-        "the-button",
-        "i-am-suicide"
-      ],
-      "phases": [
-        {
-          "name": "I Am Bane",
-          "nameZh": "我是贝恩",
-          "issues": [
-            {
-              "s": "batman-v3",
-              "n": "16",
-              "t": "I Am Bane Part One",
-              "d": "2017-04",
-              "p": 1,
-              "c": [
-                "batman",
-                "bane",
-                "catwoman",
-                "robin-damian"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "17",
-              "t": "I Am Bane Part Two",
-              "d": "2017-04",
-              "p": 2,
-              "c": [
-                "batman",
-                "bane"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "18",
-              "t": "I Am Bane Part Three",
-              "d": "2017-05",
-              "p": 3,
-              "c": [
-                "batman",
-                "bane"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "19",
-              "t": "I Am Bane Part Four",
-              "d": "2017-05",
-              "p": 4,
-              "c": [
-                "batman",
-                "bane",
-                "robin-damian"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "20",
-              "t": "I Am Bane Part Five",
-              "d": "2017-06",
-              "p": 5,
-              "c": [
-                "batman",
-                "bane"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "23",
-              "t": "I Am Bane Part Six",
-              "d": "2017-07",
-              "p": 6,
-              "c": [
-                "batman",
-                "bane",
-                "catwoman"
-              ],
-              "x": "#21-22 为 The Button 联动，I Am Bane 收于 #24"
-            },
-            {
-              "s": "batman-v3",
-              "n": "24",
-              "t": "I Am Bane Part Seven",
-              "d": "2017-08",
-              "p": 7,
-              "c": [
-                "batman",
-                "bane",
-                "catwoman"
-              ],
-              "x": "布鲁斯向猫女求婚"
-            }
-          ]
-        }
-      ]
-    },
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "17",
+       "t": "I Am Bane Part Two",
+       "d": "2017-04",
+       "p": 2,
+       "c": [
+        "batman",
+        "bane"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "18",
+       "t": "I Am Bane Part Three",
+       "d": "2017-05",
+       "p": 3,
+       "c": [
+        "batman",
+        "bane"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "19",
+       "t": "I Am Bane Part Four",
+       "d": "2017-05",
+       "p": 4,
+       "c": [
+        "batman",
+        "bane",
+        "robin-damian"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "20",
+       "t": "I Am Bane Part Five",
+       "d": "2017-06",
+       "p": 5,
+       "c": [
+        "batman",
+        "bane"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "23",
+       "t": "I Am Bane Part Six",
+       "d": "2017-07",
+       "p": 6,
+       "c": [
+        "batman",
+        "bane",
+        "catwoman"
+       ],
+       "x": "#21-22 为 The Button 联动，I Am Bane 收于 #24"
+      },
+      {
+       "s": "batman-v3",
+       "n": "24",
+       "t": "I Am Bane Part Seven",
+       "d": "2017-08",
+       "p": 7,
+       "c": [
+        "batman",
+        "bane",
+        "catwoman"
+       ],
+       "x": "布鲁斯向猫女求婚"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-button",
+   "name": "The Button",
+   "nameZh": "按钮",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "crossover",
+   "start": "2017-06",
+   "end": "2017-07",
+   "summaryZh": "蝙蝠侠与闪电侠联手追查笑匠笑脸徽章（The Button）的来历，穿越时间直面「闪点」的真相，首次确认守望者宇宙与主宇宙的联系，为《末日警钟》埋下伏笔。",
+   "characters": [
+    "batman",
+    "flash",
+    "joker"
+   ],
+   "family": "bat-family",
+   "related": [
+    "i-am-bane",
+    "dc-rebirth"
+   ],
+   "phases": [
     {
-      "id": "the-button",
-      "name": "The Button",
-      "nameZh": "按钮",
-      "era": "Rebirth",
-      "earth": "earth-0",
-      "type": "crossover",
-      "start": "2017-06",
-      "end": "2017-07",
-      "summaryZh": "蝙蝠侠与闪电侠联手追查笑匠笑脸徽章（The Button）的来历，穿越时间直面「闪点」的真相，首次确认守望者宇宙与主宇宙的联系，为《末日警钟》埋下伏笔。",
-      "characters": [
+     "name": "The Button",
+     "nameZh": "按钮",
+     "issues": [
+      {
+       "s": "batman-v3",
+       "n": "21",
+       "t": "The Button Part One",
+       "d": "2017-06",
+       "p": 1,
+       "c": [
         "batman",
         "flash",
         "joker"
-      ],
-      "family": "bat-family",
-      "related": [
-        "i-am-bane",
-        "dc-rebirth"
-      ],
-      "phases": [
-        {
-          "name": "The Button",
-          "nameZh": "按钮",
-          "issues": [
-            {
-              "s": "batman-v3",
-              "n": "21",
-              "t": "The Button Part One",
-              "d": "2017-06",
-              "p": 1,
-              "c": [
-                "batman",
-                "flash",
-                "joker"
-              ]
-            },
-            {
-              "s": "flash-v5",
-              "n": "21",
-              "t": "The Button Part Two",
-              "d": "2017-06",
-              "p": 2,
-              "c": [
-                "flash",
-                "batman"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "22",
-              "t": "The Button Part Three",
-              "d": "2017-07",
-              "p": 3,
-              "c": [
-                "batman",
-                "flash"
-              ]
-            },
-            {
-              "s": "flash-v5",
-              "n": "22",
-              "t": "The Button Part Four",
-              "d": "2017-07",
-              "p": 4,
-              "c": [
-                "flash",
-                "batman"
-              ]
-            }
-          ]
-        }
-      ]
-    },
+       ]
+      },
+      {
+       "s": "flash-v5",
+       "n": "21",
+       "t": "The Button Part Two",
+       "d": "2017-06",
+       "p": 2,
+       "c": [
+        "flash",
+        "batman"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "22",
+       "t": "The Button Part Three",
+       "d": "2017-07",
+       "p": 3,
+       "c": [
+        "batman",
+        "flash"
+       ]
+      },
+      {
+       "s": "flash-v5",
+       "n": "22",
+       "t": "The Button Part Four",
+       "d": "2017-07",
+       "p": 4,
+       "c": [
+        "flash",
+        "batman"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "war-jokes-riddles",
+   "name": "The War of Jokes and Riddles",
+   "nameZh": "玩笑与谜语之战",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2017-08",
+   "end": "2017-12",
+   "summaryZh": "回溯布鲁斯·韦恩成为蝙蝠侠第一年的往事：小丑与谜语人为争夺哥谭「犯罪归属」爆发全面战争，蝙蝠侠被迫选择阵营，并在结尾背负起几乎杀死谜语人的秘密与耻辱。",
+   "characters": [
+    "batman",
+    "joker",
+    "riddler",
+    "catwoman"
+   ],
+   "family": "bat-family",
+   "related": [
+    "i-am-bane"
+   ],
+   "phases": [
     {
-      "id": "war-jokes-riddles",
-      "name": "The War of Jokes and Riddles",
-      "nameZh": "玩笑与谜语之战",
-      "era": "Rebirth",
-      "earth": "earth-0",
-      "type": "arc",
-      "start": "2017-08",
-      "end": "2017-12",
-      "summaryZh": "回溯布鲁斯·韦恩成为蝙蝠侠第一年的往事：小丑与谜语人为争夺哥谭「犯罪归属」爆发全面战争，蝙蝠侠被迫选择阵营，并在结尾背负起几乎杀死谜语人的秘密与耻辱。",
-      "characters": [
+     "name": "The War of Jokes and Riddles",
+     "nameZh": "玩笑与谜语之战",
+     "issues": [
+      {
+       "s": "batman-v3",
+       "n": "25",
+       "t": "The War of Jokes and Riddles Part One",
+       "d": "2017-08",
+       "p": 1,
+       "c": [
+        "batman",
+        "joker",
+        "riddler"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "26",
+       "t": "The War of Jokes and Riddles Part Two",
+       "d": "2017-09",
+       "p": 2,
+       "c": [
+        "batman",
+        "joker",
+        "riddler"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "27",
+       "t": "The War of Jokes and Riddles Part Three",
+       "d": "2017-09",
+       "p": 3,
+       "c": [
+        "batman",
+        "joker",
+        "riddler"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "28",
+       "t": "The War of Jokes and Riddles Part Four",
+       "d": "2017-10",
+       "p": 4,
+       "c": [
+        "batman",
+        "joker",
+        "riddler"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "29",
+       "t": "The War of Jokes and Riddles Part Five",
+       "d": "2017-10",
+       "p": 5,
+       "c": [
         "batman",
         "joker",
         "riddler",
         "catwoman"
-      ],
-      "family": "bat-family",
-      "related": [
-        "i-am-bane"
-      ],
-      "phases": [
-        {
-          "name": "The War of Jokes and Riddles",
-          "nameZh": "玩笑与谜语之战",
-          "issues": [
-            {
-              "s": "batman-v3",
-              "n": "25",
-              "t": "The War of Jokes and Riddles Part One",
-              "d": "2017-08",
-              "p": 1,
-              "c": [
-                "batman",
-                "joker",
-                "riddler"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "26",
-              "t": "The War of Jokes and Riddles Part Two",
-              "d": "2017-09",
-              "p": 2,
-              "c": [
-                "batman",
-                "joker",
-                "riddler"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "27",
-              "t": "The War of Jokes and Riddles Part Three",
-              "d": "2017-09",
-              "p": 3,
-              "c": [
-                "batman",
-                "joker",
-                "riddler"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "28",
-              "t": "The War of Jokes and Riddles Part Four",
-              "d": "2017-10",
-              "p": 4,
-              "c": [
-                "batman",
-                "joker",
-                "riddler"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "29",
-              "t": "The War of Jokes and Riddles Part Five",
-              "d": "2017-10",
-              "p": 5,
-              "c": [
-                "batman",
-                "joker",
-                "riddler",
-                "catwoman"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "30",
-              "t": "The War of Jokes and Riddles Part Six",
-              "d": "2017-11",
-              "p": 6,
-              "c": [
-                "batman",
-                "joker",
-                "riddler"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "31",
-              "t": "The War of Jokes and Riddles Part Seven",
-              "d": "2017-11",
-              "p": 7,
-              "c": [
-                "batman",
-                "joker",
-                "riddler"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "32",
-              "t": "The War of Jokes and Riddles Finale",
-              "d": "2017-12",
-              "p": null,
-              "c": [
-                "batman",
-                "joker",
-                "riddler"
-              ],
-              "x": "结尾揭晓蝙蝠侠险些杀死谜语人的秘密"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "detective-rebirth",
-      "name": "Detective Comics: Rebirth Saga",
-      "nameZh": "侦探漫画：重生团队",
-      "era": "Rebirth",
-      "earth": "earth-0",
-      "type": "saga",
-      "start": "2016-08",
-      "end": "2018-07",
-      "summaryZh": "《侦探漫画》重生系列是蝙蝠家族团队线的核心：蝙蝠侠与蝙蝠女侠组建「蝙蝠团队」（红罗宾、神谕、剧透、孤儿、泥面人），对抗受害者集团与暗影联盟，见证蒂姆·德雷克从时间流中归来，再到「蝙蝠侠们之陨落」与「永恒蝙蝠侠们」的终章。",
-      "characters": [
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "30",
+       "t": "The War of Jokes and Riddles Part Six",
+       "d": "2017-11",
+       "p": 6,
+       "c": [
         "batman",
-        "batwoman",
-        "redrobin",
-        "nightwing",
-        "gordon",
-        "robin-damian",
-        "oracle",
-        "alfred",
-        "azrael"
-      ],
-      "family": "bat-family",
-      "related": [
-        "monster-men",
-        "dc-rebirth"
-      ],
-      "phases": [
-        {
-          "name": "Rise of the Batmen",
-          "nameZh": "蝙蝠侠们的崛起",
-          "issues": [
-            {
-              "s": "detective-v3",
-              "n": "934",
-              "t": "Rise of the Batmen Part One",
-              "d": "2016-08",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin",
-                "oracle"
-              ],
-              "p": 1
-            },
-            {
-              "s": "detective-v3",
-              "n": "935",
-              "t": "Rise of the Batmen Part Two",
-              "d": "2016-08",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ],
-              "p": 2
-            },
-            {
-              "s": "detective-v3",
-              "n": "936",
-              "t": "Rise of the Batmen Part Three",
-              "d": "2016-09",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ],
-              "p": 3
-            },
-            {
-              "s": "detective-v3",
-              "n": "937",
-              "t": "Rise of the Batmen Part Four",
-              "d": "2016-09",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ],
-              "p": 4
-            },
-            {
-              "s": "detective-v3",
-              "n": "938",
-              "t": "Rise of the Batmen Part Five",
-              "d": "2016-10",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ],
-              "p": 5
-            },
-            {
-              "s": "detective-v3",
-              "n": "939",
-              "t": "Rise of the Batmen Part Six",
-              "d": "2016-10",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ],
-              "p": 6
-            },
-            {
-              "s": "detective-v3",
-              "n": "940",
-              "t": "Rise of the Batmen Part Seven",
-              "d": "2016-11",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ],
-              "p": 7
-            }
-          ]
-        },
-        {
-          "name": "Night of the Monster Men",
-          "nameZh": "怪兽人之夜",
-          "issues": [
-            {
-              "s": "detective-v3",
-              "n": "941",
-              "t": "Night of the Monster Men Part Three",
-              "d": "2016-11",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ],
-              "p": 3,
-              "x": "怪兽人之夜联动 Part 3"
-            },
-            {
-              "s": "detective-v3",
-              "n": "942",
-              "t": "Night of the Monster Men Part Six",
-              "d": "2016-12",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ],
-              "p": 6,
-              "x": "怪兽人之夜联动 Part 6"
-            }
-          ]
-        },
-        {
-          "name": "The Victim Syndicate",
-          "nameZh": "受害者集团",
-          "issues": [
-            {
-              "s": "detective-v3",
-              "n": "943",
-              "t": "The Victim Syndicate Part One",
-              "d": "2016-12",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin",
-                "alfred"
-              ],
-              "p": 1
-            },
-            {
-              "s": "detective-v3",
-              "n": "944",
-              "t": "The Victim Syndicate Part Two",
-              "d": "2017-01",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ],
-              "p": 2
-            },
-            {
-              "s": "detective-v3",
-              "n": "945",
-              "t": "The Victim Syndicate Part Three",
-              "d": "2017-01",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ],
-              "p": 3
-            },
-            {
-              "s": "detective-v3",
-              "n": "946",
-              "t": "The Victim Syndicate Part Four",
-              "d": "2017-02",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ],
-              "p": 4
-            },
-            {
-              "s": "detective-v3",
-              "n": "947",
-              "t": "The Victim Syndicate Part Five",
-              "d": "2017-02",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ],
-              "p": 5
-            }
-          ]
-        },
-        {
-          "name": "Batwoman Begins",
-          "nameZh": "蝙蝠女侠起源",
-          "issues": [
-            {
-              "s": "detective-v3",
-              "n": "948",
-              "t": "Batwoman Begins Part One",
-              "d": "2017-03",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ],
-              "p": 1,
-              "x": "Victim Syndicate 贸易卷（Vol 2）收录 #943-949"
-            },
-            {
-              "s": "detective-v3",
-              "n": "949",
-              "t": "Batwoman Begins Part Two",
-              "d": "2017-03",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ],
-              "p": 2
-            }
-          ]
-        },
-        {
-          "name": "League of Shadows",
-          "nameZh": "暗影联盟",
-          "issues": [
-            {
-              "s": "detective-v3",
-              "n": "950",
-              "t": "League of Shadows Part One",
-              "d": "2017-04",
-              "c": [
-                "batman",
-                "batwoman",
-                "robin-damian",
-                "ras"
-              ],
-              "p": 1
-            },
-            {
-              "s": "detective-v3",
-              "n": "951",
-              "t": "League of Shadows Part Two",
-              "d": "2017-04",
-              "c": [
-                "batman",
-                "batwoman",
-                "robin-damian",
-                "ras"
-              ],
-              "p": 2
-            },
-            {
-              "s": "detective-v3",
-              "n": "952",
-              "t": "League of Shadows Part Three",
-              "d": "2017-05",
-              "c": [
-                "batman",
-                "batwoman",
-                "robin-damian",
-                "ras"
-              ],
-              "p": 3
-            },
-            {
-              "s": "detective-v3",
-              "n": "953",
-              "t": "League of Shadows Part Four",
-              "d": "2017-05",
-              "c": [
-                "batman",
-                "batwoman",
-                "robin-damian",
-                "ras"
-              ],
-              "p": 4
-            },
-            {
-              "s": "detective-v3",
-              "n": "954",
-              "t": null,
-              "d": "2017-06",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "955",
-              "t": null,
-              "d": "2017-06",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "956",
-              "t": null,
-              "d": "2017-07",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Intelligence",
-          "nameZh": "智能之战",
-          "issues": [
-            {
-              "s": "detective-v3",
-              "n": "957",
-              "t": null,
-              "d": "2017-07",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ],
-              "x": "贸易卷 Vol 4《Deus Ex Machina（机械之神）》收录 #957-962"
-            },
-            {
-              "s": "detective-v3",
-              "n": "958",
-              "t": null,
-              "d": "2017-08",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "959",
-              "t": null,
-              "d": "2017-08",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "960",
-              "t": null,
-              "d": "2017-09",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "961",
-              "t": null,
-              "d": "2017-09",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "962",
-              "t": null,
-              "d": "2017-10",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "A Lonely Place of Living",
-          "nameZh": "孤独的生存之地",
-          "issues": [
-            {
-              "s": "detective-v3",
-              "n": "963",
-              "t": null,
-              "d": "2017-10",
-              "c": [
-                "batman",
-                "redrobin",
-                "robin-damian"
-              ],
-              "x": "蒂姆·德雷克回归弧（2017-08-23 上市）"
-            },
-            {
-              "s": "detective-v3",
-              "n": "964",
-              "t": null,
-              "d": "2017-11",
-              "c": [
-                "batman",
-                "redrobin"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "965",
-              "t": null,
-              "d": "2017-11",
-              "c": [
-                "batman",
-                "redrobin"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "966",
-              "t": null,
-              "d": "2017-12",
-              "c": [
-                "batman",
-                "redrobin"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "967",
-              "t": null,
-              "d": "2017-12",
-              "c": [
-                "batman",
-                "redrobin"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "968",
-              "t": null,
-              "d": "2018-01",
-              "c": [
-                "batman",
-                "redrobin",
-                "robin-damian"
-              ],
-              "x": "封面日期 2018-01（Overstreet 核实）"
-            }
-          ]
-        },
-        {
-          "name": "Fall of the Batmen",
-          "nameZh": "蝙蝠侠们的陨落",
-          "issues": [
-            {
-              "s": "detective-v3",
-              "n": "969",
-              "t": "Fall of the Batmen Part One",
-              "d": "2018-01",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin",
-                "alfred"
-              ],
-              "p": 1
-            },
-            {
-              "s": "detective-v3",
-              "n": "970",
-              "t": "Fall of the Batmen Part Two",
-              "d": "2018-02",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ],
-              "p": 2
-            },
-            {
-              "s": "detective-v3",
-              "n": "971",
-              "t": null,
-              "d": "2018-02",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "972",
-              "t": null,
-              "d": "2018-03",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "973",
-              "t": null,
-              "d": "2018-03",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "974",
-              "t": null,
-              "d": "2018-04",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Batmen Eternal",
-          "nameZh": "永恒的蝙蝠侠们",
-          "issues": [
-            {
-              "s": "detective-v3",
-              "n": "975",
-              "t": null,
-              "d": "2018-04",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin",
-                "nightwing"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "976",
-              "t": null,
-              "d": "2018-05",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "977",
-              "t": null,
-              "d": "2018-05",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "978",
-              "t": null,
-              "d": "2018-06",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "979",
-              "t": null,
-              "d": "2018-06",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "980",
-              "t": null,
-              "d": "2018-07",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin"
-              ]
-            },
-            {
-              "s": "detective-v3",
-              "n": "981",
-              "t": "Batmen Eternal Finale",
-              "d": "2018-07",
-              "c": [
-                "batman",
-                "batwoman",
-                "redrobin",
-                "alfred"
-              ],
-              "x": "蒂尼恩四世收官（2018-05-23 上市；Bryan Hill 自 #982 接手）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "metal",
-      "name": "Dark Nights: Metal",
-      "nameZh": "黑暗之夜：金属",
-      "era": "Rebirth",
-      "earth": "earth-0",
-      "type": "mega-event",
-      "start": "2017-08",
-      "end": "2018-07",
-      "summaryZh": "黑暗多元宇宙入侵主宇宙：巴巴托斯召唤出七位扭曲的「黑暗骑士」（笑蝠、红死、谋杀机器、黎明破晓者、溺亡者、无情者、毁灭者），蝙蝠侠与正义联盟在蝙蝠家族协助下抵抗，最终以「终极蝙蝠」计划摧毁巴巴托斯与黑暗多元宇宙。",
-      "characters": [
-        "batman",
-        "justiceleague",
         "joker",
-        "flash",
-        "superman",
-        "wonderwoman",
-        "nightwing",
-        "robin-damian",
-        "talon"
-      ],
-      "family": "bat-family",
-      "related": [
-        "wholaughs",
-        "dc-rebirth"
-      ],
-      "phases": [
-        {
-          "name": "Prelude: Dark Days",
-          "nameZh": "序章：黑暗之日",
-          "issues": [
-            {
-              "s": "Dark Days: The Forge",
-              "n": "1",
-              "t": "The Forge",
-              "d": "2017-08",
-              "c": [
-                "batman",
-                "justiceleague"
-              ],
-              "x": "2017-06 上市"
-            },
-            {
-              "s": "Dark Days: The Casting",
-              "n": "1",
-              "t": "The Casting",
-              "d": "2017-09",
-              "c": [
-                "batman",
-                "justiceleague"
-              ],
-              "x": "2017-07 上市（当月销量冠军）"
-            }
-          ]
-        },
-        {
-          "name": "Dark Nights: Metal",
-          "nameZh": "黑暗之夜：金属",
-          "issues": [
-            {
-              "s": "metal",
-              "n": "1",
-              "t": null,
-              "d": "2017-10",
-              "c": [
-                "batman",
-                "justiceleague"
-              ],
-              "x": "2017-08 上市（封面日期 2017-10，GCD 核实）"
-            },
-            {
-              "s": "metal",
-              "n": "2",
-              "t": null,
-              "d": "2017-11",
-              "c": [
-                "batman",
-                "justiceleague"
-              ]
-            },
-            {
-              "s": "metal",
-              "n": "3",
-              "t": null,
-              "d": "2017-12",
-              "c": [
-                "batman",
-                "justiceleague"
-              ]
-            },
-            {
-              "s": "metal",
-              "n": "4",
-              "t": null,
-              "d": "2018-01",
-              "c": [
-                "batman",
-                "justiceleague"
-              ]
-            },
-            {
-              "s": "metal",
-              "n": "5",
-              "t": null,
-              "d": "2018-03",
-              "c": [
-                "batman",
-                "justiceleague"
-              ],
-              "x": "延期至 2018 年初"
-            },
-            {
-              "s": "metal",
-              "n": "6",
-              "t": null,
-              "d": "2018-07",
-              "c": [
-                "batman",
-                "justiceleague"
-              ],
-              "x": "2018-05 上市（延期，Key Collector 核实）"
-            }
-          ]
-        },
-        {
-          "name": "Dark Knights Rising",
-          "nameZh": "黑暗骑士崛起",
-          "issues": [
-            {
-              "s": "Batman: The Red Death",
-              "n": "1",
-              "t": null,
-              "d": "2018-01",
-              "c": [
-                "flash",
-                "batman"
-              ],
-              "x": "2017-11 上市"
-            },
-            {
-              "s": "Batman: The Murder Machine",
-              "n": "1",
-              "t": null,
-              "d": "2018-01",
-              "c": [
-                "batman",
-                "justiceleague"
-              ],
-              "x": "2017-11 上市"
-            },
-            {
-              "s": "Batman: The Dawnbreaker",
-              "n": "1",
-              "t": null,
-              "d": "2018-02",
-              "c": [
-                "batman",
-                "justiceleague"
-              ],
-              "x": "2017-12 上市"
-            },
-            {
-              "s": "Batman: The Drowned",
-              "n": "1",
-              "t": null,
-              "d": "2018-02",
-              "c": [
-                "batman",
-                "justiceleague"
-              ],
-              "x": "2017-12 上市"
-            },
-            {
-              "s": "Batman: The Merciless",
-              "n": "1",
-              "t": null,
-              "d": "2018-02",
-              "c": [
-                "batman",
-                "wonderwoman"
-              ],
-              "x": "2017-12 上市"
-            },
-            {
-              "s": "Batman: The Devastator",
-              "n": "1",
-              "t": null,
-              "d": "2018-03",
-              "c": [
-                "batman",
-                "superman"
-              ],
-              "x": "2018-01 上市（Key Collector 核实）"
-            },
-            {
-              "s": "Batman: The Batman Who Laughs",
-              "n": "1",
-              "t": null,
-              "d": "2018-03",
-              "c": [
-                "batman",
-                "joker"
-              ],
-              "x": "2018-01 上市"
-            }
-          ]
-        },
-        {
-          "name": "Bat-Family Tie-Ins",
-          "nameZh": "蝙蝠家族联动",
-          "issues": [
-            {
-              "s": "Batman: Lost",
-              "n": "1",
-              "t": null,
-              "d": "2018-02",
-              "c": [
-                "batman",
-                "nightwing",
-                "robin-damian",
-                "batgirl"
-              ],
-              "x": "2017-12 上市"
-            },
-            {
-              "s": "nightwing-v4",
-              "n": "29",
-              "t": "Gotham Resistance Part Two",
-              "d": "2017-11",
-              "p": 2,
-              "c": [
-                "nightwing",
-                "batman"
-              ],
-              "x": "Gotham Resistance 联动（Teen Titans #12 为 Part One）"
-            },
-            {
-              "s": "Teen Titans",
-              "n": "12",
-              "t": "Gotham Resistance Part One",
-              "d": "2017-11",
-              "p": 1,
-              "c": [
-                "robin-damian",
-                "batman"
-              ],
-              "x": "Gotham Resistance 联动"
-            }
-          ]
-        }
-      ]
+        "riddler"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "31",
+       "t": "The War of Jokes and Riddles Part Seven",
+       "d": "2017-11",
+       "p": 7,
+       "c": [
+        "batman",
+        "joker",
+        "riddler"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "32",
+       "t": "The War of Jokes and Riddles Finale",
+       "d": "2017-12",
+       "p": null,
+       "c": [
+        "batman",
+        "joker",
+        "riddler"
+       ],
+       "x": "结尾揭晓蝙蝠侠险些杀死谜语人的秘密"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "metal",
+   "name": "Dark Nights: Metal",
+   "nameZh": "黑暗之夜：金属",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "mega-event",
+   "start": "2017-08",
+   "end": "2018-07",
+   "summaryZh": "黑暗多元宇宙入侵主宇宙：巴巴托斯召唤出七位扭曲的「黑暗骑士」（笑蝠、红死、谋杀机器、黎明破晓者、溺亡者、无情者、毁灭者），蝙蝠侠与正义联盟在蝙蝠家族协助下抵抗，最终以「终极蝙蝠」计划摧毁巴巴托斯与黑暗多元宇宙。",
+   "characters": [
+    "batman",
+    "justiceleague",
+    "joker",
+    "flash",
+    "superman",
+    "wonderwoman",
+    "nightwing",
+    "robin-damian",
+    "talon"
+   ],
+   "family": "bat-family",
+   "related": [
+    "wholaughs",
+    "dc-rebirth"
+   ],
+   "phases": [
+    {
+     "name": "Prelude: Dark Days",
+     "nameZh": "序章：黑暗之日",
+     "issues": [
+      {
+       "s": "Dark Days: The Forge",
+       "n": "1",
+       "t": "The Forge",
+       "d": "2017-08",
+       "c": [
+        "batman",
+        "justiceleague"
+       ],
+       "x": "2017-06 上市"
+      },
+      {
+       "s": "Dark Days: The Casting",
+       "n": "1",
+       "t": "The Casting",
+       "d": "2017-09",
+       "c": [
+        "batman",
+        "justiceleague"
+       ],
+       "x": "2017-07 上市（当月销量冠军）"
+      }
+     ]
     },
     {
-      "id": "wholaughs",
-      "name": "The Batman Who Laughs",
-      "nameZh": "笑蝠",
-      "era": "Rebirth",
-      "earth": "earth-0",
-      "type": "series",
-      "start": "2019-02",
-      "end": "2019-09",
-      "summaryZh": "黑暗多元宇宙的笑蝠逃入主宇宙，与「格里姆骑士」联手策划毁灭蝙蝠侠的阴谋。蝙蝠侠与哥谭群英联手对抗这个自己最黑暗的倒影，最终在蝙蝠家族协助下将其消灭。",
-      "characters": [
+     "name": "Dark Nights: Metal",
+     "nameZh": "黑暗之夜：金属",
+     "issues": [
+      {
+       "s": "metal",
+       "n": "1",
+       "t": null,
+       "d": "2017-10",
+       "c": [
+        "batman",
+        "justiceleague"
+       ],
+       "x": "2017-08 上市（封面日期 2017-10，GCD 核实）"
+      },
+      {
+       "s": "metal",
+       "n": "2",
+       "t": null,
+       "d": "2017-11",
+       "c": [
+        "batman",
+        "justiceleague"
+       ]
+      },
+      {
+       "s": "metal",
+       "n": "3",
+       "t": null,
+       "d": "2017-12",
+       "c": [
+        "batman",
+        "justiceleague"
+       ]
+      },
+      {
+       "s": "metal",
+       "n": "4",
+       "t": null,
+       "d": "2018-01",
+       "c": [
+        "batman",
+        "justiceleague"
+       ]
+      },
+      {
+       "s": "metal",
+       "n": "5",
+       "t": null,
+       "d": "2018-03",
+       "c": [
+        "batman",
+        "justiceleague"
+       ],
+       "x": "延期至 2018 年初"
+      },
+      {
+       "s": "metal",
+       "n": "6",
+       "t": null,
+       "d": "2018-07",
+       "c": [
+        "batman",
+        "justiceleague"
+       ],
+       "x": "2018-05 上市（延期，Key Collector 核实）"
+      }
+     ]
+    },
+    {
+     "name": "Dark Knights Rising",
+     "nameZh": "黑暗骑士崛起",
+     "issues": [
+      {
+       "s": "Batman: The Red Death",
+       "n": "1",
+       "t": null,
+       "d": "2018-01",
+       "c": [
+        "flash",
+        "batman"
+       ],
+       "x": "2017-11 上市"
+      },
+      {
+       "s": "Batman: The Murder Machine",
+       "n": "1",
+       "t": null,
+       "d": "2018-01",
+       "c": [
+        "batman",
+        "justiceleague"
+       ],
+       "x": "2017-11 上市"
+      },
+      {
+       "s": "Batman: The Dawnbreaker",
+       "n": "1",
+       "t": null,
+       "d": "2018-02",
+       "c": [
+        "batman",
+        "justiceleague"
+       ],
+       "x": "2017-12 上市"
+      },
+      {
+       "s": "Batman: The Drowned",
+       "n": "1",
+       "t": null,
+       "d": "2018-02",
+       "c": [
+        "batman",
+        "justiceleague"
+       ],
+       "x": "2017-12 上市"
+      },
+      {
+       "s": "Batman: The Merciless",
+       "n": "1",
+       "t": null,
+       "d": "2018-02",
+       "c": [
+        "batman",
+        "wonderwoman"
+       ],
+       "x": "2017-12 上市"
+      },
+      {
+       "s": "Batman: The Devastator",
+       "n": "1",
+       "t": null,
+       "d": "2018-03",
+       "c": [
+        "batman",
+        "superman"
+       ],
+       "x": "2018-01 上市（Key Collector 核实）"
+      },
+      {
+       "s": "Batman: The Batman Who Laughs",
+       "n": "1",
+       "t": null,
+       "d": "2018-03",
+       "c": [
+        "batman",
+        "joker"
+       ],
+       "x": "2018-01 上市"
+      }
+     ]
+    },
+    {
+     "name": "Bat-Family Tie-Ins",
+     "nameZh": "蝙蝠家族联动",
+     "issues": [
+      {
+       "s": "Batman: Lost",
+       "n": "1",
+       "t": null,
+       "d": "2018-02",
+       "c": [
+        "batman",
+        "nightwing",
+        "robin-damian",
+        "batgirl"
+       ],
+       "x": "2017-12 上市"
+      },
+      {
+       "s": "nightwing-v4",
+       "n": "29",
+       "t": "Gotham Resistance Part Two",
+       "d": "2017-11",
+       "p": 2,
+       "c": [
+        "nightwing",
+        "batman"
+       ],
+       "x": "Gotham Resistance 联动（Teen Titans #12 为 Part One）"
+      },
+      {
+       "s": "Teen Titans",
+       "n": "12",
+       "t": "Gotham Resistance Part One",
+       "d": "2017-11",
+       "p": 1,
+       "c": [
+        "robin-damian",
+        "batman"
+       ],
+       "x": "Gotham Resistance 联动"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wholaughs",
+   "name": "The Batman Who Laughs",
+   "nameZh": "笑蝠",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "series",
+   "start": "2019-02",
+   "end": "2019-09",
+   "summaryZh": "黑暗多元宇宙的笑蝠逃入主宇宙，与「格里姆骑士」联手策划毁灭蝙蝠侠的阴谋。蝙蝠侠与哥谭群英联手对抗这个自己最黑暗的倒影，最终在蝙蝠家族协助下将其消灭。",
+   "characters": [
+    "batman",
+    "joker",
+    "gordon"
+   ],
+   "family": "bat-family",
+   "related": [
+    "metal"
+   ],
+   "phases": [
+    {
+     "name": "The Batman Who Laughs",
+     "nameZh": "笑蝠",
+     "issues": [
+      {
+       "s": "batman-wholaughs",
+       "n": "1",
+       "t": null,
+       "d": "2019-02",
+       "c": [
+        "batman",
+        "joker"
+       ],
+       "x": "2018-12 上市"
+      },
+      {
+       "s": "batman-wholaughs",
+       "n": "2",
+       "t": null,
+       "d": "2019-03",
+       "c": [
+        "batman",
+        "joker"
+       ]
+      },
+      {
+       "s": "batman-wholaughs",
+       "n": "3",
+       "t": null,
+       "d": "2019-04",
+       "c": [
+        "batman",
+        "joker"
+       ]
+      },
+      {
+       "s": "batman-wholaughs",
+       "n": "4",
+       "t": null,
+       "d": "2019-05",
+       "c": [
         "batman",
         "joker",
         "gordon"
-      ],
-      "family": "bat-family",
-      "related": [
-        "metal"
-      ],
-      "phases": [
-        {
-          "name": "The Batman Who Laughs",
-          "nameZh": "笑蝠",
-          "issues": [
-            {
-              "s": "batman-wholaughs",
-              "n": "1",
-              "t": null,
-              "d": "2019-02",
-              "c": [
-                "batman",
-                "joker"
-              ],
-              "x": "2018-12 上市"
-            },
-            {
-              "s": "batman-wholaughs",
-              "n": "2",
-              "t": null,
-              "d": "2019-03",
-              "c": [
-                "batman",
-                "joker"
-              ]
-            },
-            {
-              "s": "batman-wholaughs",
-              "n": "3",
-              "t": null,
-              "d": "2019-04",
-              "c": [
-                "batman",
-                "joker"
-              ]
-            },
-            {
-              "s": "batman-wholaughs",
-              "n": "4",
-              "t": null,
-              "d": "2019-05",
-              "c": [
-                "batman",
-                "joker",
-                "gordon"
-              ]
-            },
-            {
-              "s": "batman-wholaughs",
-              "n": "5",
-              "t": null,
-              "d": "2019-06",
-              "c": [
-                "batman",
-                "joker",
-                "gordon"
-              ],
-              "x": "2019-04/05 上市"
-            },
-            {
-              "s": "batman-wholaughs",
-              "n": "6",
-              "t": null,
-              "d": "2019-07",
-              "c": [
-                "batman",
-                "joker"
-              ]
-            },
-            {
-              "s": "batman-wholaughs",
-              "n": "7",
-              "t": null,
-              "d": "2019-09",
-              "c": [
-                "batman",
-                "joker"
-              ],
-              "x": "2019-07 上市（增刊为 7 期，Key Collector 核实）"
-            }
-          ]
-        }
-      ]
-    },
+       ]
+      },
+      {
+       "s": "batman-wholaughs",
+       "n": "5",
+       "t": null,
+       "d": "2019-06",
+       "c": [
+        "batman",
+        "joker",
+        "gordon"
+       ],
+       "x": "2019-04/05 上市"
+      },
+      {
+       "s": "batman-wholaughs",
+       "n": "6",
+       "t": null,
+       "d": "2019-07",
+       "c": [
+        "batman",
+        "joker"
+       ]
+      },
+      {
+       "s": "batman-wholaughs",
+       "n": "7",
+       "t": null,
+       "d": "2019-09",
+       "c": [
+        "batman",
+        "joker"
+       ],
+       "x": "2019-07 上市（增刊为 7 期，Key Collector 核实）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "city-of-bane",
+   "name": "City of Bane",
+   "nameZh": "贝恩之城",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "saga",
+   "start": "2019-09",
+   "end": "2020-02",
+   "summaryZh": "贝恩以「圣普里斯卡」模式占领哥谭，用毒液强化罪犯统治全城，并利用托马斯·韦恩（闪点蝙蝠侠）从精神上击垮布鲁斯。蝙蝠侠在猫女与整个蝙蝠家族的帮助下夺回哥谭，迎来汤姆·金主线的终章。",
+   "characters": [
+    "batman",
+    "bane",
+    "catwoman",
+    "nightwing",
+    "robin-damian",
+    "redhood",
+    "alfred",
+    "gordon"
+   ],
+   "family": "bat-family",
+   "related": [
+    "i-am-bane",
+    "their-dark-designs"
+   ],
+   "phases": [
     {
-      "id": "city-of-bane",
-      "name": "City of Bane",
-      "nameZh": "贝恩之城",
-      "era": "Rebirth",
-      "earth": "earth-0",
-      "type": "saga",
-      "start": "2019-09",
-      "end": "2020-02",
-      "summaryZh": "贝恩以「圣普里斯卡」模式占领哥谭，用毒液强化罪犯统治全城，并利用托马斯·韦恩（闪点蝙蝠侠）从精神上击垮布鲁斯。蝙蝠侠在猫女与整个蝙蝠家族的帮助下夺回哥谭，迎来汤姆·金主线的终章。",
-      "characters": [
+     "name": "City of Bane",
+     "nameZh": "贝恩之城",
+     "issues": [
+      {
+       "s": "batman-v3",
+       "n": "75",
+       "t": "City of Bane Part One",
+       "d": "2019-09",
+       "p": 1,
+       "c": [
+        "batman",
+        "bane",
+        "catwoman"
+       ],
+       "x": "2019-07 上市（封面日期 2019-09）"
+      },
+      {
+       "s": "batman-v3",
+       "n": "76",
+       "t": "City of Bane Part Two",
+       "d": "2019-10",
+       "p": 2,
+       "c": [
+        "batman",
+        "bane",
+        "nightwing"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "77",
+       "t": "City of Bane Part Three",
+       "d": "2019-10",
+       "p": 3,
+       "c": [
+        "batman",
+        "bane",
+        "robin-damian"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "78",
+       "t": "City of Bane Part Four",
+       "d": "2019-11",
+       "p": 4,
+       "c": [
+        "batman",
+        "bane",
+        "gordon"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "79",
+       "t": "City of Bane Part Five",
+       "d": "2019-11",
+       "p": 5,
+       "c": [
+        "batman",
+        "bane",
+        "redhood"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "80",
+       "t": "City of Bane Part Six",
+       "d": "2019-12",
+       "p": 6,
+       "c": [
+        "batman",
+        "bane",
+        "alfred"
+       ],
+       "x": "阿尔弗雷德之死"
+      },
+      {
+       "s": "batman-v3",
+       "n": "81",
+       "t": "City of Bane Part Seven",
+       "d": "2020-01",
+       "p": 7,
+       "c": [
+        "batman",
+        "bane",
+        "catwoman"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "82",
+       "t": "City of Bane Part Eight",
+       "d": "2020-01",
+       "p": 8,
+       "c": [
+        "batman",
+        "bane",
+        "catwoman"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "83",
+       "t": "City of Bane Part Nine",
+       "d": "2020-02",
+       "p": 9,
+       "c": [
+        "batman",
+        "bane",
+        "catwoman",
+        "robin-damian"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "84",
+       "t": "City of Bane Part Ten",
+       "d": "2020-02",
+       "p": 10,
+       "c": [
+        "batman",
+        "bane",
+        "catwoman"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "85",
+       "t": "City of Bane Part Eleven",
+       "d": "2020-02",
+       "p": 11,
+       "c": [
         "batman",
         "bane",
         "catwoman",
         "nightwing",
-        "robin-damian",
-        "redhood",
-        "alfred",
-        "gordon"
-      ],
-      "family": "bat-family",
-      "related": [
-        "i-am-bane",
-        "their-dark-designs"
-      ],
-      "phases": [
-        {
-          "name": "City of Bane",
-          "nameZh": "贝恩之城",
-          "issues": [
-            {
-              "s": "batman-v3",
-              "n": "75",
-              "t": "City of Bane Part One",
-              "d": "2019-09",
-              "p": 1,
-              "c": [
-                "batman",
-                "bane",
-                "catwoman"
-              ],
-              "x": "2019-07 上市（封面日期 2019-09）"
-            },
-            {
-              "s": "batman-v3",
-              "n": "76",
-              "t": "City of Bane Part Two",
-              "d": "2019-10",
-              "p": 2,
-              "c": [
-                "batman",
-                "bane",
-                "nightwing"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "77",
-              "t": "City of Bane Part Three",
-              "d": "2019-10",
-              "p": 3,
-              "c": [
-                "batman",
-                "bane",
-                "robin-damian"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "78",
-              "t": "City of Bane Part Four",
-              "d": "2019-11",
-              "p": 4,
-              "c": [
-                "batman",
-                "bane",
-                "gordon"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "79",
-              "t": "City of Bane Part Five",
-              "d": "2019-11",
-              "p": 5,
-              "c": [
-                "batman",
-                "bane",
-                "redhood"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "80",
-              "t": "City of Bane Part Six",
-              "d": "2019-12",
-              "p": 6,
-              "c": [
-                "batman",
-                "bane",
-                "alfred"
-              ],
-              "x": "阿尔弗雷德之死"
-            },
-            {
-              "s": "batman-v3",
-              "n": "81",
-              "t": "City of Bane Part Seven",
-              "d": "2020-01",
-              "p": 7,
-              "c": [
-                "batman",
-                "bane",
-                "catwoman"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "82",
-              "t": "City of Bane Part Eight",
-              "d": "2020-01",
-              "p": 8,
-              "c": [
-                "batman",
-                "bane",
-                "catwoman"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "83",
-              "t": "City of Bane Part Nine",
-              "d": "2020-02",
-              "p": 9,
-              "c": [
-                "batman",
-                "bane",
-                "catwoman",
-                "robin-damian"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "84",
-              "t": "City of Bane Part Ten",
-              "d": "2020-02",
-              "p": 10,
-              "c": [
-                "batman",
-                "bane",
-                "catwoman"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "85",
-              "t": "City of Bane Part Eleven",
-              "d": "2020-02",
-              "p": 11,
-              "c": [
-                "batman",
-                "bane",
-                "catwoman",
-                "nightwing",
-                "redhood"
-              ],
-              "x": "2019-12 上市（汤姆·金收官，封面日期 2020-02）"
-            }
-          ]
-        }
-      ]
-    },
+        "redhood"
+       ],
+       "x": "2019-12 上市（汤姆·金收官，封面日期 2020-02）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "their-dark-designs",
+   "name": "Their Dark Designs",
+   "nameZh": "他们的黑暗设计",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2020-03",
+   "end": "2020-09",
+   "summaryZh": "詹姆斯·蒂尼恩四世接手蝙蝠侠主线的首个故事弧：神秘的「设计师」归来，他是曾与猫女、小丑、谜语人、企鹅人共事的犯罪策划者；同时小丑的真面目与「小丑战争」的阴谋逐渐浮出水面。",
+   "characters": [
+    "batman",
+    "catwoman",
+    "joker",
+    "riddler",
+    "penguin",
+    "gordon"
+   ],
+   "family": "bat-family",
+   "related": [
+    "city-of-bane",
+    "joker-war"
+   ],
+   "phases": [
     {
-      "id": "their-dark-designs",
-      "name": "Their Dark Designs",
-      "nameZh": "他们的黑暗设计",
-      "era": "Rebirth",
-      "earth": "earth-0",
-      "type": "arc",
-      "start": "2020-03",
-      "end": "2020-09",
-      "summaryZh": "詹姆斯·蒂尼恩四世接手蝙蝠侠主线的首个故事弧：神秘的「设计师」归来，他是曾与猫女、小丑、谜语人、企鹅人共事的犯罪策划者；同时小丑的真面目与「小丑战争」的阴谋逐渐浮出水面。",
-      "characters": [
+     "name": "Their Dark Designs",
+     "nameZh": "他们的黑暗设计",
+     "issues": [
+      {
+       "s": "batman-v3",
+       "n": "86",
+       "t": "Their Dark Designs Part One",
+       "d": "2020-03",
+       "p": 1,
+       "c": [
         "batman",
         "catwoman",
-        "joker",
         "riddler",
-        "penguin",
-        "gordon"
-      ],
-      "family": "bat-family",
-      "related": [
-        "city-of-bane",
-        "joker-war"
-      ],
-      "phases": [
-        {
-          "name": "Their Dark Designs",
-          "nameZh": "他们的黑暗设计",
-          "issues": [
-            {
-              "s": "batman-v3",
-              "n": "86",
-              "t": "Their Dark Designs Part One",
-              "d": "2020-03",
-              "p": 1,
-              "c": [
-                "batman",
-                "catwoman",
-                "riddler",
-                "penguin"
-              ],
-              "x": "2020-01 上市（封面日期 2020-03）"
-            },
-            {
-              "s": "batman-v3",
-              "n": "87",
-              "t": "Their Dark Designs Part Two",
-              "d": "2020-03",
-              "p": 2,
-              "c": [
-                "batman",
-                "catwoman",
-                "joker"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "88",
-              "t": "Their Dark Designs Part Three",
-              "d": "2020-04",
-              "p": 3,
-              "c": [
-                "batman",
-                "catwoman",
-                "joker"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "89",
-              "t": "Their Dark Designs Part Four",
-              "d": "2020-04",
-              "p": 4,
-              "c": [
-                "batman",
-                "catwoman",
-                "joker"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "90",
-              "t": "Their Dark Designs Part Five",
-              "d": "2020-05",
-              "p": 5,
-              "c": [
-                "batman",
-                "catwoman",
-                "joker"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "91",
-              "t": "Their Dark Designs Part Six",
-              "d": "2020-05",
-              "p": 6,
-              "c": [
-                "batman",
-                "catwoman",
-                "joker"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "92",
-              "t": "Their Dark Designs Part Seven",
-              "d": "2020-08",
-              "p": 7,
-              "c": [
-                "batman",
-                "catwoman",
-                "joker"
-              ],
-              "x": "2020-06 上市（COVID 停刊后恢复）"
-            },
-            {
-              "s": "batman-v3",
-              "n": "93",
-              "t": "Their Dark Designs Part Eight",
-              "d": "2020-08",
-              "p": 8,
-              "c": [
-                "batman",
-                "catwoman",
-                "joker"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "94",
-              "t": "Their Dark Designs Finale",
-              "d": "2020-09",
-              "p": null,
-              "c": [
-                "batman",
-                "catwoman",
-                "joker"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "joker-war",
-      "name": "Joker War",
-      "nameZh": "小丑战争",
-      "era": "Rebirth",
-      "earth": "earth-0",
-      "type": "crossover",
-      "start": "2020-09",
-      "end": "2020-12",
-      "summaryZh": "小丑以韦恩企业为武器发动终极战争：他以「小丑毒素」感染哥谭、劫持韦恩财富并将蝙蝠侠逼入绝境；蝙蝠家族全线参战，蝙蝠侠戴着小丑面具完成「死亡与重生」，最终击败小丑。阿尔弗雷德之死成为蝙蝠侠永远的伤痕。",
-      "characters": [
+        "penguin"
+       ],
+       "x": "2020-01 上市（封面日期 2020-03）"
+      },
+      {
+       "s": "batman-v3",
+       "n": "87",
+       "t": "Their Dark Designs Part Two",
+       "d": "2020-03",
+       "p": 2,
+       "c": [
         "batman",
-        "joker",
-        "redhood",
-        "nightwing",
-        "batgirl",
         "catwoman",
-        "alfred",
-        "gordon",
-        "robin-damian"
-      ],
-      "family": "bat-family",
-      "related": [
-        "their-dark-designs"
-      ],
-      "phases": [
-        {
-          "name": "Joker War",
-          "nameZh": "小丑战争",
-          "issues": [
-            {
-              "s": "batman-v3",
-              "n": "95",
-              "t": "Joker War Part One",
-              "d": "2020-09",
-              "p": 1,
-              "c": [
-                "batman",
-                "joker",
-                "catwoman"
-              ],
-              "x": "2020-07-21 上市（封面日期 2020-09，GCD 核实）"
-            },
-            {
-              "s": "batman-v3",
-              "n": "96",
-              "t": "Joker War Part Two",
-              "d": "2020-10",
-              "p": 2,
-              "c": [
-                "batman",
-                "joker",
-                "gordon"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "97",
-              "t": "Joker War Part Three",
-              "d": "2020-10",
-              "p": 3,
-              "c": [
-                "batman",
-                "joker",
-                "nightwing"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "98",
-              "t": "Joker War Part Four",
-              "d": "2020-11",
-              "p": 4,
-              "c": [
-                "batman",
-                "joker",
-                "robin-damian"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "99",
-              "t": "Joker War Part Five",
-              "d": "2020-11",
-              "p": 5,
-              "c": [
-                "batman",
-                "joker",
-                "batgirl"
-              ]
-            },
-            {
-              "s": "batman-v3",
-              "n": "100",
-              "t": "Joker War Finale",
-              "d": "2020-12",
-              "p": null,
-              "c": [
-                "batman",
-                "joker",
-                "alfred"
-              ],
-              "x": "2020-10-06 上市（封面日期 2020-12，Overstreet 核实）；百年纪念刊"
-            }
-          ]
-        },
-        {
-          "name": "Joker War Tie-Ins",
-          "nameZh": "小丑战争联动",
-          "issues": [
-            {
-              "s": "joker-war-zone",
-              "n": "1",
-              "t": null,
-              "d": "2020-11",
-              "c": [
-                "batman",
-                "joker",
-                "redhood",
-                "batgirl",
-                "nightwing",
-                "catwoman",
-                "gordon"
-              ],
-              "x": "2020-09 上市（Key Collector 核实）；红头罩系列未直接联动（Red Hood: Outlaw #50 于 2020-10 收官，杰森在 Joker War Zone 登场）"
-            },
-            {
-              "s": "batgirl-v4",
-              "n": "47",
-              "t": null,
-              "d": "2020-10",
-              "c": [
-                "batgirl",
-                "joker",
-                "gordon"
-              ],
-              "x": "Joker War 联动（芭芭拉对决小丑）"
-            },
-            {
-              "s": "nightwing-v4",
-              "n": "74",
-              "t": null,
-              "d": "2020-11",
-              "c": [
-                "nightwing",
-                "joker",
-                "batman"
-              ],
-              "x": "Joker War 联动（里克·格雷森）"
-            },
-            {
-              "s": "Catwoman",
-              "n": "25",
-              "t": null,
-              "d": "2020-11",
-              "c": [
-                "catwoman",
-                "joker"
-              ],
-              "x": "Joker War 联动（猫女卷五 #25）"
-            },
-            {
-              "s": "detective-v3",
-              "n": "1025",
-              "t": null,
-              "d": "2020-10",
-              "c": [
-                "batman",
-                "joker",
-                "gordon"
-              ],
-              "x": "Joker War 联动（封面日期为推算）"
-            },
-            {
-              "s": "detective-v3",
-              "n": "1026",
-              "t": null,
-              "d": "2020-11",
-              "c": [
-                "batman",
-                "joker"
-              ],
-              "x": "Joker War 联动"
-            },
-            {
-              "s": "detective-v3",
-              "n": "1027",
-              "t": null,
-              "d": "2020-12",
-              "c": [
-                "batman",
-                "joker"
-              ],
-              "x": "Joker War 联动"
-            }
-          ]
-        }
-      ]
+        "joker"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "88",
+       "t": "Their Dark Designs Part Three",
+       "d": "2020-04",
+       "p": 3,
+       "c": [
+        "batman",
+        "catwoman",
+        "joker"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "89",
+       "t": "Their Dark Designs Part Four",
+       "d": "2020-04",
+       "p": 4,
+       "c": [
+        "batman",
+        "catwoman",
+        "joker"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "90",
+       "t": "Their Dark Designs Part Five",
+       "d": "2020-05",
+       "p": 5,
+       "c": [
+        "batman",
+        "catwoman",
+        "joker"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "91",
+       "t": "Their Dark Designs Part Six",
+       "d": "2020-05",
+       "p": 6,
+       "c": [
+        "batman",
+        "catwoman",
+        "joker"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "92",
+       "t": "Their Dark Designs Part Seven",
+       "d": "2020-08",
+       "p": 7,
+       "c": [
+        "batman",
+        "catwoman",
+        "joker"
+       ],
+       "x": "2020-06 上市（COVID 停刊后恢复）"
+      },
+      {
+       "s": "batman-v3",
+       "n": "93",
+       "t": "Their Dark Designs Part Eight",
+       "d": "2020-08",
+       "p": 8,
+       "c": [
+        "batman",
+        "catwoman",
+        "joker"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "94",
+       "t": "Their Dark Designs Finale",
+       "d": "2020-09",
+       "p": null,
+       "c": [
+        "batman",
+        "catwoman",
+        "joker"
+       ]
+      }
+     ]
     }
-  ],
-  "arcs": [
+   ]
+  },
+  {
+   "id": "joker-war",
+   "name": "Joker War",
+   "nameZh": "小丑战争",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "crossover",
+   "start": "2020-09",
+   "end": "2020-12",
+   "summaryZh": "小丑以韦恩企业为武器发动终极战争：他以「小丑毒素」感染哥谭、劫持韦恩财富并将蝙蝠侠逼入绝境；蝙蝠家族全线参战，蝙蝠侠戴着小丑面具完成「死亡与重生」，最终击败小丑。阿尔弗雷德之死成为蝙蝠侠永远的伤痕。",
+   "characters": [
+    "batman",
+    "joker",
+    "redhood",
+    "nightwing",
+    "batgirl",
+    "catwoman",
+    "alfred",
+    "gordon",
+    "robin-damian"
+   ],
+   "family": "bat-family",
+   "related": [
+    "their-dark-designs"
+   ],
+   "phases": [
     {
-      "id": "nightwing-v4-better-than-batman",
-      "name": "Better Than Batman",
-      "nameZh": "比蝙蝠侠更好",
-      "era": "Rebirth",
-      "earth": "earth-0",
-      "type": "arc",
-      "start": "2016-09",
-      "end": "2017-01",
-      "summaryZh": "夜翼回到布鲁德海文，却卷入猫头鹰法庭前爪牙「猛禽」（Raptor）的复仇阴谋；迪克必须证明自己可以成为比蝙蝠侠更好的英雄，同时调查父母的真正死因。",
-      "characters": [
-        "nightwing",
+     "name": "Joker War",
+     "nameZh": "小丑战争",
+     "issues": [
+      {
+       "s": "batman-v3",
+       "n": "95",
+       "t": "Joker War Part One",
+       "d": "2020-09",
+       "p": 1,
+       "c": [
         "batman",
-        "talon"
-      ],
-      "issues": [
-        {
-          "s": "nightwing-v4",
-          "n": "1",
-          "t": "Better Than Batman Part One",
-          "d": "2016-09",
-          "p": 1,
-          "c": [
-            "nightwing",
-            "batman"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "2",
-          "t": "Better Than Batman Part Two",
-          "d": "2016-10",
-          "p": 2,
-          "c": [
-            "nightwing",
-            "talon"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "3",
-          "t": "Better Than Batman Part Three",
-          "d": "2016-10",
-          "p": 3,
-          "c": [
-            "nightwing",
-            "talon"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "4",
-          "t": "Better Than Batman Part Four",
-          "d": "2016-11",
-          "p": 4,
-          "c": [
-            "nightwing",
-            "talon"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "5",
-          "t": "Better Than Batman Part Five",
-          "d": "2016-11",
-          "p": 5,
-          "c": [
-            "nightwing",
-            "talon"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "6",
-          "t": "Better Than Batman Part Six",
-          "d": "2016-12",
-          "p": 6,
-          "c": [
-            "nightwing",
-            "talon",
-            "batman"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "7",
-          "t": "Better Than Batman Part Seven",
-          "d": "2017-01",
-          "p": 7,
-          "c": [
-            "nightwing",
-            "talon"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "8",
-          "t": "Better Than Batman Part Eight",
-          "d": "2017-01",
-          "p": 8,
-          "c": [
-            "nightwing",
-            "talon",
-            "batman"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "nightwing-v4-bludhaven",
-      "name": "Blüdhaven",
-      "nameZh": "重返布鲁德海文",
-      "era": "Rebirth",
-      "earth": "earth-0",
-      "type": "arc",
-      "start": "2017-02",
-      "end": "2017-06",
-      "summaryZh": "夜翼发现布鲁德海文建在拉撒路之池之上，猫头鹰法庭的「爪」持续追猎他；迪克决定扎根这座城市，成为它的守护者。",
-      "characters": [
-        "nightwing",
-        "talon",
+        "joker",
+        "catwoman"
+       ],
+       "x": "2020-07-21 上市（封面日期 2020-09，GCD 核实）"
+      },
+      {
+       "s": "batman-v3",
+       "n": "96",
+       "t": "Joker War Part Two",
+       "d": "2020-10",
+       "p": 2,
+       "c": [
         "batman",
-        "talia"
-      ],
-      "issues": [
-        {
-          "s": "nightwing-v4",
-          "n": "9",
-          "t": "Blüdhaven Part One",
-          "d": "2017-02",
-          "p": 1,
-          "c": [
-            "nightwing",
-            "talon"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "10",
-          "t": "Blüdhaven Part Two",
-          "d": "2017-02",
-          "p": 2,
-          "c": [
-            "nightwing",
-            "talon"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "11",
-          "t": "Blüdhaven Part Three",
-          "d": "2017-03",
-          "p": 3,
-          "c": [
-            "nightwing",
-            "talon"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "12",
-          "t": "Blüdhaven Part Four",
-          "d": "2017-03",
-          "p": 4,
-          "c": [
-            "nightwing",
-            "talon",
-            "batman"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "13",
-          "t": "Blüdhaven Part Five",
-          "d": "2017-04",
-          "p": 5,
-          "c": [
-            "nightwing",
-            "talon"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "14",
-          "t": "Blüdhaven Part Six",
-          "d": "2017-04",
-          "p": 6,
-          "c": [
-            "nightwing",
-            "talia"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "15",
-          "t": "Blüdhaven Part Seven",
-          "d": "2017-05",
-          "p": 7,
-          "c": [
-            "nightwing",
-            "talon",
-            "talia"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "nightwing-v4-nightwing-must-die",
-      "name": "Nightwing Must Die",
-      "nameZh": "夜翼必须死",
-      "era": "Rebirth",
-      "earth": "earth-0",
-      "type": "arc",
-      "start": "2017-05",
-      "end": "2017-07",
-      "summaryZh": "来自黑暗多元宇宙的「死亡之翼」（Deathwing）——夜翼的黑暗镜像——入侵主宇宙，伪装成迪克袭击蝙蝠家族，迫使夜翼与蝙蝠侠联手对抗自己的倒影。",
-      "characters": [
-        "nightwing",
-        "batman",
-        "robin-damian",
-        "talon"
-      ],
-      "issues": [
-        {
-          "s": "nightwing-v4",
-          "n": "16",
-          "t": "Nightwing Must Die Part One",
-          "d": "2017-05",
-          "p": 1,
-          "c": [
-            "nightwing",
-            "batman",
-            "robin-damian"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "17",
-          "t": "Nightwing Must Die Part Two",
-          "d": "2017-05",
-          "p": 2,
-          "c": [
-            "nightwing",
-            "batman"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "18",
-          "t": "Nightwing Must Die Part Three",
-          "d": "2017-06",
-          "p": 3,
-          "c": [
-            "nightwing",
-            "batman"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "19",
-          "t": "The Lazarus Contract Part Four",
-          "d": "2017-06",
-          "p": 4,
-          "c": [
-            "nightwing"
-          ],
-          "x": "拉撒路契约联动（Part 4）"
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "20",
-          "t": "The Lazarus Contract Part Six",
-          "d": "2017-07",
-          "p": 6,
-          "c": [
-            "nightwing"
-          ],
-          "x": "拉撒路契约联动（Part 6）"
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "21",
-          "t": "Nightwing Must Die Part Six",
-          "d": "2017-07",
-          "p": 6,
-          "c": [
-            "nightwing",
-            "batman"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "nightwing-v4-blockbuster",
-      "name": "Blockbuster",
-      "nameZh": "重磅炸弹",
-      "era": "Rebirth",
-      "earth": "earth-0",
-      "type": "arc",
-      "start": "2017-08",
-      "end": "2018-02",
-      "summaryZh": "重磅炸弹（Blockbuster）接管布鲁德海文地下世界，夜翼与这位老对手展开全面战争；布鲁德海文陷入沦陷危机，迪克在「夜翼必须死」事件后直面黑帮战争与城市归属之战。",
-      "characters": [
-        "nightwing",
-        "batman",
-        "talon",
+        "joker",
         "gordon"
-      ],
-      "issues": [
-        {
-          "s": "nightwing-v4",
-          "n": "22",
-          "t": null,
-          "d": "2017-08",
-          "c": [
-            "nightwing",
-            "gordon"
-          ],
-          "x": "2017-06 上市（Key Collector 核实）"
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "23",
-          "t": null,
-          "d": "2017-09",
-          "c": [
-            "nightwing"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "24",
-          "t": null,
-          "d": "2017-10",
-          "c": [
-            "nightwing",
-            "batman"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "25",
-          "t": null,
-          "d": "2017-11",
-          "c": [
-            "nightwing"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "26",
-          "t": null,
-          "d": "2017-12",
-          "c": [
-            "nightwing",
-            "talon"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "27",
-          "t": null,
-          "d": "2018-01",
-          "c": [
-            "nightwing",
-            "batman"
-          ]
-        },
-        {
-          "s": "nightwing-v4",
-          "n": "28",
-          "t": null,
-          "d": "2018-02",
-          "c": [
-            "nightwing"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "red-hood-outlaws-v2",
-      "name": "Red Hood and the Outlaws",
-      "nameZh": "红头罩与法外者",
-      "era": "Rebirth",
-      "earth": "earth-0",
-      "type": "arc",
-      "start": "2016-10",
-      "end": "2018-10",
-      "summaryZh": "杰森·托德重组法外者（阿忒弥斯、比扎罗），自称「暗黑三一体」，追查拉撒路之池与猫头鹰法庭留下的遗产，并与蝙蝠侠保持若即若离的关系。",
-      "characters": [
-        "redhood",
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "97",
+       "t": "Joker War Part Three",
+       "d": "2020-10",
+       "p": 3,
+       "c": [
         "batman",
-        "talia",
+        "joker",
+        "nightwing"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "98",
+       "t": "Joker War Part Four",
+       "d": "2020-11",
+       "p": 4,
+       "c": [
+        "batman",
+        "joker",
         "robin-damian"
-      ],
-      "issues": [
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "1",
-          "t": null,
-          "d": "2016-10",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "2",
-          "t": null,
-          "d": "2016-11",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "3",
-          "t": null,
-          "d": "2016-12",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "4",
-          "t": null,
-          "d": "2016-12",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "5",
-          "t": null,
-          "d": "2017-01",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "6",
-          "t": null,
-          "d": "2017-01",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "7",
-          "t": null,
-          "d": "2017-02",
-          "c": [
-            "redhood",
-            "batman"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "8",
-          "t": null,
-          "d": "2017-02",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "9",
-          "t": null,
-          "d": "2017-03",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "10",
-          "t": null,
-          "d": "2017-03",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "11",
-          "t": null,
-          "d": "2017-04",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "12",
-          "t": null,
-          "d": "2017-04",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "13",
-          "t": null,
-          "d": "2017-05",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "14",
-          "t": null,
-          "d": "2017-05",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "15",
-          "t": null,
-          "d": "2017-06",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "16",
-          "t": null,
-          "d": "2017-06",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "17",
-          "t": null,
-          "d": "2017-07",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "18",
-          "t": null,
-          "d": "2017-08",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "19",
-          "t": null,
-          "d": "2017-09",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "20",
-          "t": null,
-          "d": "2017-10",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "21",
-          "t": null,
-          "d": "2017-11",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "22",
-          "t": null,
-          "d": "2017-12",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "23",
-          "t": null,
-          "d": "2018-01",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "24",
-          "t": null,
-          "d": "2018-02",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaws-v2",
-          "n": "25",
-          "t": null,
-          "d": "2018-03",
-          "c": [
-            "redhood"
-          ],
-          "x": "2018-08 上市（Key Collector 核实）；系列下期更名"
-        }
-      ]
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "99",
+       "t": "Joker War Part Five",
+       "d": "2020-11",
+       "p": 5,
+       "c": [
+        "batman",
+        "joker",
+        "batgirl"
+       ]
+      },
+      {
+       "s": "batman-v3",
+       "n": "100",
+       "t": "Joker War Finale",
+       "d": "2020-12",
+       "p": null,
+       "c": [
+        "batman",
+        "joker",
+        "alfred"
+       ],
+       "x": "2020-10-06 上市（封面日期 2020-12，Overstreet 核实）；百年纪念刊"
+      }
+     ]
     },
     {
-      "id": "red-hood-outlaw",
-      "name": "Red Hood: Outlaw",
-      "nameZh": "红头罩：法外者",
-      "era": "Rebirth",
-      "earth": "earth-0",
-      "type": "arc",
-      "start": "2018-11",
-      "end": "2020-12",
-      "summaryZh": "系列自 #26 起更名《红头罩：法外者》：杰森·托德离开法外者小队独行哥谭，对抗新的罪犯势力，并在「小丑战争」余波中重新审视与蝙蝠家族的关系。",
-      "characters": [
-        "redhood",
+     "name": "Joker War Tie-Ins",
+     "nameZh": "小丑战争联动",
+     "issues": [
+      {
+       "s": "joker-war-zone",
+       "n": "1",
+       "t": null,
+       "d": "2020-11",
+       "c": [
         "batman",
+        "joker",
+        "redhood",
         "batgirl",
-        "robin-damian"
-      ],
-      "issues": [
-        {
-          "s": "red-hood-outlaw",
-          "n": "26",
-          "t": null,
-          "d": "2018-11",
-          "c": [
-            "redhood"
-          ],
-          "x": "2018-09 上市（Key Collector 核实）；更名首期"
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "27",
-          "t": null,
-          "d": "2018-12",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "28",
-          "t": null,
-          "d": "2019-01",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "29",
-          "t": null,
-          "d": "2019-02",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "30",
-          "t": null,
-          "d": "2019-03",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "31",
-          "t": null,
-          "d": "2019-04",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "32",
-          "t": null,
-          "d": "2019-05",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "33",
-          "t": null,
-          "d": "2019-06",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "34",
-          "t": null,
-          "d": "2019-07",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "35",
-          "t": null,
-          "d": "2019-08",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "36",
-          "t": null,
-          "d": "2019-09",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "37",
-          "t": null,
-          "d": "2019-10",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "38",
-          "t": null,
-          "d": "2019-11",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "39",
-          "t": null,
-          "d": "2019-12",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "40",
-          "t": null,
-          "d": "2020-01",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "41",
-          "t": null,
-          "d": "2020-02",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "42",
-          "t": null,
-          "d": "2020-03",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "43",
-          "t": null,
-          "d": "2020-04",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "44",
-          "t": null,
-          "d": "2020-05",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "45",
-          "t": null,
-          "d": "2020-06",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "46",
-          "t": null,
-          "d": "2020-07",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "47",
-          "t": null,
-          "d": "2020-08",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "48",
-          "t": null,
-          "d": "2020-09",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "49",
-          "t": null,
-          "d": "2020-10",
-          "c": [
-            "redhood"
-          ]
-        },
-        {
-          "s": "red-hood-outlaw",
-          "n": "50",
-          "t": null,
-          "d": "2020-12",
-          "c": [
-            "redhood"
-          ],
-          "x": "2020-10 上市（GeekDad 核实）；系列收官"
-        }
-      ]
-    }
-  ],
-  "standalone": [
-    {
-      "s": "Batman: Three Jokers",
-      "n": "1",
-      "t": "Part One",
-      "d": "2020-10",
-      "p": 1,
-      "c": [
+        "nightwing",
+        "catwoman",
+        "gordon"
+       ],
+       "x": "2020-09 上市（Key Collector 核实）；红头罩系列未直接联动（Red Hood: Outlaw #50 于 2020-10 收官，杰森在 Joker War Zone 登场）"
+      },
+      {
+       "s": "batgirl-v4",
+       "n": "47",
+       "t": null,
+       "d": "2020-10",
+       "c": [
+        "batgirl",
+        "joker",
+        "gordon"
+       ],
+       "x": "Joker War 联动（芭芭拉对决小丑）"
+      },
+      {
+       "s": "nightwing-v4",
+       "n": "74",
+       "t": null,
+       "d": "2020-11",
+       "c": [
+        "nightwing",
+        "joker",
+        "batman"
+       ],
+       "x": "Joker War 联动（里克·格雷森）"
+      },
+      {
+       "s": "Catwoman",
+       "n": "25",
+       "t": null,
+       "d": "2020-11",
+       "c": [
+        "catwoman",
+        "joker"
+       ],
+       "x": "Joker War 联动（猫女卷五 #25）"
+      },
+      {
+       "s": "detective-v3",
+       "n": "1025",
+       "t": null,
+       "d": "2020-10",
+       "c": [
         "batman",
         "joker",
-        "redhood",
-        "batgirl"
-      ],
-      "x": "2020-08 上市（GCD 核实封面日期 2020-10）"
-    },
-    {
-      "s": "Batman: Three Jokers",
-      "n": "2",
-      "t": "Part Two",
-      "d": "2020-12",
-      "p": 2,
-      "c": [
-        "batman",
-        "joker",
-        "redhood",
-        "batgirl"
-      ],
-      "x": "2020-10 上市"
-    },
-    {
-      "s": "Batman: Three Jokers",
-      "n": "3",
-      "t": "Part Three",
-      "d": "2021-02",
-      "p": 3,
-      "c": [
-        "batman",
-        "joker",
-        "redhood",
-        "batgirl"
-      ],
-      "x": "2020-12 上市（封面日期跨入 2021）"
-    },
-    {
-      "s": "Batman: Last Knight on Earth",
-      "n": "1",
-      "t": "Part One",
-      "d": "2019-07",
-      "p": 1,
-      "c": [
-        "batman",
-        "joker",
-        "superman"
-      ],
-      "x": "2019-05 上市（GCD 核实封面日期 2019-07）；DC Black Label"
-    },
-    {
-      "s": "Batman: Last Knight on Earth",
-      "n": "2",
-      "t": "Part Two",
-      "d": "2019-10",
-      "p": 2,
-      "c": [
+        "gordon"
+       ],
+       "x": "Joker War 联动（封面日期为推算）"
+      },
+      {
+       "s": "detective-v3",
+       "n": "1026",
+       "t": null,
+       "d": "2020-11",
+       "c": [
         "batman",
         "joker"
-      ],
-      "x": "2019-08 上市；DC Black Label"
-    },
-    {
-      "s": "Batman: Last Knight on Earth",
-      "n": "3",
-      "t": "Part Three",
-      "d": "2020-04",
-      "p": 3,
-      "c": [
+       ],
+       "x": "Joker War 联动"
+      },
+      {
+       "s": "detective-v3",
+       "n": "1027",
+       "t": null,
+       "d": "2020-12",
+       "c": [
         "batman",
         "joker"
-      ],
-      "x": "延期至 2020-02 上市；DC Black Label"
+       ],
+       "x": "Joker War 联动"
+      }
+     ]
     }
-  ],
-  "sources": [
-    "https://en.wikipedia.org/wiki/DC_Rebirth",
-    "https://en.wikipedia.org/wiki/The_Button_(comics)",
-    "https://en.wikipedia.org/wiki/Dark_Nights:_Metal",
-    "https://en.wikipedia.org/wiki/The_Joker_War",
-    "https://en.wikipedia.org/wiki/Red_Hood_and_the_Outlaws",
-    "https://en.wikipedia.org/wiki/The_Lazarus_Contract",
-    "https://en.wikipedia.org/wiki/The_Batman_Who_Laughs",
-    "https://www.dc.com/blog/2016/06/17/the-first-crossover-of-the-rebirth-era-begins-in-september-with-night-of-the-monster-men",
-    "https://www.dc.com/blog/2016/09/22/i-am-suicide-begins-in-batman-9",
-    "https://www.dc.com/blog/2019/04/29/the-batman-who-laughs-gets-a-7th-issue",
-    "https://www.dc.com/graphic-novels/batman-2016/batman-night-of-the-monster-men",
-    "https://www.dc.com/graphic-novels/batman-2016/batman-vol-3-i-am-bane",
-    "https://www.dc.com/graphic-novels/batman-vol-1-their-dark-designs",
-    "https://www.dc.com/graphic-novels/the-joker-war-saga",
-    "https://www.dc.com/graphic-novels/batman-city-of-bane-the-complete-collection",
-    "https://www.dc.com/graphic-novels/batman-detective-comics-vol-5-the-joker-war",
-    "https://www.dc.com/graphic-novels/detective-comics-2016/batman-detective-comics-vol-3-league-of-shadows",
-    "https://www.dc.com/graphic-novels/nightwing-2016/nightwing-vol-2-back-to-bludhaven",
-    "https://www.dc.com/graphic-novels/nightwing-2016/nightwing-vol-3-nightwing-must-die",
-    "https://www.dc.com/graphic-novels/nightwing-2016/nightwing-vol-4-blockbuster",
-    "https://www.dc.com/graphic-novels/titans-2016/titans-the-lazarus-contract",
-    "https://www.howtolovecomics.com/2016/09/18/batman-night-monster-men-reading-order/",
-    "https://www.howtolovecomics.com/2017/04/16/batman-flash-the-button-reading-order/",
-    "https://www.howtolovecomics.com/2017/06/26/dark-nights-metal-reading-order/",
-    "https://www.howtolovecomics.com/2020/07/06/joker-war-reading-order/",
-    "https://www.readingorders.com/reading-orders/dark-nights-metal",
-    "https://www.readingorders.com/reading-orders/batman-the-joker-war",
-    "https://www.comicbooktreasury.com/batman-joker-war-reading-order/",
-    "https://www.comicbookwire.com/reading-order/dc/events/joker-war/",
-    "https://newtocomics.com/night-of-the-monster-men-reading-guide/",
-    "https://newtocomics.com/city-of-bane-reading-guide/",
-    "https://newtocomics.com/joker-war-reading-guide/",
-    "https://newtocomics.com/the-lazarus-contract-reading-guide/",
-    "https://dcuguide.com/Batman_Vol._3_Title_Index",
-    "https://dcuguide.com/Dark_Nights:_Metal_Title_Index",
-    "https://dcuguide.com/Nightwing_Vol._4_Title_Index",
-    "https://dcuguide.com/Red_Hood_and_the_Outlaws_Vol._2_Title_Index",
-    "https://dcuguide.com/Red_Hood:_Outlaw_Title_Index",
-    "https://dcuguide.com/Detective_Comics_941",
-    "https://dcuguide.com/Batman:_Three_Jokers_Title_Index",
-    "https://dcuguide.com/Batman:_Last_Knight_on_Earth_1",
-    "https://batman.fandom.com/wiki/Batman_(Volume_3)",
-    "https://dc.fandom.com/wiki/Detective_Comics_Vol_1_941",
-    "https://dc.fandom.com/wiki/Batman_Vol_3_95",
-    "https://dc.fandom.com/wiki/Batman:_Lost_Vol_1_1",
-    "https://comics.overstreetaccess.com/issues/460543/dc-universe-rebirth-1-jul-2016",
-    "https://comics.overstreetaccess.com/issues/483913/batman-9-dec-2016",
-    "https://comics.overstreetaccess.com/issues/521857/batman-20-jun-2017",
-    "https://comics.overstreetaccess.com/issues/568066/detective-comics-968-jan-2018",
-    "https://comics.overstreetaccess.com/issues/514723/nightwing-16-may-2017",
-    "https://comics.overstreetaccess.com/issues/822650/batman-100-dec-2020",
-    "https://comics.overstreetaccess.com/volumes/84791/batman-2016",
-    "https://comics.overstreetaccess.com/volumes/84607/detective-comics-2016",
-    "https://comics.overstreetaccess.com/volumes/86536/red-hood-the-outlaws-2016",
-    "https://comics.overstreetaccess.com/volumes/138944/batman-their-dark-designs-2020",
-    "https://comics.overstreetaccess.com/volumes/5940/batman-lost-2017",
-    "https://keycollectorcomics.com/issue/batman-3-7,668438/",
-    "https://keycollectorcomics.com/issue/batman-1-8,424013/",
-    "https://keycollectorcomics.com/issue/batman-3-21-2,34080/",
-    "https://keycollectorcomics.com/issue/batman-3-24,27278/",
-    "https://keycollectorcomics.com/issue/batman-3-50-17,309065/",
-    "https://keycollectorcomics.com/issue/batman-3-75-3,313360/",
-    "https://keycollectorcomics.com/issue/batman-1-85,423946/",
-    "https://keycollectorcomics.com/issue/batman-3-86,315914/",
-    "https://keycollectorcomics.com/issue/batman-3-92-4,317389/",
-    "https://keycollectorcomics.com/issue/batman-1-100-5,423761/",
-    "https://keycollectorcomics.com/issue/batman-joker-war-zone-1-1-3,319666/",
-    "https://keycollectorcomics.com/issue/detective-comics-1-941,434922/",
-    "https://keycollectorcomics.com/issue/nightwing-4-5-451313,451313/",
-    "https://keycollectorcomics.com/issue/nightwing-4-6-variant-451268,451268/",
-    "https://keycollectorcomics.com/issue/nightwing-4-22-450956,450956/",
-    "https://keycollectorcomics.com/issue/red-hood-and-the-outlaws-25-453104,453104/",
-    "https://keycollectorcomics.com/issue/red-hood-and-the-outlaws-26,310091/",
-    "https://keycollectorcomics.com/issue/batman-the-devastator-1,33280/",
-    "https://keycollectorcomics.com/issue/batman-who-laughs-the-1-7-2,426488/",
-    "https://www.comics.org/issue/1739373/",
-    "https://my.comics.org/issue/1749297/",
-    "https://my.comics.org/issue/1693171/",
-    "https://my.comics.org/issue/2129695/",
-    "https://my.comics.org/issue/2152859/",
-    "https://my.comics.org/issue/1972164/",
-    "https://my.comics.org/issue/2139199/",
-    "https://fanboyfactor.com/2020/06/dc-preview-batman-95-on-sale-july-21-part-one-batman-joker-war/",
-    "https://darkknightnews.com/2017/03/17/joker-riddler-square-off-in-batman-25-this-june/",
-    "https://aiptcomics.com/2018/05/23/detective-comics-981-review/",
-    "https://aiptcomics.com/2017/02/02/batman-16-review/",
-    "https://www.cbr.com/tim-drake-dcu-return-rebirth/",
-    "https://www.cbr.com/dcs-first-rebirth-crossover-event-arrives-in-batman-7/",
-    "https://bleedingcool.com/comics/dark-days-casting-july-2017-chart-marvel-marketshare/",
-    "https://geekdad.com/2020/10/review-red-hood-outlaw-50-long-strange-journey/",
-    "https://www.ign.com/articles/2019/12/19/batman-85-review",
-    "https://dccomicsnews.com/2020/10/06/review-batman-100/",
-    "https://thebatmanuniverse.net/detective-comics-151/",
-    "https://www.dc.com/graphic-novels/detective-comics-2016/batman-detective-comics-vol-6-fall-of-the-batmen",
-    "https://www.dc.com/graphic-novels/detective-comics-2016/batman-detective-comics-vol-7-batmen-eternal",
-    "https://www.dc.com/graphic-novels/detective-comics-2016/batman-detective-comics-vol-8-on-the-outside",
-    "https://www.dc.com/graphic-novels/detective-comics-2016/detective-comics-vol-2-the-victim-syndicate",
-    "https://www.dc.com/graphic-novels/detective-comics-2016/batman-detective-comics-rebirth-deluxe-edition-book-3",
-    "https://www.dc.com/comics/detective-comics-2016/detective-comics-981",
-    "https://comicbook.com/dc/news/exclusive-dc-preview-james-tynion-iv-detective-comics-981/",
-    "https://www.dc.com/blog/2019/03/27/celebrate-detective-comics-1000th-issue-and-batmans-80th-anniversary",
-    "https://dc.fandom.com/wiki/Detective_Comics:_Intelligence",
-    "https://dc.fandom.com/wiki/Detective_Comics_Vol_1_981",
-    "https://www.dcuniverseinfinite.com/collections/story-dc-deus-ex-machina",
-    "https://www.dcuniverseinfinite.com/collections/story-dc-rise-and-fall-batmen-books-8",
-    "https://comics.overstreetaccess.com/volumes/138940/batman-the-rise-and-fall-of-the-batmen-omnibus-2020",
-    "https://zeno.fm/podcast/geeksplained-podcast/episodes/year-of-the-bat-part-twenty-eight-the-league-of-shadows-tec-rebirth-950-956/",
-    "https://zeno.fm/podcast/geeksplained-podcast/episodes/year-of-the-bat-part-twenty-six-the-victim-syndicate-tec-943-949/",
-    "https://www.listennotes.com/podcasts/geeksplained-podcast/year-of-the-bat-part-twenty-yd0lM65NiIg/",
-    "https://sfpl.bibliocommons.com/v2/record/S93C3523983",
-    "https://encore.vinelandlibrary.org/iii/encore/record/C__Rb1275541__STynion,%20James,%20IV,__P2,62__Oauthor__X0",
-    "https://northboro.cwmars.org/Hoopla/12018975",
-    "https://northboro.cwmars.org/Hoopla/12095428",
-    "https://sitka.bibliocommons.com/v2/record/S49C128279436",
-    "http://catalog.grpl.org/eg/opac/record/47051871",
-    "https://search.icpl.org/Record/1725431",
-    "https://catalog.evpl.org/Hoopla/12152074",
-    "https://bleedingcool.com/comics/detective-comics-962-review-new-stories/",
-    "https://comicvine.gamespot.com/detective-comics-940-rise-of-the-batmen-part-seven/4000-549486/user-reviews/",
-    "https://comicvine.gamespot.com/detective-comics-943-the-victim-syndicate-part-one/4000-555486/user-reviews/",
-    "https://versedb.com/issue/219092/detective-comics-2016-batmen-eternal-finale",
-    "https://www.cbr.com/exclusive-action-detective-comics-return-to-original-numbering-for-rebirth/",
-    "https://gocollect.com/blog/comiclist-dc-comics-new-releases-for-09-28-2016/",
-    "https://www.biblio.com/9781779501622",
-    "https://darkknightnews.com/2017/09/29/review-detective-comics-965-a-lonely-place-of-living-part-one/",
-    "https://darkknightnews.com/2017/11/24/review-detective-comics-969-fall-of-the-batmen/",
-    "https://darkknightnews.com/2018/02/16/review-detective-comics-974-knights-fall/"
-  ]
+   ]
+  }
+ ],
+ "arcs": [
+  {
+   "id": "nightwing-v4-better-than-batman",
+   "name": "Better Than Batman",
+   "nameZh": "比蝙蝠侠更好",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2016-09",
+   "end": "2017-01",
+   "summaryZh": "夜翼回到布鲁德海文，却卷入猫头鹰法庭前爪牙「猛禽」（Raptor）的复仇阴谋；迪克必须证明自己可以成为比蝙蝠侠更好的英雄，同时调查父母的真正死因。",
+   "characters": [
+    "nightwing",
+    "batman",
+    "talon"
+   ],
+   "issues": [
+    {
+     "s": "nightwing-v4",
+     "n": "1",
+     "t": "Better Than Batman Part One",
+     "d": "2016-09",
+     "p": 1,
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "2",
+     "t": "Better Than Batman Part Two",
+     "d": "2016-10",
+     "p": 2,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "3",
+     "t": "Better Than Batman Part Three",
+     "d": "2016-10",
+     "p": 3,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "4",
+     "t": "Better Than Batman Part Four",
+     "d": "2016-11",
+     "p": 4,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "5",
+     "t": "Better Than Batman Part Five",
+     "d": "2016-11",
+     "p": 5,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "6",
+     "t": "Better Than Batman Part Six",
+     "d": "2016-12",
+     "p": 6,
+     "c": [
+      "nightwing",
+      "talon",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "7",
+     "t": "Better Than Batman Part Seven",
+     "d": "2017-01",
+     "p": 7,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "8",
+     "t": "Better Than Batman Part Eight",
+     "d": "2017-01",
+     "p": 8,
+     "c": [
+      "nightwing",
+      "talon",
+      "batman"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nightwing-v4-bludhaven",
+   "name": "Blüdhaven",
+   "nameZh": "重返布鲁德海文",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2017-02",
+   "end": "2017-06",
+   "summaryZh": "夜翼发现布鲁德海文建在拉撒路之池之上，猫头鹰法庭的「爪」持续追猎他；迪克决定扎根这座城市，成为它的守护者。",
+   "characters": [
+    "nightwing",
+    "talon",
+    "batman",
+    "talia"
+   ],
+   "issues": [
+    {
+     "s": "nightwing-v4",
+     "n": "9",
+     "t": "Blüdhaven Part One",
+     "d": "2017-02",
+     "p": 1,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "10",
+     "t": "Blüdhaven Part Two",
+     "d": "2017-02",
+     "p": 2,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "11",
+     "t": "Blüdhaven Part Three",
+     "d": "2017-03",
+     "p": 3,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "12",
+     "t": "Blüdhaven Part Four",
+     "d": "2017-03",
+     "p": 4,
+     "c": [
+      "nightwing",
+      "talon",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "13",
+     "t": "Blüdhaven Part Five",
+     "d": "2017-04",
+     "p": 5,
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "14",
+     "t": "Blüdhaven Part Six",
+     "d": "2017-04",
+     "p": 6,
+     "c": [
+      "nightwing",
+      "talia"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "15",
+     "t": "Blüdhaven Part Seven",
+     "d": "2017-05",
+     "p": 7,
+     "c": [
+      "nightwing",
+      "talon",
+      "talia"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nightwing-v4-nightwing-must-die",
+   "name": "Nightwing Must Die",
+   "nameZh": "夜翼必须死",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2017-05",
+   "end": "2017-07",
+   "summaryZh": "来自黑暗多元宇宙的「死亡之翼」（Deathwing）——夜翼的黑暗镜像——入侵主宇宙，伪装成迪克袭击蝙蝠家族，迫使夜翼与蝙蝠侠联手对抗自己的倒影。",
+   "characters": [
+    "nightwing",
+    "batman",
+    "robin-damian",
+    "talon"
+   ],
+   "issues": [
+    {
+     "s": "nightwing-v4",
+     "n": "16",
+     "t": "Nightwing Must Die Part One",
+     "d": "2017-05",
+     "p": 1,
+     "c": [
+      "nightwing",
+      "batman",
+      "robin-damian"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "17",
+     "t": "Nightwing Must Die Part Two",
+     "d": "2017-05",
+     "p": 2,
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "18",
+     "t": "Nightwing Must Die Part Three",
+     "d": "2017-06",
+     "p": 3,
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "19",
+     "t": "The Lazarus Contract Part Four",
+     "d": "2017-06",
+     "p": 4,
+     "c": [
+      "nightwing"
+     ],
+     "x": "拉撒路契约联动（Part 4）"
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "20",
+     "t": "The Lazarus Contract Part Six",
+     "d": "2017-07",
+     "p": 6,
+     "c": [
+      "nightwing"
+     ],
+     "x": "拉撒路契约联动（Part 6）"
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "21",
+     "t": "Nightwing Must Die Part Six",
+     "d": "2017-07",
+     "p": 6,
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nightwing-v4-blockbuster",
+   "name": "Blockbuster",
+   "nameZh": "重磅炸弹",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2017-08",
+   "end": "2018-02",
+   "summaryZh": "重磅炸弹（Blockbuster）接管布鲁德海文地下世界，夜翼与这位老对手展开全面战争；布鲁德海文陷入沦陷危机，迪克在「夜翼必须死」事件后直面黑帮战争与城市归属之战。",
+   "characters": [
+    "nightwing",
+    "batman",
+    "talon",
+    "gordon"
+   ],
+   "issues": [
+    {
+     "s": "nightwing-v4",
+     "n": "22",
+     "t": null,
+     "d": "2017-08",
+     "c": [
+      "nightwing",
+      "gordon"
+     ],
+     "x": "2017-06 上市（Key Collector 核实）"
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "23",
+     "t": null,
+     "d": "2017-09",
+     "c": [
+      "nightwing"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "24",
+     "t": null,
+     "d": "2017-10",
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "25",
+     "t": null,
+     "d": "2017-11",
+     "c": [
+      "nightwing"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "26",
+     "t": null,
+     "d": "2017-12",
+     "c": [
+      "nightwing",
+      "talon"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "27",
+     "t": null,
+     "d": "2018-01",
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v4",
+     "n": "28",
+     "t": null,
+     "d": "2018-02",
+     "c": [
+      "nightwing"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "red-hood-outlaws-v2",
+   "name": "Red Hood and the Outlaws",
+   "nameZh": "红头罩与法外者",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2016-10",
+   "end": "2018-10",
+   "summaryZh": "杰森·托德重组法外者（阿忒弥斯、比扎罗），自称「暗黑三一体」，追查拉撒路之池与猫头鹰法庭留下的遗产，并与蝙蝠侠保持若即若离的关系。",
+   "characters": [
+    "redhood",
+    "batman",
+    "talia",
+    "robin-damian"
+   ],
+   "issues": [
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "1",
+     "t": null,
+     "d": "2016-10",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "2",
+     "t": null,
+     "d": "2016-11",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "3",
+     "t": null,
+     "d": "2016-12",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "4",
+     "t": null,
+     "d": "2016-12",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "5",
+     "t": null,
+     "d": "2017-01",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "6",
+     "t": null,
+     "d": "2017-01",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "7",
+     "t": null,
+     "d": "2017-02",
+     "c": [
+      "redhood",
+      "batman"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "8",
+     "t": null,
+     "d": "2017-02",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "9",
+     "t": null,
+     "d": "2017-03",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "10",
+     "t": null,
+     "d": "2017-03",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "11",
+     "t": null,
+     "d": "2017-04",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "12",
+     "t": null,
+     "d": "2017-04",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "13",
+     "t": null,
+     "d": "2017-05",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "14",
+     "t": null,
+     "d": "2017-05",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "15",
+     "t": null,
+     "d": "2017-06",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "16",
+     "t": null,
+     "d": "2017-06",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "17",
+     "t": null,
+     "d": "2017-07",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "18",
+     "t": null,
+     "d": "2017-08",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "19",
+     "t": null,
+     "d": "2017-09",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "20",
+     "t": null,
+     "d": "2017-10",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "21",
+     "t": null,
+     "d": "2017-11",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "22",
+     "t": null,
+     "d": "2017-12",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "23",
+     "t": null,
+     "d": "2018-01",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "24",
+     "t": null,
+     "d": "2018-02",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaws-v2",
+     "n": "25",
+     "t": null,
+     "d": "2018-03",
+     "c": [
+      "redhood"
+     ],
+     "x": "2018-08 上市（Key Collector 核实）；系列下期更名"
+    }
+   ]
+  },
+  {
+   "id": "red-hood-outlaw",
+   "name": "Red Hood: Outlaw",
+   "nameZh": "红头罩：法外者",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2018-11",
+   "end": "2020-12",
+   "summaryZh": "系列自 #26 起更名《红头罩：法外者》：杰森·托德离开法外者小队独行哥谭，对抗新的罪犯势力，并在「小丑战争」余波中重新审视与蝙蝠家族的关系。",
+   "characters": [
+    "redhood",
+    "batman",
+    "batgirl",
+    "robin-damian"
+   ],
+   "issues": [
+    {
+     "s": "red-hood-outlaw",
+     "n": "26",
+     "t": null,
+     "d": "2018-11",
+     "c": [
+      "redhood"
+     ],
+     "x": "2018-09 上市（Key Collector 核实）；更名首期"
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "27",
+     "t": null,
+     "d": "2018-12",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "28",
+     "t": null,
+     "d": "2019-01",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "29",
+     "t": null,
+     "d": "2019-02",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "30",
+     "t": null,
+     "d": "2019-03",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "31",
+     "t": null,
+     "d": "2019-04",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "32",
+     "t": null,
+     "d": "2019-05",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "33",
+     "t": null,
+     "d": "2019-06",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "34",
+     "t": null,
+     "d": "2019-07",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "35",
+     "t": null,
+     "d": "2019-08",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "36",
+     "t": null,
+     "d": "2019-09",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "37",
+     "t": null,
+     "d": "2019-10",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "38",
+     "t": null,
+     "d": "2019-11",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "39",
+     "t": null,
+     "d": "2019-12",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "40",
+     "t": null,
+     "d": "2020-01",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "41",
+     "t": null,
+     "d": "2020-02",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "42",
+     "t": null,
+     "d": "2020-03",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "43",
+     "t": null,
+     "d": "2020-04",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "44",
+     "t": null,
+     "d": "2020-05",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "45",
+     "t": null,
+     "d": "2020-06",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "46",
+     "t": null,
+     "d": "2020-07",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "47",
+     "t": null,
+     "d": "2020-08",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "48",
+     "t": null,
+     "d": "2020-09",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "49",
+     "t": null,
+     "d": "2020-10",
+     "c": [
+      "redhood"
+     ]
+    },
+    {
+     "s": "red-hood-outlaw",
+     "n": "50",
+     "t": null,
+     "d": "2020-12",
+     "c": [
+      "redhood"
+     ],
+     "x": "2020-10 上市（GeekDad 核实）；系列收官"
+    }
+   ]
+  },
+  {
+   "id": "detective-v3-rise-of-batmen",
+   "name": "Rise of the Batmen",
+   "nameZh": "蝙蝠侠们的崛起",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2016-08",
+   "end": "2016-11",
+   "summaryZh": "侦探漫画重生首篇：蝙蝠侠组建新团队（蝙蝠女侠、红罗宾、孤儿、泥面人）。",
+   "characters": [
+    "batman",
+    "batwoman",
+    "oracle",
+    "redrobin"
+   ],
+   "issues": [
+    {
+     "s": "detective-v3",
+     "n": "934",
+     "t": "Rise of the Batmen Part One",
+     "d": "2016-08",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin",
+      "oracle"
+     ],
+     "p": 1
+    },
+    {
+     "s": "detective-v3",
+     "n": "935",
+     "t": "Rise of the Batmen Part Two",
+     "d": "2016-08",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ],
+     "p": 2
+    },
+    {
+     "s": "detective-v3",
+     "n": "936",
+     "t": "Rise of the Batmen Part Three",
+     "d": "2016-09",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ],
+     "p": 3
+    },
+    {
+     "s": "detective-v3",
+     "n": "937",
+     "t": "Rise of the Batmen Part Four",
+     "d": "2016-09",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ],
+     "p": 4
+    },
+    {
+     "s": "detective-v3",
+     "n": "938",
+     "t": "Rise of the Batmen Part Five",
+     "d": "2016-10",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ],
+     "p": 5
+    },
+    {
+     "s": "detective-v3",
+     "n": "939",
+     "t": "Rise of the Batmen Part Six",
+     "d": "2016-10",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ],
+     "p": 6
+    },
+    {
+     "s": "detective-v3",
+     "n": "940",
+     "t": "Rise of the Batmen Part Seven",
+     "d": "2016-11",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ],
+     "p": 7
+    }
+   ]
+  },
+  {
+   "id": "detective-v3-victim-syndicate",
+   "name": "The Victim Syndicate",
+   "nameZh": "受害者集团",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2016-12",
+   "end": "2017-02",
+   "summaryZh": "自称「受害者集团」的神秘组织向蝙蝠家族展开复仇。",
+   "characters": [
+    "alfred",
+    "batman",
+    "batwoman",
+    "redrobin"
+   ],
+   "issues": [
+    {
+     "s": "detective-v3",
+     "n": "943",
+     "t": "The Victim Syndicate Part One",
+     "d": "2016-12",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin",
+      "alfred"
+     ],
+     "p": 1
+    },
+    {
+     "s": "detective-v3",
+     "n": "944",
+     "t": "The Victim Syndicate Part Two",
+     "d": "2017-01",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ],
+     "p": 2
+    },
+    {
+     "s": "detective-v3",
+     "n": "945",
+     "t": "The Victim Syndicate Part Three",
+     "d": "2017-01",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ],
+     "p": 3
+    },
+    {
+     "s": "detective-v3",
+     "n": "946",
+     "t": "The Victim Syndicate Part Four",
+     "d": "2017-02",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ],
+     "p": 4
+    },
+    {
+     "s": "detective-v3",
+     "n": "947",
+     "t": "The Victim Syndicate Part Five",
+     "d": "2017-02",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ],
+     "p": 5
+    }
+   ]
+  },
+  {
+   "id": "detective-v3-batwoman-begins",
+   "name": "Batwoman Begins",
+   "nameZh": "蝙蝠女侠起源",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2017-03",
+   "end": "2017-03",
+   "summaryZh": "蝙蝠女侠凯特·凯恩的起源故事。",
+   "characters": [
+    "batman",
+    "batwoman",
+    "redrobin"
+   ],
+   "issues": [
+    {
+     "s": "detective-v3",
+     "n": "948",
+     "t": "Batwoman Begins Part One",
+     "d": "2017-03",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ],
+     "p": 1,
+     "x": "Victim Syndicate 贸易卷（Vol 2）收录 #943-949"
+    },
+    {
+     "s": "detective-v3",
+     "n": "949",
+     "t": "Batwoman Begins Part Two",
+     "d": "2017-03",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ],
+     "p": 2
+    }
+   ]
+  },
+  {
+   "id": "detective-v3-league-of-shadows",
+   "name": "League of Shadows",
+   "nameZh": "暗影联盟",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2017-04",
+   "end": "2017-07",
+   "summaryZh": "暗影联盟（League of Shadows）在哥谭现身，蝙蝠家族与之周旋。",
+   "characters": [
+    "batman",
+    "batwoman",
+    "ras",
+    "redrobin",
+    "robin-damian"
+   ],
+   "issues": [
+    {
+     "s": "detective-v3",
+     "n": "950",
+     "t": "League of Shadows Part One",
+     "d": "2017-04",
+     "c": [
+      "batman",
+      "batwoman",
+      "robin-damian",
+      "ras"
+     ],
+     "p": 1
+    },
+    {
+     "s": "detective-v3",
+     "n": "951",
+     "t": "League of Shadows Part Two",
+     "d": "2017-04",
+     "c": [
+      "batman",
+      "batwoman",
+      "robin-damian",
+      "ras"
+     ],
+     "p": 2
+    },
+    {
+     "s": "detective-v3",
+     "n": "952",
+     "t": "League of Shadows Part Three",
+     "d": "2017-05",
+     "c": [
+      "batman",
+      "batwoman",
+      "robin-damian",
+      "ras"
+     ],
+     "p": 3
+    },
+    {
+     "s": "detective-v3",
+     "n": "953",
+     "t": "League of Shadows Part Four",
+     "d": "2017-05",
+     "c": [
+      "batman",
+      "batwoman",
+      "robin-damian",
+      "ras"
+     ],
+     "p": 4
+    },
+    {
+     "s": "detective-v3",
+     "n": "954",
+     "t": null,
+     "d": "2017-06",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ]
+    },
+    {
+     "s": "detective-v3",
+     "n": "955",
+     "t": null,
+     "d": "2017-06",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ]
+    },
+    {
+     "s": "detective-v3",
+     "n": "956",
+     "t": null,
+     "d": "2017-07",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "detective-v3-intelligence",
+   "name": "Intelligence",
+   "nameZh": "智能之战",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2017-07",
+   "end": "2017-10",
+   "summaryZh": "蝙蝠家族对抗神秘敌人（Intelligence / Deus Ex Machina 篇）。",
+   "characters": [
+    "batman",
+    "batwoman",
+    "redrobin"
+   ],
+   "issues": [
+    {
+     "s": "detective-v3",
+     "n": "957",
+     "t": null,
+     "d": "2017-07",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ],
+     "x": "贸易卷 Vol 4《Deus Ex Machina（机械之神）》收录 #957-962"
+    },
+    {
+     "s": "detective-v3",
+     "n": "958",
+     "t": null,
+     "d": "2017-08",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ]
+    },
+    {
+     "s": "detective-v3",
+     "n": "959",
+     "t": null,
+     "d": "2017-08",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ]
+    },
+    {
+     "s": "detective-v3",
+     "n": "960",
+     "t": null,
+     "d": "2017-09",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ]
+    },
+    {
+     "s": "detective-v3",
+     "n": "961",
+     "t": null,
+     "d": "2017-09",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ]
+    },
+    {
+     "s": "detective-v3",
+     "n": "962",
+     "t": null,
+     "d": "2017-10",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "detective-v3-lonely-place-of-living",
+   "name": "A Lonely Place of Living",
+   "nameZh": "孤独的生存之地",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2017-10",
+   "end": "2018-01",
+   "summaryZh": "蒂姆·德雷克疑似死亡后的回归篇（A Lonely Place of Living）。",
+   "characters": [
+    "batman",
+    "redrobin",
+    "robin-damian"
+   ],
+   "issues": [
+    {
+     "s": "detective-v3",
+     "n": "963",
+     "t": null,
+     "d": "2017-10",
+     "c": [
+      "batman",
+      "redrobin",
+      "robin-damian"
+     ],
+     "x": "蒂姆·德雷克回归弧（2017-08-23 上市）"
+    },
+    {
+     "s": "detective-v3",
+     "n": "964",
+     "t": null,
+     "d": "2017-11",
+     "c": [
+      "batman",
+      "redrobin"
+     ]
+    },
+    {
+     "s": "detective-v3",
+     "n": "965",
+     "t": null,
+     "d": "2017-11",
+     "c": [
+      "batman",
+      "redrobin"
+     ]
+    },
+    {
+     "s": "detective-v3",
+     "n": "966",
+     "t": null,
+     "d": "2017-12",
+     "c": [
+      "batman",
+      "redrobin"
+     ]
+    },
+    {
+     "s": "detective-v3",
+     "n": "967",
+     "t": null,
+     "d": "2017-12",
+     "c": [
+      "batman",
+      "redrobin"
+     ]
+    },
+    {
+     "s": "detective-v3",
+     "n": "968",
+     "t": null,
+     "d": "2018-01",
+     "c": [
+      "batman",
+      "redrobin",
+      "robin-damian"
+     ],
+     "x": "封面日期 2018-01（Overstreet 核实）"
+    }
+   ]
+  },
+  {
+   "id": "detective-v3-fall-of-batmen",
+   "name": "Fall of the Batmen",
+   "nameZh": "蝙蝠侠们的陨落",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2018-01",
+   "end": "2018-04",
+   "summaryZh": "蝙蝠家族遭受重创（Fall of the Batmen）。",
+   "characters": [
+    "alfred",
+    "batman",
+    "batwoman",
+    "redrobin"
+   ],
+   "issues": [
+    {
+     "s": "detective-v3",
+     "n": "969",
+     "t": "Fall of the Batmen Part One",
+     "d": "2018-01",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin",
+      "alfred"
+     ],
+     "p": 1
+    },
+    {
+     "s": "detective-v3",
+     "n": "970",
+     "t": "Fall of the Batmen Part Two",
+     "d": "2018-02",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ],
+     "p": 2
+    },
+    {
+     "s": "detective-v3",
+     "n": "971",
+     "t": null,
+     "d": "2018-02",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ]
+    },
+    {
+     "s": "detective-v3",
+     "n": "972",
+     "t": null,
+     "d": "2018-03",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ]
+    },
+    {
+     "s": "detective-v3",
+     "n": "973",
+     "t": null,
+     "d": "2018-03",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ]
+    },
+    {
+     "s": "detective-v3",
+     "n": "974",
+     "t": null,
+     "d": "2018-04",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "detective-v3-batmen-eternal",
+   "name": "Batmen Eternal",
+   "nameZh": "永恒的蝙蝠侠们",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "arc",
+   "start": "2018-04",
+   "end": "2018-07",
+   "summaryZh": "Tynion 侦探漫画收官篇（Batmen Eternal）。",
+   "characters": [
+    "alfred",
+    "batman",
+    "batwoman",
+    "nightwing",
+    "redrobin"
+   ],
+   "issues": [
+    {
+     "s": "detective-v3",
+     "n": "975",
+     "t": null,
+     "d": "2018-04",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin",
+      "nightwing"
+     ]
+    },
+    {
+     "s": "detective-v3",
+     "n": "976",
+     "t": null,
+     "d": "2018-05",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ]
+    },
+    {
+     "s": "detective-v3",
+     "n": "977",
+     "t": null,
+     "d": "2018-05",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ]
+    },
+    {
+     "s": "detective-v3",
+     "n": "978",
+     "t": null,
+     "d": "2018-06",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ]
+    },
+    {
+     "s": "detective-v3",
+     "n": "979",
+     "t": null,
+     "d": "2018-06",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ]
+    },
+    {
+     "s": "detective-v3",
+     "n": "980",
+     "t": null,
+     "d": "2018-07",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin"
+     ]
+    },
+    {
+     "s": "detective-v3",
+     "n": "981",
+     "t": "Batmen Eternal Finale",
+     "d": "2018-07",
+     "c": [
+      "batman",
+      "batwoman",
+      "redrobin",
+      "alfred"
+     ],
+     "x": "蒂尼恩四世收官（2018-05-23 上市；Bryan Hill 自 #982 接手）"
+    }
+   ]
+  }
+ ],
+ "standalone": [
+  {
+   "s": "Batman: Three Jokers",
+   "n": "1",
+   "t": "Part One",
+   "d": "2020-10",
+   "p": 1,
+   "c": [
+    "batman",
+    "joker",
+    "redhood",
+    "batgirl"
+   ],
+   "x": "2020-08 上市（GCD 核实封面日期 2020-10）"
+  },
+  {
+   "s": "Batman: Three Jokers",
+   "n": "2",
+   "t": "Part Two",
+   "d": "2020-12",
+   "p": 2,
+   "c": [
+    "batman",
+    "joker",
+    "redhood",
+    "batgirl"
+   ],
+   "x": "2020-10 上市"
+  },
+  {
+   "s": "Batman: Three Jokers",
+   "n": "3",
+   "t": "Part Three",
+   "d": "2021-02",
+   "p": 3,
+   "c": [
+    "batman",
+    "joker",
+    "redhood",
+    "batgirl"
+   ],
+   "x": "2020-12 上市（封面日期跨入 2021）"
+  },
+  {
+   "s": "Batman: Last Knight on Earth",
+   "n": "1",
+   "t": "Part One",
+   "d": "2019-07",
+   "p": 1,
+   "c": [
+    "batman",
+    "joker",
+    "superman"
+   ],
+   "x": "2019-05 上市（GCD 核实封面日期 2019-07）；DC Black Label"
+  },
+  {
+   "s": "Batman: Last Knight on Earth",
+   "n": "2",
+   "t": "Part Two",
+   "d": "2019-10",
+   "p": 2,
+   "c": [
+    "batman",
+    "joker"
+   ],
+   "x": "2019-08 上市；DC Black Label"
+  },
+  {
+   "s": "Batman: Last Knight on Earth",
+   "n": "3",
+   "t": "Part Three",
+   "d": "2020-04",
+   "p": 3,
+   "c": [
+    "batman",
+    "joker"
+   ],
+   "x": "延期至 2020-02 上市；DC Black Label"
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/DC_Rebirth",
+  "https://en.wikipedia.org/wiki/The_Button_(comics)",
+  "https://en.wikipedia.org/wiki/Dark_Nights:_Metal",
+  "https://en.wikipedia.org/wiki/The_Joker_War",
+  "https://en.wikipedia.org/wiki/Red_Hood_and_the_Outlaws",
+  "https://en.wikipedia.org/wiki/The_Lazarus_Contract",
+  "https://en.wikipedia.org/wiki/The_Batman_Who_Laughs",
+  "https://www.dc.com/blog/2016/06/17/the-first-crossover-of-the-rebirth-era-begins-in-september-with-night-of-the-monster-men",
+  "https://www.dc.com/blog/2016/09/22/i-am-suicide-begins-in-batman-9",
+  "https://www.dc.com/blog/2019/04/29/the-batman-who-laughs-gets-a-7th-issue",
+  "https://www.dc.com/graphic-novels/batman-2016/batman-night-of-the-monster-men",
+  "https://www.dc.com/graphic-novels/batman-2016/batman-vol-3-i-am-bane",
+  "https://www.dc.com/graphic-novels/batman-vol-1-their-dark-designs",
+  "https://www.dc.com/graphic-novels/the-joker-war-saga",
+  "https://www.dc.com/graphic-novels/batman-city-of-bane-the-complete-collection",
+  "https://www.dc.com/graphic-novels/batman-detective-comics-vol-5-the-joker-war",
+  "https://www.dc.com/graphic-novels/detective-comics-2016/batman-detective-comics-vol-3-league-of-shadows",
+  "https://www.dc.com/graphic-novels/nightwing-2016/nightwing-vol-2-back-to-bludhaven",
+  "https://www.dc.com/graphic-novels/nightwing-2016/nightwing-vol-3-nightwing-must-die",
+  "https://www.dc.com/graphic-novels/nightwing-2016/nightwing-vol-4-blockbuster",
+  "https://www.dc.com/graphic-novels/titans-2016/titans-the-lazarus-contract",
+  "https://www.howtolovecomics.com/2016/09/18/batman-night-monster-men-reading-order/",
+  "https://www.howtolovecomics.com/2017/04/16/batman-flash-the-button-reading-order/",
+  "https://www.howtolovecomics.com/2017/06/26/dark-nights-metal-reading-order/",
+  "https://www.howtolovecomics.com/2020/07/06/joker-war-reading-order/",
+  "https://www.readingorders.com/reading-orders/dark-nights-metal",
+  "https://www.readingorders.com/reading-orders/batman-the-joker-war",
+  "https://www.comicbooktreasury.com/batman-joker-war-reading-order/",
+  "https://www.comicbookwire.com/reading-order/dc/events/joker-war/",
+  "https://newtocomics.com/night-of-the-monster-men-reading-guide/",
+  "https://newtocomics.com/city-of-bane-reading-guide/",
+  "https://newtocomics.com/joker-war-reading-guide/",
+  "https://newtocomics.com/the-lazarus-contract-reading-guide/",
+  "https://dcuguide.com/Batman_Vol._3_Title_Index",
+  "https://dcuguide.com/Dark_Nights:_Metal_Title_Index",
+  "https://dcuguide.com/Nightwing_Vol._4_Title_Index",
+  "https://dcuguide.com/Red_Hood_and_the_Outlaws_Vol._2_Title_Index",
+  "https://dcuguide.com/Red_Hood:_Outlaw_Title_Index",
+  "https://dcuguide.com/Detective_Comics_941",
+  "https://dcuguide.com/Batman:_Three_Jokers_Title_Index",
+  "https://dcuguide.com/Batman:_Last_Knight_on_Earth_1",
+  "https://batman.fandom.com/wiki/Batman_(Volume_3)",
+  "https://dc.fandom.com/wiki/Detective_Comics_Vol_1_941",
+  "https://dc.fandom.com/wiki/Batman_Vol_3_95",
+  "https://dc.fandom.com/wiki/Batman:_Lost_Vol_1_1",
+  "https://comics.overstreetaccess.com/issues/460543/dc-universe-rebirth-1-jul-2016",
+  "https://comics.overstreetaccess.com/issues/483913/batman-9-dec-2016",
+  "https://comics.overstreetaccess.com/issues/521857/batman-20-jun-2017",
+  "https://comics.overstreetaccess.com/issues/568066/detective-comics-968-jan-2018",
+  "https://comics.overstreetaccess.com/issues/514723/nightwing-16-may-2017",
+  "https://comics.overstreetaccess.com/issues/822650/batman-100-dec-2020",
+  "https://comics.overstreetaccess.com/volumes/84791/batman-2016",
+  "https://comics.overstreetaccess.com/volumes/84607/detective-comics-2016",
+  "https://comics.overstreetaccess.com/volumes/86536/red-hood-the-outlaws-2016",
+  "https://comics.overstreetaccess.com/volumes/138944/batman-their-dark-designs-2020",
+  "https://comics.overstreetaccess.com/volumes/5940/batman-lost-2017",
+  "https://keycollectorcomics.com/issue/batman-3-7,668438/",
+  "https://keycollectorcomics.com/issue/batman-1-8,424013/",
+  "https://keycollectorcomics.com/issue/batman-3-21-2,34080/",
+  "https://keycollectorcomics.com/issue/batman-3-24,27278/",
+  "https://keycollectorcomics.com/issue/batman-3-50-17,309065/",
+  "https://keycollectorcomics.com/issue/batman-3-75-3,313360/",
+  "https://keycollectorcomics.com/issue/batman-1-85,423946/",
+  "https://keycollectorcomics.com/issue/batman-3-86,315914/",
+  "https://keycollectorcomics.com/issue/batman-3-92-4,317389/",
+  "https://keycollectorcomics.com/issue/batman-1-100-5,423761/",
+  "https://keycollectorcomics.com/issue/batman-joker-war-zone-1-1-3,319666/",
+  "https://keycollectorcomics.com/issue/detective-comics-1-941,434922/",
+  "https://keycollectorcomics.com/issue/nightwing-4-5-451313,451313/",
+  "https://keycollectorcomics.com/issue/nightwing-4-6-variant-451268,451268/",
+  "https://keycollectorcomics.com/issue/nightwing-4-22-450956,450956/",
+  "https://keycollectorcomics.com/issue/red-hood-and-the-outlaws-25-453104,453104/",
+  "https://keycollectorcomics.com/issue/red-hood-and-the-outlaws-26,310091/",
+  "https://keycollectorcomics.com/issue/batman-the-devastator-1,33280/",
+  "https://keycollectorcomics.com/issue/batman-who-laughs-the-1-7-2,426488/",
+  "https://www.comics.org/issue/1739373/",
+  "https://my.comics.org/issue/1749297/",
+  "https://my.comics.org/issue/1693171/",
+  "https://my.comics.org/issue/2129695/",
+  "https://my.comics.org/issue/2152859/",
+  "https://my.comics.org/issue/1972164/",
+  "https://my.comics.org/issue/2139199/",
+  "https://fanboyfactor.com/2020/06/dc-preview-batman-95-on-sale-july-21-part-one-batman-joker-war/",
+  "https://darkknightnews.com/2017/03/17/joker-riddler-square-off-in-batman-25-this-june/",
+  "https://aiptcomics.com/2018/05/23/detective-comics-981-review/",
+  "https://aiptcomics.com/2017/02/02/batman-16-review/",
+  "https://www.cbr.com/tim-drake-dcu-return-rebirth/",
+  "https://www.cbr.com/dcs-first-rebirth-crossover-event-arrives-in-batman-7/",
+  "https://bleedingcool.com/comics/dark-days-casting-july-2017-chart-marvel-marketshare/",
+  "https://geekdad.com/2020/10/review-red-hood-outlaw-50-long-strange-journey/",
+  "https://www.ign.com/articles/2019/12/19/batman-85-review",
+  "https://dccomicsnews.com/2020/10/06/review-batman-100/",
+  "https://thebatmanuniverse.net/detective-comics-151/",
+  "https://www.dc.com/graphic-novels/detective-comics-2016/batman-detective-comics-vol-6-fall-of-the-batmen",
+  "https://www.dc.com/graphic-novels/detective-comics-2016/batman-detective-comics-vol-7-batmen-eternal",
+  "https://www.dc.com/graphic-novels/detective-comics-2016/batman-detective-comics-vol-8-on-the-outside",
+  "https://www.dc.com/graphic-novels/detective-comics-2016/detective-comics-vol-2-the-victim-syndicate",
+  "https://www.dc.com/graphic-novels/detective-comics-2016/batman-detective-comics-rebirth-deluxe-edition-book-3",
+  "https://www.dc.com/comics/detective-comics-2016/detective-comics-981",
+  "https://comicbook.com/dc/news/exclusive-dc-preview-james-tynion-iv-detective-comics-981/",
+  "https://www.dc.com/blog/2019/03/27/celebrate-detective-comics-1000th-issue-and-batmans-80th-anniversary",
+  "https://dc.fandom.com/wiki/Detective_Comics:_Intelligence",
+  "https://dc.fandom.com/wiki/Detective_Comics_Vol_1_981",
+  "https://www.dcuniverseinfinite.com/collections/story-dc-deus-ex-machina",
+  "https://www.dcuniverseinfinite.com/collections/story-dc-rise-and-fall-batmen-books-8",
+  "https://comics.overstreetaccess.com/volumes/138940/batman-the-rise-and-fall-of-the-batmen-omnibus-2020",
+  "https://zeno.fm/podcast/geeksplained-podcast/episodes/year-of-the-bat-part-twenty-eight-the-league-of-shadows-tec-rebirth-950-956/",
+  "https://zeno.fm/podcast/geeksplained-podcast/episodes/year-of-the-bat-part-twenty-six-the-victim-syndicate-tec-943-949/",
+  "https://www.listennotes.com/podcasts/geeksplained-podcast/year-of-the-bat-part-twenty-yd0lM65NiIg/",
+  "https://sfpl.bibliocommons.com/v2/record/S93C3523983",
+  "https://encore.vinelandlibrary.org/iii/encore/record/C__Rb1275541__STynion,%20James,%20IV,__P2,62__Oauthor__X0",
+  "https://northboro.cwmars.org/Hoopla/12018975",
+  "https://northboro.cwmars.org/Hoopla/12095428",
+  "https://sitka.bibliocommons.com/v2/record/S49C128279436",
+  "http://catalog.grpl.org/eg/opac/record/47051871",
+  "https://search.icpl.org/Record/1725431",
+  "https://catalog.evpl.org/Hoopla/12152074",
+  "https://bleedingcool.com/comics/detective-comics-962-review-new-stories/",
+  "https://comicvine.gamespot.com/detective-comics-940-rise-of-the-batmen-part-seven/4000-549486/user-reviews/",
+  "https://comicvine.gamespot.com/detective-comics-943-the-victim-syndicate-part-one/4000-555486/user-reviews/",
+  "https://versedb.com/issue/219092/detective-comics-2016-batmen-eternal-finale",
+  "https://www.cbr.com/exclusive-action-detective-comics-return-to-original-numbering-for-rebirth/",
+  "https://gocollect.com/blog/comiclist-dc-comics-new-releases-for-09-28-2016/",
+  "https://www.biblio.com/9781779501622",
+  "https://darkknightnews.com/2017/09/29/review-detective-comics-965-a-lonely-place-of-living-part-one/",
+  "https://darkknightnews.com/2017/11/24/review-detective-comics-969-fall-of-the-batmen/",
+  "https://darkknightnews.com/2018/02/16/review-detective-comics-974-knights-fall/"
+ ]
 }

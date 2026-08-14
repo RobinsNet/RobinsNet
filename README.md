@@ -36,11 +36,11 @@ python3 -m http.server 8123
 | --- | --- | --- |
 | P52 后危机（1986–2011） | 38 | Year One、Knightfall 传奇（113 期）、Contagion、Legacy、Cataclysm、No Man's Land（69 期）、Murderer/Fugitive、War Games、Under the Hood、R.I.P.、Battle for the Cowl、Reborn 时代、Return of Bruce Wayne 等 |
 | New 52（2011–2016） | 14 | Court of Owls、Night of the Owls、Death of the Family、Zero Year、Batman Eternal、Endgame、Grayson、Robin War 等 |
-| Rebirth（2016–2021） | 13 | I Am Gotham/Suicide/Bane、The Button、Metal、City of Bane、Joker War 等 |
+| Rebirth（2016–2021） | 12 | I Am Gotham/Suicide/Bane、The Button、Metal、City of Bane、Joker War 等 |
 | Frontier（2021–2024） | 13 | Future State、Fear State、Robin(2021)、Shadow War、Dark Crisis、Gotham War、Nightwing by Tom Taylor 等 |
 | Absolute（2024–） | 1 | Absolute Batman（绝对宇宙） |
 
-合计：**80 个大事件/弧线 + 31 条策划单元弧线 + 61 条带 Part 标题散刊 = 1557 期**（数据以封面日期为准）。
+合计：**79 个大事件/弧线 + 40 条策划单元弧线（含 8 条 Detective Comics v3 独立弧线）+ 61 条带 Part 标题散刊 = 1628 期**（数据以封面日期为准）。
 
 ## 目录结构
 
