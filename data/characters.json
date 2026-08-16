@@ -1,45 +1,378 @@
 [
-  { "id": "batman", "nameZh": "蝙蝠侠", "nameEn": "Batman", "realName": "布鲁斯·韦恩", "color": "#3b3b3b", "person": "bruce-wayne", "start": "1986-01", "note": "后危机时代起由布鲁斯·韦恩担任（2009–2011 迪克·格雷森代任期间数据仍以 batman 标注）" },
-  { "id": "nightwing", "nameZh": "夜翼", "nameEn": "Nightwing", "realName": "迪克·格雷森", "color": "#2e6ff2", "person": "dick-grayson", "start": "1996-01" },
-  { "id": "redhood", "nameZh": "红头罩", "nameEn": "Red Hood", "realName": "杰森·托德", "color": "#e03131", "person": "jason-todd", "start": "2005-02" },
-  { "id": "robin-tim", "nameZh": "罗宾·蒂姆", "nameEn": "Robin (Tim Drake)", "realName": "蒂姆·德雷克", "color": "#12b886", "person": "tim-drake", "start": "1989-11", "end": "2009-03", "note": "蒂姆·德雷克任罗宾时期" },
-  { "id": "redrobin", "nameZh": "红罗宾", "nameEn": "Red Robin", "realName": "蒂姆·德雷克", "color": "#d6336c", "person": "tim-drake", "start": "2009-08", "note": "蒂姆·德雷克任红罗宾时期（含重生后回归）" },
-  { "id": "robin-damian", "nameZh": "罗宾·达米安", "nameEn": "Robin (Damian Wayne)", "realName": "达米安·韦恩", "color": "#1098ad", "person": "damian-wayne", "start": "2009-08", "note": "达米安·韦恩任罗宾时期" },
-  { "id": "robin-stephanie", "nameZh": "罗宾·斯蒂芬妮", "nameEn": "Robin (Stephanie Brown)", "realName": "斯蒂芬妮·布朗", "color": "#f783ac", "person": "stephanie-brown", "start": "2004-07", "end": "2005-01", "note": "斯蒂芬妮短暂任罗宾（War Games 期间）" },
-  { "id": "spoiler", "nameZh": "搅局者", "nameEn": "Spoiler", "realName": "斯蒂芬妮·布朗", "color": "#f06595", "person": "stephanie-brown", "start": "1992-01", "end": "2009-07", "note": "斯蒂芬妮·布朗以搅局者身份活动时期" },
-  { "id": "batgirl-stephanie", "nameZh": "蝙蝠女·斯蒂芬妮", "nameEn": "Batgirl (Stephanie Brown)", "realName": "斯蒂芬妮·布朗", "color": "#f783ac", "person": "stephanie-brown", "start": "2009-08", "end": "2011-08", "note": "斯蒂芬妮·布朗任蝙蝠女（Batgirl v2）时期" },
-  { "id": "batgirl-barbara", "nameZh": "蝙蝠女·芭芭拉", "nameEn": "Batgirl (Barbara Gordon)", "realName": "芭芭拉·戈登", "color": "#f59f00", "person": "barbara-gordon", "periods": [{ "start": "1967-01", "end": "1988-03" }, { "start": "2011-09", "end": "2020-12" }], "note": "芭芭拉·戈登任蝙蝠女时期（新52/重生）" },
-  { "id": "batgirl-cassandra", "nameZh": "蝙蝠女·卡珊德拉", "nameEn": "Batgirl (Cassandra Cain)", "realName": "卡珊德拉·该隐", "color": "#e8590c", "person": "cassandra-cain", "periods": [{ "start": "2000-01", "end": "2006-02" }, { "start": "2021-01", "end": "2023-12" }], "note": "卡珊德拉·该隐任蝙蝠女时期" },
-  { "id": "batgirl", "nameZh": "蝙蝠女（通用）", "nameEn": "Batgirl (generic)", "realName": "", "color": "#f59f00", "aggregate": true, "note": "通用聚合标签：合并时按刊物/封面日期自动拆分为 batgirl-barbara / batgirl-cassandra / batgirl-stephanie" },
-  { "id": "batwoman", "nameZh": "蝙蝠女侠", "nameEn": "Batwoman", "realName": "凯特·凯恩", "color": "#cc5de8", "person": "kate-kane" },
-  { "id": "oracle", "nameZh": "神谕", "nameEn": "Oracle", "realName": "芭芭拉·戈登", "color": "#7048e8", "person": "barbara-gordon", "start": "1989-01", "end": "2011-08", "note": "芭芭拉·戈登任神谕时期" },
-  { "id": "catwoman", "nameZh": "猫女", "nameEn": "Catwoman", "realName": "赛琳娜·凯尔", "color": "#495057", "person": "selina-kyle" },
-  { "id": "azrael", "nameZh": "阿兹瑞尔", "nameEn": "Azrael", "realName": "让-保罗·瓦利", "color": "#e8590c", "person": "jean-paul-valley" },
-  { "id": "alfred", "nameZh": "阿尔弗雷德", "nameEn": "Alfred", "realName": "阿尔弗雷德·潘尼沃斯", "color": "#868e96", "person": "alfred-pennyworth" },
-  { "id": "gordon", "nameZh": "戈登局长", "nameEn": "Commissioner Gordon", "realName": "詹姆斯·戈登", "color": "#adb5bd", "person": "james-gordon" },
-  { "id": "bane", "nameZh": "贝恩", "nameEn": "Bane", "realName": "", "color": "#5c940d" },
-  { "id": "joker", "nameZh": "小丑", "nameEn": "The Joker", "realName": "", "color": "#c92a2a" },
-  { "id": "ras", "nameZh": "拉斯·艾尔·古尔", "nameEn": "Ra's al Ghul", "realName": "", "color": "#2b8a3e" },
-  { "id": "talia", "nameZh": "塔利亚", "nameEn": "Talia al Ghul", "realName": "", "color": "#0ca678" },
-  { "id": "talon", "nameZh": "利爪 / 猫头鹰法庭", "nameEn": "Talon / Court of Owls", "realName": "", "color": "#4263eb" },
-  { "id": "hush", "nameZh": "缄默", "nameEn": "Hush", "realName": "汤米·埃利奥特", "color": "#adb5bd" },
-  { "id": "scarecrow", "nameZh": "稻草人", "nameEn": "Scarecrow", "realName": "乔纳森·克莱恩", "color": "#f76707" },
-  { "id": "riddler", "nameZh": "谜语人", "nameEn": "Riddler", "realName": "爱德华·尼格玛", "color": "#37b24d" },
-  { "id": "twopface", "nameZh": "双面人", "nameEn": "Two-Face", "realName": "哈维·丹特", "color": "#9c36b5" },
-  { "id": "penguin", "nameZh": "企鹅人", "nameEn": "Penguin", "realName": "奥斯瓦尔德·科波特", "color": "#1098ad" },
-  { "id": "blackmask", "nameZh": "黑面具", "nameEn": "Black Mask", "realName": "罗曼·西奥尼斯", "color": "#212529" },
-  { "id": "deathstroke", "nameZh": "丧钟", "nameEn": "Deathstroke", "realName": "斯莱德·威尔逊", "color": "#f08c00" },
-  { "id": "superman", "nameZh": "超人", "nameEn": "Superman", "realName": "克拉克·肯特", "color": "#1c7ed6" },
-  { "id": "flash", "nameZh": "闪电侠", "nameEn": "The Flash", "realName": "巴里·艾伦", "color": "#e03131" },
-  { "id": "wonderwoman", "nameZh": "神奇女侠", "nameEn": "Wonder Woman", "realName": "戴安娜·普林斯", "color": "#fcc419" },
-  { "id": "justiceleague", "nameZh": "正义联盟", "nameEn": "Justice League", "realName": "", "color": "#1971c2" },
-  { "id": "titans", "nameZh": "泰坦", "nameEn": "Titans", "realName": "", "color": "#f08c00" },
-  { "id": "youngjustice", "nameZh": "少年正义联盟", "nameEn": "Young Justice", "realName": "", "color": "#40c057" },
-  { "id": "teentitans", "nameZh": "少年泰坦", "nameEn": "Teen Titans", "realName": "", "color": "#f783ac" },
-  { "id": "outsiders", "nameZh": "局外人", "nameEn": "The Outsiders", "realName": "", "color": "#7950f2" },
-  { "id": "orphan", "nameZh": "孤儿", "nameEn": "Orphan", "realName": "卡珊德拉·该隐", "color": "#e8590c", "person": "cassandra-cain", "start": "2016-08", "end": "2019-12", "note": "卡珊德拉·该隐在重生时代以孤儿身份活动" },
-  { "id": "harley", "nameZh": "哈莉·奎茵", "nameEn": "Harley Quinn", "realName": "哈琳·奎泽尔", "color": "#d6336c" },
-  { "id": "clayface", "nameZh": "泥面人", "nameEn": "Clayface", "realName": "巴兹尔·卡罗", "color": "#8d6e63" },
-  { "id": "manbat", "nameZh": "人蝠", "nameEn": "Man-Bat", "realName": "柯克·朗斯特罗姆", "color": "#6a5acd" },
-  { "id": "batwing", "nameZh": "蝠翼", "nameEn": "Batwing", "realName": "卢克·福克斯 / 大卫·泽文比", "color": "#1971c2" }
+ {
+  "id": "batman",
+  "nameZh": "蝙蝠侠",
+  "nameEn": "Batman",
+  "realName": "布鲁斯·韦恩",
+  "color": "#3b3b3b",
+  "person": "bruce-wayne",
+  "start": "1986-01",
+  "note": "后危机时代起由布鲁斯·韦恩担任（2009–2011 迪克·格雷森代任期间数据仍以 batman 标注）"
+ },
+ {
+  "id": "nightwing",
+  "nameZh": "夜翼",
+  "nameEn": "Nightwing",
+  "realName": "迪克·格雷森",
+  "color": "#2e6ff2",
+  "person": "dick-grayson",
+  "start": "1996-01"
+ },
+ {
+  "id": "redhood",
+  "nameZh": "红头罩",
+  "nameEn": "Red Hood",
+  "realName": "杰森·托德",
+  "color": "#e03131",
+  "person": "jason-todd",
+  "start": "2005-02"
+ },
+ {
+  "id": "robin-tim",
+  "nameZh": "罗宾·蒂姆",
+  "nameEn": "Robin (Tim Drake)",
+  "realName": "蒂姆·德雷克",
+  "color": "#12b886",
+  "person": "tim-drake",
+  "start": "1989-11",
+  "end": "2009-03",
+  "note": "蒂姆·德雷克任罗宾时期"
+ },
+ {
+  "id": "redrobin",
+  "nameZh": "红罗宾",
+  "nameEn": "Red Robin",
+  "realName": "蒂姆·德雷克",
+  "color": "#d6336c",
+  "person": "tim-drake",
+  "start": "2009-08",
+  "note": "蒂姆·德雷克任红罗宾时期（含重生后回归）"
+ },
+ {
+  "id": "robin-damian",
+  "nameZh": "罗宾·达米安",
+  "nameEn": "Robin (Damian Wayne)",
+  "realName": "达米安·韦恩",
+  "color": "#1098ad",
+  "person": "damian-wayne",
+  "start": "2009-08",
+  "note": "达米安·韦恩任罗宾时期"
+ },
+ {
+  "id": "robin-stephanie",
+  "nameZh": "罗宾·斯蒂芬妮",
+  "nameEn": "Robin (Stephanie Brown)",
+  "realName": "斯蒂芬妮·布朗",
+  "color": "#f783ac",
+  "person": "stephanie-brown",
+  "start": "2004-07",
+  "end": "2005-01",
+  "note": "斯蒂芬妮短暂任罗宾（War Games 期间）"
+ },
+ {
+  "id": "spoiler",
+  "nameZh": "搅局者",
+  "nameEn": "Spoiler",
+  "realName": "斯蒂芬妮·布朗",
+  "color": "#f06595",
+  "person": "stephanie-brown",
+  "start": "1992-01",
+  "end": "2009-07",
+  "note": "斯蒂芬妮·布朗以搅局者身份活动时期"
+ },
+ {
+  "id": "batgirl-stephanie",
+  "nameZh": "蝙蝠女·斯蒂芬妮",
+  "nameEn": "Batgirl (Stephanie Brown)",
+  "realName": "斯蒂芬妮·布朗",
+  "color": "#f783ac",
+  "person": "stephanie-brown",
+  "start": "2009-08",
+  "end": "2011-08",
+  "note": "斯蒂芬妮·布朗任蝙蝠女（Batgirl v2）时期"
+ },
+ {
+  "id": "batgirl-barbara",
+  "nameZh": "蝙蝠女·芭芭拉",
+  "nameEn": "Batgirl (Barbara Gordon)",
+  "realName": "芭芭拉·戈登",
+  "color": "#f59f00",
+  "person": "barbara-gordon",
+  "periods": [
+   {
+    "start": "1967-01",
+    "end": "1988-03"
+   },
+   {
+    "start": "2011-09",
+    "end": "2020-12"
+   }
+  ],
+  "note": "芭芭拉·戈登任蝙蝠女时期（新52/重生）"
+ },
+ {
+  "id": "batgirl-cassandra",
+  "nameZh": "蝙蝠女·卡珊德拉",
+  "nameEn": "Batgirl (Cassandra Cain)",
+  "realName": "卡珊德拉·该隐",
+  "color": "#e8590c",
+  "person": "cassandra-cain",
+  "periods": [
+   {
+    "start": "2000-01",
+    "end": "2006-02"
+   },
+   {
+    "start": "2021-01",
+    "end": "2023-12"
+   }
+  ],
+  "note": "卡珊德拉·该隐任蝙蝠女时期"
+ },
+ {
+  "id": "batgirl",
+  "nameZh": "蝙蝠女（通用）",
+  "nameEn": "Batgirl (generic)",
+  "realName": "",
+  "color": "#f59f00",
+  "aggregate": true,
+  "note": "通用聚合标签：合并时按刊物/封面日期自动拆分为 batgirl-barbara / batgirl-cassandra / batgirl-stephanie"
+ },
+ {
+  "id": "batwoman",
+  "nameZh": "蝙蝠女侠",
+  "nameEn": "Batwoman",
+  "realName": "凯特·凯恩",
+  "color": "#cc5de8",
+  "person": "kate-kane"
+ },
+ {
+  "id": "oracle",
+  "nameZh": "神谕",
+  "nameEn": "Oracle",
+  "realName": "芭芭拉·戈登",
+  "color": "#7048e8",
+  "person": "barbara-gordon",
+  "start": "1989-01",
+  "end": "2011-08",
+  "note": "芭芭拉·戈登任神谕时期"
+ },
+ {
+  "id": "catwoman",
+  "nameZh": "猫女",
+  "nameEn": "Catwoman",
+  "realName": "赛琳娜·凯尔",
+  "color": "#495057",
+  "person": "selina-kyle"
+ },
+ {
+  "id": "azrael",
+  "nameZh": "阿兹瑞尔",
+  "nameEn": "Azrael",
+  "realName": "让-保罗·瓦利",
+  "color": "#e8590c",
+  "person": "jean-paul-valley"
+ },
+ {
+  "id": "alfred",
+  "nameZh": "阿尔弗雷德",
+  "nameEn": "Alfred",
+  "realName": "阿尔弗雷德·潘尼沃斯",
+  "color": "#868e96",
+  "person": "alfred-pennyworth"
+ },
+ {
+  "id": "gordon",
+  "nameZh": "戈登局长",
+  "nameEn": "Commissioner Gordon",
+  "realName": "詹姆斯·戈登",
+  "color": "#adb5bd",
+  "person": "james-gordon"
+ },
+ {
+  "id": "bane",
+  "nameZh": "贝恩",
+  "nameEn": "Bane",
+  "realName": "",
+  "color": "#5c940d"
+ },
+ {
+  "id": "joker",
+  "nameZh": "小丑",
+  "nameEn": "The Joker",
+  "realName": "",
+  "color": "#c92a2a"
+ },
+ {
+  "id": "ras",
+  "nameZh": "拉斯·艾尔·古尔",
+  "nameEn": "Ra's al Ghul",
+  "realName": "",
+  "color": "#2b8a3e"
+ },
+ {
+  "id": "talia",
+  "nameZh": "塔利亚",
+  "nameEn": "Talia al Ghul",
+  "realName": "",
+  "color": "#0ca678"
+ },
+ {
+  "id": "talon",
+  "nameZh": "利爪 / 猫头鹰法庭",
+  "nameEn": "Talon / Court of Owls",
+  "realName": "",
+  "color": "#4263eb"
+ },
+ {
+  "id": "hush",
+  "nameZh": "缄默",
+  "nameEn": "Hush",
+  "realName": "汤米·埃利奥特",
+  "color": "#adb5bd"
+ },
+ {
+  "id": "scarecrow",
+  "nameZh": "稻草人",
+  "nameEn": "Scarecrow",
+  "realName": "乔纳森·克莱恩",
+  "color": "#f76707"
+ },
+ {
+  "id": "riddler",
+  "nameZh": "谜语人",
+  "nameEn": "Riddler",
+  "realName": "爱德华·尼格玛",
+  "color": "#37b24d"
+ },
+ {
+  "id": "twopface",
+  "nameZh": "双面人",
+  "nameEn": "Two-Face",
+  "realName": "哈维·丹特",
+  "color": "#9c36b5"
+ },
+ {
+  "id": "penguin",
+  "nameZh": "企鹅人",
+  "nameEn": "Penguin",
+  "realName": "奥斯瓦尔德·科波特",
+  "color": "#1098ad"
+ },
+ {
+  "id": "blackmask",
+  "nameZh": "黑面具",
+  "nameEn": "Black Mask",
+  "realName": "罗曼·西奥尼斯",
+  "color": "#212529"
+ },
+ {
+  "id": "deathstroke",
+  "nameZh": "丧钟",
+  "nameEn": "Deathstroke",
+  "realName": "斯莱德·威尔逊",
+  "color": "#f08c00"
+ },
+ {
+  "id": "superman",
+  "nameZh": "超人",
+  "nameEn": "Superman",
+  "realName": "克拉克·肯特",
+  "color": "#1c7ed6"
+ },
+ {
+  "id": "flash",
+  "nameZh": "闪电侠",
+  "nameEn": "The Flash",
+  "realName": "巴里·艾伦",
+  "color": "#e03131"
+ },
+ {
+  "id": "wonderwoman",
+  "nameZh": "神奇女侠",
+  "nameEn": "Wonder Woman",
+  "realName": "戴安娜·普林斯",
+  "color": "#fcc419"
+ },
+ {
+  "id": "justiceleague",
+  "nameZh": "正义联盟",
+  "nameEn": "Justice League",
+  "realName": "",
+  "color": "#1971c2"
+ },
+ {
+  "id": "titans",
+  "nameZh": "泰坦",
+  "nameEn": "Titans",
+  "realName": "",
+  "color": "#f08c00"
+ },
+ {
+  "id": "youngjustice",
+  "nameZh": "少年正义联盟",
+  "nameEn": "Young Justice",
+  "realName": "",
+  "color": "#40c057"
+ },
+ {
+  "id": "teentitans",
+  "nameZh": "少年泰坦",
+  "nameEn": "Teen Titans",
+  "realName": "",
+  "color": "#f783ac"
+ },
+ {
+  "id": "outsiders",
+  "nameZh": "局外人",
+  "nameEn": "The Outsiders",
+  "realName": "",
+  "color": "#7950f2"
+ },
+ {
+  "id": "orphan",
+  "nameZh": "孤儿",
+  "nameEn": "Orphan",
+  "realName": "卡珊德拉·该隐",
+  "color": "#e8590c",
+  "person": "cassandra-cain",
+  "start": "2016-08",
+  "end": "2019-12",
+  "note": "卡珊德拉·该隐在重生时代以孤儿身份活动"
+ },
+ {
+  "id": "harley",
+  "nameZh": "哈莉·奎茵",
+  "nameEn": "Harley Quinn",
+  "realName": "哈琳·奎泽尔",
+  "color": "#d6336c"
+ },
+ {
+  "id": "clayface",
+  "nameZh": "泥面人",
+  "nameEn": "Clayface",
+  "realName": "巴兹尔·卡罗",
+  "color": "#8d6e63"
+ },
+ {
+  "id": "manbat",
+  "nameZh": "人蝠",
+  "nameEn": "Man-Bat",
+  "realName": "柯克·朗斯特罗姆",
+  "color": "#6a5acd"
+ },
+ {
+  "id": "batwing",
+  "nameZh": "蝠翼",
+  "nameEn": "Batwing",
+  "realName": "卢克·福克斯 / 大卫·泽文比",
+  "color": "#1971c2"
+ },
+ {
+  "id": "greenarrow",
+  "nameZh": "绿箭侠",
+  "nameEn": "Green Arrow",
+  "realName": "奥利弗·奎恩",
+  "color": "#2f9e44"
+ }
 ]

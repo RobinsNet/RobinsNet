@@ -1218,7 +1218,8 @@
    ],
    "related": [
     "war-crimes",
-    "nightwing-brothers-in-blood"
+    "nightwing-brothers-in-blood",
+    "green-arrow-road-to-jericho"
    ],
    "phases": [
     {
@@ -1986,6 +1987,142 @@
        "c": [
         "nightwing"
        ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "green-arrow-road-to-jericho",
+   "name": "Green Arrow: Road to Jericho",
+   "nameZh": "绿箭侠：通往耶利哥之路",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "saga",
+   "start": "2006-12",
+   "end": "2007-09",
+   "summaryZh": "Judd Winick 主笔的绿箭侠篇章（Green Arrow v3 #66-75），与「红头罩之下」同时期的联动事件（红头罩/杰森·托德相关）。封面日期为按月推算（约 2006-12 ~ 2007-09）。",
+   "characters": [
+    "greenarrow",
+    "redhood"
+   ],
+   "related": [
+    "under-the-hood"
+   ],
+   "phases": [
+    {
+     "name": "Road to Jericho",
+     "nameZh": "通往耶利哥之路",
+     "issues": [
+      {
+       "s": "green-arrow-v3",
+       "n": "66",
+       "t": null,
+       "d": "2006-12",
+       "p": null,
+       "c": [
+        "greenarrow"
+       ],
+       "x": "封面日期按月推算"
+      },
+      {
+       "s": "green-arrow-v3",
+       "n": "67",
+       "t": null,
+       "d": "2007-01",
+       "p": null,
+       "c": [
+        "greenarrow"
+       ],
+       "x": "封面日期按月推算"
+      },
+      {
+       "s": "green-arrow-v3",
+       "n": "68",
+       "t": null,
+       "d": "2007-02",
+       "p": null,
+       "c": [
+        "greenarrow"
+       ],
+       "x": "封面日期按月推算"
+      },
+      {
+       "s": "green-arrow-v3",
+       "n": "69",
+       "t": null,
+       "d": "2007-03",
+       "p": null,
+       "c": [
+        "greenarrow"
+       ],
+       "x": "封面日期按月推算"
+      },
+      {
+       "s": "green-arrow-v3",
+       "n": "70",
+       "t": null,
+       "d": "2007-04",
+       "p": null,
+       "c": [
+        "greenarrow"
+       ],
+       "x": "封面日期按月推算"
+      },
+      {
+       "s": "green-arrow-v3",
+       "n": "71",
+       "t": null,
+       "d": "2007-05",
+       "p": null,
+       "c": [
+        "greenarrow"
+       ],
+       "x": "封面日期按月推算"
+      },
+      {
+       "s": "green-arrow-v3",
+       "n": "72",
+       "t": null,
+       "d": "2007-06",
+       "p": null,
+       "c": [
+        "greenarrow"
+       ],
+       "x": "封面日期按月推算"
+      },
+      {
+       "s": "green-arrow-v3",
+       "n": "73",
+       "t": null,
+       "d": "2007-07",
+       "p": null,
+       "c": [
+        "greenarrow"
+       ],
+       "x": "封面日期按月推算"
+      },
+      {
+       "s": "green-arrow-v3",
+       "n": "74",
+       "t": null,
+       "d": "2007-08",
+       "p": null,
+       "c": [
+        "greenarrow"
+       ],
+       "x": "封面日期按月推算"
+      },
+      {
+       "s": "green-arrow-v3",
+       "n": "75",
+       "t": null,
+       "d": "2007-09",
+       "p": null,
+       "c": [
+        "greenarrow"
+       ],
+       "x": "封面日期按月推算"
       }
      ]
     }
