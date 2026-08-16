@@ -5808,13 +5808,13 @@
  {
   "id": "nightwing-brothers-in-blood",
   "name": "Nightwing: Brothers in Blood",
-  "nameZh": "夜翼：血之兄弟",
+  "nameZh": "血脉兄弟",
   "kind": "event",
   "type": "saga",
   "phases": [
    {
     "name": "Brothers in Blood",
-    "nameZh": "血之兄弟",
+    "nameZh": "血脉兄弟",
     "issues": [
      {
       "s": "nightwing-v2",
