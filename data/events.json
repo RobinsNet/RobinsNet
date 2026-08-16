@@ -5220,7 +5220,7 @@
   "name": "Batman: Under the Hood",
   "nameZh": "红头罩之下",
   "kind": "event",
-  "type": "arc",
+  "type": "mega-event",
   "phases": [
    {
     "name": "Under the Hood",
@@ -5388,6 +5388,18 @@
        "joker"
       ],
       "x": "Red Hood 身份揭晓"
+     },
+     {
+      "s": "batman",
+      "n": "Annual 25",
+      "t": "Daedalus and Icarus - The Return Of Jason Todd",
+      "d": "2006-05",
+      "p": null,
+      "c": [
+       "redhood",
+       "batman"
+      ],
+      "x": "封面日期约 2006-05（Key Collector）；收集版置于卷末"
      }
     ]
    }
@@ -5396,7 +5408,7 @@
   "end": "2006-04",
   "era": "P52",
   "earth": "new-earth",
-  "summaryZh": "神秘的红头罩（Red Hood）在哥谭崛起，以暴力手段接管黑面具的犯罪帝国并操控蝙蝠侠的敌人。蝙蝠侠追查其身份，最终揭晓红头罩竟是死而复生的杰森·托德——他曾被小丑杀害，如今归来复仇。",
+  "summaryZh": "杰森·托德以「红头罩」身份回归哥谭，接管黑面具的黑帮生意，向蝙蝠侠与小丑复仇。按 dc.fandom《Under the Red Hood (Collected)》收录：Batman #635-641（Under the Hood Part 1-4 → Family Reunion 三部曲）、#645（Show Me Yesterday 罗宾往事）、#646-647（Franchise）、#648-650（All They Do Is Watch Us Kill，红头罩身份揭晓）、Batman Annual #25（Daedalus and Icarus：杰森·托德归来）。#642-644 为 War Crimes 交叉，不属本事件。",
   "characters": [
    "batman",
    "redhood",
