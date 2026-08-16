@@ -39,7 +39,8 @@ const CHAR_RULES = [
   [/^deathstroke/, 'deathstroke'], [/^superman/, 'superman'], [/^wonder woman/, 'wonderwoman'],
   [/teen titans/, 'teentitans'], [/^titans/, 'titans'], [/young justice/, 'youngjustice'],
   [/^outsiders/, 'outsiders'], [/^the flash|flash \(barry/, 'flash'], [/justice league/, 'justiceleague'],
-  [/^harley/, 'harley'], [/^clayface/, 'clayface'], [/man-?bat/, 'manbat'], [/^batwing/, 'batwing']
+  [/^harley/, 'harley'], [/^clayface/, 'clayface'], [/man-?bat/, 'manbat'], [/^batwing/, 'batwing'],
+  [/^huntress/, 'huntress']
 ];
 function mapCharacters(issue) {
   const out = new Set();

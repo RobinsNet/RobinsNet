@@ -4260,7 +4260,8 @@
      "p": null,
      "c": [
       "nightwing",
-      "talon"
+      "talon",
+      "huntress"
      ]
     },
     {
@@ -4271,7 +4272,8 @@
      "p": null,
      "c": [
       "nightwing",
-      "batman"
+      "batman",
+      "huntress"
      ]
     },
     {
@@ -4281,7 +4283,8 @@
      "d": "2018-02",
      "p": null,
      "c": [
-      "nightwing"
+      "nightwing",
+      "huntress"
      ]
     }
    ],
@@ -5212,6 +5215,7 @@
       "oracle",
       "batman",
       "batwoman",
+      "huntress",
       "titans",
       "flash"
      ]
@@ -7502,6 +7506,7 @@
    "p": null,
    "c": [
     "batman",
+    "huntress",
     "alfred"
    ]
   },
@@ -7524,6 +7529,7 @@
    "p": null,
    "c": [
     "batman",
+    "huntress",
     "alfred",
     "gordon"
    ]
@@ -7557,6 +7563,7 @@
    "d": "1992-12",
    "p": null,
    "c": [
+    "huntress",
     "batman"
    ]
   },
@@ -7578,6 +7585,7 @@
    "d": "1993-01",
    "p": null,
    "c": [
+    "huntress",
     "batman"
    ]
   },
@@ -7587,7 +7595,9 @@
    "t": "Dosvedanya, Baby",
    "d": "1993-01",
    "p": null,
-   "c": []
+   "c": [
+    "huntress"
+   ]
   },
   {
    "s": "shadow-of-bat",
@@ -7607,6 +7617,7 @@
    "d": "1993-02",
    "p": null,
    "c": [
+    "huntress",
     "alfred"
    ]
   },
@@ -7617,6 +7628,7 @@
    "d": "1993-02",
    "p": null,
    "c": [
+    "huntress",
     "alfred"
    ]
   },
@@ -7636,7 +7648,9 @@
    "t": "Murder Ink",
    "d": "1993-03",
    "p": null,
-   "c": []
+   "c": [
+    "huntress"
+   ]
   },
   {
    "s": "shadow-of-bat",
@@ -7808,6 +7822,7 @@
    "p": null,
    "c": [
     "batman",
+    "huntress",
     "nightwing"
    ]
   },
@@ -7840,7 +7855,8 @@
    "d": "1995-06",
    "p": null,
    "c": [
-    "batman"
+    "batman",
+    "huntress"
    ]
   },
   {
@@ -8229,7 +8245,8 @@
    "d": "1996-11",
    "p": null,
    "c": [
-    "batman"
+    "batman",
+    "huntress"
    ]
   },
   {
@@ -8735,6 +8752,7 @@
    "c": [
     "alfred",
     "batman",
+    "huntress",
     "spoiler"
    ]
   },
@@ -9279,7 +9297,8 @@
    "d": "1998-12",
    "p": null,
    "c": [
-    "nightwing"
+    "nightwing",
+    "huntress"
    ]
   },
   {
@@ -9301,6 +9320,7 @@
    "p": null,
    "c": [
     "nightwing",
+    "huntress",
     "oracle"
    ]
   },
@@ -9323,6 +9343,7 @@
    "c": [
     "nightwing",
     "batman",
+    "huntress",
     "oracle"
    ]
   },
@@ -9344,7 +9365,8 @@
    "d": "1999-03",
    "p": null,
    "c": [
-    "nightwing"
+    "nightwing",
+    "huntress"
    ]
   },
   {
@@ -9413,6 +9435,7 @@
    "p": null,
    "c": [
     "batman",
+    "huntress",
     "nightwing"
    ]
   },
@@ -9948,6 +9971,7 @@
    "c": [
     "batman",
     "nightwing",
+    "huntress",
     "azrael"
    ]
   },
@@ -10174,6 +10198,7 @@
    "p": null,
    "c": [
     "batman",
+    "huntress",
     "oracle"
    ]
   },
@@ -10370,7 +10395,8 @@
    "d": "2001-12",
    "p": null,
    "c": [
-    "batman"
+    "batman",
+    "huntress"
    ]
   },
   {
@@ -10404,6 +10430,7 @@
    "c": [
     "alfred",
     "batman",
+    "huntress",
     "nightwing",
     "oracle",
     "spoiler"
@@ -11620,7 +11647,8 @@
    "d": "2005-11",
    "p": null,
    "c": [
-    "nightwing"
+    "nightwing",
+    "huntress"
    ]
   },
   {
@@ -13149,7 +13177,8 @@
    "d": "2017-12",
    "p": null,
    "c": [
-    "nightwing"
+    "nightwing",
+    "huntress"
    ]
   },
   {
@@ -13159,7 +13188,8 @@
    "d": "2017-12",
    "p": null,
    "c": [
-    "nightwing"
+    "nightwing",
+    "huntress"
    ]
   },
   {
@@ -14263,7 +14293,8 @@
    "d": "2021-06",
    "p": null,
    "c": [
-    "batman"
+    "batman",
+    "huntress"
    ]
   },
   {
@@ -14273,7 +14304,8 @@
    "d": "2021-07",
    "p": null,
    "c": [
-    "batman"
+    "batman",
+    "huntress"
    ]
   },
   {
@@ -14284,6 +14316,7 @@
    "p": null,
    "c": [
     "batman",
+    "huntress",
     "oracle"
    ]
   },
@@ -14295,6 +14328,7 @@
    "p": null,
    "c": [
     "batman",
+    "huntress",
     "oracle"
    ]
   },
@@ -14329,6 +14363,7 @@
    "p": null,
    "c": [
     "batman",
+    "huntress",
     "oracle"
    ]
   },
@@ -14354,6 +14389,7 @@
    "c": [
     "batman",
     "batwoman",
+    "huntress",
     "oracle"
    ]
   },
@@ -14402,6 +14438,7 @@
    "d": "2022-03",
    "p": null,
    "c": [
+    "huntress",
     "nightwing",
     "batman",
     "batwoman",
@@ -14505,6 +14542,7 @@
     "batman",
     "batwoman",
     "harley",
+    "huntress",
     "oracle",
     "nightwing"
    ]
@@ -14519,6 +14557,7 @@
     "batman",
     "batwoman",
     "harley",
+    "huntress",
     "nightwing",
     "oracle"
    ]

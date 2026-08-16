@@ -649,7 +649,8 @@
       "c": [
        "batman",
        "bane",
-       "alfred"
+       "alfred",
+       "huntress"
       ]
      },
      {
@@ -1024,7 +1025,8 @@
       "d": "1994-05",
       "p": null,
       "c": [
-       "robin-tim"
+       "robin-tim",
+       "huntress"
       ]
      },
      {
@@ -1777,7 +1779,8 @@
        "oracle",
        "gordon",
        "azrael",
-       "nightwing"
+       "nightwing",
+       "huntress"
       ]
      },
      {
@@ -1789,7 +1792,8 @@
       "c": [
        "batman",
        "gordon",
-       "nightwing"
+       "nightwing",
+       "huntress"
       ]
      },
      {
@@ -1804,7 +1808,8 @@
        "alfred",
        "catwoman",
        "nightwing",
-       "oracle"
+       "oracle",
+       "huntress"
       ]
      },
      {
@@ -2068,7 +2073,8 @@
        "azrael",
        "gordon",
        "nightwing",
-       "oracle"
+       "oracle",
+       "huntress"
       ],
       "x": "瘟疫余波衔接刊 → 遗产序幕"
      },
@@ -2082,7 +2088,8 @@
        "batman",
        "ras",
        "gordon",
-       "nightwing"
+       "nightwing",
+       "huntress"
       ],
       "x": "瘟疫尾声衔接刊 → 遗产序幕"
      },
@@ -2154,7 +2161,8 @@
       "c": [
        "batman",
        "nightwing",
-       "oracle"
+       "oracle",
+       "huntress"
       ]
      },
      {
@@ -2167,7 +2175,8 @@
        "robin-tim",
        "batman",
        "nightwing",
-       "oracle"
+       "oracle",
+       "huntress"
       ]
      },
      {
@@ -2357,7 +2366,8 @@
       "p": 5,
       "c": [
        "batman",
-       "alfred"
+       "alfred",
+       "huntress"
       ]
      },
      {
@@ -2461,7 +2471,8 @@
        "batman",
        "alfred",
        "gordon",
-       "nightwing"
+       "nightwing",
+       "huntress"
       ]
      },
      {
@@ -3122,7 +3133,8 @@
       "p": 3,
       "c": [
        "batman",
-       "gordon"
+       "gordon",
+       "huntress"
       ]
      },
      {
@@ -3691,7 +3703,8 @@
       "c": [
        "batman",
        "joker",
-       "harley"
+       "harley",
+       "huntress"
       ]
      },
      {
@@ -3783,7 +3796,8 @@
       "p": 2,
       "c": [
        "nightwing",
-       "oracle"
+       "oracle",
+       "huntress"
       ]
      },
      {
@@ -4029,7 +4043,8 @@
       "p": 2,
       "c": [
        "batman",
-       "joker"
+       "joker",
+       "huntress"
       ]
      },
      {
@@ -4043,7 +4058,8 @@
        "gordon",
        "oracle",
        "nightwing",
-       "azrael"
+       "azrael",
+       "huntress"
       ]
      },
      {
@@ -4686,7 +4702,8 @@
        "batman",
        "catwoman",
        "penguin",
-       "alfred"
+       "alfred",
+       "huntress"
       ]
      },
      {
@@ -4795,7 +4812,8 @@
       "c": [
        "batman",
        "hush",
-       "catwoman"
+       "catwoman",
+       "huntress"
       ]
      },
      {
@@ -4824,6 +4842,7 @@
        "catwoman",
        "twopface",
        "alfred",
+       "huntress",
        "gordon",
        "superman"
       ]
@@ -7391,6 +7410,7 @@
        "batman",
        "alfred",
        "gordon",
+       "huntress",
        "oracle"
       ]
      },
@@ -7441,6 +7461,7 @@
       "c": [
        "batman",
        "alfred",
+       "huntress",
        "gordon",
        "oracle"
       ]
@@ -7473,7 +7494,8 @@
       "c": [
        "batman",
        "alfred",
-       "catwoman"
+       "catwoman",
+       "huntress"
       ]
      },
      {
@@ -7527,6 +7549,7 @@
        "batman",
        "catwoman",
        "gordon",
+       "huntress",
        "manbat",
        "redrobin",
        "oracle"
@@ -8513,6 +8536,7 @@
        "blackmask",
        "alfred",
        "gordon",
+       "huntress",
        "oracle"
       ]
      },
@@ -8526,6 +8550,7 @@
        "batman",
        "blackmask",
        "alfred",
+       "huntress",
        "gordon",
        "oracle"
       ]
@@ -8540,7 +8565,8 @@
        "batman",
        "blackmask",
        "alfred",
-       "catwoman"
+       "catwoman",
+       "huntress"
       ]
      },
      {
@@ -8569,6 +8595,7 @@
        "blackmask",
        "catwoman",
        "gordon",
+       "huntress",
        "manbat",
        "redrobin",
        "oracle"
@@ -15730,6 +15757,7 @@
        "oracle",
        "batman",
        "batwoman",
+       "huntress",
        "titans",
        "flash"
       ]
@@ -16378,6 +16406,7 @@
       "c": [
        "batman",
        "gordon",
+       "huntress",
        "oracle"
       ]
      },
