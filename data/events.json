@@ -1808,6 +1808,15 @@
       ]
      },
      {
+      "s": "Batman Chronicles",
+      "n": "4",
+      "t": "Hitman • Huntress: Exposure • Beggar's Banquet",
+      "d": "1996-04",
+      "p": null,
+      "c": [],
+      "x": "未编号 tie-in（位于 Part Eight 与 Part Nine 之间，发行时间约 1996-04）"
+     },
+     {
       "s": "catwoman-v2",
       "n": "32",
       "t": "Contagion, Part Nine: Fever Pitch",
@@ -1842,7 +1851,8 @@
        "nightwing"
       ]
      }
-    ]
+    ],
+    "ordered": true
    },
    {
     "name": "Aftermath",
@@ -1855,7 +1865,7 @@
       "d": "1996-04",
       "p": null,
       "c": [],
-      "x": "未编号 tie-in（页面列于 Part Eight 与 Part Nine 之间）"
+      "x": "未编号 tie-in（位于 Part Eight 与 Part Nine 之间，发行时间约 1996-04）"
      },
      {
       "s": "batman",
