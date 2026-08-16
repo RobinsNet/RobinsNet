@@ -576,13 +576,16 @@ function viewEvent() {
   const serPool = [...seriesSetOf(it)].sort();
   const pct = progressOf(it);
 
-  const visible = sortByDateStable(allIss.filter(iss => {
+  // ordered 阶段（如 dc.fandom 页面的规范 Part 序）保持数据原始顺序，不做日期重排
+  const keepOrder = (it.phases || []).some(p => p.ordered);
+  const filtered = allIss.filter(iss => {
     if (state.evPerson && !personasOf(state.evPerson).some(p => (iss.c || []).includes(p))) return false;
     if (state.evChar && !(iss.c || []).includes(state.evChar)) return false;
     if (state.evSeries && seriesName(iss.s) !== state.evSeries) return false;
     if (state.evUnreadOnly && state.read.has(issueKey(iss))) return false;
     return true;
-  }));
+  });
+  const visible = keepOrder ? filtered : sortByDateStable(filtered);
 
   const rel = (it.related || []).map(itemById).filter(Boolean);
 

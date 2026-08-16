@@ -291,5 +291,11 @@ select.filter-select {
   .searchbox input { width: 100%; }
   .filterbar { top: 0; position: static; }
   .main { padding: 14px 12px 40px; }
-  .issue-table .title, .issue-table .note { display: none; }
+  /* 手机端保留标题列：隐藏序号列与人物圆点列，表格可横向滚动 */
+  .phase-block, .group-card { overflow-x: auto; }
+  .issue-table { min-width: 500px; }
+  .issue-table th:nth-child(2), .issue-table td:nth-child(2) { display: none; }
+  .issue-table .cdotts { display: none; }
+  .issue-table .title { white-space: normal; min-width: 150px; }
+  .issue-table .note { display: none; }
 }

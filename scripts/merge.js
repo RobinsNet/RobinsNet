@@ -143,7 +143,9 @@ function normalizeItem(item, isEvent, src) {
         const n = normalizeIssue(iss, src, `${item.id}/phase${pi}`, i);
         if (n) norm.push(n);
       });
-      out.phases.push({ name: ph.name || `Part ${pi + 1}`, nameZh: ph.nameZh || ph.name || `第 ${pi + 1} 阶段`, issues: norm });
+      const phase = { name: ph.name || `Part ${pi + 1}`, nameZh: ph.nameZh || ph.name || `第 ${pi + 1} 阶段`, issues: norm };
+      if (ph.ordered) phase.ordered = true; // 规范阅读顺序（如 dc.fandom 页面 Part 序）：不做日期重排
+      out.phases.push(phase);
       issues = issues.concat(norm);
     });
   } else {

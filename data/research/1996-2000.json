@@ -1,505 +1,3046 @@
 {
-  "events": [
+ "events": [
+  {
+   "id": "contagion",
+   "name": "Batman: Contagion",
+   "nameZh": "瘟疫",
+   "kind": "event",
+   "type": "mega-event",
+   "phases": [
     {
-      "id": "contagion",
-      "name": "Batman: Contagion",
-      "nameZh": "传染",
-      "era": "P52",
-      "earth": "new-earth",
-      "type": "mega-event",
-      "start": "1996-03",
-      "end": "1996-08",
-      "summaryZh": "一种被称为「克伦奇」（The Clench）的埃博拉类致命病毒在哥谭市爆发，蝙蝠侠与戈登局长、神谕（芭芭拉·戈登）全力控制疫情，罗宾、猫女、阿兹瑞尔等各自卷入救援与追查。最终发现病毒源头直指拉斯·艾尔·古尔——他以此作为对蝙蝠侠的「遗产」考验，为续篇 Legacy 埋下伏笔。TP 收录 26 期（Batman #529-533、Detective Comics #695-699、Shadow of the Bat #49-53、Robin #27-30、Catwoman #31-35、Azrael #15-16），封面日期 1996-03 至 1996-08（首波部分刊为 3 月、部分为 4 月）；主线含跨刊编号章节（已核实 Part 5-9），Batman 主线中段（#530-532）为「The Deadman Connection」连载。",
-      "characters": ["batman", "oracle", "gordon", "catwoman", "azrael", "nightwing", "robin-tim"],
-      "related": ["legacy"],
-      "phases": [
-        {
-          "name": "Contagion",
-          "nameZh": "传染",
-          "issues": [
-            {"s": "detective", "n": "695", "t": null, "d": "1996-03", "p": null, "c": ["batman", "gordon"], "x": null},
-            {"s": "robin-v2", "n": "27", "t": null, "d": "1996-03", "p": null, "c": ["robin-tim"], "x": null},
-            {"s": "catwoman-v2", "n": "31", "t": "Contagion, Part 5: Flesh and Fire", "d": "1996-03", "p": 5, "c": ["catwoman"], "x": null},
-            {"s": "azrael", "n": "15", "t": null, "d": "1996-03", "p": null, "c": ["azrael"], "x": null},
-            {"s": "batman", "n": "529", "t": "Contagion, Part 6: Tears of Blood", "d": "1996-04", "p": 6, "c": ["batman", "oracle", "gordon"], "x": null},
-            {"s": "detective", "n": "696", "t": null, "d": "1996-04", "p": null, "c": ["batman", "gordon"], "x": null},
-            {"s": "shadow-of-bat", "n": "49", "t": "Contagion, Part 7: Falls Upon Angel of Death", "d": "1996-04", "p": 7, "c": ["batman"], "x": null},
-            {"s": "robin-v2", "n": "28", "t": null, "d": "1996-04", "p": null, "c": ["robin-tim"], "x": null},
-            {"s": "catwoman-v2", "n": "32", "t": "Contagion, Part 9: Fever Pitch", "d": "1996-04", "p": 9, "c": ["catwoman"], "x": null},
-            {"s": "azrael", "n": "16", "t": null, "d": "1996-04", "p": null, "c": ["azrael"], "x": null},
-            {"s": "batman", "n": "530", "t": "The Deadman Connection, Part 1: Sweat of the Sun, Tears of the Moon", "d": "1996-05", "p": 1, "c": ["batman"], "x": "蝙蝠侠主线连载，非 Contagion 编号章节"},
-            {"s": "detective", "n": "697", "t": null, "d": "1996-05", "p": null, "c": ["batman", "gordon"], "x": null},
-            {"s": "shadow-of-bat", "n": "50", "t": null, "d": "1996-05", "p": null, "c": ["batman"], "x": "第 50 期纪念刊"},
-            {"s": "robin-v2", "n": "29", "t": null, "d": "1996-05", "p": null, "c": ["robin-tim"], "x": null},
-            {"s": "catwoman-v2", "n": "33", "t": "Devil Does Your Dog Bite", "d": "1996-05", "p": null, "c": ["catwoman"], "x": null},
-            {"s": "batman", "n": "531", "t": "The Deadman Connection, Part 2", "d": "1996-06", "p": 2, "c": ["batman"], "x": "蝙蝠侠主线连载，非 Contagion 编号章节"},
-            {"s": "detective", "n": "698", "t": null, "d": "1996-06", "p": null, "c": ["batman"], "x": null},
-            {"s": "shadow-of-bat", "n": "51", "t": null, "d": "1996-06", "p": null, "c": ["batman"], "x": null},
-            {"s": "robin-v2", "n": "30", "t": null, "d": "1996-06", "p": null, "c": ["robin-tim"], "x": null},
-            {"s": "catwoman-v2", "n": "34", "t": null, "d": "1996-06", "p": null, "c": ["catwoman"], "x": null},
-            {"s": "batman", "n": "532", "t": "The Deadman Connection, Part 3", "d": "1996-07", "p": 3, "c": ["batman", "nightwing"], "x": "蝙蝠侠主线连载，非 Contagion 编号章节"},
-            {"s": "detective", "n": "699", "t": null, "d": "1996-07", "p": null, "c": ["batman", "gordon"], "x": null},
-            {"s": "shadow-of-bat", "n": "52", "t": null, "d": "1996-07", "p": null, "c": ["batman"], "x": null},
-            {"s": "catwoman-v2", "n": "35", "t": null, "d": "1996-07", "p": null, "c": ["catwoman"], "x": null},
-            {"s": "batman", "n": "533", "t": "Twelve Steps to the Heart of Hell", "d": "1996-08", "p": null, "c": ["batman", "ras"], "x": "Contagion 尾声 / Legacy 序幕（衔接刊，也见于 Legacy 事件）"},
-            {"s": "shadow-of-bat", "n": "53", "t": null, "d": "1996-08", "p": null, "c": ["batman"], "x": null}
-          ]
-        }
-      ]
+     "name": "Contagion",
+     "nameZh": "瘟疫",
+     "issues": [
+      {
+       "s": "shadow-of-bat",
+       "n": "48",
+       "t": "Contagion, Part One: The Apocalypse Plague",
+       "d": "1996-03",
+       "p": 1,
+       "c": [
+        "batman",
+        "alfred",
+        "azrael"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "695",
+       "t": "Contagion, Part Two: The Gray Area",
+       "d": "1996-03",
+       "p": 2,
+       "c": [
+        "batman",
+        "gordon",
+        "alfred",
+        "oracle"
+       ]
+      },
+      {
+       "s": "robin-v2",
+       "n": "27",
+       "t": "Contagion, Part Three: Natural Born Healer",
+       "d": "1996-03",
+       "p": 3,
+       "c": [
+        "robin-tim",
+        "alfred",
+        "azrael",
+        "batman",
+        "catwoman"
+       ]
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "31",
+       "t": "Contagion, Part Four: Flesh and Fire",
+       "d": "1996-03",
+       "p": 4,
+       "c": [
+        "catwoman"
+       ],
+       "x": "封面误印为 Part 5（实际为 Part Four）"
+      },
+      {
+       "s": "azrael",
+       "n": "15",
+       "t": "Contagion, Part Five: Requiem for an Immortal",
+       "d": "1996-03",
+       "p": 5,
+       "c": [
+        "azrael"
+       ],
+       "x": "封面误印为 Part 4（实际为 Part Five）"
+      },
+      {
+       "s": "batman",
+       "n": "529",
+       "t": "Contagion, Part Six: Tears of Blood",
+       "d": "1996-04",
+       "p": 6,
+       "c": [
+        "batman",
+        "oracle",
+        "gordon",
+        "azrael",
+        "nightwing"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "49",
+       "t": "Contagion, Part Seven: Angel of Death",
+       "d": "1996-04",
+       "p": 7,
+       "c": [
+        "batman",
+        "gordon",
+        "nightwing"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "696",
+       "t": "Contagion, Part Eight: Babylon Falls",
+       "d": "1996-04",
+       "p": 8,
+       "c": [
+        "batman",
+        "gordon",
+        "alfred",
+        "catwoman",
+        "nightwing",
+        "oracle"
+       ]
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "32",
+       "t": "Contagion, Part Nine: Fever Pitch",
+       "d": "1996-04",
+       "p": 9,
+       "c": [
+        "catwoman"
+       ]
+      },
+      {
+       "s": "azrael",
+       "n": "16",
+       "t": "Contagion, Part Ten: Contagion",
+       "d": "1996-04",
+       "p": 10,
+       "c": [
+        "azrael"
+       ]
+      },
+      {
+       "s": "robin-v2",
+       "n": "28",
+       "t": "Contagion, Part Eleven: Bitter Dregs",
+       "d": "1996-04",
+       "p": 11,
+       "c": [
+        "robin-tim",
+        "alfred",
+        "batman",
+        "catwoman",
+        "gordon",
+        "nightwing"
+       ]
+      }
+     ]
     },
     {
-      "id": "legacy",
-      "name": "Batman: Legacy",
-      "nameZh": "遗产",
-      "era": "P52",
-      "earth": "new-earth",
-      "type": "mega-event",
-      "start": "1996-08",
-      "end": "1996-12",
-      "summaryZh": "拉斯·艾尔·古尔揭示「克伦奇」瘟疫实为其手笔：他身患绝症，欲以毁灭哥谭作为留给蝙蝠侠的「遗产」考验，并引入贝恩——拉斯视之为最完美的「产物」。蝙蝠侠带病周旋于拉斯与塔利亚之间，最终挫败阴谋。已核实的编号章节：Shadow of the Bat #54 = Legacy Part 4、Batman #534 = Legacy Part 5；Detective Comics #700-702（#702 为「Batman Legacy Epilogue」）为核心章节；Batman #535-537、Detective #703-704、Shadow of the Bat #58-62 经核实不属于 Legacy 主线（分别为 Man-Bat/后续独立故事），Nightwing 与 Azrael 均未参与。",
-      "characters": ["batman", "ras", "talia", "bane", "nightwing", "robin-tim"],
-      "related": ["contagion"],
-      "phases": [
-        {
-          "name": "Legacy",
-          "nameZh": "遗产",
-          "issues": [
-            {"s": "batman", "n": "533", "t": "Twelve Steps to the Heart of Hell", "d": "1996-08", "p": null, "c": ["batman", "ras"], "x": "Contagion 尾声 / Legacy 序幕（衔接刊）"},
-            {"s": "detective", "n": "700", "t": "Legacy", "d": "1996-08", "p": null, "c": ["batman", "gordon"], "x": "第 700 期纪念刊"},
-            {"s": "robin-v2", "n": "32", "t": null, "d": "1996-08", "p": null, "c": ["robin-tim"], "x": null},
-            {"s": "catwoman-v2", "n": "36", "t": "The Best of Enemies", "d": "1996-08", "p": null, "c": ["catwoman"], "x": null},
-            {"s": "batman", "n": "534", "t": "Legacy, Part 5: A Wound On The Heart Of Heaven", "d": "1996-09", "p": 5, "c": ["batman", "ras"], "x": null},
-            {"s": "detective", "n": "701", "t": null, "d": "1996-09", "p": null, "c": ["batman"], "x": null},
-            {"s": "shadow-of-bat", "n": "54", "t": "Legacy, Part 4: The Power of the Picts", "d": "1996-09", "p": 4, "c": ["batman"], "x": null},
-            {"s": "robin-v2", "n": "33", "t": null, "d": "1996-09", "p": null, "c": ["robin-tim"], "x": null},
-            {"s": "catwoman-v2", "n": "37", "t": "Fang and Claw", "d": "1996-09", "p": null, "c": ["catwoman"], "x": null},
-            {"s": "detective", "n": "702", "t": "Batman Legacy Epilogue", "d": "1996-10", "p": null, "c": ["batman", "gordon"], "x": "Legacy 尾声"},
-            {"s": "shadow-of-bat", "n": "55", "t": null, "d": "1996-10", "p": null, "c": ["batman"], "x": null},
-            {"s": "robin-v2", "n": "34", "t": null, "d": "1996-10", "p": null, "c": ["robin-tim"], "x": null},
-            {"s": "catwoman-v2", "n": "38", "t": null, "d": "1996-10", "p": null, "c": ["catwoman"], "x": null},
-            {"s": "shadow-of-bat", "n": "56", "t": null, "d": "1996-11", "p": null, "c": ["batman"], "x": null},
-            {"s": "robin-v2", "n": "35", "t": null, "d": "1996-11", "p": null, "c": ["robin-tim"], "x": null},
-            {"s": "shadow-of-bat", "n": "57", "t": null, "d": "1996-12", "p": null, "c": ["batman"], "x": null}
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cataclysm",
-      "name": "Batman: Cataclysm",
-      "nameZh": "大灾变",
-      "era": "P52",
-      "earth": "new-earth",
-      "type": "mega-event",
-      "start": "1998-05",
-      "end": "1998-11",
-      "summaryZh": "1998 年（刊期 1998-05 起）一场里氏 7.6 级大地震摧毁哥谭：蝙蝠侠与罗宾、夜翼、猫女、阿兹瑞尔等第一时间投入废墟救援，戈登与神谕协调警局；黑门监狱暴动（Blackgate: Isle of Men）、阿卡姆疯人院失控（Tales of Madness）、贝恩现身（Batman: Bane）等支线同步展开。主线为 18 个编号章节（含 5 部 one-shot），其后为「余震」（Aftershock）期。注意 1998 年各刊封面日期存在跨刊错位（如 Detective 晚于 Batman 约两个月）。",
-      "characters": ["batman", "nightwing", "robin-tim", "oracle", "gordon", "catwoman", "azrael", "bane", "joker"],
-      "related": ["road-to-nml"],
-      "phases": [
-        {
-          "name": "Cataclysm",
-          "nameZh": "大灾变",
-          "issues": [
-            {"s": "detective", "n": "723", "t": "Fight Back to Gotham", "d": "1998-07", "p": 1, "c": ["batman", "gordon"], "x": "Part 1（推断）"},
-            {"s": "shadow-of-bat", "n": "73", "t": null, "d": "1998-05", "p": 2, "c": ["batman"], "x": "Part 2（推断）"},
-            {"s": "batman", "n": "553", "t": "Lifelines", "d": "1998-05", "p": 3, "c": ["batman", "oracle"], "x": null},
-            {"s": "robin-v2", "n": "52", "t": null, "d": "1998-05", "p": 4, "c": ["robin-tim"], "x": null},
-            {"s": "nightwing-v2", "n": "19", "t": null, "d": "1998-04", "p": 5, "c": ["nightwing"], "x": null},
-            {"s": "catwoman-v2", "n": "56", "t": null, "d": "1998-05", "p": 6, "c": ["catwoman"], "x": null},
-            {"s": "azrael", "n": "40", "t": null, "d": "1998-05", "p": 7, "c": ["azrael"], "x": null},
-            {"s": "Batman: Cataclysm", "n": "1", "t": "Cataclysm", "d": "1998-05", "p": 8, "c": ["batman", "gordon", "oracle"], "x": "one-shot"},
-            {"s": "Batman: Blackgate: Isle of Men", "n": "1", "t": null, "d": "1998-05", "p": 9, "c": ["batman", "gordon"], "x": "one-shot"},
-            {"s": "Batman: Arkham Asylum: Tales of Madness", "n": "1", "t": null, "d": "1998-05", "p": 10, "c": ["joker"], "x": "one-shot"},
-            {"s": "Batman: Bane", "n": "1", "t": null, "d": "1998-05", "p": 11, "c": ["bane", "batman"], "x": "one-shot"},
-            {"s": "batman", "n": "554", "t": "Master of Destruction", "d": "1998-06", "p": 12, "c": ["batman", "oracle"], "x": null},
-            {"s": "Batman: Huntress/Spoiler: Blunt Trauma", "n": "1", "t": "Cataclysm, Part Thirteen: Blunt Trauma", "d": "1998-05", "p": 13, "c": ["batman"], "x": "one-shot"},
-            {"s": "detective", "n": "724", "t": null, "d": "1998-08", "p": 14, "c": ["batman", "gordon"], "x": null},
-            {"s": "shadow-of-bat", "n": "74", "t": null, "d": "1998-06", "p": 15, "c": ["batman"], "x": null},
-            {"s": "nightwing-v2", "n": "20", "t": null, "d": "1998-05", "p": 16, "c": ["nightwing"], "x": null},
-            {"s": "robin-v2", "n": "53", "t": null, "d": "1998-06", "p": 17, "c": ["robin-tim"], "x": null},
-            {"s": "catwoman-v2", "n": "57", "t": null, "d": "1998-06", "p": 18, "c": ["catwoman"], "x": null},
-            {"s": "batman", "n": "555", "t": null, "d": "1998-07", "p": null, "c": ["batman"], "x": "Aftershock 余震"},
-            {"s": "batman", "n": "556", "t": null, "d": "1998-08", "p": null, "c": ["batman"], "x": "Aftershock 余震"},
-            {"s": "batman", "n": "557", "t": "Ballistic's Evidence", "d": "1998-09", "p": null, "c": ["batman"], "x": "Aftershock 余震"},
-            {"s": "batman", "n": "558", "t": "Dying City", "d": "1998-10", "p": null, "c": ["batman", "gordon"], "x": "Aftershock 余震"},
-            {"s": "detective", "n": "725", "t": null, "d": "1998-09", "p": null, "c": ["batman"], "x": "Aftershock 余震"},
-            {"s": "detective", "n": "726", "t": null, "d": "1998-10", "p": null, "c": ["batman"], "x": "Aftershock 余震"},
-            {"s": "detective", "n": "727", "t": null, "d": "1998-11", "p": null, "c": ["batman"], "x": "Aftershock 余震"},
-            {"s": "shadow-of-bat", "n": "75", "t": null, "d": "1998-07", "p": null, "c": ["batman"], "x": "Aftershock 余震"}
-          ]
-        }
-      ]
-    },
-    {
-      "id": "road-to-nml",
-      "name": "Road to No Man's Land (Aftershock)",
-      "nameZh": "通往无人之地（余震）",
-      "era": "P52",
-      "earth": "new-earth",
-      "type": "mega-event",
-      "start": "1998-06",
-      "end": "1999-02",
-      "summaryZh": "地震余波与联邦封锁倒计时：哥谭重建无望，政府公开讨论是否放弃城市，蝙蝠侠与戈登在「去留」问题上产生分歧，神谕（芭芭拉）为封锁前的最后秩序奔走；夜翼（#21-22）、罗宾（#54）、猫女（#58-59）等各自主导余波故事，阿兹瑞尔则以 Agent of the Bat 之名承接（#47-48）。刊期止于封锁令生效前夕（Batman #562 与 #561-562 的「No Law and a New Order」第 1-2 章为 NML 序幕）。",
-      "characters": ["batman", "oracle", "gordon", "nightwing", "robin-tim"],
-      "related": ["cataclysm", "nml"],
-      "phases": [
-        {
-          "name": "Road to No Man's Land",
-          "nameZh": "通往无人之地",
-          "issues": [
-            {"s": "nightwing-v2", "n": "21", "t": null, "d": "1998-06", "p": null, "c": ["nightwing"], "x": null},
-            {"s": "nightwing-v2", "n": "22", "t": null, "d": "1998-07", "p": null, "c": ["nightwing"], "x": null},
-            {"s": "robin-v2", "n": "54", "t": null, "d": "1998-07", "p": null, "c": ["robin-tim"], "x": null},
-            {"s": "catwoman-v2", "n": "58", "t": null, "d": "1998-07", "p": null, "c": ["catwoman"], "x": null},
-            {"s": "catwoman-v2", "n": "59", "t": null, "d": "1998-08", "p": null, "c": ["catwoman"], "x": null},
-            {"s": "shadow-of-bat", "n": "76", "t": null, "d": "1998-08", "p": null, "c": ["batman"], "x": null},
-            {"s": "shadow-of-bat", "n": "77", "t": null, "d": "1998-09", "p": null, "c": ["batman"], "x": null},
-            {"s": "shadow-of-bat", "n": "78", "t": null, "d": "1998-10", "p": null, "c": ["batman"], "x": null},
-            {"s": "shadow-of-bat", "n": "79", "t": null, "d": "1998-11", "p": null, "c": ["batman"], "x": null},
-            {"s": "batman", "n": "559", "t": null, "d": "1998-11", "p": null, "c": ["batman", "gordon"], "x": null},
-            {"s": "batman", "n": "560", "t": null, "d": "1998-12", "p": null, "c": ["batman"], "x": null},
-            {"s": "detective", "n": "728", "t": null, "d": "1998-12", "p": null, "c": ["batman"], "x": null},
-            {"s": "azrael", "n": "47", "t": null, "d": "1998-12", "p": null, "c": ["azrael"], "x": "更名 Azrael: Agent of the Bat 首期"},
-            {"s": "batman", "n": "561", "t": "No Law and a New Order, Part 1", "d": "1999-01", "p": 1, "c": ["batman", "gordon"], "x": "NML 序幕"},
-            {"s": "detective", "n": "729", "t": null, "d": "1999-01", "p": null, "c": ["batman"], "x": null},
-            {"s": "azrael", "n": "48", "t": null, "d": "1999-01", "p": null, "c": ["azrael"], "x": "NML 序幕"},
-            {"s": "batman", "n": "562", "t": "No Law and a New Order, Part 2", "d": "1999-02", "p": 2, "c": ["batman", "oracle"], "x": "NML 序幕"}
-          ]
-        }
-      ]
-    },
-    {
-      "id": "nml",
-      "name": "Batman: No Man's Land",
-      "nameZh": "无人之地",
-      "era": "P52",
-      "earth": "new-earth",
-      "type": "mega-event",
-      "start": "1999-03",
-      "end": "2000-03",
-      "summaryZh": "联邦宣布哥谭为「无人之地」：桥梁炸毁、城市封锁一年，蝙蝠侠一度「退出」后以传说之姿回归，戈登留守警局，双面人、企鹅人、黑面具、小丑女等势力瓜分街区；罗宾、夜翼、猫女、阿兹瑞尔各自在废墟中行动，神谕统筹通讯，卡珊德拉·凯恩以全新蝙蝠女身份登场。最终蝙蝠侠、戈登与各方达成新秩序，城市于 2000 年 3 月重新开放（尾声刊 Batman #575 / Detective #742）。",
-      "characters": ["batman", "nightwing", "robin-tim", "oracle", "gordon", "batgirl", "catwoman", "azrael"],
-      "family": "cataclysm-family",
-      "related": ["road-to-nml", "cataclysm"],
-      "phases": [
-        {
-          "name": "Ground Zero",
-          "nameZh": "序章·震后之地",
-          "issues": [
-            {"s": "azrael", "n": "48", "t": null, "d": "1999-01", "p": null, "c": ["azrael"], "x": "序幕（1999-01）"},
-            {"s": "azrael", "n": "49", "t": null, "d": "1999-02", "p": null, "c": ["azrael"], "x": "序幕（1999-02）"},
-            {"s": "Batman: No Man's Land", "n": "1", "t": "No Law and a New Order", "d": "1999-03", "p": null, "c": ["batman", "gordon", "oracle"], "x": "one-shot，事件开篇"},
-            {"s": "batman", "n": "563", "t": "No Law and a New Order, Part 3: Tactics", "d": "1999-03", "p": 3, "c": ["batman", "gordon"], "x": null},
-            {"s": "detective", "n": "730", "t": null, "d": "1999-03", "p": null, "c": ["batman", "gordon"], "x": null},
-            {"s": "shadow-of-bat", "n": "83", "t": null, "d": "1999-03", "p": null, "c": ["batman"], "x": null},
-            {"s": "azrael", "n": "50", "t": null, "d": "1999-03", "p": null, "c": ["azrael"], "x": null},
-            {"s": "batman", "n": "564", "t": "Fear of Faith, Part Three: Life in Hell", "d": "1999-04", "p": 3, "c": ["batman"], "x": null},
-            {"s": "detective", "n": "731", "t": null, "d": "1999-04", "p": null, "c": ["batman"], "x": null},
-            {"s": "shadow-of-bat", "n": "84", "t": null, "d": "1999-04", "p": null, "c": ["batman"], "x": null},
-            {"s": "azrael", "n": "51", "t": null, "d": "1999-04", "p": null, "c": ["azrael"], "x": null}
-          ]
-        },
-        {
-          "name": "Spring 1999",
-          "nameZh": "1999 年春",
-          "issues": [
-            {"s": "batman", "n": "565", "t": "Mosaic, Part One", "d": "1999-05", "p": 1, "c": ["batman"], "x": null},
-            {"s": "detective", "n": "732", "t": null, "d": "1999-05", "p": null, "c": ["batman"], "x": null},
-            {"s": "shadow-of-bat", "n": "85", "t": null, "d": "1999-05", "p": null, "c": ["batman"], "x": null},
-            {"s": "azrael", "n": "52", "t": null, "d": "1999-05", "p": null, "c": ["azrael"], "x": null},
-            {"s": "batman", "n": "566", "t": "The Visitor", "d": "1999-06", "p": null, "c": ["batman"], "x": null},
-            {"s": "detective", "n": "733", "t": null, "d": "1999-06", "p": null, "c": ["batman"], "x": null},
-            {"s": "shadow-of-bat", "n": "86", "t": null, "d": "1999-06", "p": null, "c": ["batman"], "x": null},
-            {"s": "azrael", "n": "53", "t": null, "d": "1999-06", "p": null, "c": ["azrael"], "x": null}
-          ]
-        },
-        {
-          "name": "Summer 1999",
-          "nameZh": "1999 年夏",
-          "issues": [
-            {"s": "batman", "n": "567", "t": null, "d": "1999-07", "p": null, "c": ["batman"], "x": null},
-            {"s": "detective", "n": "734", "t": null, "d": "1999-07", "p": null, "c": ["batman"], "x": null},
-            {"s": "shadow-of-bat", "n": "87", "t": null, "d": "1999-07", "p": null, "c": ["batman"], "x": null},
-            {"s": "azrael", "n": "54", "t": null, "d": "1999-07", "p": null, "c": ["azrael"], "x": null},
-            {"s": "batman", "n": "568", "t": null, "d": "1999-08", "p": null, "c": ["batman"], "x": null},
-            {"s": "detective", "n": "735", "t": null, "d": "1999-08", "p": null, "c": ["batman"], "x": null},
-            {"s": "shadow-of-bat", "n": "88", "t": null, "d": "1999-08", "p": null, "c": ["batman"], "x": null},
-            {"s": "robin-v2", "n": "67", "t": null, "d": "1999-08", "p": null, "c": ["robin-tim"], "x": null},
-            {"s": "nightwing-v2", "n": "35", "t": null, "d": "1999-08", "p": null, "c": ["nightwing"], "x": null},
-            {"s": "azrael", "n": "55", "t": null, "d": "1999-08", "p": null, "c": ["azrael"], "x": null},
-            {"s": "batman", "n": "569", "t": "I Cover the Waterfront", "d": "1999-09", "p": null, "c": ["batman"], "x": null},
-            {"s": "detective", "n": "736", "t": null, "d": "1999-09", "p": null, "c": ["batman"], "x": null},
-            {"s": "shadow-of-bat", "n": "89", "t": null, "d": "1999-09", "p": null, "c": ["batman"], "x": null},
-            {"s": "robin-v2", "n": "68", "t": null, "d": "1999-09", "p": null, "c": ["robin-tim"], "x": null},
-            {"s": "nightwing-v2", "n": "36", "t": null, "d": "1999-09", "p": null, "c": ["nightwing"], "x": null},
-            {"s": "catwoman-v2", "n": "72", "t": null, "d": "1999-09", "p": null, "c": ["catwoman"], "x": null},
-            {"s": "azrael", "n": "56", "t": null, "d": "1999-09", "p": null, "c": ["azrael"], "x": null}
-          ]
-        },
-        {
-          "name": "Autumn 1999",
-          "nameZh": "1999 年秋",
-          "issues": [
-            {"s": "batman", "n": "570", "t": null, "d": "1999-10", "p": null, "c": ["batman"], "x": "小丑女二次登场"},
-            {"s": "detective", "n": "737", "t": null, "d": "1999-10", "p": null, "c": ["batman"], "x": null},
-            {"s": "shadow-of-bat", "n": "90", "t": null, "d": "1999-10", "p": null, "c": ["batman"], "x": null},
-            {"s": "robin-v2", "n": "69", "t": null, "d": "1999-10", "p": null, "c": ["robin-tim"], "x": null},
-            {"s": "nightwing-v2", "n": "37", "t": null, "d": "1999-10", "p": null, "c": ["nightwing"], "x": null},
-            {"s": "catwoman-v2", "n": "73", "t": null, "d": "1999-10", "p": null, "c": ["catwoman"], "x": null},
-            {"s": "Batman: Harley Quinn", "n": "1", "t": null, "d": "1999-10", "p": null, "c": ["joker"], "x": "one-shot"},
-            {"s": "Batman: No Man's Land #0", "n": "0", "t": null, "d": "1999-10", "p": null, "c": ["batman", "gordon"], "x": "one-shot"},
-            {"s": "batman", "n": "571", "t": "Goin' Downtown, Part 1: The Vault", "d": "1999-11", "p": 1, "c": ["batman"], "x": null},
-            {"s": "detective", "n": "738", "t": null, "d": "1999-11", "p": null, "c": ["batman"], "x": null},
-            {"s": "shadow-of-bat", "n": "91", "t": null, "d": "1999-11", "p": null, "c": ["batman"], "x": null},
-            {"s": "robin-v2", "n": "70", "t": null, "d": "1999-11", "p": null, "c": ["robin-tim"], "x": null},
-            {"s": "nightwing-v2", "n": "38", "t": null, "d": "1999-11", "p": null, "c": ["nightwing"], "x": null},
-            {"s": "catwoman-v2", "n": "74", "t": null, "d": "1999-11", "p": null, "c": ["catwoman"], "x": null},
-            {"s": "batman", "n": "572", "t": null, "d": "1999-12", "p": null, "c": ["batman"], "x": null},
-            {"s": "detective", "n": "739", "t": null, "d": "1999-12", "p": null, "c": ["batman"], "x": null},
-            {"s": "shadow-of-bat", "n": "92", "t": "No Man's Land: Stormy Weather", "d": "1999-12", "p": null, "c": ["batman"], "x": null},
-            {"s": "robin-v2", "n": "71", "t": null, "d": "1999-12", "p": null, "c": ["robin-tim"], "x": null},
-            {"s": "nightwing-v2", "n": "39", "t": null, "d": "1999-12", "p": null, "c": ["nightwing"], "x": null},
-            {"s": "catwoman-v2", "n": "75", "t": null, "d": "1999-12", "p": null, "c": ["catwoman"], "x": null},
-            {"s": "Batman: No Man's Land: Secret Files & Origins", "n": "1", "t": null, "d": "1999-12", "p": null, "c": ["oracle", "gordon", "batman"], "x": "one-shot"}
-          ]
-        },
-        {
-          "name": "Winter 1999 - Spring 2000",
-          "nameZh": "1999 年冬 ~ 2000 年春",
-          "issues": [
-            {"s": "batman", "n": "573", "t": "Shellgame, Part 1: Gambits", "d": "2000-01", "p": 1, "c": ["batman"], "x": null},
-            {"s": "detective", "n": "740", "t": null, "d": "2000-01", "p": null, "c": ["batman"], "x": null},
-            {"s": "shadow-of-bat", "n": "93", "t": null, "d": "2000-01", "p": null, "c": ["batman"], "x": null},
-            {"s": "robin-v2", "n": "72", "t": null, "d": "2000-01", "p": null, "c": ["robin-tim"], "x": null},
-            {"s": "catwoman-v2", "n": "76", "t": null, "d": "2000-01", "p": null, "c": ["catwoman"], "x": null},
-            {"s": "batman", "n": "574", "t": "Endgame, Part 2: ...Tender and Mild...", "d": "2000-02", "p": 2, "c": ["batman", "joker"], "x": null},
-            {"s": "detective", "n": "741", "t": null, "d": "2000-02", "p": null, "c": ["batman", "gordon"], "x": null},
-            {"s": "shadow-of-bat", "n": "94", "t": null, "d": "2000-02", "p": null, "c": ["batman"], "x": null},
-            {"s": "robin-v2", "n": "73", "t": null, "d": "2000-02", "p": null, "c": ["robin-tim"], "x": null},
-            {"s": "catwoman-v2", "n": "77", "t": null, "d": "2000-02", "p": null, "c": ["catwoman"], "x": null},
-            {"s": "batman", "n": "575", "t": "O'er The Land Of The Free", "d": "2000-03", "p": null, "c": ["batman", "gordon"], "x": "尾声：城市重新开放"},
-            {"s": "detective", "n": "742", "t": null, "d": "2000-03", "p": null, "c": ["batman", "gordon"], "x": "尾声：新哥谭"}
-          ]
-        }
-      ]
+     "name": "Aftermath",
+     "nameZh": "瘟疫余波（未编号）",
+     "issues": [
+      {
+       "s": "Batman Chronicles",
+       "n": "4",
+       "t": "Hitman • Huntress: Exposure • Beggar's Banquet",
+       "d": "1996-04",
+       "p": null,
+       "c": [],
+       "x": "未编号 tie-in（页面列于 Part Eight 与 Part Nine 之间）"
+      },
+      {
+       "s": "batman",
+       "n": "530",
+       "t": "The Deadman Connection, Part 1: Sweat of the Sun, Tears of the Moon",
+       "d": "1996-05",
+       "p": 1,
+       "c": [
+        "batman",
+        "gordon"
+       ],
+       "x": "蝙蝠侠主线连载，非 Contagion 编号章节"
+      },
+      {
+       "s": "detective",
+       "n": "697",
+       "t": "Deadbolt",
+       "d": "1996-05",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon",
+        "nightwing"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "50",
+       "t": "50th Issue Villain Special",
+       "d": "1996-05",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": "第 50 期纪念刊"
+      },
+      {
+       "s": "robin-v2",
+       "n": "29",
+       "t": "Hit and Myths",
+       "d": "1996-05",
+       "p": null,
+       "c": [
+        "robin-tim",
+        "nightwing",
+        "oracle"
+       ]
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "33",
+       "t": "Devil Does Your Dog Bite",
+       "d": "1996-05",
+       "p": null,
+       "c": [
+        "catwoman"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "531",
+       "t": "The Deadman Connection, Part 2",
+       "d": "1996-06",
+       "p": 2,
+       "c": [
+        "batman",
+        "alfred"
+       ],
+       "x": "蝙蝠侠主线连载，非 Contagion 编号章节"
+      },
+      {
+       "s": "detective",
+       "n": "698",
+       "t": "The Tomb",
+       "d": "1996-06",
+       "p": null,
+       "c": [
+        "batman",
+        "alfred",
+        "gordon",
+        "nightwing"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "51",
+       "t": "The Nightmare Man",
+       "d": "1996-06",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "robin-v2",
+       "n": "30",
+       "t": "Iliads and Oddities",
+       "d": "1996-06",
+       "p": null,
+       "c": [
+        "robin-tim",
+        "alfred",
+        "oracle"
+       ]
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "34",
+       "t": null,
+       "d": "1996-06",
+       "p": null,
+       "c": [
+        "catwoman"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "532",
+       "t": "The Deadman Connection, Part 3",
+       "d": "1996-07",
+       "p": 3,
+       "c": [
+        "batman",
+        "nightwing"
+       ],
+       "x": "蝙蝠侠主线连载，非 Contagion 编号章节"
+      },
+      {
+       "s": "detective",
+       "n": "699",
+       "t": "The Chain",
+       "d": "1996-07",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon",
+        "alfred",
+        "nightwing",
+        "oracle"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "52",
+       "t": "Safe as Milk",
+       "d": "1996-07",
+       "p": null,
+       "c": [
+        "batman",
+        "alfred"
+       ]
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "35",
+       "t": null,
+       "d": "1996-07",
+       "p": null,
+       "c": [
+        "catwoman"
+       ]
+      }
+     ]
     }
-  ],
-  "arcs": [
+   ],
+   "start": "1996-03",
+   "end": "1996-08",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "一种被称为「克伦奇」（The Clench）的埃博拉类致命病毒在哥谭市爆发，蝙蝠侠与戈登局长、神谕全力控制疫情，罗宾、猫女、阿兹瑞尔等各自卷入救援与追查；病毒源头指向拉斯·艾尔·古尔。跨刊编号章节 Part One~Part Eleven 按 dc.fandom 页面顺序排列（Catwoman #31 封面误印为 Part 5、Azrael #15 误印为 Part 4，已按实际顺序修正）；收录 Shadow of the Bat #48 起至 Batman #532 / Shadow of the Bat #52，含 Batman Chronicles #4 与 Batman 主线「The Deadman Connection」（#530-532）。SotB #53 与 Batman #533 为续篇「遗产」的序幕，已移入遗产事件。",
+   "characters": [
+    "batman",
+    "oracle",
+    "gordon",
+    "catwoman",
+    "azrael",
+    "nightwing",
+    "robin-tim"
+   ],
+   "related": [
+    "legacy"
+   ]
+  },
+  {
+   "id": "legacy",
+   "name": "Batman: Legacy",
+   "nameZh": "遗产",
+   "kind": "event",
+   "type": "mega-event",
+   "phases": [
     {
-      "id": "long-halloween",
-      "name": "Batman: The Long Halloween",
-      "nameZh": "漫长的万圣节",
-      "era": "P52",
-      "earth": "new-earth",
-      "type": "arc",
-      "start": "1996-12",
-      "end": "1997-12",
-      "summaryZh": "12 期限定刊：蝙蝠侠与戈登、哈维·丹特联手追查连环杀手「假日杀手」（Holiday），案件横跨一整年的节日；期间丹特坠入疯狂成为双面人，猫女与蝙蝠侠的关系亦被卷入。",
-      "characters": ["batman", "catwoman", "gordon", "twopface", "joker", "penguin", "scarecrow", "riddler", "alfred"],
-      "issues": [
-        {"s": "Batman: The Long Halloween", "n": "1", "t": "Chapter One: Crime", "d": "1996-12", "p": 1, "c": ["batman", "gordon", "catwoman"]},
-        {"s": "Batman: The Long Halloween", "n": "2", "t": "Chapter Two: Thanksgiving", "d": "1997-01", "p": 2, "c": ["batman", "twopface", "gordon"]},
-        {"s": "Batman: The Long Halloween", "n": "3", "t": "Chapter Three: Christmas", "d": "1997-02", "p": 3, "c": ["batman", "joker"]},
-        {"s": "Batman: The Long Halloween", "n": "4", "t": "Chapter Four: New Year's Eve", "d": "1997-03", "p": 4, "c": ["batman", "catwoman"]},
-        {"s": "Batman: The Long Halloween", "n": "5", "t": "Chapter Five: Valentine's Day", "d": "1997-04", "p": 5, "c": ["batman", "catwoman"]},
-        {"s": "Batman: The Long Halloween", "n": "6", "t": "Chapter Six: March", "d": "1997-05", "p": 6, "c": ["batman", "twopface"]},
-        {"s": "Batman: The Long Halloween", "n": "7", "t": "Chapter Seven: April Fools' Day", "d": "1997-06", "p": 7, "c": ["batman", "joker", "riddler"]},
-        {"s": "Batman: The Long Halloween", "n": "8", "t": "Chapter Eight: May Day", "d": "1997-07", "p": 8, "c": ["batman", "gordon"]},
-        {"s": "Batman: The Long Halloween", "n": "9", "t": "Chapter Nine: June", "d": "1997-08", "p": 9, "c": ["batman", "scarecrow"]},
-        {"s": "Batman: The Long Halloween", "n": "10", "t": "Chapter Ten: Independence Day", "d": "1997-09", "p": 10, "c": ["batman", "penguin"]},
-        {"s": "Batman: The Long Halloween", "n": "11", "t": "Chapter Eleven: August", "d": "1997-10", "p": 11, "c": ["batman", "twopface"]},
-        {"s": "Batman: The Long Halloween", "n": "12", "t": "Chapter Twelve: Labor Day", "d": "1997-11", "p": 12, "c": ["batman", "catwoman"]},
-        {"s": "Batman: The Long Halloween", "n": "13", "t": "Chapter Thirteen: Halloween", "d": "1997-12", "p": 13, "c": ["batman", "twopface", "gordon"]}
-      ]
+     "name": "Legacy",
+     "nameZh": "遗产",
+     "issues": [
+      {
+       "s": "shadow-of-bat",
+       "n": "53",
+       "t": "Legacy, Prelude: Hobson's Choice",
+       "d": "1996-08",
+       "p": null,
+       "c": [
+        "batman",
+        "alfred",
+        "azrael",
+        "gordon",
+        "nightwing",
+        "oracle"
+       ],
+       "x": "瘟疫余波衔接刊 → 遗产序幕"
+      },
+      {
+       "s": "batman",
+       "n": "533",
+       "t": "Legacy, Prelude: Twelve Steps to the Heart of Hell",
+       "d": "1996-08",
+       "p": null,
+       "c": [
+        "batman",
+        "ras",
+        "gordon",
+        "nightwing"
+       ],
+       "x": "瘟疫尾声衔接刊 → 遗产序幕"
+      },
+      {
+       "s": "detective",
+       "n": "700",
+       "t": "Legacy, Part One: Progeny of the Demon",
+       "d": "1996-08",
+       "p": 1,
+       "c": [
+        "batman",
+        "gordon",
+        "catwoman",
+        "nightwing"
+       ],
+       "x": "第 700 期纪念刊"
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "36",
+       "t": "Legacy, Part Two: The Best of Enemies",
+       "d": "1996-08",
+       "p": 2,
+       "c": [
+        "catwoman"
+       ]
+      },
+      {
+       "s": "robin-v2",
+       "n": "32",
+       "t": "Legacy, Part Three: Born With Teeth",
+       "d": "1996-08",
+       "p": 3,
+       "c": [
+        "robin-tim",
+        "batman",
+        "nightwing"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "54",
+       "t": "Legacy, Part Four: The Power of the Picts",
+       "d": "1996-09",
+       "p": 4,
+       "c": [
+        "batman",
+        "nightwing"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "534",
+       "t": "Legacy, Part Five: A Wound on the Heart of Heaven",
+       "d": "1996-09",
+       "p": 5,
+       "c": [
+        "batman",
+        "ras",
+        "oracle"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "701",
+       "t": "Legacy, Part Six: Gotham's Scourge",
+       "d": "1996-09",
+       "p": 6,
+       "c": [
+        "batman",
+        "nightwing",
+        "oracle"
+       ]
+      },
+      {
+       "s": "robin-v2",
+       "n": "33",
+       "t": "Legacy, Part Seven: Riptide",
+       "d": "1996-09",
+       "p": 7,
+       "c": [
+        "robin-tim",
+        "batman",
+        "nightwing",
+        "oracle"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "702",
+       "t": "Legacy, Epilogue: Second Chances",
+       "d": "1996-10",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon",
+        "alfred"
+       ],
+       "x": "Legacy 尾声"
+      }
+     ]
     },
     {
-      "id": "dark-victory",
-      "name": "Batman: Dark Victory",
-      "nameZh": "黑暗胜利",
-      "era": "P52",
-      "earth": "new-earth",
-      "type": "arc",
-      "start": "1999-09",
-      "end": "2000-12",
-      "summaryZh": "The Long Halloween 的续篇：蝙蝠侠、戈登与双面人追查新连环杀手「刽子手」（The Hangman），同时布鲁斯收养孤儿迪克·格雷森，后者成为初代罗宾；猫女与哥谭众反派（小丑、企鹅人等）皆卷入。全 14 期（#0-13）。",
-      "characters": ["batman", "gordon", "twopface", "catwoman", "joker", "penguin", "alfred", "nightwing"],
-      "issues": [
-        {"s": "Batman: Dark Victory", "n": "0", "t": null, "d": "1999-09", "p": null, "c": ["batman", "gordon"]},
-        {"s": "Batman: Dark Victory", "n": "1", "t": null, "d": "1999-12", "p": null, "c": ["batman", "gordon", "twopface"]},
-        {"s": "Batman: Dark Victory", "n": "2", "t": null, "d": "2000-01", "p": null, "c": ["batman", "catwoman"]},
-        {"s": "Batman: Dark Victory", "n": "3", "t": null, "d": "2000-02", "p": null, "c": ["batman", "twopface"]},
-        {"s": "Batman: Dark Victory", "n": "4", "t": null, "d": "2000-03", "p": null, "c": ["batman", "joker"]},
-        {"s": "Batman: Dark Victory", "n": "5", "t": null, "d": "2000-04", "p": null, "c": ["batman", "gordon"]},
-        {"s": "Batman: Dark Victory", "n": "6", "t": null, "d": "2000-05", "p": null, "c": ["batman", "alfred"]},
-        {"s": "Batman: Dark Victory", "n": "7", "t": null, "d": "2000-06", "p": null, "c": ["batman", "penguin"]},
-        {"s": "Batman: Dark Victory", "n": "8", "t": null, "d": "2000-07", "p": null, "c": ["batman", "catwoman"]},
-        {"s": "Batman: Dark Victory", "n": "9", "t": null, "d": "2000-08", "p": null, "c": ["batman", "gordon"]},
-        {"s": "Batman: Dark Victory", "n": "10", "t": null, "d": "2000-09", "p": null, "c": ["batman", "twopface"]},
-        {"s": "Batman: Dark Victory", "n": "11", "t": null, "d": "2000-10", "p": null, "c": ["batman", "joker"]},
-        {"s": "Batman: Dark Victory", "n": "12", "t": null, "d": "2000-11", "p": null, "c": ["batman", "catwoman"]},
-        {"s": "Batman: Dark Victory", "n": "13", "t": null, "d": "2000-12", "p": null, "c": ["batman", "gordon", "nightwing"]}
-      ]
-    },
-    {
-      "id": "knight-bludhaven",
-      "name": "Nightwing: A Knight in Blüdhaven",
-      "nameZh": "布鲁德海文之骑士",
-      "era": "P52",
-      "earth": "new-earth",
-      "type": "arc",
-      "start": "1996-10",
-      "end": "1997-05",
-      "summaryZh": "Nightwing 系列开篇连载：迪克·格雷森告别哥谭与蝙蝠侠的阴影，移居犯罪频发的布鲁德海文，以夜翼身份独立成为该城守护者（首 8 期长篇）。",
-      "characters": ["nightwing", "batman", "oracle"],
-      "issues": [
-        {"s": "nightwing-v2", "n": "1", "t": null, "d": "1996-10", "p": null, "c": ["nightwing"]},
-        {"s": "nightwing-v2", "n": "2", "t": null, "d": "1996-11", "p": null, "c": ["nightwing"]},
-        {"s": "nightwing-v2", "n": "3", "t": null, "d": "1996-12", "p": null, "c": ["nightwing", "batman"]},
-        {"s": "nightwing-v2", "n": "4", "t": null, "d": "1997-01", "p": null, "c": ["nightwing"]},
-        {"s": "nightwing-v2", "n": "5", "t": null, "d": "1997-02", "p": null, "c": ["nightwing"]},
-        {"s": "nightwing-v2", "n": "6", "t": null, "d": "1997-03", "p": null, "c": ["nightwing"]},
-        {"s": "nightwing-v2", "n": "7", "t": null, "d": "1997-04", "p": null, "c": ["nightwing"]},
-        {"s": "nightwing-v2", "n": "8", "t": null, "d": "1997-05", "p": null, "c": ["nightwing"]}
-      ]
-    },
-    {
-      "id": "she-cats",
-      "name": "Catwoman: She-Cats",
-      "nameZh": "雌猫帮",
-      "era": "P52",
-      "earth": "new-earth",
-      "type": "arc",
-      "start": "1997-02",
-      "end": "1997-03",
-      "summaryZh": "Catwoman 两期短弧：赛琳娜与黑市掮客「She-Cats」组织周旋，卷入猫女与老对手的交锋（两期均带 Part 标题）。",
-      "characters": ["catwoman", "batman"],
-      "issues": [
-        {"s": "catwoman-v2", "n": "42", "t": "She-Cats, Part 1: Feline and Female", "d": "1997-02", "p": 1, "c": ["catwoman"]},
-        {"s": "catwoman-v2", "n": "43", "t": "She-Cats, Part 2: Red of Fang and Claw", "d": "1997-03", "p": 2, "c": ["catwoman"]}
-      ]
+     "name": "Aftermath",
+     "nameZh": "遗产余波（未编号）",
+     "issues": [
+      {
+       "s": "catwoman-v2",
+       "n": "37",
+       "t": "Fang and Claw",
+       "d": "1996-09",
+       "p": null,
+       "c": [
+        "catwoman"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "55",
+       "t": "Standard Operating Procedure",
+       "d": "1996-10",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "robin-v2",
+       "n": "34",
+       "t": "Situations and Comedies",
+       "d": "1996-10",
+       "p": null,
+       "c": [
+        "robin-tim"
+       ]
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "38",
+       "t": null,
+       "d": "1996-10",
+       "p": null,
+       "c": [
+        "catwoman"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "56",
+       "t": "Leaves of Grass, Part 1: Twin Peaks",
+       "d": "1996-11",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "robin-v2",
+       "n": "35",
+       "t": "The Final Night: Iced!",
+       "d": "1996-11",
+       "p": null,
+       "c": [
+        "robin-tim",
+        "spoiler"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "57",
+       "t": "Leaves of Grass, Part 2: Reefer Madness",
+       "d": "1996-12",
+       "p": null,
+       "c": [
+        "batman"
+       ]
+      }
+     ]
     }
-  ],
-  "standalone": [
-    {"s": "batman", "n": "542", "t": "Faceless, Part 1: Murdicide", "d": "1997-05", "p": 1, "c": ["batman"]},
-    {"s": "batman", "n": "543", "t": "Faceless, Part 2: Postmarked Murder", "d": "1997-06", "p": 2, "c": ["batman"]},
-    {"s": "batman", "n": "544", "t": "Faceless, Part 3", "d": "1997-07", "p": 3, "c": ["batman"]},
-    {"s": "batman", "n": "548", "t": "The Penguin Returns, Part One: Burning Faces", "d": "1997-11", "p": 1, "c": ["batman", "penguin"]},
-    {"s": "batman", "n": "549", "t": "The Penguin Returns, Part Two: The Egyptian Falcon", "d": "1997-12", "p": 2, "c": ["batman", "penguin"]},
-    {"s": "catwoman-v2", "n": "46", "t": "Two-Face, Part One", "d": "1997-06", "p": 1, "c": ["catwoman", "twopface"]},
-    {"s": "catwoman-v2", "n": "47", "t": "Two-Face, Part 2: Two Ways To Skin A Cat", "d": "1997-07", "p": 2, "c": ["catwoman", "twopface"]}
-  ],
-  "sources": [
-    "https://en.wikipedia.org/wiki/Batman:_Contagion",
-    "https://en.wikipedia.org/wiki/Batman:_Legacy",
-    "https://en.wikipedia.org/wiki/Batman:_Cataclysm",
-    "https://en.wikipedia.org/wiki/Batman:_No_Man%27s_Land",
-    "https://dc.fandom.com/wiki/Batman:_Contagion_(Collected)",
-    "https://dc.fandom.com/wiki/Batman:_Legacy_(Collected)",
-    "https://dc.fandom.com/wiki/Batman:_Cataclysm,_New_Edition_(Collected)",
-    "https://dc.fandom.com/wiki/Batman:_No_Man's_Land_Vol_1_(Collected)",
-    "https://dc.fandom.com/wiki/Batman:_No_Man's_Land_Vol_3_(Collected)",
-    "https://dc.fandom.com/wiki/Batman:_Road_to_No_Man%27s_Land_Omnibus_(Collected)",
-    "https://dc.fandom.com/wiki/Batman:_Road_to_No_Man%27s_Land_Vol._1_(Collected)",
-    "https://dc.fandom.com/wiki/Batman:_Road_to_No_Man%27s_Land_Vol._2_(Collected)",
-    "https://www.readingorders.com/reading-orders/batman-no-mans-land-saga",
-    "https://www.gothamcalling.com/no-mans-land-reading-order/",
-    "https://www.gothamcalling.com/road-no-mans-land-reading-order/",
-    "https://newtocomics.com/contagion-reading-guide/",
-    "https://newtocomics.com/legacy-reading-guide/",
-    "https://newtocomics.com/no-mans-land-reading-guide/",
-    "https://omniversecomics.guide/2023/09/26/contagion-1996-reading-order/",
-    "http://comicbinding.com/mapping/batman-cataclysm-and-aftershock",
-    "https://inverty.com/bbb/faqs/nml.htm",
-    "https://www.comics.org/issue/1980069/",
-    "https://www.comics.org/issue/1980616/",
-    "https://www.comics.org/issue/256200/",
-    "https://www.comics.org/issue/95798/",
-    "https://www.comics.org/issue/2163974/",
-    "https://www.hipcomic.com/catalog/issue/batman/529/1258",
-    "https://www.hipcomic.com/catalog/issue/batman/553/1286",
-    "https://www.hipcomic.com/catalog/issue/batman/554/1326",
-    "https://www.hipcomic.com/catalog/issue/batman/557/1325",
-    "https://www.hipcomic.com/catalog/issue/batman/558/1256",
-    "https://www.hipcomic.com/catalog/issue/batman/563/1318",
-    "https://www.hipcomic.com/catalog/issue/batman/574/1300",
-    "https://www.hipcomic.com/catalog/issue/catwoman/32/44350",
-    "https://www.hipcomic.com/catalog/issue/catwoman/31/44327",
-    "https://www.hipcomic.com/catalog/issue/batman/530/1298",
-    "https://www.hipcomic.com/catalog/issue/batman/531/1341",
-    "https://www.hipcomic.com/catalog/issue/batman/532/1275",
-    "https://www.hipcomic.com/catalog/issue/batman/533/1321",
-    "https://www.hipcomic.com/catalog/issue/batman/535/1288",
-    "https://www.hipcomic.com/catalog/issue/batman/536/1335",
-    "https://www.hipcomic.com/catalog/issue/batman/537/1261",
-    "https://www.hipcomic.com/catalog/issue/batman-huntress-spoiler-blunt-trauma/1/108738",
-    "https://comics.overstreetaccess.com/issues/33192/batman-no-mans-land-1-mar-1999",
-    "https://comics.overstreetaccess.com/issues/24001/azrael-agent-of-the-bat-56-sep-1999",
-    "https://comics.overstreetaccess.com/issues/56255/batman-huntressspoiler-blunt-trauma-1-may-1998",
-    "https://www.tonarie.com/series/Batman:%20Dark%20Victory%20Vol%201/",
-    "https://comics.overstreetaccess.com/issues/6238/batman-dark-victory-1-dec-1999",
-    "https://keycollectorcomics.com/issue/batman-dark-victory-0-426712,426712/",
-    "https://comics.overstreetaccess.com/issues/361030/catwoman-46-jun-1997",
-    "https://comics.overstreetaccess.com/issues/359703/nightwing-7-apr-1997",
-    "https://www.hipcomic.com/catalog/issue/batman/542/1304",
-    "https://www.hipcomic.com/catalog/issue/batman/548/1350",
-    "https://www.hipcomic.com/catalog/issue/catwoman/42/44393",
-    "https://www.hipcomic.com/catalog/issue/catwoman/47/44345",
-    "https://comicvine.gamespot.com/batman-the-long-halloween-1-crime/4000-48827/",
-    "https://keycollectorcomics.com/issue/batman-the-long-halloween-1-1,27305/",
-    "https://keycollectorcomics.com/issue/batman-553-423125,423125/",
-    "https://keycollectorcomics.com/issue/batman-555-423296,423296/",
-    "https://keycollectorcomics.com/issue/batman-556-423104,423104/",
-    "https://keycollectorcomics.com/issue/batman-557-423328,423328/",
-    "https://keycollectorcomics.com/issue/batman-shadow-of-the-bat-50-427537,427537/",
-    "https://keycollectorcomics.com/issue/batman-shadow-of-the-bat-59-427595,427595/",
-    "https://keycollectorcomics.com/issue/batman-shadow-of-the-bat-83,27297/",
-    "https://keycollectorcomics.com/issue/detective-comics-724-newsstand,864710/",
-    "https://keycollectorcomics.com/issue/detective-comics-735-newsstand-435344,435344/",
-    "https://keycollectorcomics.com/issue/robin-2-70-453538,453538/",
-    "https://keycollectorcomics.com/issue/robin-2-66-453449,453449/",
-    "https://keycollectorcomics.com/issue/nightwing-3-36-451055,451055/",
-    "https://keycollectorcomics.com/issue/catwoman-2-72-430394,430394/",
-    "https://www.worthpoint.com/worthopedia/batman-harley-quinn-nn-oct-1999-dc-1726980801",
-    "https://www.worthpoint.com/worthopedia/batman-cataclysm-18-comic-books-2095388319",
-    "https://www.redclawcomix.co.za/home/comic-books/back-issues/detective-comics-vol-1/detective-comics-723-direct-sales-july-1998/",
-    "https://www.mycomicbookjourney.com/2018/02/21/comic-book-spotlight-day-detective-comics-issue-724-august-1998-dc-comics/",
-    "https://www.cgcdata.com/cgc/search/comicid/35593/",
-    "https://www.cgccomics.com/population-report/comics/1/dc-comics/2297/batman/18568/0035593/",
-    "https://comics.overstreetaccess.com/issues/13294/detective-comics-741-feb-2000",
-    "https://the-avocado.org/2021/03/16/comic-book-review-batman-575-march-2000/",
-    "https://keycollectorcomics.com/issue/batman-1-574,424835/",
-    "https://keycollectorcomics.com/issue/nightwing-3-35-451130,451130/",
-    "https://keycollectorcomics.com/issue/azrael-1-48,422466/",
-    "https://comicvine.gamespot.com/batman-no-mans-land-1-no-mans-land-book-one/4000-118196/",
-    "https://www.nostomania.com/servlets/price-guide-and-sales-history/Batman:-No-Man's-Land-No-Law-and-a-New-Order",
-    "https://www.hipcomic.com/catalog/issue/batman/564/1339",
-    "https://www.hipcomic.com/catalog/issue/batman/565/1250",
-    "https://www.hipcomic.com/catalog/issue/batman/566/1265",
-    "https://www.hipcomic.com/catalog/issue/batman/569/1323",
-    "https://www.hipcomic.com/catalog/issue/batman/571/1253",
-    "https://www.hipcomic.com/catalog/issue/batman/573/1296",
-    "https://www.hipcomic.com/catalog/issue/batman/575/1301",
-    "https://www.hipcomic.com/catalog/issue/batman/556/1283",
-    "http://batmanytb.com/comics/titles/detectivecomics/701_800/dc725.php",
-    "https://www.chrisisoninfiniteearths.com/2024/02/nml-crossing-episode-036-azrael-agent.html",
-    "https://www.chrisisoninfiniteearths.com/2024/06/nml-crossing-episode-076-robin-67-1999.html",
-    "https://www.chrisisoninfiniteearths.com/2024/03/nml-crossing-episode-050-detective.html",
-    "https://neonichiban.com/item/37667",
-    "https://www.comiccollectorlive.com/Detective-Comics-1937-730",
-    "https://dcuguide.com/Batman:_The_Long_Halloween_Title_Index",
-    "https://dcuguide.com/Batman:_Dark_Victory_Title_Index",
-    "https://dcuguide.com/Batman:_Harley_Quinn",
-    "https://comicvine.gamespot.com/detective-comics-723-fight-back-to-gotham/4000-113197/",
-    "https://comicvine.gamespot.com/batman-cataclysm-1-cataclysm/4000-249110/",
-    "https://dc.fandom.com/wiki/Detective_Comics_Vol_1_700",
-    "https://dc.fandom.com/wiki/Batman_Vol_1_534",
-    "https://dc.fandom.com/wiki/Batman:_Shadow_of_the_Bat_Vol_1_54",
-    "https://dc.fandom.com/wiki/Catwoman_Vol_2_36",
-    "https://my.comics.org/issue/1676481/",
-    "https://www.comics.org/issue/2219160/",
-    "https://www.chrisisoninfiniteearths.com/",
-    "https://www.dcuniverseinfinite.com/comics/book/batman-shadow-of-the-bat-1992-74/1864536f-0d23-4fc9-bd7c-89c41fe19543/",
-    "https://www.dcuniverseinfinite.com/comics/book/detective-comics-1937-699/b4c0404d-eb2a-4f25-9304-f25ab7a9f0ff/"
-  ]
+   ],
+   "start": "1996-08",
+   "end": "1996-12",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "拉斯·艾尔·古尔揭示「克伦奇」瘟疫实为其手笔：他身患绝症，欲以毁灭哥谭作为留给蝙蝠侠的「遗产」考验，并引入贝恩。蝙蝠侠带病周旋于拉斯与塔利亚之间，最终挫败阴谋。事件结构按 dc.fandom 页面：序幕（SotB #53、Batman #533）→ Part One~Part Seven → 尾声（Detective #702 Second Chances）；其余跨刊期为未编号余波（SotB #55-57、Robin #34-35、Catwoman #37-38）。",
+   "characters": [
+    "batman",
+    "ras",
+    "talia",
+    "bane",
+    "nightwing",
+    "robin-tim"
+   ],
+   "related": [
+    "contagion"
+   ]
+  },
+  {
+   "id": "cataclysm",
+   "name": "Batman: Cataclysm",
+   "nameZh": "大灾变",
+   "kind": "event",
+   "type": "mega-event",
+   "phases": [
+    {
+     "name": "Cataclysm",
+     "nameZh": "大灾变",
+     "issues": [
+      {
+       "s": "detective",
+       "n": "719",
+       "t": "Cataclysm, Prelude: Sound and Fury",
+       "d": "1998-03",
+       "p": null,
+       "c": [
+        "batman"
+       ],
+       "x": "序幕"
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "73",
+       "t": "Cataclysm, Part One: Castles Built on Sand",
+       "d": "1998-04",
+       "p": 1,
+       "c": [
+        "batman",
+        "alfred",
+        "oracle"
+       ]
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "19",
+       "t": "Cataclysm, Part Two: Shudder",
+       "d": "1998-04",
+       "p": 2,
+       "c": [
+        "nightwing"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "553",
+       "t": "Cataclysm, Part Three: Lifelines",
+       "d": "1998-04",
+       "p": 3,
+       "c": [
+        "batman",
+        "oracle",
+        "alfred",
+        "gordon"
+       ]
+      },
+      {
+       "s": "azrael",
+       "n": "40",
+       "t": "Cataclysm, Part Four: Hour of the Quake",
+       "d": "1998-05",
+       "p": 4,
+       "c": [
+        "azrael"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "720",
+       "t": "Cataclysm, Part Five: The First and the Last",
+       "d": "1998-04",
+       "p": 5,
+       "c": [
+        "batman",
+        "alfred"
+       ]
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "56",
+       "t": "Cataclysm, Part Six: Claustrophobia",
+       "d": "1998-05",
+       "p": 6,
+       "c": [
+        "catwoman"
+       ]
+      },
+      {
+       "s": "robin-v2",
+       "n": "52",
+       "t": "Cataclysm, Part Seven: Tribunal",
+       "d": "1998-04",
+       "p": 7,
+       "c": [
+        "robin-tim"
+       ]
+      },
+      {
+       "s": "Batman: Blackgate: Isle of Men",
+       "n": "1",
+       "t": "Cataclysm, Part Eight: Isle of Men",
+       "d": "1998-05",
+       "p": 8,
+       "c": [
+        "batman",
+        "gordon"
+       ],
+       "x": "one-shot"
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "74",
+       "t": "Cataclysm, Part Nine: The Naked City",
+       "d": "1998-05",
+       "p": 9,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "Batman Chronicles",
+       "n": "12",
+       "t": "Cataclysm, Part Ten: The Contract • House of Cards • Trapped • A Bird With a Hand • Love Me 2 Times • Little Orphan Andy",
+       "d": "1998-05",
+       "p": 10,
+       "c": [],
+       "x": "季度刊（约 1998-05）"
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "20",
+       "t": "Cataclysm, Part Eleven: The Day After Judgment",
+       "d": "1998-05",
+       "p": 11,
+       "c": [
+        "nightwing",
+        "alfred",
+        "batman",
+        "gordon",
+        "oracle"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "554",
+       "t": "Cataclysm, Part Twelve: Master of Destruction",
+       "d": "1998-05",
+       "p": 12,
+       "c": [
+        "batman",
+        "oracle",
+        "alfred",
+        "gordon",
+        "nightwing"
+       ]
+      },
+      {
+       "s": "Batman: Huntress/Spoiler: Blunt Trauma",
+       "n": "1",
+       "t": "Cataclysm, Part Thirteen: Blunt Trauma",
+       "d": "1998-05",
+       "p": 13,
+       "c": [
+        "batman"
+       ],
+       "x": "one-shot"
+      },
+      {
+       "s": "detective",
+       "n": "721",
+       "t": "Cataclysm, Part Fourteen: Shifting Ground",
+       "d": "1998-05",
+       "p": 14,
+       "c": [
+        "batman",
+        "alfred",
+        "gordon",
+        "nightwing"
+       ]
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "57",
+       "t": "Cataclysm, Part Fifteen: Reap What You Sow",
+       "d": "1998-06",
+       "p": 15,
+       "c": [
+        "catwoman"
+       ]
+      },
+      {
+       "s": "Batman: Arkham Asylum: Tales of Madness",
+       "n": "1",
+       "t": "Cataclysm, Part Sixteen: Tales of Madness",
+       "d": "1998-05",
+       "p": 16,
+       "c": [
+        "joker"
+       ],
+       "x": "one-shot"
+      },
+      {
+       "s": "robin-v2",
+       "n": "53",
+       "t": "Cataclysm, Conclusion: Flattened",
+       "d": "1998-05",
+       "p": null,
+       "c": [
+        "robin-tim",
+        "alfred",
+        "batman",
+        "nightwing",
+        "oracle"
+       ],
+       "x": "结局"
+      }
+     ],
+     "ordered": true
+    },
+    {
+     "name": "Aftershock",
+     "nameZh": "余震（Aftershock）",
+     "issues": [
+      {
+       "s": "shadow-of-bat",
+       "n": "75",
+       "t": "By Fire... or By Ice? • A Long Slow Death",
+       "d": "1998-06",
+       "p": null,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "555",
+       "t": "Trapped like Rats",
+       "d": "1998-06",
+       "p": null,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "722",
+       "t": "Statistics",
+       "d": "1998-06",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "76",
+       "t": "The Gauntlet",
+       "d": "1998-07",
+       "p": null,
+       "c": [
+        "batman",
+        "oracle"
+       ]
+      },
+      {
+       "s": "robin-v2",
+       "n": "54",
+       "t": "Repercussions",
+       "d": "1998-06",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "556",
+       "t": "Help, Trapped, Money, Rescue, Ruins",
+       "d": "1998-07",
+       "p": null,
+       "c": [
+        "batman",
+        "alfred"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "77",
+       "t": "Arwin's Theory of Devolution",
+       "d": "1998-08",
+       "p": null,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "557",
+       "t": "Ballistic's Evidence",
+       "d": "1998-08",
+       "p": null,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "724",
+       "t": "The Grieving City",
+       "d": "1998-08",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon",
+        "nightwing",
+        "alfred"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "78",
+       "t": "The Blank Generation, Part 1",
+       "d": "1998-09",
+       "p": 1,
+       "c": [
+        "batman",
+        "alfred",
+        "gordon"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "79",
+       "t": "The Blank Generation, Part 2",
+       "d": "1998-10",
+       "p": 2,
+       "c": [
+        "batman",
+        "oracle",
+        "alfred"
+       ]
+      },
+      {
+       "s": "Batman Chronicles",
+       "n": "14",
+       "t": "Master of the House • The Lunatic Fringe • Random Encounters",
+       "d": "1998-10",
+       "p": null,
+       "c": [],
+       "x": "季度刊（约 1998-10）"
+      },
+      {
+       "s": "batman",
+       "n": "558",
+       "t": "Dying City",
+       "d": "1998-09",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon",
+        "alfred"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "559",
+       "t": "Dead City",
+       "d": "1998-10",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "725",
+       "t": "At the End of the Day",
+       "d": "1998-09",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "726",
+       "t": "Fool's Errand",
+       "d": "1998-10",
+       "p": null,
+       "c": [
+        "batman"
+       ]
+      }
+     ],
+     "ordered": true
+    }
+   ],
+   "start": "1998-03",
+   "end": "1998-10",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "1998 年（刊期自 1998-03 起）一场里氏 7.6 级大地震摧毁哥谭：蝙蝠侠与罗宾、夜翼、猫女、阿兹瑞尔等第一时间投入废墟救援，戈登与神谕协调警局；黑门监狱暴动（Blackgate: Isle of Men）、阿卡姆疯人院失控（Tales of Madness）等支线同步展开。结构按 dc.fandom 页面：序幕（Detective #719）→ Part One~Part Sixteen（含 4 部 one-shot 与 Batman Chronicles #12）→ 结局（Robin #53），其后为「余震 Aftershock」16 期。Detective #723/#727 未列于页面编号，已移出；Batman: Cataclysm #1 与 Batman: Bane #1 两本 one-shot 移至散刊。",
+   "characters": [
+    "batman",
+    "nightwing",
+    "robin-tim",
+    "oracle",
+    "gordon",
+    "catwoman",
+    "azrael",
+    "bane",
+    "joker"
+   ],
+   "related": [
+    "road-to-nml"
+   ]
+  },
+  {
+   "id": "road-to-nml",
+   "name": "Road to No Man's Land (Aftershock)",
+   "nameZh": "通往无人之地（余震）",
+   "kind": "event",
+   "type": "mega-event",
+   "phases": [
+    {
+     "name": "Road to No Man's Land",
+     "nameZh": "通往无人之地",
+     "issues": [
+      {
+       "s": "azrael",
+       "n": "47",
+       "t": "...A Man of Wealth and Taste...",
+       "d": "1998-12",
+       "p": null,
+       "c": [],
+       "x": "更名 Azrael: Agent of the Bat 首期"
+      },
+      {
+       "s": "azrael",
+       "n": "48",
+       "t": "Scratching the Surface",
+       "d": "1999-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman Chronicles",
+       "n": "15",
+       "t": "Will to Power; Between Stars Above and Below; An Answer in the Rubble",
+       "d": "1999-01",
+       "p": null,
+       "c": [],
+       "x": "季度刊（约 1999-01）"
+      },
+      {
+       "s": "batman",
+       "n": "560",
+       "t": "Mr. Wayne Goes to Washington, Part 1: The Jackals",
+       "d": "1998-11",
+       "p": 1,
+       "c": [
+        "batman",
+        "alfred",
+        "nightwing",
+        "oracle"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "561",
+       "t": "Mr. Wayne Goes to Washington, Part 2: The Witness",
+       "d": "1998-12",
+       "p": 2,
+       "c": [
+        "batman",
+        "alfred",
+        "gordon",
+        "oracle"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "727",
+       "t": "Fight or Flight, Part 1: Nest of Vipers",
+       "d": "1998-12",
+       "p": 1,
+       "c": [
+        "nightwing",
+        "oracle",
+        "gordon"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "728",
+       "t": "Fight or Flight, Part 2: Chaos Squared",
+       "d": "1999-01",
+       "p": 2,
+       "c": [
+        "nightwing",
+        "gordon"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "80",
+       "t": "Wax Man and the Clown, Part 1",
+       "d": "1998-11",
+       "p": 1,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "81",
+       "t": "Wax Man and the Clown, Part 2",
+       "d": "1998-12",
+       "p": 2,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "82",
+       "t": "Wax Man and the Clown, Part 3",
+       "d": "1999-01",
+       "p": 3,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "562",
+       "t": "Mr. Wayne Goes to Washington, Part 3: The Devil His Due!",
+       "d": "1999-01",
+       "p": 3,
+       "c": [
+        "gordon",
+        "alfred",
+        "nightwing"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "729",
+       "t": "Fight or Flight, Part 3: 30 Seconds to Midnight",
+       "d": "1999-02",
+       "p": 3,
+       "c": [
+        "nightwing",
+        "oracle",
+        "gordon"
+       ]
+      },
+      {
+       "s": "azrael",
+       "n": "49",
+       "t": "Gotham City Must Die!",
+       "d": "1999-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "azrael",
+       "n": "50",
+       "t": "Resurrection",
+       "d": "1999-03",
+       "p": null,
+       "c": []
+      }
+     ],
+     "ordered": true
+    }
+   ],
+   "start": "1998-11",
+   "end": "1999-03",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "从大灾变/余震到 No Man's Land 封锁令生效前夕的主线历程，按 dc.fandom《Road to No Man's Land Omnibus》第三部分收录：Azrael: Agent of the Bat #47-50、Batman Chronicles #15、Batman #560-562「Mr. Wayne Goes to Washington」、Detective #727-729「Fight or Flight」、SotB #80-82「Wax Man and the Clown」。注：Batman #561-562 为「Mr. Wayne Goes to Washington」而非「No Law and a New Order」（后者属 NML 事件）；大灾变与余震部分见「大灾变」事件。",
+   "characters": [
+    "batman",
+    "oracle",
+    "gordon",
+    "nightwing",
+    "robin-tim"
+   ],
+   "related": [
+    "cataclysm",
+    "nml"
+   ]
+  },
+  {
+   "id": "nml",
+   "name": "Batman: No Man's Land",
+   "nameZh": "无人之地",
+   "kind": "event",
+   "type": "mega-event",
+   "phases": [
+    {
+     "name": "Road to No Man's Land",
+     "nameZh": "通往无人之地",
+     "issues": [
+      {
+       "s": "azrael",
+       "n": "47",
+       "t": "...A Man of Wealth and Taste...",
+       "d": "1998-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "azrael",
+       "n": "48",
+       "t": "Scratching the Surface",
+       "d": "1999-01",
+       "p": null,
+       "c": [
+        "azrael"
+       ],
+       "x": "序幕（1999-01）"
+      },
+      {
+       "s": "azrael",
+       "n": "49",
+       "t": "Gotham City Must Die!",
+       "d": "1999-02",
+       "p": null,
+       "c": [
+        "azrael"
+       ],
+       "x": "序幕（1999-02）"
+      },
+      {
+       "s": "batman",
+       "n": "560",
+       "t": "Mr. Wayne Goes to Washington, Part 1: The Jackals",
+       "d": "1998-11",
+       "p": 1,
+       "c": [
+        "batman",
+        "alfred",
+        "nightwing",
+        "oracle"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "561",
+       "t": "Mr. Wayne Goes to Washington, Part 2: The Witness",
+       "d": "1998-12",
+       "p": 2,
+       "c": [
+        "batman",
+        "alfred",
+        "gordon",
+        "oracle"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "562",
+       "t": "Mr. Wayne Goes to Washington, Part 3: The Devil His Due!",
+       "d": "1999-01",
+       "p": 3,
+       "c": [
+        "gordon",
+        "alfred",
+        "nightwing"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "80",
+       "t": "Wax Man and the Clown, Part 1",
+       "d": "1998-11",
+       "p": 1,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "81",
+       "t": "Wax Man and the Clown, Part 2",
+       "d": "1998-12",
+       "p": 2,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "82",
+       "t": "Wax Man and the Clown, Part 3",
+       "d": "1999-01",
+       "p": 3,
+       "c": []
+      },
+      {
+       "s": "detective",
+       "n": "727",
+       "t": "Fight or Flight, Part 1: Nest of Vipers",
+       "d": "1998-12",
+       "p": 1,
+       "c": [
+        "nightwing",
+        "oracle",
+        "gordon"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "728",
+       "t": "Fight or Flight, Part 2: Chaos Squared",
+       "d": "1999-01",
+       "p": 2,
+       "c": [
+        "nightwing",
+        "gordon"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "729",
+       "t": "Fight or Flight, Part 3: 30 Seconds to Midnight",
+       "d": "1999-02",
+       "p": 3,
+       "c": [
+        "nightwing",
+        "oracle",
+        "gordon"
+       ]
+      }
+     ],
+     "ordered": true
+    },
+    {
+     "name": "No Law and a New Order",
+     "nameZh": "无人之地：无法无天·新秩序",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "Batman: No Man's Land",
+       "n": "1",
+       "t": "No Law and a New Order Part One",
+       "d": "1999-03",
+       "p": 1,
+       "c": [
+        "batman",
+        "gordon",
+        "oracle"
+       ],
+       "x": "one-shot，事件开篇"
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "83",
+       "t": "No Law and a New Order Part Two",
+       "d": "1999-03",
+       "p": 2,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "563",
+       "t": "No Law and a New Order Part Three",
+       "d": "1999-03",
+       "p": 3,
+       "c": [
+        "batman",
+        "gordon",
+        "alfred"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "730",
+       "t": "No Law and a New Order Part Four",
+       "d": "1999-03",
+       "p": 4,
+       "c": [
+        "batman",
+        "gordon",
+        "alfred"
+       ]
+      },
+      {
+       "s": "azrael",
+       "n": "50",
+       "t": "Resurrection",
+       "d": "1999-03",
+       "p": null,
+       "c": [
+        "azrael"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Fear of Faith",
+     "nameZh": "无人之地：信仰之惧",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "azrael",
+       "n": "51",
+       "t": "Miracle Run",
+       "d": "1999-04",
+       "p": null,
+       "c": [
+        "azrael"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "116",
+       "t": "Fear of Faith Part One",
+       "d": "1999-03",
+       "p": 1,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "84",
+       "t": "Fear of Faith Part Two",
+       "d": "1999-04",
+       "p": 2,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "564",
+       "t": "Fear of Faith Part Three",
+       "d": "1999-04",
+       "p": 3,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "731",
+       "t": "Fear of Faith Part Four",
+       "d": "1999-04",
+       "p": 4,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Bread and Circuses",
+     "nameZh": "无人之地：面包与马戏",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "legends-dk",
+       "n": "117",
+       "t": "Bread and Circuses Part One",
+       "d": "1999-04",
+       "p": 1,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "85",
+       "t": "Bread and Circuses Conclusion",
+       "d": "1999-05",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon",
+        "oracle"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Mosaic",
+     "nameZh": "无人之地：马赛克",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "batman",
+       "n": "565",
+       "t": "Mosaic Part One",
+       "d": "1999-05",
+       "p": 1,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "732",
+       "t": "Mosaic Part Two",
+       "d": "1999-05",
+       "p": 2,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "118",
+       "t": "Balance",
+       "d": "1999-05",
+       "p": null,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "86",
+       "t": "Home Sweet Home",
+       "d": "1999-06",
+       "p": null,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "733",
+       "t": "Shades of Grey",
+       "d": "1999-06",
+       "p": null,
+       "c": [
+        "batman",
+        "alfred"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Claim Jumping",
+     "nameZh": "无人之地：抢占地盘",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "azrael",
+       "n": "52",
+       "t": "Devil Down Below",
+       "d": "1999-05",
+       "p": null,
+       "c": [
+        "azrael"
+       ]
+      },
+      {
+       "s": "azrael",
+       "n": "53",
+       "t": "Jellybean Deathtrap",
+       "d": "1999-06",
+       "p": null,
+       "c": [
+        "azrael"
+       ]
+      },
+      {
+       "s": "Batman Chronicles",
+       "n": "16",
+       "t": "Two Down • The Comforts • Harold",
+       "d": "1999-08",
+       "p": null,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "119",
+       "t": "Claim Jumping Part One",
+       "d": "1999-06",
+       "p": 1,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "87",
+       "t": "Claim Jumping Part Two",
+       "d": "1999-07",
+       "p": 2,
+       "c": [
+        "batman",
+        "oracle",
+        "gordon"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "566",
+       "t": "The Visitor",
+       "d": "1999-06",
+       "p": null,
+       "c": [
+        "batman",
+        "superman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "azrael",
+       "n": "54",
+       "t": "Step into the Light",
+       "d": "1999-07",
+       "p": null,
+       "c": [
+        "azrael"
+       ]
+      },
+      {
+       "s": "azrael",
+       "n": "55",
+       "t": "Misery Dance",
+       "d": "1999-08",
+       "p": null,
+       "c": [
+        "azrael"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Mark of Cain",
+     "nameZh": "无人之地：该隐之痕",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "Young Justice Special",
+       "n": "1",
+       "t": "Road Trip",
+       "d": "1999-08",
+       "p": null,
+       "c": [
+        "youngjustice",
+        "robin-tim"
+       ]
+      },
+      {
+       "s": "Batman Chronicles",
+       "n": "17",
+       "t": "Little Bat Lost • Turn On, Tune In, Freak Out • Identity Crisis",
+       "d": "1999-10",
+       "p": null,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "567",
+       "t": "Mark of Cain Part One",
+       "d": "1999-07",
+       "p": 1,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "734",
+       "t": "Mark of Cain Part Two",
+       "d": "1999-07",
+       "p": 2,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "robin-v2",
+       "n": "67",
+       "t": "Way Dark",
+       "d": "1999-08",
+       "p": null,
+       "c": [
+        "robin-tim",
+        "nightwing"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "120",
+       "t": "Assembly",
+       "d": "1999-07",
+       "p": null,
+       "c": [
+        "batman"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Fruit of the Earth",
+     "nameZh": "无人之地：大地之果",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "azrael",
+       "n": "56",
+       "t": "The Night Foretold",
+       "d": "1999-09",
+       "p": null,
+       "c": [
+        "azrael"
+       ]
+      },
+      {
+       "s": "azrael",
+       "n": "57",
+       "t": "Scratched Out",
+       "d": "1999-09",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "88",
+       "t": "Fruit of the Earth Part One",
+       "d": "1999-08",
+       "p": 1,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "568",
+       "t": "Fruit of the Earth Part Two",
+       "d": "1999-08",
+       "p": 2,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "735",
+       "t": "Fruit of the Earth Part Three",
+       "d": "1999-08",
+       "p": 3,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "JLA",
+       "n": "32",
+       "t": "Inside Job",
+       "d": "1999-09",
+       "p": null,
+       "c": [
+        "justiceleague",
+        "batman"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "121",
+       "t": "Power Play",
+       "d": "1999-08",
+       "p": null,
+       "c": [
+        "batman"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Escape to Blackgate",
+     "nameZh": "无人之地：逃亡黑门",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "Batman: Harley Quinn",
+       "n": "1",
+       "t": "Harley Quinn",
+       "d": "1999-10",
+       "p": null,
+       "c": [
+        "joker"
+       ],
+       "x": "one-shot"
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "35",
+       "t": "Escape to Blackgate Part One",
+       "d": "1999-08",
+       "p": 1,
+       "c": [
+        "nightwing",
+        "batman",
+        "oracle"
+       ]
+      },
+      {
+       "s": "Nightwing Secret Files and Origins",
+       "n": "1",
+       "t": "Taking Wing",
+       "d": "1999-09",
+       "p": null,
+       "c": [
+        "nightwing"
+       ]
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "36",
+       "t": "Escape to Blackgate Part Two",
+       "d": "1999-09",
+       "p": 2,
+       "c": [
+        "nightwing"
+       ]
+      },
+      {
+       "s": "Batman Chronicles",
+       "n": "18",
+       "t": "Spiritual Currency",
+       "d": "1999-12",
+       "p": null,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "37",
+       "t": "Escape to Blackgate Part Three",
+       "d": "1999-10",
+       "p": 3,
+       "c": [
+        "nightwing",
+        "oracle"
+       ]
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "72",
+       "t": "The Mission",
+       "d": "1999-09",
+       "p": null,
+       "c": [
+        "catwoman"
+       ]
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "73",
+       "t": "Ms. Direction",
+       "d": "1999-10",
+       "p": null,
+       "c": [
+        "catwoman"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "War Beneath the Streets!",
+     "nameZh": "无人之地：地下战争",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "catwoman-v2",
+       "n": "74",
+       "t": "A Slight Detour",
+       "d": "1999-11",
+       "p": null,
+       "c": [
+        "catwoman"
+       ]
+      },
+      {
+       "s": "robin-v2",
+       "n": "68",
+       "t": "War Beneath the Streets! Part One",
+       "d": "1999-09",
+       "p": 1,
+       "c": [
+        "robin-tim",
+        "batman"
+       ]
+      },
+      {
+       "s": "robin-v2",
+       "n": "69",
+       "t": "War Beneath the Streets! Part Two",
+       "d": "1999-10",
+       "p": 2,
+       "c": [
+        "robin-tim"
+       ]
+      },
+      {
+       "s": "robin-v2",
+       "n": "70",
+       "t": "War Beneath the Streets! Part Three",
+       "d": "1999-11",
+       "p": 3,
+       "c": [
+        "robin-tim",
+        "batman"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "89",
+       "t": "The King",
+       "d": "1999-09",
+       "p": null,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "569",
+       "t": "I cover the Waterfront",
+       "d": "1999-09",
+       "p": null,
+       "c": [
+        "batman",
+        "oracle",
+        "nightwing"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Low Road to Golden Mountain",
+     "nameZh": "无人之地：通往金山的小路",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "detective",
+       "n": "736",
+       "t": "Homecoming",
+       "d": "1999-09",
+       "p": null,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "122",
+       "t": "Low Road to Golden Mountain Part One",
+       "d": "1999-09",
+       "p": 1,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "90",
+       "t": "Low Road to Golden Mountain Part Two",
+       "d": "1999-10",
+       "p": 2,
+       "c": [
+        "batman"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Code",
+     "nameZh": "无人之地：密码",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "batman",
+       "n": "570",
+       "t": "The Code Part One",
+       "d": "1999-10",
+       "p": 1,
+       "c": [
+        "batman",
+        "joker",
+        "harley",
+        "oracle"
+       ],
+       "x": "小丑女二次登场"
+      },
+      {
+       "s": "detective",
+       "n": "737",
+       "t": "The Code Part Two",
+       "d": "1999-10",
+       "p": 2,
+       "c": [
+        "batman",
+        "joker",
+        "harley"
+       ]
+      },
+      {
+       "s": "azrael",
+       "n": "58",
+       "t": "Day of Judgement: Ghosts",
+       "d": "1999-10",
+       "p": null,
+       "c": []
+      }
+     ]
+    },
+    {
+     "name": "Goin' Downtown",
+     "nameZh": "无人之地：下城",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "batman",
+       "n": "571",
+       "t": "Goin' Downtown Part One",
+       "d": "1999-11",
+       "p": 1,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "738",
+       "t": "Goin' Downtown Part Two",
+       "d": "1999-11",
+       "p": 2,
+       "c": [
+        "batman"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Underground Railroad",
+     "nameZh": "无人之地：地下铁道",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "legends-dk",
+       "n": "123",
+       "t": "Underground Railroad Part One",
+       "d": "1999-10",
+       "p": 1,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "91",
+       "t": "Underground Railroad Part Two",
+       "d": "1999-11",
+       "p": 2,
+       "c": [
+        "batman",
+        "penguin"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Ballistic Romance",
+     "nameZh": "无人之地：弹道罗曼史",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "nightwing-v2",
+       "n": "38",
+       "t": "Ballistic Romance Part One",
+       "d": "1999-11",
+       "p": 1,
+       "c": [
+        "nightwing",
+        "oracle"
+       ]
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "39",
+       "t": "Ballistic Romance Part Two",
+       "d": "1999-12",
+       "p": 2,
+       "c": [
+        "nightwing",
+        "oracle"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "124",
+       "t": "Captain of Industry",
+       "d": "1999-11",
+       "p": null,
+       "c": [
+        "batman"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Jurisprudence",
+     "nameZh": "无人之地：法理学",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "shadow-of-bat",
+       "n": "92",
+       "t": "Stormy Weather",
+       "d": "1999-12",
+       "p": null,
+       "c": [
+        "batman",
+        "superman"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "572",
+       "t": "Jurisprudence Part One",
+       "d": "1999-12",
+       "p": 1,
+       "c": [
+        "batman",
+        "oracle",
+        "gordon"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "739",
+       "t": "Jurisprudence Part Two",
+       "d": "1999-12",
+       "p": 2,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "125",
+       "t": "Falling Back",
+       "d": "1999-12",
+       "p": null,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "robin-v2",
+       "n": "71",
+       "t": "The Lizard King",
+       "d": "1999-12",
+       "p": null,
+       "c": [
+        "robin-tim",
+        "alfred",
+        "nightwing",
+        "oracle"
+       ]
+      },
+      {
+       "s": "robin-v2",
+       "n": "72",
+       "t": "Last Stand on Grand Ave",
+       "d": "2000-01",
+       "p": null,
+       "c": [
+        "robin-tim",
+        "alfred",
+        "batman",
+        "penguin"
+       ]
+      },
+      {
+       "s": "Batman: Day of Judgment",
+       "n": "1",
+       "t": "Original Gangsters",
+       "d": "2000-02",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "robin-v2",
+       "n": "73",
+       "t": "The World Around the Corner",
+       "d": "2000-02",
+       "p": null,
+       "c": [
+        "robin-tim",
+        "alfred",
+        "batman"
+       ]
+      },
+      {
+       "s": "Batman: No Man's Land: Secret Files & Origins",
+       "n": "1",
+       "t": "The Message",
+       "d": "1999-12",
+       "p": null,
+       "c": [
+        "oracle",
+        "gordon",
+        "batman"
+       ],
+       "x": "one-shot"
+      }
+     ]
+    },
+    {
+     "name": "Shellgame",
+     "nameZh": "无人之地：壳牌游戏",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "catwoman-v2",
+       "n": "75",
+       "t": "The Rules",
+       "d": "1999-12",
+       "p": null,
+       "c": [
+        "catwoman"
+       ]
+      },
+      {
+       "s": "azrael",
+       "n": "59",
+       "t": "Pilgrim's Return",
+       "d": "1999-12",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "93",
+       "t": "Assembly Redux",
+       "d": "2000-01",
+       "p": null,
+       "c": [
+        "batman",
+        "oracle",
+        "azrael",
+        "catwoman",
+        "gordon"
+       ]
+      },
+      {
+       "s": "azrael",
+       "n": "60",
+       "t": "Evacuation",
+       "d": "2000-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "Batman: No Man's Land",
+       "n": "0",
+       "t": "Ground Zero",
+       "d": "2000-01",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "batman",
+       "n": "573",
+       "t": "Shellgame Part One",
+       "d": "2000-01",
+       "p": 1,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "740",
+       "t": "Shellgame Part Two",
+       "d": "2000-01",
+       "p": 2,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "catwoman-v2",
+       "n": "76",
+       "t": "Strange Bedfellows",
+       "d": "2000-01",
+       "p": null,
+       "c": [
+        "catwoman"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Endgame",
+     "nameZh": "无人之地：终局",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "catwoman-v2",
+       "n": "77",
+       "t": "Pay Back",
+       "d": "2000-02",
+       "p": null,
+       "c": [
+        "catwoman"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "126",
+       "t": "Endgame Part One",
+       "d": "2000-01",
+       "p": 1,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "574",
+       "t": "Endgame Part Two",
+       "d": "2000-02",
+       "p": 2,
+       "c": [
+        "batman",
+        "joker"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "741",
+       "t": "Endgame Part Three",
+       "d": "2000-02",
+       "p": 3,
+       "c": [
+        "batman",
+        "gordon",
+        "oracle",
+        "nightwing",
+        "azrael"
+       ]
+      },
+      {
+       "s": "azrael",
+       "n": "61",
+       "t": "Presents of the Mind",
+       "d": "2000-02",
+       "p": null,
+       "c": []
+      },
+      {
+       "s": "shadow-of-bat",
+       "n": "94",
+       "t": "Endgame Epilogue",
+       "d": "2000-02",
+       "p": null,
+       "c": [
+        "batman",
+        "gordon"
+       ]
+      }
+     ]
+    }
+   ],
+   "start": "1998-11",
+   "end": "2000-02",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "哥谭被联邦宣布为「无人之地」：地震后城市封锁，蝙蝠侠与戈登、神谕、夜翼、罗宾、猫女、阿兹瑞尔、蝙蝠女（卡珊德拉·该隐）等在废墟中各自为战，黑面具、双面人等割据一方，小丑女哈莉·奎茵登场。按 dc.fandom 页面分为两大组：① 通往无人之地（12 期）；② 无人之地 Chronology（88 期），再按故事标题细分为 17 段序列故事（No Law and a New Order、Fear of Faith、Mosaic、Fruit of the Earth、Escape to Blackgate、War Beneath the Streets!、Jurisprudence、Shellgame、Endgame 等），穿插的单篇按发行顺序归入最近的序列故事。LOTDK/Chronicles/JLA 等 tie-in 封面日期为按月推算。",
+   "characters": [
+    "batman",
+    "nightwing",
+    "robin-tim",
+    "oracle",
+    "gordon",
+    "batgirl",
+    "catwoman",
+    "azrael",
+    "harley",
+    "youngjustice",
+    "justiceleague"
+   ],
+   "family": "cataclysm-family",
+   "related": [
+    "road-to-nml",
+    "cataclysm"
+   ]
+  }
+ ],
+ "arcs": [
+  {
+   "id": "knight-bludhaven",
+   "name": "Nightwing: A Knight in Blüdhaven",
+   "nameZh": "布鲁德海文之骑士",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "nightwing-v2",
+     "n": "1",
+     "t": "Child of Justice",
+     "d": "1996-10",
+     "p": null,
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "2",
+     "t": "Gangland Express",
+     "d": "1996-11",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "3",
+     "t": "The Freebooters",
+     "d": "1996-12",
+     "p": null,
+     "c": [
+      "nightwing",
+      "batman"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "4",
+     "t": "Lady Be Deadly",
+     "d": "1997-01",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "5",
+     "t": "Lady's Night",
+     "d": "1997-02",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "6",
+     "t": "The Visitor",
+     "d": "1997-03",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "7",
+     "t": "Rough Justice",
+     "d": "1997-04",
+     "p": null,
+     "c": [
+      "nightwing",
+      "oracle"
+     ]
+    },
+    {
+     "s": "nightwing-v2",
+     "n": "8",
+     "t": "The Bigger They Are",
+     "d": "1997-05",
+     "p": null,
+     "c": [
+      "nightwing"
+     ]
+    }
+   ],
+   "start": "1996-10",
+   "end": "1997-05",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "Nightwing 系列开篇连载：迪克·格雷森告别哥谭与蝙蝠侠的阴影，移居犯罪频发的布鲁德海文，以夜翼身份独立成为该城守护者（首 8 期长篇）。",
+   "characters": [
+    "nightwing",
+    "batman",
+    "oracle"
+   ]
+  },
+  {
+   "id": "long-halloween",
+   "name": "Batman: The Long Halloween",
+   "nameZh": "漫长的万圣节",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "1",
+     "t": "Chapter One: Crime",
+     "d": "1996-12",
+     "p": 1,
+     "c": [
+      "batman",
+      "gordon",
+      "catwoman"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "2",
+     "t": "Chapter Two: Thanksgiving",
+     "d": "1997-01",
+     "p": 2,
+     "c": [
+      "batman",
+      "twopface",
+      "gordon"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "3",
+     "t": "Chapter Three: Christmas",
+     "d": "1997-02",
+     "p": 3,
+     "c": [
+      "batman",
+      "joker"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "4",
+     "t": "Chapter Four: New Year's Eve",
+     "d": "1997-03",
+     "p": 4,
+     "c": [
+      "batman",
+      "catwoman"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "5",
+     "t": "Chapter Five: Valentine's Day",
+     "d": "1997-04",
+     "p": 5,
+     "c": [
+      "batman",
+      "catwoman"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "6",
+     "t": "Chapter Six: March",
+     "d": "1997-05",
+     "p": 6,
+     "c": [
+      "batman",
+      "twopface"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "7",
+     "t": "Chapter Seven: April Fools' Day",
+     "d": "1997-06",
+     "p": 7,
+     "c": [
+      "batman",
+      "joker",
+      "riddler"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "8",
+     "t": "Chapter Eight: May Day",
+     "d": "1997-07",
+     "p": 8,
+     "c": [
+      "batman",
+      "gordon"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "9",
+     "t": "Chapter Nine: June",
+     "d": "1997-08",
+     "p": 9,
+     "c": [
+      "batman",
+      "scarecrow"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "10",
+     "t": "Chapter Ten: Independence Day",
+     "d": "1997-09",
+     "p": 10,
+     "c": [
+      "batman",
+      "penguin"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "11",
+     "t": "Chapter Eleven: August",
+     "d": "1997-10",
+     "p": 11,
+     "c": [
+      "batman",
+      "twopface"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "12",
+     "t": "Chapter Twelve: Labor Day",
+     "d": "1997-11",
+     "p": 12,
+     "c": [
+      "batman",
+      "catwoman"
+     ]
+    },
+    {
+     "s": "Batman: The Long Halloween",
+     "n": "13",
+     "t": "Chapter Thirteen: Halloween",
+     "d": "1997-12",
+     "p": 13,
+     "c": [
+      "batman",
+      "twopface",
+      "gordon"
+     ]
+    }
+   ],
+   "start": "1996-12",
+   "end": "1997-12",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "12 期限定刊：蝙蝠侠与戈登、哈维·丹特联手追查连环杀手「假日杀手」（Holiday），案件横跨一整年的节日；期间丹特坠入疯狂成为双面人，猫女与蝙蝠侠的关系亦被卷入。",
+   "characters": [
+    "batman",
+    "catwoman",
+    "gordon",
+    "twopface",
+    "joker",
+    "penguin",
+    "scarecrow",
+    "riddler",
+    "alfred"
+   ]
+  },
+  {
+   "id": "she-cats",
+   "name": "Catwoman: She-Cats",
+   "nameZh": "雌猫帮",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "catwoman-v2",
+     "n": "42",
+     "t": "She-Cats, Part 1: Feline and Female",
+     "d": "1997-02",
+     "p": 1,
+     "c": [
+      "catwoman"
+     ]
+    },
+    {
+     "s": "catwoman-v2",
+     "n": "43",
+     "t": "She-Cats, Part 2: Red of Fang and Claw",
+     "d": "1997-03",
+     "p": 2,
+     "c": [
+      "catwoman"
+     ]
+    }
+   ],
+   "start": "1997-02",
+   "end": "1997-03",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "Catwoman 两期短弧：赛琳娜与黑市掮客「She-Cats」组织周旋，卷入猫女与老对手的交锋（两期均带 Part 标题）。",
+   "characters": [
+    "catwoman",
+    "batman"
+   ]
+  },
+  {
+   "id": "dark-victory",
+   "name": "Batman: Dark Victory",
+   "nameZh": "黑暗胜利",
+   "kind": "arc",
+   "type": "arc",
+   "issues": [
+    {
+     "s": "Batman: Dark Victory",
+     "n": "0",
+     "t": null,
+     "d": "1999-09",
+     "p": null,
+     "c": [
+      "batman",
+      "gordon"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "1",
+     "t": null,
+     "d": "1999-12",
+     "p": null,
+     "c": [
+      "batman",
+      "gordon",
+      "twopface"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "2",
+     "t": null,
+     "d": "2000-01",
+     "p": null,
+     "c": [
+      "batman",
+      "catwoman"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "3",
+     "t": null,
+     "d": "2000-02",
+     "p": null,
+     "c": [
+      "batman",
+      "twopface"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "4",
+     "t": null,
+     "d": "2000-03",
+     "p": null,
+     "c": [
+      "batman",
+      "joker"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "5",
+     "t": null,
+     "d": "2000-04",
+     "p": null,
+     "c": [
+      "batman",
+      "gordon"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "6",
+     "t": null,
+     "d": "2000-05",
+     "p": null,
+     "c": [
+      "batman",
+      "alfred"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "7",
+     "t": null,
+     "d": "2000-06",
+     "p": null,
+     "c": [
+      "batman",
+      "penguin"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "8",
+     "t": null,
+     "d": "2000-07",
+     "p": null,
+     "c": [
+      "batman",
+      "catwoman"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "9",
+     "t": null,
+     "d": "2000-08",
+     "p": null,
+     "c": [
+      "batman",
+      "gordon"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "10",
+     "t": null,
+     "d": "2000-09",
+     "p": null,
+     "c": [
+      "batman",
+      "twopface"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "11",
+     "t": null,
+     "d": "2000-10",
+     "p": null,
+     "c": [
+      "batman",
+      "joker"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "12",
+     "t": null,
+     "d": "2000-11",
+     "p": null,
+     "c": [
+      "batman",
+      "catwoman"
+     ]
+    },
+    {
+     "s": "Batman: Dark Victory",
+     "n": "13",
+     "t": null,
+     "d": "2000-12",
+     "p": null,
+     "c": [
+      "batman",
+      "gordon",
+      "nightwing"
+     ]
+    }
+   ],
+   "start": "1999-09",
+   "end": "2000-12",
+   "era": "P52",
+   "earth": "new-earth",
+   "summaryZh": "The Long Halloween 的续篇：蝙蝠侠、戈登与双面人追查新连环杀手「刽子手」（The Hangman），同时布鲁斯收养孤儿迪克·格雷森，后者成为初代罗宾；猫女与哥谭众反派（小丑、企鹅人等）皆卷入。全 14 期（#0-13）。",
+   "characters": [
+    "batman",
+    "gordon",
+    "twopface",
+    "catwoman",
+    "joker",
+    "penguin",
+    "alfred",
+    "nightwing"
+   ]
+  }
+ ],
+ "standalone": [
+  {
+   "s": "batman",
+   "n": "542",
+   "t": "Faceless, Part 1: Murdicide",
+   "d": "1997-05",
+   "p": 1,
+   "c": [
+    "batman",
+    "alfred",
+    "gordon"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "543",
+   "t": "Faceless, Part 2: Postmarked Murder",
+   "d": "1997-06",
+   "p": 2,
+   "c": [
+    "batman",
+    "alfred"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "catwoman-v2",
+   "n": "46",
+   "t": "Two-Face, Part One",
+   "d": "1997-06",
+   "p": 1,
+   "c": [
+    "catwoman",
+    "twopface"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "544",
+   "t": "Faceless, Part 3",
+   "d": "1997-07",
+   "p": 3,
+   "c": [
+    "batman",
+    "alfred"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "catwoman-v2",
+   "n": "47",
+   "t": "Two-Face, Part 2: Two Ways To Skin A Cat",
+   "d": "1997-07",
+   "p": 2,
+   "c": [
+    "catwoman",
+    "twopface"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "548",
+   "t": "The Penguin Returns, Part One: Burning Faces",
+   "d": "1997-11",
+   "p": 1,
+   "c": [
+    "batman",
+    "penguin",
+    "gordon"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "batman",
+   "n": "549",
+   "t": "The Penguin Returns, Part Two: The Egyptian Falcon",
+   "d": "1997-12",
+   "p": 2,
+   "c": [
+    "batman",
+    "penguin"
+   ],
+   "era": "P52"
+  },
+  {
+   "s": "Batman: Cataclysm",
+   "n": "1",
+   "t": "Cataclysm",
+   "d": "1998-05",
+   "p": null,
+   "c": [
+    "batman",
+    "gordon",
+    "oracle"
+   ],
+   "x": "one-shot；Cataclysm 相关（页面未列编号）",
+   "era": "P52"
+  },
+  {
+   "s": "Batman: Bane",
+   "n": "1",
+   "t": null,
+   "d": "1998-05",
+   "p": null,
+   "c": [
+    "bane",
+    "batman"
+   ],
+   "x": "one-shot；Cataclysm 相关（页面未列编号）",
+   "era": "P52"
+  },
+  {
+   "s": "detective",
+   "n": "723",
+   "t": "Fight Back to Gotham",
+   "d": "1998-07",
+   "p": null,
+   "c": [
+    "batman",
+    "gordon",
+    "nightwing",
+    "oracle"
+   ],
+   "x": "Part 1（推断）；Cataclysm 相关（页面未列编号）",
+   "era": "P52"
+  },
+  {
+   "s": "catwoman-v2",
+   "n": "58",
+   "t": "",
+   "d": "1998-07",
+   "p": null,
+   "c": [
+    "catwoman"
+   ],
+   "x": "Road to NML 相关（Omnibus 页面未列）",
+   "era": "P52"
+  },
+  {
+   "s": "catwoman-v2",
+   "n": "59",
+   "t": "",
+   "d": "1998-08",
+   "p": null,
+   "c": [
+    "catwoman"
+   ],
+   "x": "Road to NML 相关（Omnibus 页面未列）",
+   "era": "P52"
+  }
+ ]
 }

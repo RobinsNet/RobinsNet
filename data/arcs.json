@@ -8188,18 +8188,6 @@
    ]
   },
   {
-   "s": "shadow-of-bat",
-   "n": "48",
-   "t": "Contagion, Part One: The Apocalypse Plague",
-   "d": "1996-03",
-   "p": null,
-   "c": [
-    "batman",
-    "alfred",
-    "azrael"
-   ]
-  },
-  {
    "s": "robin-v2",
    "n": "26",
    "t": "The Hard Lessons",
@@ -9024,16 +9012,6 @@
    ]
   },
   {
-   "s": "detective",
-   "n": "719",
-   "t": "Cataclysm, Prelude: Sound and Fury",
-   "d": "1998-03",
-   "p": null,
-   "c": [
-    "batman"
-   ]
-  },
-  {
    "s": "batman",
    "n": "552",
    "t": "The Greatest Evil",
@@ -9075,38 +9053,79 @@
    "c": []
   },
   {
-   "s": "detective",
-   "n": "720",
-   "t": "Cataclysm, Part Five: The First and the Last",
-   "d": "1998-04",
-   "p": null,
-   "c": [
-    "batman",
-    "alfred"
-   ]
-  },
-  {
-   "s": "detective",
-   "n": "721",
-   "t": "Cataclysm, Part Fourteen: Shifting Ground",
+   "s": "Batman: Cataclysm",
+   "n": "1",
+   "t": "Cataclysm",
    "d": "1998-05",
    "p": null,
    "c": [
     "batman",
-    "alfred",
     "gordon",
+    "oracle"
+   ],
+   "x": "one-shot；Cataclysm 相关（页面未列编号）",
+   "era": "P52"
+  },
+  {
+   "s": "Batman: Bane",
+   "n": "1",
+   "t": null,
+   "d": "1998-05",
+   "p": null,
+   "c": [
+    "bane",
+    "batman"
+   ],
+   "x": "one-shot；Cataclysm 相关（页面未列编号）",
+   "era": "P52"
+  },
+  {
+   "s": "nightwing-v2",
+   "n": "21",
+   "t": "False Starts",
+   "d": "1998-06",
+   "p": null,
+   "c": [
     "nightwing"
    ]
   },
   {
    "s": "detective",
-   "n": "722",
-   "t": "Statistics",
-   "d": "1998-06",
+   "n": "723",
+   "t": "Fight Back to Gotham",
+   "d": "1998-07",
    "p": null,
    "c": [
     "batman",
-    "gordon"
+    "gordon",
+    "nightwing",
+    "oracle"
+   ],
+   "x": "Part 1（推断）；Cataclysm 相关（页面未列编号）",
+   "era": "P52"
+  },
+  {
+   "s": "catwoman-v2",
+   "n": "58",
+   "t": "",
+   "d": "1998-07",
+   "p": null,
+   "c": [
+    "catwoman"
+   ],
+   "x": "Road to NML 相关（Omnibus 页面未列）",
+   "era": "P52"
+  },
+  {
+   "s": "nightwing-v2",
+   "n": "22",
+   "t": "Hospital Perilous",
+   "d": "1998-07",
+   "p": null,
+   "c": [
+    "nightwing",
+    "alfred",
+    "oracle"
    ]
   },
   {
@@ -9120,6 +9139,18 @@
     "nightwing",
     "oracle"
    ]
+  },
+  {
+   "s": "catwoman-v2",
+   "n": "59",
+   "t": "",
+   "d": "1998-08",
+   "p": null,
+   "c": [
+    "catwoman"
+   ],
+   "x": "Road to NML 相关（Omnibus 页面未列）",
+   "era": "P52"
   },
   {
    "s": "nightwing-v2",
@@ -9242,14 +9273,6 @@
    ]
   },
   {
-   "s": "shadow-of-bat",
-   "n": "80",
-   "t": "Road to No Man's Land : Wax Man and the Clown",
-   "d": "1998-12",
-   "p": null,
-   "c": []
-  },
-  {
    "s": "nightwing-v2",
    "n": "26",
    "t": "Angle of Attack",
@@ -9271,14 +9294,6 @@
    ]
   },
   {
-   "s": "shadow-of-bat",
-   "n": "81",
-   "t": "Road to No Man's Land : Waxman and the Clown, Part 2",
-   "d": "1999-01",
-   "p": null,
-   "c": []
-  },
-  {
    "s": "nightwing-v2",
    "n": "27",
    "t": "Live Not On Evil, Part One",
@@ -9298,14 +9313,6 @@
    "c": [
     "spoiler"
    ]
-  },
-  {
-   "s": "shadow-of-bat",
-   "n": "82",
-   "t": "Road to No Man's Land : Waxman and the Clown, Part 3",
-   "d": "1999-02",
-   "p": null,
-   "c": []
   },
   {
    "s": "nightwing-v2",
@@ -9448,6 +9455,27 @@
    "p": null,
    "c": [
     "nightwing"
+   ]
+  },
+  {
+   "s": "detective",
+   "n": "742",
+   "t": "The Honored Dead",
+   "d": "2000-03",
+   "p": null,
+   "c": [
+    "batman",
+    "gordon"
+   ]
+  },
+  {
+   "s": "batman",
+   "n": "575",
+   "t": "O'er the Land of the Free",
+   "d": "2000-03",
+   "p": null,
+   "c": [
+    "batman"
    ]
   },
   {

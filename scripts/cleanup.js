@@ -41,6 +41,9 @@ function sortByDate(list) {
     .map(x => x.i);
 }
 function sortItemChronologically(it) {
+  // ordered 阶段：数据作者已给出规范阅读顺序（如 dc.fandom 页面的 Part 序），
+  // 封面日期存在跨刊错位时不再按日期重排（发行顺序由 ordered 顺序保证）。
+  if (it.phases && it.phases.some(p => p.ordered)) return;
   if (it.phases) {
     it.phases.sort((a, b) => {
       const ma = minDate(a.issues) || '\uffff', mb = minDate(b.issues) || '\uffff';

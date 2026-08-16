@@ -177,6 +177,7 @@ function sortByDate(list) {
     .map(x => x.i);
 }
 for (const it of [...events, ...arcs]) {
+  if (it.phases && it.phases.some(p => p.ordered)) continue; // 规范阅读顺序，保持原序
   if (it.phases) it.phases.forEach(p => { p.issues = sortByDate(p.issues); });
   else if (it.issues) it.issues = sortByDate(it.issues);
 }
