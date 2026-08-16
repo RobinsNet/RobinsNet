@@ -1217,7 +1217,8 @@
     "gordon"
    ],
    "related": [
-    "war-crimes"
+    "war-crimes",
+    "nightwing-brothers-in-blood"
    ],
    "phases": [
     {
@@ -1889,6 +1890,102 @@
         "batman"
        ],
        "x": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nightwing-brothers-in-blood",
+   "name": "Nightwing: Brothers in Blood",
+   "nameZh": "夜翼：血之兄弟",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "saga",
+   "start": "2006-05",
+   "end": "2006-11",
+   "summaryZh": "Bruce Jones 主笔的夜翼篇章（Nightwing v2 #118-124，2006-05 ~ 2006-11），与「红头罩之下」同时期的联动事件，杰森·托德（红头罩）相关。",
+   "characters": [
+    "nightwing",
+    "redhood"
+   ],
+   "related": [
+    "under-the-hood"
+   ],
+   "phases": [
+    {
+     "name": "Brothers in Blood",
+     "nameZh": "血之兄弟",
+     "issues": [
+      {
+       "s": "nightwing-v2",
+       "n": "118",
+       "t": "The Gang's All Here",
+       "d": "2006-05",
+       "p": null,
+       "c": [
+        "nightwing"
+       ]
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "119",
+       "t": "Pleased to Meet You - Hope You Guess My Name!",
+       "d": "2006-06",
+       "p": null,
+       "c": [
+        "nightwing"
+       ]
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "120",
+       "t": "Yours, Mind, and Ours",
+       "d": "2006-07",
+       "p": null,
+       "c": [
+        "nightwing"
+       ]
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "121",
+       "t": "Sorry I Brought That Up",
+       "d": "2006-08",
+       "p": null,
+       "c": [
+        "nightwing"
+       ]
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "122",
+       "t": "Odd Couples",
+       "d": "2006-09",
+       "p": null,
+       "c": [
+        "nightwing"
+       ]
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "123",
+       "t": "Fire Down Below",
+       "d": "2006-10",
+       "p": null,
+       "c": [
+        "nightwing"
+       ]
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "124",
+       "t": "The Apprentice",
+       "d": "2006-11",
+       "p": null,
+       "c": [
+        "nightwing"
+       ]
       }
      ]
     }
