@@ -5366,6 +5366,18 @@
       ]
      },
      {
+      "s": "teentitans-v3",
+      "n": "29",
+      "t": null,
+      "d": "2006-02",
+      "p": null,
+      "c": [
+       "redhood",
+       "teentitans"
+      ],
+      "x": "红头罩与泰坦对决（Geoff Johns 主编，Titans East 篇章）；封面日期约 2006-02"
+     },
+     {
       "s": "batman",
       "n": "649",
       "t": "All They Do Is Watch Us Kill, Part 2 of 3",
@@ -5408,7 +5420,7 @@
   "end": "2006-04",
   "era": "P52",
   "earth": "new-earth",
-  "summaryZh": "杰森·托德以「红头罩」身份回归哥谭，接管黑面具的黑帮生意，向蝙蝠侠与小丑复仇。按 dc.fandom《Under the Red Hood (Collected)》收录：Batman #635-641（Under the Hood Part 1-4 → Family Reunion 三部曲）、#645（Show Me Yesterday 罗宾往事）、#646-647（Franchise）、#648-650（All They Do Is Watch Us Kill，红头罩身份揭晓）、Batman Annual #25（Daedalus and Icarus：杰森·托德归来）。#642-644 为 War Crimes 交叉，不属本事件。",
+  "summaryZh": "杰森·托德以「红头罩」身份回归哥谭，接管黑面具的黑帮生意，向蝙蝠侠与小丑复仇。按 dc.fandom《Under the Red Hood (Collected)》收录：Batman #635-641（Under the Hood Part 1-4 → Family Reunion 三部曲）、#645（Show Me Yesterday 罗宾往事）、#646-647（Franchise）、#648-650（All They Do Is Watch Us Kill，红头罩身份揭晓）、Batman Annual #25（Daedalus and Icarus：杰森·托德归来）；另含 Teen Titans v3 #29（红头罩与泰坦对决，Titans East 联动）。#642-644 为 War Crimes 交叉，不属本事件。",
   "characters": [
    "batman",
    "redhood",
