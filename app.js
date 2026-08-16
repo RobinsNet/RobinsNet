@@ -502,10 +502,15 @@ function itemCard(it) {
 function viewHome() {
   const d = state.data;
   const validOwners = new Set(state.items.map(i => i.id));
-  const totalIssues = state.items.reduce((s, i) => s + issueCount(i), 0);
+  // 收录期数 = 事件 + 弧线 + 全部散刊（含未参与自动合并的散刊）
+  const totalIssues = d.events.reduce((s, e) => s + issueCount(e), 0) +
+                      d.arcs.reduce((s, a) => s + issueCount(a), 0) +
+                      d.standalone.length;
+  // 可勾选期刊 = 事件 + 弧线 + 自动合并组（散刊需先合并才能勾选）
+  const checkable = state.items.reduce((s, i) => s + issueCount(i), 0);
   let read = 0;
   for (const k of state.read) if (validOwners.has(k.split('|')[0])) read++;
-  const pctAll = totalIssues ? Math.round(read / totalIssues * 100) : 0;
+  const pctAll = checkable ? Math.round(read / checkable * 100) : 0;
   const featured = [...d.events].sort((a, b) => issueCount(b) - issueCount(a)).slice(0, 6);
   return `
   <div class="hero">
@@ -754,10 +759,14 @@ function viewArcs() {
 /* ---------- 我的清单 ---------- */
 function viewMyList() {
   const validOwners = new Set(state.items.map(i => i.id));
-  const totalIssues = state.items.reduce((s, i) => s + issueCount(i), 0);
+  const d = state.data;
+  const totalIssues = d.events.reduce((s, e) => s + issueCount(e), 0) +
+                      d.arcs.reduce((s, a) => s + issueCount(a), 0) +
+                      d.standalone.length;
+  const checkable = state.items.reduce((s, i) => s + issueCount(i), 0);
   let read = 0;
   for (const k of state.read) if (validOwners.has(k.split('|')[0])) read++;
-  const pctAll = totalIssues ? Math.round(read / totalIssues * 100) : 0;
+  const pctAll = checkable ? Math.round(read / checkable * 100) : 0;
 
   const perEra = state.data.continuities.map(era => {
     const its = state.items.filter(i => i.era === era.id);
@@ -810,7 +819,7 @@ function viewMyList() {
   return `
   <div class="hero" style="padding-top:10px"><h2 style="font-size:22px">我的清单 <span class="zh">· 进度与自定义阅读清单</span></h2></div>
   <div class="stat-row">
-    <div class="stat"><div class="num" style="color:var(--ok)">${pctAll}%</div><div class="lbl">总进度（${read}/${totalIssues}）</div></div>
+    <div class="stat"><div class="num" style="color:var(--ok)">${pctAll}%</div><div class="lbl">总进度（${read}/${checkable} 可勾选）</div></div>
     <div class="stat"><div class="num">${state.favs.size}</div><div class="lbl">收藏事件</div></div>
     <div class="stat"><div class="num">${state.build.size}</div><div class="lbl">清单内事件</div></div>
   </div>
