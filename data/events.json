@@ -5437,7 +5437,8 @@
   "related": [
    "war-crimes",
    "nightwing-brothers-in-blood",
-   "green-arrow-road-to-jericho"
+   "green-arrow-road-to-jericho",
+   "robin-search-for-a-hero"
   ]
  },
  {
@@ -6753,6 +6754,123 @@
   ],
   "related": [
    "batman-rip"
+  ]
+ },
+ {
+  "id": "robin-search-for-a-hero",
+  "name": "Robin: Search for a Hero",
+  "nameZh": "罗宾：寻找英雄",
+  "kind": "event",
+  "type": "saga",
+  "phases": [
+   {
+    "name": "Search for a Hero",
+    "nameZh": "寻找英雄",
+    "issues": [
+     {
+      "s": "robin-v2",
+      "n": "177",
+      "t": "Search for a Hero, Part 1: The Concrete Cauldron",
+      "d": "2008-10",
+      "p": 1,
+      "c": [
+       "robin-tim",
+       "spoiler"
+      ]
+     },
+     {
+      "s": "robin-v2",
+      "n": "178",
+      "t": "Search for a Hero, Part 2: Life During Wartime",
+      "d": "2008-11",
+      "p": 2,
+      "c": [
+       "robin-tim",
+       "alfred",
+       "gordon",
+       "nightwing",
+       "spoiler"
+      ]
+     },
+     {
+      "s": "robin-v2",
+      "n": "179",
+      "t": "Search for a Hero, Part 3: Chaos in a Bottle",
+      "d": "2008-12",
+      "p": 3,
+      "c": [
+       "robin-tim",
+       "alfred",
+       "spoiler"
+      ]
+     },
+     {
+      "s": "robin-v2",
+      "n": "180",
+      "t": "Search for a Hero, Part 4: Gray Knights",
+      "d": "2009-01",
+      "p": 4,
+      "c": [
+       "robin-tim",
+       "alfred",
+       "gordon",
+       "spoiler"
+      ]
+     },
+     {
+      "s": "robin-v2",
+      "n": "181",
+      "t": "Search for a Hero, Part 5: Pushing Buttons, Pulling Strings",
+      "d": "2009-02",
+      "p": 5,
+      "c": [
+       "robin-tim",
+       "alfred",
+       "gordon",
+       "nightwing",
+       "spoiler"
+      ]
+     },
+     {
+      "s": "robin-v2",
+      "n": "182",
+      "t": "Search for a Hero, Part 6: Lost & Found",
+      "d": "2009-03",
+      "p": 6,
+      "c": [
+       "robin-tim",
+       "alfred",
+       "spoiler"
+      ]
+     },
+     {
+      "s": "robin-v2",
+      "n": "183",
+      "t": "Last Rites, Origins and Omens",
+      "d": "2009-04",
+      "p": null,
+      "c": [
+       "robin-tim",
+       "nightwing",
+       "spoiler"
+      ],
+      "x": "主故事 'Robin Dies at Dawn !'（Robin v2 收官期）"
+     }
+    ]
+   }
+  ],
+  "start": "2008-10",
+  "end": "2009-04",
+  "era": "P52",
+  "earth": "new-earth",
+  "summaryZh": "蒂姆·德雷克在布鲁斯·韦恩（最终危机）失踪后踏上寻找之旅（Robin v2 #177-182「Search for a Hero」六部曲），于 #183 收官并走向红罗宾身份。与「红头罩之下」（杰森·托德）及「红罗宾」（蒂姆转型）联动。",
+  "characters": [
+   "robin-tim",
+   "redhood"
+  ],
+  "related": [
+   "under-the-hood",
+   "red-robin-series"
   ]
  },
  {
@@ -8351,7 +8469,8 @@
   ],
   "related": [
    "battle-for-the-cowl",
-   "return-bruce-wayne"
+   "return-bruce-wayne",
+   "robin-search-for-a-hero"
   ]
  },
  {
