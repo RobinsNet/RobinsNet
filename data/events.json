@@ -1813,7 +1813,11 @@
       "t": "Hitman • Huntress: Exposure • Beggar's Banquet",
       "d": "1996-04",
       "p": null,
-      "c": [],
+      "c": [
+       "batman",
+       "huntress",
+       "robin-tim"
+      ],
       "x": "未编号 tie-in（位于 Part Eight 与 Part Nine 之间，发行时间约 1996-04）"
      },
      {

@@ -374,5 +374,12 @@
   "nameEn": "Green Arrow",
   "realName": "奥利弗·奎恩",
   "color": "#2f9e44"
+ },
+ {
+  "id": "huntress",
+  "nameZh": "女猎手",
+  "nameEn": "Huntress",
+  "realName": "海伦娜·贝尔蒂内利",
+  "color": "#5c7cfa"
  }
 ]
