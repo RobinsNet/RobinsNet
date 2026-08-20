@@ -123,7 +123,7 @@
   {
    "id": "death-in-the-family",
    "name": "A Death in the Family",
-   "nameZh": "蝙蝠侠：家中之死（家族之死）",
+   "nameZh": "蝙蝠侠：家庭之死",
    "era": "P52",
    "earth": "new-earth",
    "type": "mega-event",
@@ -142,7 +142,7 @@
    "phases": [
     {
      "name": "A Death in the Family",
-     "nameZh": "家族之死",
+     "nameZh": "家庭之死",
      "issues": [
       {
        "s": "batman",

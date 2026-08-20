@@ -4303,7 +4303,7 @@
   {
    "id": "detective-v3-lonely-place-of-living",
    "name": "A Lonely Place of Living",
-   "nameZh": "孤独的生存之地",
+   "nameZh": "孤寂生境",
    "kind": "arc",
    "type": "arc",
    "issues": [
@@ -4409,6 +4409,9 @@
     "batman",
     "redrobin",
     "robin-damian"
+   ],
+   "related": [
+    "super-sons-of-tomorrow"
    ]
   },
   {

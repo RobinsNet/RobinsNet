@@ -915,6 +915,108 @@
    ]
   },
   {
+   "id": "super-sons-of-tomorrow",
+   "name": "Super Sons of Tomorrow",
+   "nameZh": "明日双子",
+   "era": "Rebirth",
+   "earth": "earth-0",
+   "type": "crossover",
+   "start": "2018-02",
+   "end": "2018-03",
+   "summaryZh": "来自未来的「明日蝙蝠侠」蒂姆·德雷克穿越回现在，试图阻止超级男孩引发的灾难；超人、超级双子与少年泰坦卷入这场时空冲突。接续《孤寂生境》中蒂姆的回归线索。收录参考：https://dc.fandom.com/wiki/Super_Sons_of_Tomorrow_(Collected)",
+   "characters": [
+    "batman",
+    "superman",
+    "robin-damian",
+    "redrobin",
+    "teentitans"
+   ],
+   "family": "bat-family",
+   "related": [
+    "detective-v3-lonely-place-of-living"
+   ],
+   "phases": [
+    {
+     "name": "Super Sons of Tomorrow",
+     "nameZh": "明日双子",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "superman-v4",
+       "n": "37",
+       "t": "Super Sons of Tomorrow, Part 1: Dark of the Son",
+       "d": "2018-02",
+       "p": 1,
+       "c": [
+        "batman",
+        "superman",
+        "robin-damian",
+        "redrobin"
+       ],
+       "x": "2017-12-20 上市；封面日期 2018-02"
+      },
+      {
+       "s": "super-sons",
+       "n": "11",
+       "t": "Super Sons of Tomorrow, Part 2: Son Down",
+       "d": "2018-02",
+       "p": 2,
+       "c": [
+        "robin-damian",
+        "superman",
+        "redrobin",
+        "teentitans"
+       ],
+       "x": "2017-12-20 上市；封面日期 2018-02"
+      },
+      {
+       "s": "teentitans-v6",
+       "n": "15",
+       "t": "Super Sons of Tomorrow, Part 3: Tomorrow Is Never Promised",
+       "d": "2018-02",
+       "p": 3,
+       "c": [
+        "teentitans",
+        "robin-damian",
+        "redrobin",
+        "superman"
+       ],
+       "x": "2017-12-27 上市；封面日期 2018-02"
+      },
+      {
+       "s": "superman-v4",
+       "n": "38",
+       "t": "Super Sons of Tomorrow, Part 4: Into the Light",
+       "d": "2018-03",
+       "p": 4,
+       "c": [
+        "batman",
+        "superman",
+        "robin-damian",
+        "redrobin",
+        "teentitans"
+       ],
+       "x": "封面日期 2018-03"
+      },
+      {
+       "s": "super-sons",
+       "n": "12",
+       "t": "Super Sons of Tomorrow, Finale: Last Minute Saved",
+       "d": "2018-03",
+       "p": 5,
+       "c": [
+        "robin-damian",
+        "superman",
+        "batman",
+        "teentitans"
+       ],
+       "x": "2018-01-17 上市；封面日期 2018-03；终章/尾声"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "wholaughs",
    "name": "The Batman Who Laughs",
    "nameZh": "笑蝠",
@@ -2824,7 +2926,7 @@
   {
    "id": "detective-v3-lonely-place-of-living",
    "name": "A Lonely Place of Living",
-   "nameZh": "孤独的生存之地",
+   "nameZh": "孤寂生境",
    "era": "Rebirth",
    "earth": "earth-0",
    "type": "arc",
@@ -2835,6 +2937,9 @@
     "batman",
     "redrobin",
     "robin-damian"
+   ],
+   "related": [
+    "super-sons-of-tomorrow"
    ],
    "issues": [
     {
