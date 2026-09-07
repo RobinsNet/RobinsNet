@@ -99,7 +99,7 @@ python3 -m http.server 8123
 {
   "id": "nml",                     // 唯一 id
   "name": "Batman: No Man's Land", // 英文名
-  "nameZh": "无人之地",             // 中文名
+  "nameZh": "无主之地",             // 中文名
   "era": "P52",                    // 时代（continuities.json）
   "earth": "new-earth",            // 地球（earths.json）
   "type": "mega-event",            // mega-event|saga|crossover|arc|series|one-shot|gn
@@ -136,6 +136,4 @@ python3 -m http.server 8123
 
 ## 路线图（可选）
 
-- [ ] 扩充更多时代（黄金/白银/青铜时代代表性弧线）与更多 tie-in 刊
-- [ ] 增加"已购/想读"标签与 CSV 导入导出进度
 - [ ] 事件族谱视图（如 Cataclysm → Road to NML → No Man's Land 的前后关系图）

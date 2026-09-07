@@ -766,430 +766,521 @@
    "nameZh": "战争游戏",
    "era": "P52",
    "earth": "new-earth",
-   "type": "crossover",
-   "start": "2004-10",
+   "type": "mega-event",
+   "start": "2004-03",
    "end": "2005-11",
-   "summaryZh": "黑面具挑动哥谭黑帮爆发全面火并，蝙蝠侠在行动中重伤离场，由神谕与夜翼等人接手指挥。斯波伊勒（Stephanie Brown）成为新任罗宾却在行动中牺牲，蝙蝠侠归来后与黑面具清算，哥谭满目疮痍，红头罩在余波中崛起。",
+   "summaryZh": "战鼓\n蒂姆·德雷克被父亲识破身份后退下罗宾之位，斯蒂芬妮·布朗自荐接任，却在对阵圣甲虫时违抗命令、随即被开除。与此同时，哥谭「山丘」一带帮派蠢蠢欲动，为大战埋下伏笔。\n\n第一幕：爆发\n被开除的斯蒂芬妮以搅局者身份擅自启动蝙蝠侠的全面战争协议「红鸟」，本欲让卧底俄耳甫斯接管帮派会盟，计划却全面失控。全市火并爆发，混战波及校园，蒂姆被迫重披罗宾制服。\n\n第二幕：潮汐\n黑面具闯入会盟杀死俄耳甫斯，夺取其身份与情报网，并俘虏、折磨斯蒂芬妮以逼问蝙蝠侠的全盘布局。宵禁与全市停电接踵而至，企鹅人趁乱掌控电力，蝙蝠家族各自为战。\n\n第三幕：终局\n蝙蝠侠集结家人发起反攻；斯蒂芬妮挣脱后再度对上黑面具，却中枪重伤、不治身亡。黑面具借此巩固地下世界霸权，蝙蝠侠无力挽回，哥谭再无回头路。\n\n战争罪\n战后蝙蝠侠追杀黑面具、清算黑帮残局；莱斯利·汤普金斯刻意延误救治斯蒂芬妮的真相曝光。韦恩与昔日导师决裂，哥谭地下格局被重新洗牌。",
    "characters": [
     "batman",
     "oracle",
     "robin-tim",
+    "robin-stephanie",
+    "spoiler",
     "nightwing",
-    "batgirl",
+    "batgirl-cassandra",
     "blackmask",
     "catwoman",
-    "gordon"
+    "gordon",
+    "alfred"
    ],
    "related": [
-    "war-crimes"
+    "under-the-hood"
    ],
    "phases": [
     {
-     "name": "Act One: Outbreak",
-     "nameZh": "第一幕：爆发",
+     "name": "War Drums",
+     "nameZh": "战鼓",
+     "ordered": true,
      "issues": [
       {
        "s": "detective",
-       "n": "797",
-       "t": "War Games: Act One - Outbreak - Part 1: Flashpoint",
-       "d": "2004-10",
-       "p": 1,
-       "c": [
-        "batman",
-        "oracle"
-       ],
-       "x": "Act One 第一章"
-      },
-      {
-       "s": "Batman: War Games Act One",
-       "n": "1",
-       "t": "Batman: War Games Act One",
-       "d": "2005-02",
+       "n": "790",
+       "t": "Scarification",
+       "d": "2004-03",
        "p": null,
        "c": [
         "batman",
-        "oracle",
-        "blackmask"
-       ],
-       "x": "单刊（one-shot），未编号幕章"
+        "oracle"
+       ]
       },
       {
-       "s": "nightwing-v2",
-       "n": "96",
-       "t": "War Games: Act One - Outbreak, Part 3",
-       "d": "2004-08",
+       "s": "detective",
+       "n": "791",
+       "t": "The Surrogate, Part One: Lost and Found",
+       "d": "2004-04",
+       "p": 1,
+       "c": [
+        "batman",
+        "alfred",
+        "oracle"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "792",
+       "t": "The Surrogate, Part Two: The Blinding",
+       "d": "2004-05",
+       "p": 2,
+       "c": [
+        "batman",
+        "alfred",
+        "oracle"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "793",
+       "t": "The Surrogate, Part Three: Deliverance",
+       "d": "2004-06",
        "p": 3,
        "c": [
-        "nightwing",
+        "batman",
+        "alfred"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "794",
+       "t": "Monsters of Rot, Part One: Cleansing Fires",
+       "d": "2004-07",
+       "p": 1,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "795",
+       "t": "Monsters of Rot, Part Two: Knee Deep",
+       "d": "2004-08",
+       "p": 2,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "detective",
+       "n": "796",
+       "t": "...And Red All Over",
+       "d": "2004-09",
+       "p": null,
+       "c": [
+        "batman",
         "oracle"
-       ],
-       "x": "标题注明 Part 3 of 8"
+       ]
       },
       {
        "s": "robin-v2",
        "n": "126",
-       "t": null,
+       "t": "A Life More Ordinary",
        "d": "2004-07",
        "p": null,
        "c": [
         "robin-stephanie",
-        "batman"
-       ],
-       "x": "同时是 War Drums 尾声（桥接刊）；封面日期为按月推算"
-      },
-      {
-       "s": "batgirl-v1",
-       "n": "57",
-       "t": null,
-       "d": "2004-12",
-       "p": null,
-       "c": [
-        "batgirl",
-        "oracle"
-       ],
-       "x": null
-      },
-      {
-       "s": "catwoman-v3",
-       "n": "34",
-       "t": null,
-       "d": "2004-10",
-       "p": null,
-       "c": [
-        "catwoman"
-       ],
-       "x": null
-      },
-      {
-       "s": "gotham-knights",
-       "n": "56",
-       "t": null,
-       "d": "2004-11",
-       "p": null,
-       "c": [
-        "batman"
-       ],
-       "x": null
-      },
-      {
-       "s": "Batman: Legends of the Dark Knight",
-       "n": "182",
-       "t": null,
-       "d": "2004-11",
-       "p": null,
-       "c": [
-        "batman"
-       ],
-       "x": null
-      }
-     ]
-    },
-    {
-     "name": "Act Two: Tides",
-     "nameZh": "第二幕：潮汐",
-     "issues": [
-      {
-       "s": "Batman: War Games Act Two",
-       "n": "1",
-       "t": "Batman: War Games Act Two",
-       "d": "2005-08",
-       "p": null,
-       "c": [
+        "robin-tim",
         "batman",
-        "oracle",
-        "blackmask"
-       ],
-       "x": "单刊（one-shot），未编号幕章；封面日期 2005-08（GCD）"
-      },
-      {
-       "s": "detective",
-       "n": "798",
-       "t": null,
-       "d": "2004-11",
-       "p": null,
-       "c": [
-        "batman",
-        "oracle"
-       ],
-       "x": null
+        "alfred"
+       ]
       },
       {
        "s": "robin-v2",
        "n": "127",
-       "t": null,
+       "t": "Girl Wonder",
        "d": "2004-08",
        "p": null,
        "c": [
-        "robin-stephanie"
-       ],
-       "x": "封面日期为按月推算"
-      },
-      {
-       "s": "batgirl-v1",
-       "n": "58",
-       "t": null,
-       "d": "2005-01",
-       "p": null,
-       "c": [
-        "batgirl",
-        "oracle"
-       ],
-       "x": null
-      },
-      {
-       "s": "catwoman-v3",
-       "n": "35",
-       "t": null,
-       "d": "2004-11",
-       "p": null,
-       "c": [
-        "catwoman"
-       ],
-       "x": null
-      },
-      {
-       "s": "nightwing-v2",
-       "n": "97",
-       "t": null,
-       "d": "2004-09",
-       "p": null,
-       "c": [
-        "nightwing"
-       ],
-       "x": null
-      },
-      {
-       "s": "gotham-knights",
-       "n": "57",
-       "t": null,
-       "d": "2004-12",
-       "p": null,
-       "c": [
-        "batman"
-       ],
-       "x": null
-      },
-      {
-       "s": "Batman: Legends of the Dark Knight",
-       "n": "183",
-       "t": null,
-       "d": "2004-12",
-       "p": null,
-       "c": [
-        "batman"
-       ],
-       "x": null
-      }
-     ]
-    },
-    {
-     "name": "Act Three: Endgame",
-     "nameZh": "第三幕：终局",
-     "issues": [
-      {
-       "s": "Batman: War Games Act Three",
-       "n": "1",
-       "t": "Batman: War Games Act Three",
-       "d": "2005-11",
-       "p": null,
-       "c": [
+        "robin-stephanie",
+        "robin-tim",
         "batman",
-        "oracle",
-        "blackmask"
-       ],
-       "x": "单刊（one-shot），未编号幕章；封面日期 2005-11（GCD）"
-      },
-      {
-       "s": "detective",
-       "n": "799",
-       "t": null,
-       "d": "2004-12",
-       "p": null,
-       "c": [
-        "batman",
+        "batgirl-cassandra",
         "oracle"
-       ],
-       "x": null
+       ]
       },
       {
        "s": "robin-v2",
        "n": "128",
-       "t": null,
+       "t": "Fired!",
        "d": "2004-09",
        "p": null,
        "c": [
-        "robin-stephanie"
-       ],
-       "x": "封面日期为按月推算"
-      },
-      {
-       "s": "gotham-knights",
-       "n": "58",
-       "t": null,
-       "d": "2005-01",
-       "p": null,
-       "c": [
-        "batman"
-       ],
-       "x": null
-      },
-      {
-       "s": "Batman: Legends of the Dark Knight",
-       "n": "184",
-       "t": null,
-       "d": "2005-01",
-       "p": null,
-       "c": [
-        "batman"
-       ],
-       "x": null
-      },
-      {
-       "s": "detective",
-       "n": "800",
-       "t": null,
-       "d": "2005-01",
-       "p": null,
-       "c": [
+        "robin-stephanie",
+        "robin-tim",
         "batman",
-        "oracle",
-        "blackmask"
-       ],
-       "x": "800 期纪念号；同时是 'Batman: City of Crime' 故事线开篇（续于 #801-808、#811-814）"
-      },
+        "alfred",
+        "batgirl-cassandra"
+       ]
+      }
+     ],
+     "summaryZh": "蒂姆·德雷克被父亲识破身份后退下罗宾之位，斯蒂芬妮·布朗自荐接任，却在对阵圣甲虫时违抗命令、随即被开除。与此同时，哥谭「山丘」一带帮派蠢蠢欲动，为大战埋下伏笔。"
+    },
+    {
+     "name": "Act One: Outbreak",
+     "nameZh": "第一幕：爆发",
+     "ordered": true,
+     "issues": [
       {
-       "s": "robin-v2",
-       "n": "129",
-       "t": null,
+       "s": "Batman: The 12-Cent Adventure",
+       "n": "1",
+       "t": "Prelude: No Help",
        "d": "2004-10",
        "p": null,
        "c": [
-        "robin-stephanie",
-        "batman"
+        "batman",
+        "spoiler",
+        "robin-stephanie"
        ],
-       "x": "封面日期为按月推算"
+       "x": "战争游戏序章"
       },
-      {
-       "s": "batman",
-       "n": "633",
-       "t": "War Games, Act 3, Part 8: No Going Back",
-       "d": "2004-12",
-       "p": 8,
-       "c": [
-        "batman",
-        "blackmask"
-       ],
-       "x": "War Games 终章"
-      }
-     ]
-    },
-    {
-     "name": "Epilogue",
-     "nameZh": "尾声",
-     "issues": [
-      {
-       "s": "batman",
-       "n": "634",
-       "t": "War Games, Epilogue: Decompression",
-       "d": "2005-01",
-       "p": null,
-       "c": [
-        "batman",
-        "oracle"
-       ],
-       "x": null
-      },
-      {
-       "s": "batman",
-       "n": "635",
-       "t": "Under the Hood, Part 1: New Business",
-       "d": "2005-02",
-       "p": null,
-       "c": [
-        "batman",
-        "redhood",
-        "blackmask"
-       ],
-       "x": "红头罩首秀；同时是 'Under the Hood' 第一章，作为 War Games 余波阅读"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "war-crimes",
-   "name": "Batman: War Crimes",
-   "nameZh": "战争罪",
-   "era": "P52",
-   "earth": "new-earth",
-   "type": "crossover",
-   "start": "2005-10",
-   "end": "2005-11",
-   "summaryZh": "「战争游戏」之后，哥谭黑帮残局引发清算，黑面具成为蝙蝠侠的首要目标；斯波伊勒之死的真相浮出水面，蝙蝠侠与黑面具正面交锋，城市黑帮格局被重新洗牌。",
-   "characters": [
-    "batman",
-    "blackmask",
-    "oracle",
-    "gordon",
-    "batgirl"
-   ],
-   "related": [
-    "war-games"
-   ],
-   "phases": [
-    {
-     "name": "War Crimes",
-     "nameZh": "战争罪",
-     "issues": [
       {
        "s": "detective",
-       "n": "809",
-       "t": "War Crimes, Part One",
-       "d": "2005-10",
+       "n": "797",
+       "t": "Part 1: Flashpoint",
+       "d": "2004-10",
        "p": 1,
        "c": [
         "batman",
         "oracle"
-       ],
-       "x": "共 4 部分；另有资料将 Batman #642 与 Detective #811 计入本交叉（6 期版本）"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "182",
+       "t": "Part 2: Behind Enemy Lines",
+       "d": "2004-11",
+       "p": 2,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "96",
+       "t": "Part 3: A Sort of Homecoming",
+       "d": "2004-10",
+       "p": 3,
+       "c": [
+        "nightwing",
+        "batman",
+        "oracle",
+        "robin-tim"
+       ]
+      },
+      {
+       "s": "gotham-knights",
+       "n": "56",
+       "t": "Part 4: Rules of Engagement",
+       "d": "2004-11",
+       "p": 4,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "robin-v2",
+       "n": "129",
+       "t": "Part 5: Alamo High",
+       "d": "2004-10",
+       "p": 5,
+       "c": [
+        "robin-tim"
+       ]
+      },
+      {
+       "s": "batgirl-v1",
+       "n": "55",
+       "t": "Part 6: Total War",
+       "d": "2004-10",
+       "p": 6,
+       "c": [
+        "batgirl-cassandra",
+        "oracle"
+       ]
+      },
+      {
+       "s": "catwoman-v3",
+       "n": "34",
+       "t": "Part 7: Cold Hard Facts",
+       "d": "2004-10",
+       "p": 7,
+       "c": [
+        "catwoman"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "631",
+       "t": "Part 8: Last Stand at Alamo High",
+       "d": "2004-10",
+       "p": 8,
+       "c": [
+        "batman",
+        "robin-stephanie",
+        "nightwing",
+        "oracle"
+       ]
+      }
+     ],
+     "summaryZh": "被开除的斯蒂芬妮以搅局者身份擅自启动蝙蝠侠的全面战争协议「红鸟」，本欲让卧底俄耳甫斯接管帮派会盟，计划却全面失控。全市火并爆发，混战波及校园，蒂姆被迫重披罗宾制服。"
+    },
+    {
+     "name": "Act Two: Tides",
+     "nameZh": "第二幕：潮汐",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "detective",
+       "n": "798",
+       "t": "Part 1: Undertow",
+       "d": "2004-11",
+       "p": 1,
+       "c": [
+        "batman",
+        "oracle",
+        "alfred"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "183",
+       "t": "Part 2: Philosophical Differences",
+       "d": "2004-12",
+       "p": 2,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "97",
+       "t": "Part 3: Clarification",
+       "d": "2004-11",
+       "p": 3,
+       "c": [
+        "nightwing",
+        "batman",
+        "oracle",
+        "robin-tim",
+        "spoiler"
+       ]
+      },
+      {
+       "s": "gotham-knights",
+       "n": "57",
+       "t": "Part 4: The Light at the End of the Tunnel",
+       "d": "2004-12",
+       "p": 4,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "robin-v2",
+       "n": "130",
+       "t": "Part 5: The Only Light in Gotham",
+       "d": "2004-11",
+       "p": 5,
+       "c": [
+        "robin-tim",
+        "spoiler",
+        "oracle"
+       ]
+      },
+      {
+       "s": "batgirl-v1",
+       "n": "56",
+       "t": "Part 6: Collateral Damage",
+       "d": "2004-11",
+       "p": 6,
+       "c": [
+        "batgirl-cassandra",
+        "oracle"
+       ]
+      },
+      {
+       "s": "catwoman-v3",
+       "n": "35",
+       "t": "Part 7: Betrayal",
+       "d": "2004-11",
+       "p": 7,
+       "c": [
+        "catwoman"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "632",
+       "t": "Part 8: Orpheus in the Underworld",
+       "d": "2004-11",
+       "p": 8,
+       "c": [
+        "batman",
+        "blackmask",
+        "oracle"
+       ]
+      }
+     ],
+     "summaryZh": "黑面具闯入会盟杀死俄耳甫斯，夺取其身份与情报网，并俘虏、折磨斯蒂芬妮以逼问蝙蝠侠的全盘布局。宵禁与全市停电接踵而至，企鹅人趁乱掌控电力，蝙蝠家族各自为战。"
+    },
+    {
+     "name": "Act Three: Endgame",
+     "nameZh": "第三幕：终局",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "detective",
+       "n": "799",
+       "t": "Part 1: Good Intentions",
+       "d": "2004-12",
+       "p": 1,
+       "c": [
+        "batman",
+        "oracle",
+        "nightwing"
+       ]
+      },
+      {
+       "s": "legends-dk",
+       "n": "184",
+       "t": "Part 2: The Road to Hell",
+       "d": "2005-01",
+       "p": 2,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "nightwing-v2",
+       "n": "98",
+       "t": "Part 3: Casualty of War",
+       "d": "2004-12",
+       "p": 3,
+       "c": [
+        "nightwing",
+        "batman",
+        "batgirl-cassandra",
+        "catwoman",
+        "oracle",
+        "robin-tim"
+       ]
+      },
+      {
+       "s": "robin-v2",
+       "n": "131",
+       "t": "Part 4: Too Many Ghosts",
+       "d": "2004-12",
+       "p": 4,
+       "c": [
+        "robin-tim",
+        "batman",
+        "oracle",
+        "spoiler"
+       ]
+      },
+      {
+       "s": "gotham-knights",
+       "n": "58",
+       "t": "Part 5: Flight Risk",
+       "d": "2005-01",
+       "p": 5,
+       "c": [
+        "batman"
+       ]
+      },
+      {
+       "s": "batgirl-v1",
+       "n": "57",
+       "t": "Part 6: Ground Zero",
+       "d": "2004-12",
+       "p": 6,
+       "c": [
+        "batgirl-cassandra",
+        "oracle"
+       ]
+      },
+      {
+       "s": "catwoman-v3",
+       "n": "36",
+       "t": "Part 7: Multiple Fronts",
+       "d": "2004-12",
+       "p": 7,
+       "c": [
+        "catwoman"
+       ]
+      },
+      {
+       "s": "batman",
+       "n": "633",
+       "t": "Part 8: No Going Back",
+       "d": "2004-12",
+       "p": 8,
+       "c": [
+        "batman",
+        "blackmask",
+        "alfred",
+        "catwoman",
+        "nightwing",
+        "oracle",
+        "spoiler"
+       ]
+      }
+     ],
+     "summaryZh": "蝙蝠侠集结家人发起反攻；斯蒂芬妮挣脱后再度对上黑面具，却中枪重伤、不治身亡。黑面具借此巩固地下世界霸权，蝙蝠侠无力挽回，哥谭再无回头路。"
+    },
+    {
+     "name": "War Crimes",
+     "nameZh": "战争罪",
+     "ordered": true,
+     "issues": [
+      {
+       "s": "detective",
+       "n": "809",
+       "t": "Part 1: To the Victor Go the Spoils",
+       "d": "2005-10",
+       "p": 1,
+       "c": [
+        "batman",
+        "oracle",
+        "alfred"
+       ]
       },
       {
        "s": "batman",
        "n": "643",
-       "t": null,
+       "t": "Part 2: Minor Discrepancies",
        "d": "2005-10",
        "p": 2,
        "c": [
         "batman",
-        "blackmask"
-       ],
-       "x": "封面日期为推算（与 #644 双月发行）"
+        "blackmask",
+        "alfred"
+       ]
       },
       {
        "s": "detective",
        "n": "810",
-       "t": null,
+       "t": "Part 3: A Consequence of Truth",
        "d": "2005-11",
        "p": 3,
        "c": [
         "batman",
-        "blackmask"
-       ],
-       "x": null
+        "blackmask",
+        "alfred"
+       ]
       },
       {
        "s": "batman",
        "n": "644",
-       "t": "War Crimes, Part 4 of 4: Judgement at Gotham",
+       "t": "Part 4: Judgment at Gotham",
        "d": "2005-10",
        "p": 4,
        "c": [
         "batman",
-        "blackmask"
-       ],
-       "x": null
+        "blackmask",
+        "alfred"
+       ]
       }
-     ]
+     ],
+     "summaryZh": "战后蝙蝠侠追杀黑面具、清算黑帮残局；莱斯利·汤普金斯刻意延误救治斯蒂芬妮的真相曝光。韦恩与昔日导师决裂，哥谭地下格局被重新洗牌。"
     }
    ]
   },
@@ -1219,7 +1310,8 @@
    "related": [
     "nightwing-brothers-in-blood",
     "green-arrow-road-to-jericho",
-    "robin-search-for-a-hero"
+    "robin-search-for-a-hero",
+    "war-games"
    ],
    "phases": [
     {
@@ -2131,143 +2223,6 @@
  ],
  "arcs": [
   {
-   "id": "war-drums",
-   "name": "Batman: War Drums",
-   "nameZh": "战鼓",
-   "era": "P52",
-   "earth": "new-earth",
-   "type": "arc",
-   "start": "2004-05",
-   "end": "2004-11",
-   "summaryZh": "「战争游戏」前奏：斯波伊勒·布朗（Spoiler）证明自己足以胜任罗宾之位，在提姆·德雷克暂退后成为新任罗宾；哥谭帮派势力蠢蠢欲动，为大战埋下伏笔。",
-   "characters": [
-    "robin-tim",
-    "batgirl",
-    "batman",
-    "oracle",
-    "blackmask"
-   ],
-   "issues": [
-    {
-     "s": "robin-v2",
-     "n": "124",
-     "t": "War Drums",
-     "d": "2004-05",
-     "p": 1,
-     "c": [
-      "robin-tim",
-      "batman"
-     ]
-    },
-    {
-     "s": "robin-v2",
-     "n": "125",
-     "t": "War Drums",
-     "d": "2004-06",
-     "p": 2,
-     "c": [
-      "robin-tim",
-      "batman"
-     ]
-    },
-    {
-     "s": "robin-v2",
-     "n": "126",
-     "t": "War Drums",
-     "d": "2004-07",
-     "p": 3,
-     "c": [
-      "robin-tim",
-      "batgirl"
-     ]
-    },
-    {
-     "s": "gotham-knights",
-     "n": "52",
-     "t": null,
-     "d": "2004-07",
-     "p": null,
-     "c": [
-      "batman"
-     ]
-    },
-    {
-     "s": "gotham-knights",
-     "n": "53",
-     "t": null,
-     "d": "2004-08",
-     "p": null,
-     "c": [
-      "batman"
-     ]
-    },
-    {
-     "s": "gotham-knights",
-     "n": "54",
-     "t": null,
-     "d": "2004-09",
-     "p": null,
-     "c": [
-      "batman"
-     ]
-    },
-    {
-     "s": "gotham-knights",
-     "n": "55",
-     "t": null,
-     "d": "2004-10",
-     "p": null,
-     "c": [
-      "batman"
-     ]
-    },
-    {
-     "s": "batgirl-v1",
-     "n": "55",
-     "t": null,
-     "d": "2004-10",
-     "p": null,
-     "c": [
-      "batgirl",
-      "oracle"
-     ]
-    },
-    {
-     "s": "batgirl-v1",
-     "n": "56",
-     "t": null,
-     "d": "2004-11",
-     "p": null,
-     "c": [
-      "batgirl",
-      "oracle"
-     ]
-    },
-    {
-     "s": "batman",
-     "n": "631",
-     "t": "Last Stand at Alamo High, Part One",
-     "d": "2004-10",
-     "p": 1,
-     "c": [
-      "batman",
-      "robin-tim"
-     ]
-    },
-    {
-     "s": "batman",
-     "n": "632",
-     "t": "Last Stand at Alamo High, Part Two",
-     "d": "2004-11",
-     "p": 2,
-     "c": [
-      "batman",
-      "blackmask"
-     ]
-    }
-   ]
-  },
-  {
    "id": "nightwing-year-one",
    "name": "Nightwing: Year One",
    "nameZh": "夜翼：元年",
@@ -2686,6 +2641,7 @@
   }
  ],
  "sources": [
+  "https://dc.fandom.com/wiki/Batman:_War_Games",
   "https://en.wikipedia.org/wiki/Batman:_Hush",
   "https://en.wikipedia.org/wiki/Bruce_Wayne:_Murderer%3F",
   "https://en.wikipedia.org/wiki/Bruce_Wayne:_Fugitive",

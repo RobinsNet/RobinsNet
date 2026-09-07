@@ -239,6 +239,7 @@ function matchesFilters(item) {
   if (f.q) {
     const q = f.q.toLowerCase();
     const hay = [item.name, item.nameZh, item.summaryZh,
+      ...(item.phases || []).map(p => p.summaryZh || ''),
       [...seriesSetOf(item)].join(' '),
       [...charSetOf(item)].map(c => charInfo(c).nameZh + ' ' + charInfo(c).nameEn + ' ' + personOf(c).nameZh + ' ' + personOf(c).nameEn).join(' ')
     ].join(' ').toLowerCase();
@@ -623,7 +624,7 @@ function viewEvent() {
   } else if (it.phases) {
     body = it.phases.map((p, pi) => {
       const pIss = visible.filter(iss => iss._pi === pi);
-      return `<div class="phase-block"><div class="phase-head"><h3>${esc(p.nameZh)}</h3><span class="en">${esc(p.name)}</span><span class="pcount">${pIss.length} / ${p.issues.length} 期</span></div>${issueTable(pIss)}</div>`;
+      return `<div class="phase-block"><div class="phase-head"><h3>${esc(p.nameZh)}</h3><span class="en">${esc(p.name)}</span><span class="pcount">${pIss.length} / ${p.issues.length} 期</span></div>${p.summaryZh ? `<p class="phase-summary">${esc(p.summaryZh)}</p>` : ''}${issueTable(pIss)}</div>`;
     }).join('');
   } else {
     body = `<div class="phase-block"><div class="phase-head"><h3>全部期数</h3><span class="pcount">${visible.length} 期</span></div>${issueTable(visible)}</div>`;
@@ -709,7 +710,7 @@ function viewTimeline() {
           <div class="tl-title">${esc(it.name)}<span class="zh">${esc(it.nameZh)}</span></div>
           <div class="tl-meta"><span class="badge type-${it.type}">${typeZh(it.type)}</span><span>${esc(it.start || '?')} ~ ${esc(it.end || '?')}</span><span>${issueCount(it)} 期</span>
           <span class="pbar tl-pbar" style="margin:0"><i style="width:${pct}%"></i></span></div>
-          ${it.summaryZh ? `<div class="tl-summary">${esc(it.summaryZh.slice(0, 80))}${it.summaryZh.length > 80 ? '…' : ''}</div>` : ''}
+          ${it.summaryZh ? `<div class="tl-summary">${esc(it.summaryZh.replace(/\s+/g, ' ').slice(0, 80))}${it.summaryZh.replace(/\s+/g, ' ').length > 80 ? '…' : ''}</div>` : ''}
         </div></div>`;
       }).join('')}</div></div>`;
   }
@@ -898,6 +899,7 @@ function exportIssues(item) {
       const pIss = visible.filter(iss => iss._pi === pi);
       if (!pIss.length) return;
       lines.push(`\n【${p.nameZh}】`);
+      if (p.summaryZh) lines.push(p.summaryZh);
       pIss.forEach(iss => {
         n++;
         lines.push(`${String(n).padStart(3)}. ${seriesName(iss.s)} #${iss.n} (${iss.d || '?'}) — ${iss.t || '(无标题)'}${iss.p ? ` [Part ${iss.p}]` : ''}${iss.x ? `  ※${iss.x}` : ''}`);

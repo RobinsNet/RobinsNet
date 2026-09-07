@@ -1821,152 +1821,6 @@
    ]
   },
   {
-   "id": "war-drums",
-   "name": "Batman: War Drums",
-   "nameZh": "战鼓",
-   "kind": "arc",
-   "type": "arc",
-   "issues": [
-    {
-     "s": "robin-v2",
-     "n": "124",
-     "t": "War Drums",
-     "d": "2004-05",
-     "p": 1,
-     "c": [
-      "robin-tim",
-      "batman",
-      "alfred"
-     ]
-    },
-    {
-     "s": "robin-v2",
-     "n": "125",
-     "t": "War Drums",
-     "d": "2004-06",
-     "p": 2,
-     "c": [
-      "robin-tim",
-      "batman",
-      "alfred",
-      "nightwing"
-     ]
-    },
-    {
-     "s": "robin-v2",
-     "n": "126",
-     "t": "War Drums",
-     "d": "2004-07",
-     "p": 3,
-     "c": [
-      "robin-tim",
-      "batgirl-cassandra",
-      "alfred",
-      "batman"
-     ]
-    },
-    {
-     "s": "gotham-knights",
-     "n": "52",
-     "t": null,
-     "d": "2004-07",
-     "p": null,
-     "c": [
-      "batman"
-     ]
-    },
-    {
-     "s": "gotham-knights",
-     "n": "53",
-     "t": null,
-     "d": "2004-08",
-     "p": null,
-     "c": [
-      "batman"
-     ]
-    },
-    {
-     "s": "gotham-knights",
-     "n": "54",
-     "t": null,
-     "d": "2004-09",
-     "p": null,
-     "c": [
-      "batman"
-     ]
-    },
-    {
-     "s": "gotham-knights",
-     "n": "55",
-     "t": null,
-     "d": "2004-10",
-     "p": null,
-     "c": [
-      "batman"
-     ]
-    },
-    {
-     "s": "batgirl-v1",
-     "n": "55",
-     "t": null,
-     "d": "2004-10",
-     "p": null,
-     "c": [
-      "batgirl-cassandra",
-      "oracle"
-     ]
-    },
-    {
-     "s": "batman",
-     "n": "631",
-     "t": "Last Stand at Alamo High, Part One",
-     "d": "2004-10",
-     "p": 1,
-     "c": [
-      "batman",
-      "robin-tim",
-      "nightwing",
-      "oracle"
-     ]
-    },
-    {
-     "s": "batgirl-v1",
-     "n": "56",
-     "t": null,
-     "d": "2004-11",
-     "p": null,
-     "c": [
-      "batgirl-cassandra",
-      "oracle"
-     ]
-    },
-    {
-     "s": "batman",
-     "n": "632",
-     "t": "Last Stand at Alamo High, Part Two",
-     "d": "2004-11",
-     "p": 2,
-     "c": [
-      "batman",
-      "blackmask",
-      "oracle"
-     ]
-    }
-   ],
-   "start": "2004-05",
-   "end": "2004-11",
-   "era": "P52",
-   "earth": "new-earth",
-   "summaryZh": "「战争游戏」前奏：斯波伊勒·布朗（Spoiler）证明自己足以胜任罗宾之位，在提姆·德雷克暂退后成为新任罗宾；哥谭帮派势力蠢蠢欲动，为大战埋下伏笔。",
-   "characters": [
-    "robin-tim",
-    "batgirl-cassandra",
-    "batman",
-    "oracle",
-    "blackmask"
-   ]
-  },
-  {
    "id": "as-the-crow-flies",
    "name": "Batman: As the Crow Flies",
    "nameZh": "乌鸦飞行",
@@ -11157,17 +11011,6 @@
    ]
   },
   {
-   "s": "detective",
-   "n": "790",
-   "t": "Scarification",
-   "d": "2004-03",
-   "p": null,
-   "c": [
-    "batman",
-    "oracle"
-   ]
-  },
-  {
    "s": "nightwing-v2",
    "n": "89",
    "t": "Avalanche",
@@ -11188,18 +11031,6 @@
     "alfred",
     "batman",
     "spoiler"
-   ]
-  },
-  {
-   "s": "detective",
-   "n": "791",
-   "t": "The Surrogate, Part One: Lost and Found",
-   "d": "2004-04",
-   "p": null,
-   "c": [
-    "batman",
-    "alfred",
-    "oracle"
    ]
   },
   {
@@ -11225,18 +11056,6 @@
    ]
   },
   {
-   "s": "detective",
-   "n": "792",
-   "t": "The Surrogate, Part Two: The Blinding",
-   "d": "2004-05",
-   "p": null,
-   "c": [
-    "batman",
-    "alfred",
-    "oracle"
-   ]
-  },
-  {
    "s": "nightwing-v2",
    "n": "91",
    "t": "Rekindle",
@@ -11248,14 +11067,14 @@
    ]
   },
   {
-   "s": "detective",
-   "n": "793",
-   "t": "The Surrogate, Part Three: Deliverance",
-   "d": "2004-06",
+   "s": "robin-v2",
+   "n": "124",
+   "t": "Good Parenting",
+   "d": "2004-05",
    "p": null,
    "c": [
-    "batman",
-    "alfred"
+    "alfred",
+    "batman"
    ]
   },
   {
@@ -11269,13 +11088,15 @@
    ]
   },
   {
-   "s": "detective",
-   "n": "794",
-   "t": "Monsters of Rot, Part One: Cleansing Fires",
-   "d": "2004-07",
+   "s": "robin-v2",
+   "n": "125",
+   "t": "In the Shadow of Two Fathers",
+   "d": "2004-06",
    "p": null,
    "c": [
-    "batman"
+    "alfred",
+    "batman",
+    "nightwing"
    ]
   },
   {
@@ -11289,16 +11110,6 @@
    ]
   },
   {
-   "s": "detective",
-   "n": "795",
-   "t": "Monsters of Rot, Part Two: Knee Deep",
-   "d": "2004-08",
-   "p": null,
-   "c": [
-    "batman"
-   ]
-  },
-  {
    "s": "nightwing-v2",
    "n": "94",
    "t": "Road to Nowhere, Part One of Two",
@@ -11306,17 +11117,6 @@
    "p": null,
    "c": [
     "nightwing",
-    "oracle"
-   ]
-  },
-  {
-   "s": "detective",
-   "n": "796",
-   "t": "...And Red All Over",
-   "d": "2004-09",
-   "p": null,
-   "c": [
-    "batman",
     "oracle"
    ]
   },
@@ -11332,39 +11132,26 @@
    ]
   },
   {
-   "s": "robin-v2",
-   "n": "130",
-   "t": "War Games : Act 2, Part 5 of 8: The Only Light in Gotham",
-   "d": "2004-11",
+   "s": "detective",
+   "n": "800",
+   "t": "Alone at Night",
+   "d": "2005-01",
    "p": null,
    "c": [
-    "spoiler",
-    "oracle"
-   ]
-  },
-  {
-   "s": "nightwing-v2",
-   "n": "98",
-   "t": "War Games : Act 3, Part 3 of 8: Casualty of War",
-   "d": "2004-12",
-   "p": null,
-   "c": [
-    "nightwing",
     "batman",
     "catwoman",
-    "oracle"
+    "gordon"
    ]
   },
   {
-   "s": "robin-v2",
-   "n": "131",
-   "t": "War Games : Act 3, Part 4 of 8: Too Many Ghosts",
-   "d": "2004-12",
+   "s": "batman",
+   "n": "634",
+   "t": "War Games, Epilogue: Decompression",
+   "d": "2005-01",
    "p": null,
    "c": [
     "batman",
-    "oracle",
-    "spoiler"
+    "alfred"
    ]
   },
   {
