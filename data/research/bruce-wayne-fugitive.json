@@ -1,0 +1,91 @@
+{
+ "events": [
+  {
+   "id": "bruce-wayne-fugitive",
+   "name": "Bruce Wayne: Fugitive",
+   "nameZh": "布鲁斯·韦恩：逃犯",
+   "era": "P52",
+   "earth": "new-earth",
+   "type": "crossover",
+   "start": "2002-03",
+   "end": "2002-12",
+   "summaryZh": "韦斯珀·费尔柴尔德在韦恩庄园遇害后，布鲁斯·韦恩被控谋杀并越狱潜逃。蝙蝠家族一面追查真凶，一面试图阻止布鲁斯彻底舍弃自己的平民身份；事件分为「杀人犯？」、「逃犯」与「余波」三个阶段。",
+   "characters": [
+    "batman",
+    "alfred",
+    "gordon",
+    "oracle",
+    "nightwing",
+    "robin-tim",
+    "batgirl",
+    "azrael"
+   ],
+   "phases": [
+    {
+     "name": "Bruce Wayne: Murderer?",
+     "nameZh": "布鲁斯·韦恩：杀人犯？",
+     "ordered": true,
+     "issues": [
+      { "s": "Batman: The 10-Cent Adventure", "n": "1", "t": "The Fool's Errand", "d": "2002-03", "p": null, "c": ["batman"], "x": "Part 0" },
+      { "s": "detective", "n": "766", "t": null, "d": "2002-03", "p": 1, "c": ["batman", "gordon"] },
+      { "s": "batgirl-v1", "n": "24", "t": null, "d": "2002-03", "p": 2, "c": ["batgirl"] },
+      { "s": "nightwing-v2", "n": "65", "t": null, "d": "2002-03", "p": 3, "c": ["nightwing", "oracle"] },
+      { "s": "gotham-knights", "n": "25", "t": null, "d": "2002-03", "p": 4, "c": ["batman", "gordon"] },
+      { "s": "birds-of-prey", "n": "39", "t": null, "d": "2002-03", "p": 5, "c": ["oracle", "nightwing"] },
+      { "s": "robin-v2", "n": "98", "t": null, "d": "2002-03", "p": 6, "c": ["robin-tim", "batman"] },
+      { "s": "batman", "n": "599", "t": null, "d": "2002-03", "p": 7, "c": ["batman", "alfred", "gordon"] },
+      { "s": "detective", "n": "767", "t": null, "d": "2002-04", "p": 8, "c": ["batman"] },
+      { "s": "nightwing-v2", "n": "66", "t": null, "d": "2002-04", "p": 9, "c": ["nightwing", "oracle"] },
+      { "s": "gotham-knights", "n": "26", "t": null, "d": "2002-04", "p": 10, "c": ["batman", "gordon"] },
+      { "s": "robin-v2", "n": "99", "t": null, "d": "2002-04", "p": 11, "c": ["robin-tim", "oracle"] },
+      { "s": "birds-of-prey", "n": "40", "t": null, "d": "2002-04", "p": 12, "c": ["oracle", "nightwing"] }
+     ]
+    },
+    {
+     "name": "Bruce Wayne: Fugitive",
+     "nameZh": "布鲁斯·韦恩：逃犯",
+     "ordered": true,
+     "issues": [
+      { "s": "batman", "n": "600", "t": null, "d": "2002-04", "p": 13, "c": ["batman", "gordon"] },
+      { "s": "birds-of-prey", "n": "41", "t": null, "d": "2002-05", "p": 14, "c": ["oracle"] },
+      { "s": "gotham-knights", "n": "27", "t": null, "d": "2002-05", "p": 15, "c": ["batman"] },
+      { "s": "batman", "n": "601", "t": null, "d": "2002-05", "p": 16, "c": ["batman", "gordon"] },
+      { "s": "detective", "n": "769", "t": null, "d": "2002-06", "p": 17, "c": ["batman"] },
+      { "s": "batgirl-v1", "n": "27", "t": null, "d": "2002-06", "p": 18, "c": ["batgirl"] },
+      { "s": "nightwing-v2", "n": "68", "t": null, "d": "2002-06", "p": 19, "c": ["nightwing", "oracle"] },
+      { "s": "gotham-knights", "n": "28", "t": null, "d": "2002-06", "p": 20, "c": ["batman", "gordon"] },
+      { "s": "detective", "n": "770", "t": null, "d": "2002-07", "p": 21, "c": ["batman"] },
+      { "s": "nightwing-v2", "n": "69", "t": null, "d": "2002-07", "p": 22, "c": ["nightwing"] },
+      { "s": "birds-of-prey", "n": "43", "t": null, "d": "2002-07", "p": 23, "c": ["oracle", "nightwing"] },
+      { "s": "batman", "n": "603", "t": null, "d": "2002-07", "p": 24, "c": ["batman"] },
+      { "s": "detective", "n": "771", "t": null, "d": "2002-08", "p": 25, "c": ["batman"] },
+      { "s": "batgirl-v1", "n": "29", "t": null, "d": "2002-08", "p": 26, "c": ["batgirl"] },
+      { "s": "gotham-knights", "n": "30", "t": null, "d": "2002-08", "p": 27, "c": ["batman"] },
+      { "s": "azrael", "n": "91", "t": null, "d": "2002-08", "p": 28, "c": ["azrael"] },
+      { "s": "detective", "n": "772", "t": null, "d": "2002-09", "p": 29, "c": ["batman"] },
+      { "s": "gotham-knights", "n": "31", "t": null, "d": "2002-09", "p": 30, "c": ["batman"] },
+      { "s": "batman", "n": "605", "t": null, "d": "2002-09", "p": 31, "c": ["batman", "nightwing", "oracle"] }
+     ]
+    },
+    {
+     "name": "Aftermath",
+     "nameZh": "余波",
+     "ordered": true,
+     "issues": [
+      { "s": "detective", "n": "773", "t": null, "d": "2002-10", "p": 32, "c": ["batman"] },
+      { "s": "detective", "n": "774", "t": null, "d": "2002-11", "p": 33, "c": ["batman"] },
+      { "s": "detective", "n": "775", "t": null, "d": "2002-12", "p": 34, "c": ["batman", "oracle"] },
+      { "s": "batman", "n": "606", "t": null, "d": "2002-10", "p": 35, "c": ["batman", "oracle"] },
+      { "s": "batman", "n": "607", "t": null, "d": "2002-11", "p": 36, "c": ["batman"] },
+      { "s": "batgirl-v1", "n": "33", "t": null, "d": "2002-12", "p": 37, "c": ["batgirl"] }
+     ]
+    }
+   ]
+  }
+ ],
+ "arcs": [],
+ "standalone": [],
+ "sources": [
+  "https://dc.fandom.com/wiki/Bruce_Wayne:_Fugitive"
+ ]
+}

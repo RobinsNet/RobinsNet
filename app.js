@@ -11,7 +11,7 @@ const MEGA_TYPES = ['mega-event', 'saga', 'crossover'];
 
 const state = {
   data: null, groups: [], items: [],
-  view: 'home', current: null, arcTab: 'curated',
+  view: 'timeline', current: null,
   filters: { q: '', eras: [], types: [], chars: [], earths: [], series: [], onlyMega: false, from: '', to: '' },
   read: new Set(), favs: new Set(), build: new Set(),
   evPerson: null, evChar: null, evSeries: '', evUnreadOnly: false, evBySeries: false,
@@ -257,10 +257,10 @@ function bindUI() {
     const b = e.target.closest('button[data-view]');
     if (b) { state.view = b.dataset.view; render(); }
   });
-  document.querySelector('.brand').addEventListener('click', () => { state.view = 'home'; render(); });
+  document.querySelector('.brand').addEventListener('click', () => { state.view = 'timeline'; render(); });
   $('#search').addEventListener('input', e => {
     state.filters.q = e.target.value.trim();
-    if (state.view === 'home' || state.view === 'event') state.view = 'events';
+    if (state.view === 'about' || state.view === 'event') state.view = 'timeline';
     render();
   });
   $('#main').addEventListener('click', onMainClick);
@@ -289,13 +289,6 @@ function onMainClick(e) {
     render();
     return;
   }
-  if (t.dataset && t.dataset.action === 'open-era') {
-    state.filters.eras = [t.dataset.era];
-    state.view = 'events';
-    render();
-    scrollTop();
-    return;
-  }
   const actionEl = t.closest('[data-action]');
   if (actionEl) {
     const a = actionEl.dataset.action;
@@ -303,7 +296,6 @@ function onMainClick(e) {
     if (a === 'nav') { state.view = actionEl.dataset.view; render(); return; }
     if (a === 'open') { state.current = id; state.view = 'event'; render(); scrollTop(); return; }
     if (a === 'fav') { toggleFav(id); render(); return; }
-    if (a === 'tab') { state.arcTab = actionEl.dataset.tab; render(); return; }
     if (a === 'mark') { markAll(id, actionEl.dataset.val === '1'); render(); return; }
     if (a === 'export-text') { exportText(id); return; }
     if (a === 'export-csv') { exportCsv(id); return; }
@@ -399,13 +391,10 @@ function render() {
   renderNav();
   const main = $('#main');
   switch (state.view) {
-    case 'events': main.innerHTML = viewEvents(); break;
     case 'event': main.innerHTML = viewEvent(); break;
-    case 'timeline': main.innerHTML = viewTimeline(); break;
-    case 'arcs': main.innerHTML = viewArcs(); break;
     case 'mylist': main.innerHTML = viewMyList(); break;
     case 'about': main.innerHTML = viewAbout(); break;
-    default: main.innerHTML = viewHome();
+    default: main.innerHTML = viewTimeline();
   }
 }
 function renderNav() {
@@ -415,7 +404,7 @@ function renderNav() {
 }
 function renderFilterbar() {
   const fb = $('#filterbar');
-  if (state.view === 'event') { fb.style.display = 'none'; return; }
+  if (state.view === 'event' || state.view === 'about') { fb.style.display = 'none'; return; }
   fb.style.display = 'flex';
   const f = state.filters;
   const eras = state.data.continuities;
@@ -499,75 +488,6 @@ function itemCard(it) {
   </div>`;
 }
 
-/* ---------- 总览 ---------- */
-function viewHome() {
-  const d = state.data;
-  const validOwners = new Set(state.items.map(i => i.id));
-  // 收录期数 = 事件 + 弧线 + 全部散刊（含未参与自动合并的散刊）
-  const totalIssues = d.events.reduce((s, e) => s + issueCount(e), 0) +
-                      d.arcs.reduce((s, a) => s + issueCount(a), 0) +
-                      d.standalone.length;
-  // 可勾选期刊 = 事件 + 弧线 + 自动合并组（散刊需先合并才能勾选）
-  const checkable = state.items.reduce((s, i) => s + issueCount(i), 0);
-  let read = 0;
-  for (const k of state.read) if (validOwners.has(k.split('|')[0])) read++;
-  const pctAll = checkable ? Math.round(read / checkable * 100) : 0;
-  const featured = [...d.events].sort((a, b) => issueCount(b) - issueCount(a)).slice(0, 6);
-  return `
-  <div class="hero">
-    <h2>蝙蝠家族 <span class="zh">跨刊事件阅读指南</span></h2>
-    <p class="subtitle">以蝙蝠侠 / 夜翼 / 红头罩 / 罗宾 / 红罗宾为核心 · 覆盖后危机时代至今（P52 → New 52 → Rebirth → 黎明 → 绝对宇宙）</p>
-    <div class="stat-row">
-      <div class="stat"><div class="num">${d.events.length}</div><div class="lbl">大事件 / 弧线</div></div>
-      <div class="stat"><div class="num">${d.arcs.length}</div><div class="lbl">策划单元弧线</div></div>
-      <div class="stat"><div class="num">${state.groups.length}</div><div class="lbl">自动合并连续篇</div></div>
-      <div class="stat"><div class="num">${totalIssues}</div><div class="lbl">收录期数</div></div>
-      <div class="stat"><div class="num" style="color:var(--ok)">${pctAll}%</div><div class="lbl">阅读进度</div></div>
-    </div>
-  </div>
-  <div class="sec"><h3>按时代浏览</h3>
-    <div class="era-grid">
-      ${d.continuities.map(e => {
-        const n = state.items.filter(i => i.era === e.id).length;
-        return `<div class="era-card" style="--ec:${e.color}" data-action="open-era" data-era="${e.id}">
-          <h3>${e.nameZh}</h3><div class="en">${e.nameEn}</div>
-          <div class="range">${e.range}</div>
-          <div class="count">${n} 个事件 / 弧线</div></div>`;
-      }).join('')}
-    </div>
-  </div>
-  <div class="sec"><h3>大事件速览（按期数最多）</h3>
-    <div class="card-grid">${featured.map(itemCard).join('')}</div>
-  </div>
-  <div class="sec"><h3>使用提示</h3>
-    <div class="about-card">
-      <ul>
-        <li><b>事件库</b>：选择大事件（如 No Man's Land、Knightfall）→ 得到跨刊交错排列的完整阅读顺序与当期标题。</li>
-        <li><b>时间线</b>：所有事件/弧线按封面日期排序，按时代分区。</li>
-        <li><b>单元弧线</b>：标题带 Part One/Two 的散刊会被自动合并成连续篇。</li>
-        <li><b>人物/称号</b>：筛选条按"人物"分组（如斯蒂芬妮·布朗），可进一步选具体称号时期（搅局者 / 罗宾 / 蝙蝠女）。</li>
-        <li><b>筛选</b>：顶部可按 时代 / 人物·称号 / 类型 / 地球 / 刊物 / 月份 组合筛选；勾选期刊可记录进度（保存在本机）。</li>
-      </ul>
-    </div>
-  </div>`;
-}
-
-/* ---------- 事件库 ---------- */
-function viewEvents() {
-  const evs = filteredItems(['event']);
-  const arcs = filteredItems(['arc']);
-  const groups = filteredItems(['group']);
-  const onlyEvent = state.filters.onlyMega;
-  let html = `<div class="hero" style="padding-top:10px"><h2 style="font-size:22px">事件库 <span class="zh">· ${evs.length} 个大事件 / 弧线</span></h2></div>`;
-  if (!evs.length && !arcs.length && !groups.length) {
-    return html + `<div class="empty"><div class="big">🦇</div><p>没有符合当前筛选的事件，试试重置筛选。</p></div>`;
-  }
-  if (evs.length) html += `<div class="sec"><h3>大事件与弧线（${evs.length}）</h3><div class="card-grid">${evs.map(itemCard).join('')}</div></div>`;
-  if (arcs.length && !onlyEvent) html += `<div class="sec"><h3>策划单元弧线（${arcs.length}）</h3><div class="card-grid">${arcs.map(itemCard).join('')}</div></div>`;
-  if (groups.length && !onlyEvent) html += `<div class="sec"><h3>自动合并连续篇（${groups.length}）</h3><div class="card-grid">${groups.map(itemCard).join('')}</div></div>`;
-  return html;
-}
-
 /* ---------- 事件详情 ---------- */
 function viewEvent() {
   const it = itemById(state.current);
@@ -631,7 +551,7 @@ function viewEvent() {
   }
 
   return `
-  <a class="backlink" data-action="nav" data-view="events">← 返回事件库</a>
+  <a class="backlink" data-action="nav" data-view="timeline">← 返回时间线</a>
   <div class="detail-head">
     <h2>${esc(it.name)}</h2>
     <div class="zh-line">${esc(it.nameZh)}</div>
@@ -718,45 +638,6 @@ function viewTimeline() {
   return html;
 }
 
-/* ---------- 单元弧线 ---------- */
-function viewArcs() {
-  const curated = state.data.arcs.filter(matchesFilters);
-  const groups = state.groups.filter(matchesFilters);
-  const stItems = (state.data.standalone || []).map(iss => ({
-    id: 'st:' + seriesName(iss.s) + ':' + iss.n,
-    kind: 'one-shot', name: iss.t || '(无标题)', nameZh: '',
-    type: 'one-shot', era: iss.era || eraFromDate(iss.d) || 'P52',
-    earth: (iss.era || eraFromDate(iss.d) || 'P52') === 'P52' ? 'new-earth' : 'earth-0',
-    start: iss.d || '', end: iss.d || '', summaryZh: '',
-    characters: iss.c || [], issues: [iss]
-  })).filter(matchesFilters);
-  const st = stItems;
-  const tabs = [['curated', `策划弧线 ${curated.length}`], ['auto', `自动合并连续篇 ${groups.length}`], ['standalone', `散刊 ${st.length}`]];
-  let body = '';
-  if (state.arcTab === 'auto') {
-    body = groups.length ? groups.map(g => {
-      const era = eraInfo(g.era);
-      return `<div class="group-card"><div class="gname"><span class="q">「</span>${esc(g.name)}<span class="q">」</span> <span class="zh" style="color:var(--text2);font-size:12.5px">${esc(g.nameZh.replace('（自动合并）', ''))}</span></div>
-      <div class="gmeta">${era.nameZh} · ${esc(g.start)} ~ ${esc(g.end)} · ${g.issues.length} 期</div>
-      <div class="merge-note">🤖 自动合并：以下 ${g.issues.length} 期因故事标题连续（Part One/Two…）归并为同一单元事件</div>
-      ${issueTable(flatIssues(g))}</div>`;
-    }).join('') : `<div class="empty"><p>暂无自动合并分组。散刊中标题带 Part One/Two 的故事会被合并到这里。</p></div>`;
-  } else if (state.arcTab === 'standalone') {
-    body = st.length ? `<table class="issue-table"><thead><tr><th>刊物</th><th>期号</th><th>故事标题</th><th>日期</th><th>人物</th></tr></thead><tbody>
-      ${st.map(it => { const iss = it.issues[0]; return `<tr><td class="ser">${esc(seriesName(iss.s))}</td><td class="no">#${esc(iss.n)}</td>
-      <td class="title">${esc(iss.t || '—')}${iss.p ? `<span class="part-badge">Part ${iss.p}</span>` : ''}</td>
-      <td class="date">${esc(iss.d || '?')}</td><td><span class="cdotts">${(iss.c || []).map(c => { const ci = charInfo(c); return `<span class="cdot" style="background:${ci.color}" title="${esc(ci.nameZh)}"></span>`; }).join('')}</span></td></tr>`; }).join('')}
-    </tbody></table>` : `<div class="empty"><p>暂无散刊。</p></div>`;
-  } else {
-    body = curated.length ? `<div class="card-grid">${curated.map(itemCard).join('')}</div>` : `<div class="empty"><p>暂无策划弧线。</p></div>`;
-  }
-  return `
-  <div class="hero" style="padding-top:10px"><h2 style="font-size:22px">单元弧线 <span class="zh">· 大事件之外的故事连续性</span></h2>
-  <p class="subtitle">许多多期故事标题带 Part One/Two/Three，本页自动将其合并为单元事件，便于整段阅读。</p></div>
-  <div class="tabs">${tabs.map(([k, l]) => `<button class="tab ${state.arcTab === k ? 'on' : ''}" data-action="tab" data-tab="${k}">${l}</button>`).join('')}</div>
-  ${body}`;
-}
-
 /* ---------- 我的清单 ---------- */
 function viewMyList() {
   const validOwners = new Set(state.items.map(i => i.id));
@@ -800,7 +681,7 @@ function viewMyList() {
       <span style="font-size:12px;color:var(--text3)">${issueCount(f)} 期 · ${pct}%</span>
       <div class="pbar" style="max-width:200px"><i style="width:${pct}%"></i></div>
       <button class="favbtn" data-action="remove-fav" data-id="${esc(f.id)}">✕</button></div>`;
-  }).join('')}</div>` : `<p style="color:var(--text3)">还没有收藏，去事件库点击 ☆ 收藏感兴趣的事件。</p>`;
+  }).join('')}</div>` : `<p style="color:var(--text3)">还没有收藏，去时间线点击 ☆ 收藏感兴趣的事件。</p>`;
 
   const buildItems = [...state.build].map(itemById).filter(Boolean);
   let buildHtml = '';
@@ -829,7 +710,7 @@ function viewMyList() {
   <div class="sec"><h3>收藏</h3>${favHtml}</div>
   <div class="sec"><h3>自定义阅读清单</h3>
     <div class="about-card" style="margin-bottom:12px">
-      <p>方法：在「事件库 / 时间线」筛选出感兴趣的事件（人物、时代、类型…），点事件卡片右上角 ☆ 收藏，或点详情页「＋ 加入我的清单」；也可以直接点下方按钮把<b>当前筛选结果</b>全部加入。清单按封面日期合并排序，可导出。</p>
+      <p>方法：在「时间线」筛选出感兴趣的事件（人物、时代、类型…），点事件卡片右上角 ☆ 收藏，或点详情页「＋ 加入我的清单」；也可以直接点下方按钮把<b>当前筛选结果</b>全部加入。清单按封面日期合并排序，可导出。</p>
     </div>
     <div class="build-tools">
       <button class="btn primary" data-action="add-build" data-id="__filtered__">＋ 加入当前筛选结果（${filteredItems(null).length} 项）</button>
@@ -841,41 +722,30 @@ function viewMyList() {
 
 /* ---------- 关于 ---------- */
 function viewAbout() {
+  const d = state.data;
+  const validOwners = new Set(state.items.map(i => i.id));
+  const totalIssues = d.events.reduce((s, e) => s + issueCount(e), 0) +
+                      d.arcs.reduce((s, a) => s + issueCount(a), 0) +
+                      d.standalone.length;
+  const checkable = state.items.reduce((s, i) => s + issueCount(i), 0);
+  let read = 0;
+  for (const k of state.read) if (validOwners.has(k.split('|')[0])) read++;
+  const pctAll = checkable ? Math.round(read / checkable * 100) : 0;
   return `
-  <div class="hero" style="padding-top:10px"><h2 style="font-size:22px">关于本指南</h2></div>
-  <div class="about-card"><h3>为什么需要它</h3>
-    <p>DC 的蝙蝠家族故事经常「一个单元故事，横跨多本刊物」：同一段剧情会在 <b>Detective Comics、Batman、Robin、Nightwing、Batman: Shadow of the Bat、Titans、Young Justice</b> 之间来回切换；加上 P52（后危机）、New 52（新52）、Rebirth（重生）、平行地球（Earth-2、Earth-3…）等连续性设定，单独追某一本刊很容易漏掉剧情。</p>
-    <p>本指南把跨刊的大事件（如 Batman: Legacy、No Man's Land）整理成<b>按连载月份交错排列的阅读顺序</b>，并列出当期标题；小单元剧情若标题连续（Part One/Two…）也会被<b>自动合并</b>成单元事件。</p>
+  <div class="hero">
+    <h2>蝙蝠家族 <span class="zh">跨刊事件阅读指南</span></h2>
+    <p class="subtitle">以蝙蝠侠 / 夜翼 / 红头罩 / 罗宾 / 红罗宾为核心 · 覆盖后危机时代至今（P52 → New 52 → Rebirth → 黎明 → 绝对宇宙）</p>
+    <div class="stat-row">
+      <div class="stat"><div class="num">${d.events.length}</div><div class="lbl">大事件 / 弧线</div></div>
+      <div class="stat"><div class="num">${d.arcs.length}</div><div class="lbl">策划单元弧线</div></div>
+      <div class="stat"><div class="num">${state.groups.length}</div><div class="lbl">自动合并连续篇</div></div>
+      <div class="stat"><div class="num">${totalIssues}</div><div class="lbl">收录期数</div></div>
+      <div class="stat"><div class="num" style="color:var(--ok)">${pctAll}%</div><div class="lbl">阅读进度</div></div>
+    </div>
   </div>
-  <div class="about-card"><h3>人物 / 称号时期</h3>
-    <p>同一个人物在不同时期使用不同称号，本指南以「人物（person）→ 称号时期（persona）」两级区分，筛选与进度统计都支持下钻：</p>
-    <ul>
-      <li>蒂姆·德雷克：<b>罗宾</b>（1989–2009）→ <b>红罗宾</b>（2009–）</li>
-      <li>斯蒂芬妮·布朗：<b>搅局者</b>（1992–2009）→ <b>罗宾</b>（2004–05，War Games）→ <b>蝙蝠女</b>（2009–2011）</li>
-      <li>芭芭拉·戈登：<b>蝙蝠女</b>（新52/重生 2011–2020）→ <b>神谕</b>（1989–2011）</li>
-      <li>卡珊德拉·该隐：<b>蝙蝠女</b>（2000–2006 / Batgirls 2021–）</li>
-      <li>杰森·托德：罗宾二世 → <b>红头罩</b>（2005–）；迪克·格雷森：罗宾一世 → <b>夜翼</b></li>
-    </ul>
-    <p>通用标签 <code>batgirl</code> 在数据合并时按刊物/封面日期自动拆分为对应人物；斯蒂芬妮的「搅局者」时期标签尚待补充。</p>
-  </div>
-  <div class="about-card"><h3>数据模型</h3>
-    <ul>
-      <li><b>continuities（时代/连续性）</b>：P52 后危机 1986–2011 / New52 2011–2016 / Rebirth 2016–2021 / Frontier 2021–2024 / Absolute 2024–</li>
-      <li><b>earths（地球）</b>：new-earth、earth-0、earth-2、earth-3、flashpoint-earth、absolute-earth</li>
-      <li><b>persons / characters（人物 / 称号）</b>：一个 person 可有多个 persona，每个 persona 带起止时期</li>
-      <li><b>events（大事件）</b>：含 phases 分组与跨刊期列表，期字段 <code>s</code>(系列) <code>n</code>(期号) <code>t</code>(标题) <code>d</code>(封面日期) <code>p</code>(Part) <code>c</code>(人物) <code>x</code>(备注)</li>
-      <li><b>arcs（策划弧线）</b>：大事件之外的小单元；<b>standalone（散刊）</b>：带 Part 标题的零散期，由前端自动合并</li>
-    </ul>
-  </div>
-  <div class="about-card"><h3>数据与勘误</h3>
-    <p>日期统一使用<b>封面日期（cover date）</b>，即刊物封面标注的发行月份（通常比实际上架早约 2 个月），这是漫画收藏界的标准标注方式。</p>
-    <p>数据为社区整理，来源包括 Wikipedia（各事件条目与 "List of Batman comics"）、DC Fandom（dc.fandom.com）、Grand Comics Database 等；个别期号或日期可能仍有出入，欢迎修正。原始研究文件保留在 <code>data/research/</code>，运行 <code>node scripts/merge.js</code> 可重新合并校验。</p>
-  </div>
-  <div class="about-card"><h3>使用</h3>
-    <ul>
-      <li>顶部筛选条：时代 / 人物·称号 / 类型 / 地球 / 刊物 / 月份 / 仅大事件</li>
-      <li>事件详情页：跨刊阅读顺序表、按人物或刊物过滤、仅未读、按刊分组、导出 TXT/CSV</li>
-    </ul>
+  <div class="about-card">
+    <p>DC 的蝙蝠家族故事经常「一个单元故事，横跨多本刊物」：同一段剧情会在 <b>Detective Comics、Batman、Robin、Nightwing</b> 等刊之间来回切换；加上 P52、New 52、Rebirth 等连续性设定，单独追某一本刊很容易漏掉剧情。</p>
+    <p>本指南把跨刊大事件整理成<b>按连载月份交错排列的阅读顺序</b>，并列出当期标题；标题连续（Part One/Two…）的散刊也会被<b>自动合并</b>成单元事件。在时间线点击任意节点即可查看阅读顺序，勾选期刊可记录进度（保存在本机）。</p>
   </div>`;
 }
 

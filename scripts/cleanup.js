@@ -10,8 +10,8 @@ const arcsPath = path.join(ROOT, 'data', 'arcs.json');
 let events = JSON.parse(fs.readFileSync(eventsPath, 'utf8'));
 const arcsData = JSON.parse(fs.readFileSync(arcsPath, 'utf8'));
 
-// 1) 删除冗余的合并事件（已由更详细的独立事件覆盖）
-const REMOVE = new Set(['bruce-wayne-murderer-fugitive']);
+// 1) 删除已被三阶段规范阅读顺序取代的旧版条目
+const REMOVE = new Set(['murderer', 'fugitive', 'bruce-wayne-murderer-fugitive']);
 events = events.filter(e => !REMOVE.has(e.id));
 
 // 2) 事件/弧线内按 (s,n) 去重，保留首个

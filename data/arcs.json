@@ -10375,6 +10375,60 @@
    ]
   },
   {
+   "s": "detective",
+   "n": "768",
+   "t": "Purity, Part 1 of 3",
+   "d": "2002-05",
+   "p": null,
+   "c": [
+    "batman",
+    "alfred"
+   ]
+  },
+  {
+   "s": "nightwing-v2",
+   "n": "67",
+   "t": "Madhouse!",
+   "d": "2002-05",
+   "p": null,
+   "c": [
+    "nightwing"
+   ]
+  },
+  {
+   "s": "robin-v2",
+   "n": "100",
+   "t": "The Price of Justice",
+   "d": "2002-05",
+   "p": null,
+   "c": [
+    "alfred",
+    "batman",
+    "spoiler"
+   ]
+  },
+  {
+   "s": "batman",
+   "n": "602",
+   "t": "Turning the Town Red, Part Two of Two",
+   "d": "2002-06",
+   "p": null,
+   "c": [
+    "batman"
+   ]
+  },
+  {
+   "s": "robin-v2",
+   "n": "101",
+   "t": "World Without Young Justice, Part Three: Redone by the Vandal(s) of Time",
+   "d": "2002-06",
+   "p": null,
+   "c": [
+    "batman",
+    "spoiler"
+   ]
+  },
+  {
    "s": "robin-v2",
    "n": "102",
    "t": "Stage Presence",
@@ -10382,6 +10436,17 @@
    "p": null,
    "c": [
     "spoiler"
+   ]
+  },
+  {
+   "s": "batman",
+   "n": "604",
+   "t": "Reasons",
+   "d": "2002-08",
+   "p": null,
+   "c": [
+    "batman",
+    "catwoman"
    ]
   },
   {

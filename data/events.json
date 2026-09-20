@@ -4110,60 +4110,46 @@
   ]
  },
  {
-  "id": "murderer",
-  "name": "Bruce Wayne: Murderer?",
-  "nameZh": "布鲁斯·韦恩：凶手？",
+  "id": "bruce-wayne-fugitive",
+  "name": "Bruce Wayne: Fugitive",
+  "nameZh": "布鲁斯·韦恩：逃犯",
   "kind": "event",
   "type": "crossover",
   "phases": [
    {
     "name": "Bruce Wayne: Murderer?",
-    "nameZh": "布鲁斯·韦恩：凶手？",
+    "nameZh": "布鲁斯·韦恩：杀人犯？",
     "issues": [
      {
-      "s": "batman",
-      "n": "599",
-      "t": "From the Inside-Out",
+      "s": "Batman: The 10-Cent Adventure",
+      "n": "1",
+      "t": "The Fool's Errand",
       "d": "2002-03",
       "p": null,
       "c": [
-       "batman",
-       "alfred",
-       "gordon"
+       "batman"
       ],
-      "x": "Murderer? 第一章"
-     },
-     {
-      "s": "birds-of-prey",
-      "n": "39",
-      "t": null,
-      "d": "2002-03",
-      "p": null,
-      "c": [
-       "oracle",
-       "nightwing"
-      ]
+      "x": "Part 0"
      },
      {
       "s": "detective",
       "n": "766",
       "t": "Procedure",
       "d": "2002-03",
-      "p": null,
+      "p": 1,
       "c": [
        "batman",
        "gordon"
       ]
      },
      {
-      "s": "gotham-knights",
-      "n": "25",
-      "t": "No Exit",
+      "s": "batgirl-v1",
+      "n": "24",
+      "t": null,
       "d": "2002-03",
-      "p": null,
+      "p": 2,
       "c": [
-       "batman",
-       "gordon"
+       "batgirl-cassandra"
       ]
      },
      {
@@ -4171,10 +4157,32 @@
       "n": "65",
       "t": "Bustout!",
       "d": "2002-03",
-      "p": null,
+      "p": 3,
       "c": [
        "nightwing",
        "oracle"
+      ]
+     },
+     {
+      "s": "gotham-knights",
+      "n": "25",
+      "t": null,
+      "d": "2002-03",
+      "p": 4,
+      "c": [
+       "batman",
+       "gordon"
+      ]
+     },
+     {
+      "s": "birds-of-prey",
+      "n": "39",
+      "t": null,
+      "d": "2002-03",
+      "p": 5,
+      "c": [
+       "oracle",
+       "nightwing"
       ]
      },
      {
@@ -4182,7 +4190,7 @@
       "n": "98",
       "t": "The Thin Line",
       "d": "2002-03",
-      "p": null,
+      "p": 6,
       "c": [
        "robin-tim",
        "batman",
@@ -4192,28 +4200,14 @@
      },
      {
       "s": "batman",
-      "n": "600",
-      "t": "The Scene of the Crime",
-      "d": "2002-04",
-      "p": null,
+      "n": "599",
+      "t": "From the Inside-Out",
+      "d": "2002-03",
+      "p": 7,
       "c": [
        "batman",
-       "gordon",
        "alfred",
-       "nightwing",
-       "oracle"
-      ],
-      "x": "600 期纪念号"
-     },
-     {
-      "s": "birds-of-prey",
-      "n": "40",
-      "t": null,
-      "d": "2002-04",
-      "p": null,
-      "c": [
-       "oracle",
-       "nightwing"
+       "gordon"
       ]
      },
      {
@@ -4221,20 +4215,9 @@
       "n": "767",
       "t": "Timeless",
       "d": "2002-04",
-      "p": null,
+      "p": 8,
       "c": [
        "batman"
-      ]
-     },
-     {
-      "s": "gotham-knights",
-      "n": "26",
-      "t": null,
-      "d": "2002-04",
-      "p": null,
-      "c": [
-       "batman",
-       "gordon"
       ]
      },
      {
@@ -4242,10 +4225,21 @@
       "n": "66",
       "t": "The Unusual Suspects",
       "d": "2002-04",
-      "p": null,
+      "p": 9,
       "c": [
        "nightwing",
        "oracle"
+      ]
+     },
+     {
+      "s": "gotham-knights",
+      "n": "26",
+      "t": null,
+      "d": "2002-04",
+      "p": 10,
+      "c": [
+       "batman",
+       "gordon"
       ]
      },
      {
@@ -4253,7 +4247,7 @@
       "n": "99",
       "t": "Where the Road Ends",
       "d": "2002-04",
-      "p": null,
+      "p": 11,
       "c": [
        "robin-tim",
        "oracle",
@@ -4262,15 +4256,35 @@
       ]
      },
      {
+      "s": "birds-of-prey",
+      "n": "40",
+      "t": null,
+      "d": "2002-04",
+      "p": 12,
+      "c": [
+       "oracle",
+       "nightwing"
+      ]
+     }
+    ],
+    "ordered": true
+   },
+   {
+    "name": "Bruce Wayne: Fugitive",
+    "nameZh": "布鲁斯·韦恩：逃犯",
+    "issues": [
+     {
       "s": "batman",
-      "n": "601",
-      "t": "Turning the Town Red, Part 1",
-      "d": "2002-05",
-      "p": 1,
+      "n": "600",
+      "t": "The Scene of the Crime",
+      "d": "2002-04",
+      "p": 13,
       "c": [
        "batman",
        "gordon",
-       "alfred"
+       "alfred",
+       "nightwing",
+       "oracle"
       ]
      },
      {
@@ -4278,20 +4292,9 @@
       "n": "41",
       "t": null,
       "d": "2002-05",
-      "p": null,
+      "p": 14,
       "c": [
        "oracle"
-      ]
-     },
-     {
-      "s": "detective",
-      "n": "768",
-      "t": "Purity, Part 1 of 3",
-      "d": "2002-05",
-      "p": null,
-      "c": [
-       "batman",
-       "alfred"
       ]
      },
      {
@@ -4299,30 +4302,21 @@
       "n": "27",
       "t": null,
       "d": "2002-05",
-      "p": null,
+      "p": 15,
       "c": [
        "batman"
       ]
      },
      {
-      "s": "nightwing-v2",
-      "n": "67",
-      "t": "Madhouse!",
-      "d": "2002-05",
-      "p": null,
-      "c": [
-       "nightwing"
-      ]
-     },
-     {
       "s": "batman",
-      "n": "602",
-      "t": "Turning the Town Red, Part 2",
-      "d": "2002-06",
-      "p": 2,
+      "n": "601",
+      "t": "Turning the Town Red, Part One of Two",
+      "d": "2002-05",
+      "p": 16,
       "c": [
        "batman",
-       "gordon"
+       "gordon",
+       "alfred"
       ]
      },
      {
@@ -4330,9 +4324,31 @@
       "n": "769",
       "t": "Purity, Part 2 of 3",
       "d": "2002-06",
-      "p": null,
+      "p": 17,
       "c": [
        "batman",
+       "alfred"
+      ]
+     },
+     {
+      "s": "batgirl-v1",
+      "n": "27",
+      "t": null,
+      "d": "2002-06",
+      "p": 18,
+      "c": [
+       "batgirl-cassandra"
+      ]
+     },
+     {
+      "s": "nightwing-v2",
+      "n": "68",
+      "t": "Time & Motion",
+      "d": "2002-06",
+      "p": 19,
+      "c": [
+       "nightwing",
+       "oracle",
        "alfred"
       ]
      },
@@ -4341,114 +4357,10 @@
       "n": "28",
       "t": null,
       "d": "2002-06",
-      "p": null,
+      "p": 20,
       "c": [
        "batman",
        "gordon"
-      ]
-     },
-     {
-      "s": "azrael",
-      "n": "91",
-      "t": null,
-      "d": "2002-08",
-      "p": null,
-      "c": [
-       "azrael"
-      ],
-      "x": "额外章节，封面日期晚于核心刊（2002-08）"
-     }
-    ]
-   }
-  ],
-  "start": "2002-03",
-  "end": "2002-08",
-  "era": "P52",
-  "earth": "new-earth",
-  "summaryZh": "韦斯珀·费尔柴尔德（Vesper Fairchild）被发现死于韦恩庄园，布鲁斯·韦恩成为头号谋杀嫌疑人。蝙蝠家族各成员分头调查，蝙蝠侠在被监禁期间策划脱逃，最终证明自己被诬陷，故事随即导向「逃犯」。",
-  "characters": [
-   "batman",
-   "alfred",
-   "gordon",
-   "oracle",
-   "nightwing",
-   "robin-tim",
-   "batgirl-cassandra",
-   "catwoman",
-   "azrael"
-  ],
-  "related": []
- },
- {
-  "id": "fugitive",
-  "name": "Bruce Wayne: Fugitive",
-  "nameZh": "布鲁斯·韦恩：逃犯",
-  "kind": "event",
-  "type": "crossover",
-  "phases": [
-   {
-    "name": "Bruce Wayne: Fugitive",
-    "nameZh": "布鲁斯·韦恩：逃犯",
-    "issues": [
-     {
-      "s": "robin-v2",
-      "n": "100",
-      "t": "The Price of Justice",
-      "d": "2002-05",
-      "p": null,
-      "c": [
-       "robin-tim",
-       "batman",
-       "alfred",
-       "spoiler"
-      ],
-      "x": "100 期纪念号；Fugitive 章节，封面日期早于核心刊"
-     },
-     {
-      "s": "nightwing-v2",
-      "n": "68",
-      "t": "Time & Motion",
-      "d": "2002-06",
-      "p": null,
-      "c": [
-       "nightwing",
-       "oracle",
-       "alfred"
-      ]
-     },
-     {
-      "s": "robin-v2",
-      "n": "101",
-      "t": "World Without Young Justice, Part Three: Redone by the Vandal(s) of Time",
-      "d": "2002-06",
-      "p": null,
-      "c": [
-       "robin-tim",
-       "batman",
-       "spoiler"
-      ]
-     },
-     {
-      "s": "batman",
-      "n": "603",
-      "t": "The Turning Point",
-      "d": "2002-07",
-      "p": 1,
-      "c": [
-       "batman",
-       "catwoman"
-      ],
-      "x": "Fugitive 第一章"
-     },
-     {
-      "s": "birds-of-prey",
-      "n": "43",
-      "t": null,
-      "d": "2002-07",
-      "p": null,
-      "c": [
-       "oracle",
-       "nightwing"
       ]
      },
      {
@@ -4456,20 +4368,9 @@
       "n": "770",
       "t": "Purity, Part 3 of 3",
       "d": "2002-07",
-      "p": null,
+      "p": 21,
       "c": [
        "batman"
-      ]
-     },
-     {
-      "s": "gotham-knights",
-      "n": "29",
-      "t": null,
-      "d": "2002-07",
-      "p": null,
-      "c": [
-       "batman",
-       "gordon"
       ]
      },
      {
@@ -4477,31 +4378,32 @@
       "n": "69",
       "t": "Ins & Outs",
       "d": "2002-07",
-      "p": null,
+      "p": 22,
       "c": [
        "nightwing",
        "alfred"
       ]
      },
      {
-      "s": "batman",
-      "n": "604",
-      "t": "Reasons",
-      "d": "2002-08",
-      "p": null,
+      "s": "birds-of-prey",
+      "n": "43",
+      "t": null,
+      "d": "2002-07",
+      "p": 23,
       "c": [
-       "batman",
-       "catwoman"
+       "oracle",
+       "nightwing"
       ]
      },
      {
-      "s": "birds-of-prey",
-      "n": "44",
-      "t": null,
-      "d": "2002-08",
-      "p": null,
+      "s": "batman",
+      "n": "603",
+      "t": "The Turning Point",
+      "d": "2002-07",
+      "p": 24,
       "c": [
-       "oracle"
+       "batman",
+       "catwoman"
       ]
      },
      {
@@ -4509,10 +4411,20 @@
       "n": "771",
       "t": "Access",
       "d": "2002-08",
-      "p": null,
+      "p": 25,
       "c": [
        "batman",
        "alfred"
+      ]
+     },
+     {
+      "s": "batgirl-v1",
+      "n": "29",
+      "t": null,
+      "d": "2002-08",
+      "p": 26,
+      "c": [
+       "batgirl-cassandra"
       ]
      },
      {
@@ -4520,33 +4432,19 @@
       "n": "30",
       "t": null,
       "d": "2002-08",
-      "p": null,
+      "p": 27,
       "c": [
        "batman"
       ]
      },
      {
-      "s": "batman",
-      "n": "605",
-      "t": "Courage",
-      "d": "2002-09",
-      "p": null,
-      "c": [
-       "batman",
-       "nightwing",
-       "oracle",
-       "alfred"
-      ]
-     },
-     {
-      "s": "birds-of-prey",
-      "n": "45",
+      "s": "azrael",
+      "n": "91",
       "t": null,
-      "d": "2002-09",
-      "p": null,
+      "d": "2002-08",
+      "p": 28,
       "c": [
-       "oracle",
-       "nightwing"
+       "azrael"
       ]
      },
      {
@@ -4554,7 +4452,7 @@
       "n": "772",
       "t": "Principle",
       "d": "2002-09",
-      "p": null,
+      "p": 29,
       "c": [
        "batman",
        "alfred"
@@ -4565,63 +4463,40 @@
       "n": "31",
       "t": null,
       "d": "2002-09",
-      "p": null,
+      "p": 30,
       "c": [
        "batman"
       ]
      },
      {
       "s": "batman",
-      "n": "606",
-      "t": "Death-Wish for Two",
-      "d": "2002-10",
-      "p": 1,
+      "n": "605",
+      "t": "Courage",
+      "d": "2002-09",
+      "p": 31,
       "c": [
        "batman",
+       "nightwing",
        "oracle",
        "alfred"
-      ],
-      "x": "Deadshot 双期故事"
-     },
-     {
-      "s": "birds-of-prey",
-      "n": "46",
-      "t": null,
-      "d": "2002-10",
-      "p": null,
-      "c": [
-       "oracle"
       ]
-     },
+     }
+    ],
+    "ordered": true
+   },
+   {
+    "name": "Aftermath",
+    "nameZh": "余波",
+    "issues": [
      {
       "s": "detective",
       "n": "773",
       "t": "Atonement, Part 1",
       "d": "2002-10",
-      "p": null,
+      "p": 32,
       "c": [
        "batman",
        "alfred"
-      ]
-     },
-     {
-      "s": "gotham-knights",
-      "n": "32",
-      "t": null,
-      "d": "2002-10",
-      "p": null,
-      "c": [
-       "batman"
-      ]
-     },
-     {
-      "s": "batman",
-      "n": "607",
-      "t": "Death-Wish for Two Conclusion: Deadshot Shot Dead!",
-      "d": "2002-11",
-      "p": 2,
-      "c": [
-       "batman"
       ]
      },
      {
@@ -4629,7 +4504,7 @@
       "n": "774",
       "t": "Atonement, Part 2",
       "d": "2002-11",
-      "p": null,
+      "p": 33,
       "c": [
        "batman",
        "alfred"
@@ -4640,21 +4515,54 @@
       "n": "775",
       "t": "Atonement, Part Three",
       "d": "2002-12",
-      "p": null,
+      "p": 34,
       "c": [
        "batman",
-       "alfred",
-       "oracle"
+       "oracle",
+       "alfred"
+      ]
+     },
+     {
+      "s": "batman",
+      "n": "606",
+      "t": "Death-Wish for Two",
+      "d": "2002-10",
+      "p": 35,
+      "c": [
+       "batman",
+       "oracle",
+       "alfred"
+      ]
+     },
+     {
+      "s": "batman",
+      "n": "607",
+      "t": "Death-Wish for Two, Conclusion",
+      "d": "2002-11",
+      "p": 36,
+      "c": [
+       "batman"
+      ]
+     },
+     {
+      "s": "batgirl-v1",
+      "n": "33",
+      "t": null,
+      "d": "2002-12",
+      "p": 37,
+      "c": [
+       "batgirl-cassandra"
       ]
      }
-    ]
+    ],
+    "ordered": true
    }
   ],
-  "start": "2002-05",
+  "start": "2002-03",
   "end": "2002-12",
   "era": "P52",
   "earth": "new-earth",
-  "summaryZh": "韦恩洗脱谋杀罪名后以「逃犯」身份自我放逐、周游世界，蝙蝠家族成员追查其下落并劝其归来。最终韦恩在戈登与家族成员的协助下回归哥谭，直面自己的双重身份。",
+  "summaryZh": "韦斯珀·费尔柴尔德在韦恩庄园遇害后，布鲁斯·韦恩被控谋杀并越狱潜逃。蝙蝠家族一面追查真凶，一面试图阻止布鲁斯彻底舍弃自己的平民身份；事件分为「杀人犯？」、「逃犯」与「余波」三个阶段。",
   "characters": [
    "batman",
    "alfred",
@@ -4663,10 +4571,7 @@
    "nightwing",
    "robin-tim",
    "batgirl-cassandra",
-   "catwoman"
-  ],
-  "related": [
-   "murderer"
+   "azrael"
   ]
  },
  {
